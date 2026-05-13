@@ -1,0 +1,157 @@
+2026-05-12 16:33:28 | INFO | src.config | run=875694e2 | Logging configured | level=INFO file=logs\ma_rag_20260512_163328.log run_id=875694e2
+2026-05-12 16:33:28 | INFO | __main__ | run=875694e2 | Starting evaluation script...
+2026-05-12 16:33:28 | INFO | __main__ | run=875694e2 | Initializing evaluation components...
+2026-05-12 16:33:28 | INFO | __main__ | run=875694e2 | MaRagAdapter initialized.
+2026-05-12 16:33:28 | INFO | src.evaluation.evaluator | run=875694e2 | PubMedQA Evaluator initialized
+2026-05-12 16:33:28 | INFO | __main__ | run=875694e2 | PubMedQAEvaluator initialized.
+2026-05-12 16:33:28 | INFO | __main__ | run=875694e2 | Evaluation started with limit: 1
+2026-05-12 16:33:28 | INFO | src.evaluation.evaluator | run=875694e2 | Starting evaluation
+2026-05-12 16:33:28 | INFO | src.evaluation.evaluator | run=875694e2 | Progress: 0/1
+2026-05-12 16:33:28 | INFO | src.evaluation.adapter | run=875694e2 | QOR parsing successful. Separated vignette and options.
+2026-05-12 16:33:54 | INFO | numexpr.utils | run=875694e2 | NumExpr defaulting to 12 threads.
+2026-05-12 16:33:58 | INFO | src.core.registry | run=875694e2 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-12 16:34:02 | INFO | src.core.registry | run=875694e2 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-12 16:34:02 | INFO | src.pubmed_client | run=875694e2 | PubMed client initialized (Async)
+2026-05-12 16:34:04 | INFO | src.pubmed_client | run=875694e2 | eSearch: "Vietnam" AND "Cambodia" AND ("fever" OR "malaise" OR "headache") AND ("arthralgia" OR "joint pain") AND ("rash" OR "maculopapular") AND ("leukopenia" OR "thrombocytopenia")
+2026-05-12 16:34:04 | INFO | src.pubmed_client | run=875694e2 | eSearch: "Epstein-Barr virus" AND ("fever" OR "malaise" OR "headache") AND ("arthralgia" OR "joint pain") AND ("rash" OR "maculopapular") AND ("leukopenia" OR "thrombocytopenia") NOT ("Vietnam" OR "Cambodia")
+2026-05-12 16:34:04 | INFO | src.pubmed_client | run=875694e2 | eSearch: "Dengue fever" AND ("hemorrhagic fever" OR "shock syndrome" OR "bleeding")
+2026-05-12 16:34:04 | INFO | src.pubmed_client | run=875694e2 | eSearch: "Chikungunya" AND ("no symptoms" OR "asymptomatic" OR "mild symptoms") AND ("Vietnam" OR "Cambodia")
+2026-05-12 16:34:04 | INFO | src.pubmed_client | run=875694e2 | eSearch complete
+2026-05-12 16:34:04 | INFO | src.pubmed_client | run=875694e2 | eSearch complete
+2026-05-12 16:34:04 | INFO | src.pubmed_client | run=875694e2 | eFetch
+2026-05-12 16:34:05 | INFO | src.pubmed_client | run=875694e2 | eSearch complete
+2026-05-12 16:34:05 | INFO | src.pubmed_client | run=875694e2 | eFetch
+2026-05-12 16:34:05 | INFO | src.pubmed_client | run=875694e2 | eSearch complete
+2026-05-12 16:34:05 | INFO | src.pubmed_client | run=875694e2 | eFetch
+2026-05-12 16:34:06 | INFO | src.pubmed_client | run=875694e2 | eFetch complete
+2026-05-12 16:34:06 | INFO | src.pubmed_client | run=875694e2 | eFetch complete
+2026-05-12 16:34:07 | INFO | src.pubmed_client | run=875694e2 | eFetch complete
+2026-05-12 16:34:07 | INFO | src.core.registry | run=875694e2 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-12 16:34:07 | INFO | src.core.registry | run=875694e2 | Embedding device selected | device=cpu cuda_available=False
+2026-05-12 16:34:21 | WARNING | tensorflow | run=875694e2 | From D:\dialetic_rag\env\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2026-05-12 16:34:21 | INFO | src.core.registry | run=875694e2 | Embedding model selected | backend=sentence-transformers model=all-MiniLM-L6-v2 device=cpu
+2026-05-12 16:34:21 | INFO | sentence_transformers.SentenceTransformer | run=875694e2 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-12 16:34:26 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Scored PMID 39381601: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.12, Apps=0.57
+2026-05-12 16:34:27 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Scored PMID 18288627: Design=StudyDesign.OTHER, N=1, P-val=False, RPS=0.14, Apps=0.57
+2026-05-12 16:34:28 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Scored PMID 32265181: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.34, Apps=0.57
+2026-05-12 16:34:30 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Scored PMID 37595484: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.34, Apps=0.57
+2026-05-12 16:34:30 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Scored PMID 38017595: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.34, Apps=0.57
+2026-05-12 16:34:31 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Scored PMID 27525287: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.12, Apps=0.57
+2026-05-12 16:34:32 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Scored PMID 38649998: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.34, Apps=0.57
+2026-05-12 16:34:33 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Scored PMID 40259363: Design=StudyDesign.OTHER, N=318, P-val=False, RPS=0.28, Apps=0.57
+2026-05-12 16:34:34 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Scored PMID 33026130: Design=StudyDesign.OTHER, N=9000, P-val=False, RPS=0.37, Apps=0.57
+2026-05-12 16:34:36 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Scored PMID 25210729: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.12, Apps=0.57
+2026-05-12 16:34:36 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Dropped PMID 39381601: RPS 0.12 < 0.3
+2026-05-12 16:34:36 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Dropped PMID 18288627: RPS 0.14 < 0.3
+2026-05-12 16:34:36 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Dropped PMID 27525287: RPS 0.12 < 0.3
+2026-05-12 16:34:36 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Dropped PMID 40259363: RPS 0.28 < 0.3
+2026-05-12 16:34:36 | INFO | src.nodes.epistemic_scoring | run=875694e2 | Dropped PMID 25210729: RPS 0.12 < 0.3
+2026-05-12 16:34:36 | INFO | src.core.registry | run=875694e2 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-12 16:34:36 | INFO | src.core.registry | run=875694e2 | Cross-encoder selected | backend=sentence-transformers model=cross-encoder/nli-deberta-v3-base device=cpu
+2026-05-12 16:34:38 | INFO | src.core.registry | run=875694e2 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-12 16:34:43 | INFO | src.nodes.claim_clustering | run=875694e2 | Using hypothesis for NLI: The clinical question asks for the most likely diagnosis given the patient's presentation. To convert this into a declarative assertion, we need to state the patient's condition and the diagnostic question.
+
+Declarative Assertion: A 21-year-old male with recent travel to Vietnam and Cambodia, presenting with fatigue, headache, malaise, arthralgia, fever, leukopenia, thrombocytopenia, elevated AST/ALT, and a maculopapular rash, is being evaluated for the most likely diagnosis among Chikungunya, Dengue fever, Epstein-Barr virus, and Hepatitis A.
+
+Now, let's analyze the evidence to determine the most likely diagnosis.
+
+**Patient Presentation:**
+*   **Demographics:** 21-year-old male.
+*   **Recent Travel:** 2-week vacation to Vietnam and Cambodia (Southeast Asia).
+*   **Symptoms:**
+    *   Fatigue (onset after graduation, worsening after travel).
+    *   Worsening headache (2 days).
+    *   Malaise (2 days).
+    *   Pain in hands and wrists (arthralgia) (2 days).
+    *   Fever: 102.5°F (39.2°C).
+*   **Past Medical History:** Asthma (albuterol PRN).
+*   **Sexual History:** Sexually active with men and women, condom use "most of the time."
+*   **Physical Exam:**
+    *   Fever: 102.5°F (39.2°C).
+    *   BP: 112/66 mmHg.
+    *   Pulse: 105/min.
+    *   Respirations: 12/min.
+    *   O2 Sat: 98% on room air.
+    *   Tenderness over bilateral metacarpophalangeal joints (arthralgia).
+    *   Maculopapular rash on trunk and upper thighs.
+    *   Tourniquet test: Negative.
+*   **Laboratory Results:**
+    *   Hemoglobin: 14 g/dL (Normal).
+    *   Hematocrit: 44% (Normal).
+    *   Leukocyte count: 3,200/mm^3 (Leukopenia).
+    *   Platelet count: 112,000/mm^3 (Thrombocytopenia).
+    *   AST: 106 U/L (Elevated).
+    *   ALT: 112 U/L (Elevated).
+    *   Other labs within normal limits.
+
+**Differential Diagnosis Analysis:**
+
+*   **A: Chikungunya:**
+    *   **Key Features:** Fever, severe joint pain (arthralgia), rash, headache, muscle pain, fatigue. Often affects small joints like hands and wrists. Leukopenia and thrombocytopenia can occur. Elevated liver enzymes are also possible.
+    *   **Fit with Patient:** High fever, severe arthralgia (hands and wrists), maculopapular rash, headache, malaise, leukopenia, thrombocytopenia, elevated liver enzymes, and recent travel to an endemic area (Southeast Asia) are all consistent with Chikungunya.
+
+*   **B: Dengue fever:**
+    *   **Key Features:** Fever, severe headache (often retro-orbital), muscle and joint pain, rash (maculopapular or petechial), nausea, vomiting. Leukopenia and thrombocytopenia are characteristic. A positive tourniquet test is often seen in Dengue, but a negative test does not rule it out. Elevated liver enzymes can occur.
+    *   **Fit with Patient:** Fever, headache, arthralgia, rash, leukopenia, thrombocytopenia, and elevated liver enzymes are consistent. However, the prominent and severe joint pain, particularly in the hands and wrists, is more characteristic of Chikungunya. The negative tourniquet test is less suggestive of Dengue, though not definitive.
+
+*   **C: Epstein-Barr virus (EBV):**
+    *   **Key Features:** Fever, sore throat, fatigue, swollen lymph nodes (lymphadenopathy), rash (often after amoxicillin). Leukopenia or leukocytosis can occur, and atypical lymphocytes are common. Thrombocytopenia is less common.
+    *   **Fit with Patient:** Fever, fatigue, and leukopenia are present. However, the absence of sore throat and lymphadenopathy, the prominent arthralgia, and the recent travel history make EBV less likely as the primary diagnosis. The rash in EBV is often more generalized and can be associated with antibiotic use.
+
+*   **D: Hepatitis A:**
+    *   **Key Features:** Fever, fatigue, nausea, vomiting, abdominal pain, jaundice, elevated liver enzymes. Arthralgia and rash are not typical features of Hepatitis A.
+    *   **Fit with Patient:** Elevated liver enzymes and fatigue are present. However, the prominent fever, severe arthralgia, maculopapular rash, leukopenia, and thrombocytopenia are not characteristic of Hepatitis A. While travel to endemic areas increases risk, the overall symptom complex points away from Hepatitis A.
+
+**Conclusion:**
+
+The patient's presentation, particularly the combination of fever, severe arthralgia (especially in the hands and wrists), maculopapular rash, leukopenia, thrombocytopenia, and elevated liver enzymes, in the context of recent travel to Southeast Asia, strongly suggests a viral illness endemic to that region. Both Chikungunya and Dengue fever are strong contenders. However, the severity and localization of the joint pain to the hands and wrists are more classic for Chikungunya. The negative tourniquet test also slightly favors Chikungunya over Dengue, although it's not a definitive differentiator. Given the options, Chikungunya aligns best with the constellation of symptoms.
+
+The final answer is $\boxed{A}$.
+2026-05-12 16:34:45 | INFO | src.nodes.claim_clustering | run=875694e2 | PMID 32265181 Stance: EvidenceStance.OPPOSE (Label=CONTRADICTION, Conf=0.99)
+2026-05-12 16:34:47 | INFO | src.nodes.claim_clustering | run=875694e2 | PMID 37595484 Stance: EvidenceStance.OPPOSE (Label=CONTRADICTION, Conf=1.00)
+2026-05-12 16:34:48 | INFO | src.nodes.claim_clustering | run=875694e2 | PMID 38017595 Stance: EvidenceStance.OPPOSE (Label=CONTRADICTION, Conf=1.00)
+2026-05-12 16:34:50 | INFO | src.nodes.claim_clustering | run=875694e2 | PMID 38649998 Stance: EvidenceStance.OPPOSE (Label=CONTRADICTION, Conf=0.96)
+2026-05-12 16:34:51 | INFO | src.nodes.claim_clustering | run=875694e2 | PMID 33026130 Stance: EvidenceStance.OPPOSE (Label=CONTRADICTION, Conf=0.99)
+2026-05-12 16:34:51 | INFO | src.core.registry | run=875694e2 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-12 16:34:52 | INFO | src.nodes.conflict_analysis | run=875694e2 | Conflict Analysis: State=EpistemicState.SETTLED, ShiftDetected=False
+2026-05-12 16:34:52 | INFO | src.nodes.uncertainty_propagation | run=875694e2 | Uncertainty Propagation Input: 5 items
+2026-05-12 16:34:52 | INFO | src.nodes.uncertainty_propagation | run=875694e2 | Fusing evidence pool: 5 items
+2026-05-12 16:34:52 | INFO | src.nodes.uncertainty_propagation | run=875694e2 | Item 32265181 Mass: True=0.000, False=0.175, U=0.825 (Stance=EvidenceStance.OPPOSE)
+2026-05-12 16:34:52 | INFO | src.nodes.uncertainty_propagation | run=875694e2 | Item 37595484 Mass: True=0.000, False=0.175, U=0.825 (Stance=EvidenceStance.OPPOSE)
+2026-05-12 16:34:52 | INFO | src.nodes.uncertainty_propagation | run=875694e2 | Item 38017595 Mass: True=0.000, False=0.175, U=0.825 (Stance=EvidenceStance.OPPOSE)
+2026-05-12 16:34:52 | INFO | src.nodes.uncertainty_propagation | run=875694e2 | Item 38649998 Mass: True=0.000, False=0.169, U=0.831 (Stance=EvidenceStance.OPPOSE)
+2026-05-12 16:34:52 | INFO | src.nodes.uncertainty_propagation | run=875694e2 | Item 33026130 Mass: True=0.000, False=0.188, U=0.812 (Stance=EvidenceStance.OPPOSE)
+2026-05-12 16:34:52 | INFO | src.core.registry | run=875694e2 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=False
+2026-05-12 16:34:56 | INFO | src.utils.trace_reporter | run=875694e2 | Trace saved to results/traces\trace_unknown_unknown.json
+2026-05-12 16:34:56 | WARNING | src.utils.trace_reporter | run=875694e2 | Cannot print summary: No trace events found in state
+2026-05-12 16:34:56 | WARNING | src.evaluation.evaluator | run=875694e2 | Could not extract answer from response
+2026-05-12 16:34:56 | INFO | src.evaluation.evaluator | run=875694e2 | Evaluated 0228
+2026-05-12 16:34:56 | INFO | src.evaluation.evaluator | run=875694e2 | Results saved to results\pubmedqa_eval_20260512_163328.json
+2026-05-12 16:34:56 | ERROR | src.evaluation.evaluator | run=875694e2 | Evaluation invariant failure(s): avg_eus_correct must be at least 0.05 lower than avg_eus_incorrect; abstention rate must be <= 0.20; at least 20% of questions must be SETTLED or EVOLVING
+2026-05-12 16:34:56 | INFO | src.evaluation.evaluator | run=875694e2 | Results saved to results\pubmedqa_eval_20260512_163328.json
+2026-05-12 16:34:56 | INFO | __main__ | run=875694e2 | Evaluation completed. Summary: ==================================================
+MIRAGE PubMedQA Evaluation Results
+==================================================
+Total Questions: 1
+Correct: 0
+Accuracy: 0.0%
+
+Predicted Answer Distribution:
+  unknown: 1 (100.0%)
+
+Ground Truth Distribution:
+  a: 1 (100.0%)
+
+Started: 2026-05-12T16:33:28.117497
+Ended: 2026-05-12T16:34:56.309043
+
+Calibration Metrics:
+  abstention_rate: 100.0
+  avg_eus_correct: None
+  avg_eus_incorrect: 0.3782
+  hedge_rate: 100.0
+  invariant_checks: {'avg_eus_gap': None, 'avg_eus_gap_ok': False, 'abstention_rate_ok': False, 'settled_or_evolving_rate': 0.0, 'settled_or_evolving_ok': False, 'dialectic_gate_trigger_rate': 0.0, 'dialectic_gate_trigger_rate_ok': True, 'broken_invariants': ['avg_eus_correct must be at least 0.05 lower than avg_eus_incorrect', 'abstention rate must be <= 0.20', 'at least 20% of questions must be SETTLED or EVOLVING']}
+  n_overconfident: 0
+  overconfidence_rate: 0.0
+==================================================

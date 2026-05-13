@@ -1,0 +1,42 @@
+2026-05-13 07:00:27 | INFO | src.config | run=9c5e0807 | Logging configured | level=INFO file=logs\ma_rag_20260513_070027.log run_id=9c5e0807
+2026-05-13 07:00:27 | INFO | __main__ | run=9c5e0807 | Initializing workflow for single-question test...
+2026-05-13 07:00:27 | INFO | __main__ | run=9c5e0807 | 
+================================================================================
+2026-05-13 07:00:27 | INFO | __main__ | run=9c5e0807 | Running single-question evaluation
+2026-05-13 07:00:27 | INFO | __main__ | run=9c5e0807 | Question: A 45-year-old man with acute dengue fever presents with fever, body aches, and headache. His lab wor...
+2026-05-13 07:00:27 | INFO | __main__ | run=9c5e0807 | ================================================================================
+
+2026-05-13 07:00:27 | INFO | __main__ | run=9c5e0807 | Invoking workflow with initial state...
+2026-05-13 07:00:27 | ERROR | __main__ | run=9c5e0807 | Error running single-question test: No module named 'langchain_google_vertexai'
+Traceback (most recent call last):
+  File "D:\dialetic_rag\test_single_question.py", line 76, in main
+    result = await workflow.ainvoke(initial_state)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mishr\AppData\Roaming\Python\Python311\site-packages\langgraph\pregel\main.py", line 3158, in ainvoke
+    async for chunk in self.astream(
+  File "C:\Users\mishr\AppData\Roaming\Python\Python311\site-packages\langgraph\pregel\main.py", line 2971, in astream
+    async for _ in runner.atick(
+  File "C:\Users\mishr\AppData\Roaming\Python\Python311\site-packages\langgraph\pregel\_runner.py", line 304, in atick
+    await arun_with_retry(
+  File "C:\Users\mishr\AppData\Roaming\Python\Python311\site-packages\langgraph\pregel\_retry.py", line 137, in arun_with_retry
+    return await task.proc.ainvoke(task.input, config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mishr\AppData\Roaming\Python\Python311\site-packages\langgraph\_internal\_runnable.py", line 705, in ainvoke
+    input = await asyncio.create_task(
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mishr\AppData\Roaming\Python\Python311\site-packages\langgraph\_internal\_runnable.py", line 473, in ainvoke
+    ret = await self.afunc(*args, **kwargs)
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dialetic_rag\src\nodes\pico_extraction.py", line 32, in pico_extraction_node
+    extractor = PICOExtractor()
+                ^^^^^^^^^^^^^^^
+  File "D:\dialetic_rag\src\retrieval\pico_extractor.py", line 28, in __init__
+    self.llm = ModelRegistry.get_flash_llm(temperature=0.0, json_mode=True)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dialetic_rag\src\core\registry.py", line 371, in get_flash_llm
+    return ModelRegistry.get_fast_llm(temperature, json_mode)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dialetic_rag\src\core\registry.py", line 318, in get_fast_llm
+    from langchain_google_vertexai import ChatVertexAI
+ModuleNotFoundError: No module named 'langchain_google_vertexai'
+During task with name 'extract_pico' and id '43fcab07-865d-0f60-fd9a-2c021d25bfa5'

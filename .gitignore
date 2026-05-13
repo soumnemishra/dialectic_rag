@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.pyc
+env/
+.env
+data/
+results/
+output.txt

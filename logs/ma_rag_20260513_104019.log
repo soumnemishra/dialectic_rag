@@ -1,0 +1,396 @@
+2026-05-13 10:40:19 | INFO | src.config | run=b6461577 | Logging configured | level=INFO file=logs\ma_rag_20260513_104019.log run_id=b6461577
+2026-05-13 10:40:19 | INFO | __main__ | run=b6461577 | Running question 0228; gold answer=A
+2026-05-13 10:41:22 | INFO | numexpr.utils | run=b6461577 | NumExpr defaulting to 12 threads.
+2026-05-13 10:41:32 | INFO | src.core.registry | run=b6461577 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-13 10:41:40 | ERROR | src.nodes.pico_extraction | run=b6461577 | PICO extraction node failed: 3 validation errors for PICO
+population
+  Field required [type=missing, input_value={'content': '```json\n{\n...ls': {'cache_read': 0}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+intervention
+  Field required [type=missing, input_value={'content': '```json\n{\n...ls': {'cache_read': 0}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+outcome
+  Field required [type=missing, input_value={'content': '```json\n{\n...ls': {'cache_read': 0}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-05-13 10:41:40 | INFO | src.core.registry | run=b6461577 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-13 10:41:40 | INFO | src.pubmed_client | run=b6461577 | PubMed client initialized (Async)
+2026-05-13 10:41:42 | INFO | src.pubmed_client | run=b6461577 | Starting search pipeline with query: "Chikungunya" AND (fever OR headache OR arthralgia OR rash OR leukopenia OR thrombocytopenia)
+2026-05-13 10:41:42 | INFO | src.pubmed_client | run=b6461577 | eSearch: "Chikungunya" AND (fever OR headache OR arthralgia OR rash OR leukopenia OR thrombocytopenia)
+2026-05-13 10:41:43 | INFO | src.pubmed_client | run=b6461577 | eSearch complete
+2026-05-13 10:41:43 | INFO | src.pubmed_client | run=b6461577 | eFetch
+2026-05-13 10:41:44 | INFO | src.pubmed_client | run=b6461577 | eFetch complete
+2026-05-13 10:41:44 | INFO | src.pubmed_client | run=b6461577 | Filtering complete
+2026-05-13 10:41:44 | INFO | src.pubmed_client | run=b6461577 | Validation complete
+2026-05-13 10:41:45 | INFO | src.pubmed_client | run=b6461577 | Search metadata completeness
+2026-05-13 10:41:45 | INFO | src.pubmed_client | run=b6461577 | Search pipeline complete
+2026-05-13 10:41:45 | INFO | src.pubmed_client | run=b6461577 | Starting search pipeline with query: "Chikungunya" AND (negative tourniquet test OR absence of severe joint swelling OR absence of hemorrhagic manifestations)
+2026-05-13 10:41:45 | INFO | src.pubmed_client | run=b6461577 | eSearch: "Chikungunya" AND (negative tourniquet test OR absence of severe joint swelling OR absence of hemorrhagic manifestations)
+2026-05-13 10:41:46 | INFO | src.pubmed_client | run=b6461577 | eSearch complete
+2026-05-13 10:41:46 | INFO | src.pubmed_client | run=b6461577 | eFetch
+2026-05-13 10:41:48 | INFO | src.pubmed_client | run=b6461577 | eFetch complete
+2026-05-13 10:41:48 | INFO | src.pubmed_client | run=b6461577 | Filtering complete
+2026-05-13 10:41:48 | INFO | src.pubmed_client | run=b6461577 | Validation complete
+2026-05-13 10:41:48 | INFO | src.pubmed_client | run=b6461577 | Search metadata completeness
+2026-05-13 10:41:48 | INFO | src.pubmed_client | run=b6461577 | Search pipeline complete
+2026-05-13 10:41:48 | INFO | src.pubmed_client | run=b6461577 | Starting search pipeline with query: "Dengue fever" AND (fever OR headache OR arthralgia OR rash OR leukopenia OR thrombocytopenia OR elevated AST OR elevated ALT)
+2026-05-13 10:41:48 | INFO | src.pubmed_client | run=b6461577 | eSearch: "Dengue fever" AND (fever OR headache OR arthralgia OR rash OR leukopenia OR thrombocytopenia OR elevated AST OR elevated ALT)
+2026-05-13 10:41:50 | INFO | src.pubmed_client | run=b6461577 | eSearch complete
+2026-05-13 10:41:50 | INFO | src.pubmed_client | run=b6461577 | eFetch
+2026-05-13 10:41:52 | INFO | src.pubmed_client | run=b6461577 | eFetch complete
+2026-05-13 10:41:52 | INFO | src.pubmed_client | run=b6461577 | Filtering complete
+2026-05-13 10:41:52 | INFO | src.pubmed_client | run=b6461577 | Validation complete
+2026-05-13 10:41:52 | INFO | src.pubmed_client | run=b6461577 | Search metadata completeness
+2026-05-13 10:41:52 | INFO | src.pubmed_client | run=b6461577 | Search pipeline complete
+2026-05-13 10:41:52 | INFO | src.pubmed_client | run=b6461577 | Starting search pipeline with query: "Dengue fever" AND (negative tourniquet test OR absence of retro-orbital pain OR absence of myalgia)
+2026-05-13 10:41:52 | INFO | src.pubmed_client | run=b6461577 | eSearch: "Dengue fever" AND (negative tourniquet test OR absence of retro-orbital pain OR absence of myalgia)
+2026-05-13 10:41:53 | INFO | src.pubmed_client | run=b6461577 | eSearch complete
+2026-05-13 10:41:53 | INFO | src.pubmed_client | run=b6461577 | eFetch
+2026-05-13 10:41:55 | INFO | src.pubmed_client | run=b6461577 | eFetch complete
+2026-05-13 10:41:55 | INFO | src.pubmed_client | run=b6461577 | Filtering complete
+2026-05-13 10:41:55 | INFO | src.pubmed_client | run=b6461577 | Validation complete
+2026-05-13 10:41:55 | INFO | src.pubmed_client | run=b6461577 | Search metadata completeness
+2026-05-13 10:41:55 | INFO | src.pubmed_client | run=b6461577 | Search pipeline complete
+2026-05-13 10:41:55 | INFO | src.pubmed_client | run=b6461577 | Starting search pipeline with query: "Epstein-Barr virus" AND (fatigue OR fever OR headache OR rash OR leukopenia)
+2026-05-13 10:41:55 | INFO | src.pubmed_client | run=b6461577 | eSearch: "Epstein-Barr virus" AND (fatigue OR fever OR headache OR rash OR leukopenia)
+2026-05-13 10:41:56 | INFO | src.pubmed_client | run=b6461577 | eSearch complete
+2026-05-13 10:41:56 | INFO | src.pubmed_client | run=b6461577 | eFetch
+2026-05-13 10:41:57 | INFO | src.pubmed_client | run=b6461577 | eFetch complete
+2026-05-13 10:41:57 | INFO | src.pubmed_client | run=b6461577 | Filtering complete
+2026-05-13 10:41:57 | INFO | src.pubmed_client | run=b6461577 | Validation complete
+2026-05-13 10:41:57 | INFO | src.pubmed_client | run=b6461577 | Search metadata completeness
+2026-05-13 10:41:57 | INFO | src.pubmed_client | run=b6461577 | Search pipeline complete
+2026-05-13 10:41:57 | INFO | src.pubmed_client | run=b6461577 | Starting search pipeline with query: "Epstein-Barr virus" AND (recent travel to Southeast Asia OR arthralgia OR thrombocytopenia OR elevated AST OR elevated ALT)
+2026-05-13 10:41:57 | INFO | src.pubmed_client | run=b6461577 | eSearch: "Epstein-Barr virus" AND (recent travel to Southeast Asia OR arthralgia OR thrombocytopenia OR elevated AST OR elevated ALT)
+2026-05-13 10:41:59 | INFO | src.pubmed_client | run=b6461577 | eSearch complete
+2026-05-13 10:41:59 | INFO | src.pubmed_client | run=b6461577 | eFetch
+2026-05-13 10:42:01 | INFO | src.pubmed_client | run=b6461577 | eFetch complete
+2026-05-13 10:42:01 | INFO | src.pubmed_client | run=b6461577 | Filtering complete
+2026-05-13 10:42:01 | INFO | src.pubmed_client | run=b6461577 | Validation complete
+2026-05-13 10:42:01 | INFO | src.pubmed_client | run=b6461577 | Search metadata completeness
+2026-05-13 10:42:01 | INFO | src.pubmed_client | run=b6461577 | Search pipeline complete
+2026-05-13 10:42:01 | INFO | src.pubmed_client | run=b6461577 | Starting search pipeline with query: "Hepatitis A" AND (fever OR fatigue OR elevated AST OR elevated ALT OR malaise)
+2026-05-13 10:42:01 | INFO | src.pubmed_client | run=b6461577 | eSearch: "Hepatitis A" AND (fever OR fatigue OR elevated AST OR elevated ALT OR malaise)
+2026-05-13 10:42:03 | INFO | src.pubmed_client | run=b6461577 | eSearch complete
+2026-05-13 10:42:03 | INFO | src.pubmed_client | run=b6461577 | eFetch
+2026-05-13 10:42:05 | INFO | src.pubmed_client | run=b6461577 | eFetch complete
+2026-05-13 10:42:05 | INFO | src.pubmed_client | run=b6461577 | Filtering complete
+2026-05-13 10:42:05 | INFO | src.pubmed_client | run=b6461577 | Validation complete
+2026-05-13 10:42:05 | INFO | src.pubmed_client | run=b6461577 | Search metadata completeness
+2026-05-13 10:42:05 | INFO | src.pubmed_client | run=b6461577 | Search pipeline complete
+2026-05-13 10:42:05 | INFO | src.pubmed_client | run=b6461577 | Starting search pipeline with query: "Hepatitis A" AND (arthralgia OR rash OR leukopenia OR thrombocytopenia OR recent travel to Southeast Asia OR absence of jaundice)
+2026-05-13 10:42:05 | INFO | src.pubmed_client | run=b6461577 | eSearch: "Hepatitis A" AND (arthralgia OR rash OR leukopenia OR thrombocytopenia OR recent travel to Southeast Asia OR absence of jaundice)
+2026-05-13 10:42:07 | INFO | src.pubmed_client | run=b6461577 | eSearch complete
+2026-05-13 10:42:07 | INFO | src.pubmed_client | run=b6461577 | eFetch
+2026-05-13 10:42:08 | INFO | src.pubmed_client | run=b6461577 | eFetch complete
+2026-05-13 10:42:08 | INFO | src.pubmed_client | run=b6461577 | Filtering complete
+2026-05-13 10:42:08 | INFO | src.pubmed_client | run=b6461577 | Validation complete
+2026-05-13 10:42:08 | INFO | src.pubmed_client | run=b6461577 | Search metadata completeness
+2026-05-13 10:42:08 | INFO | src.pubmed_client | run=b6461577 | Search pipeline complete
+2026-05-13 10:42:08 | INFO | src.core.registry | run=b6461577 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-13 10:42:08 | INFO | src.core.registry | run=b6461577 | Embedding device selected | device=cpu cuda_available=False
+2026-05-13 10:42:57 | WARNING | tensorflow | run=b6461577 | From D:\dialetic_rag\env\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2026-05-13 10:42:58 | INFO | src.core.registry | run=b6461577 | Embedding model selected | backend=sentence-transformers model=all-MiniLM-L6-v2 device=cpu
+2026-05-13 10:42:58 | INFO | sentence_transformers.SentenceTransformer | run=b6461577 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-13 10:43:13 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 35632709: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.48, Apps=0.31
+2026-05-13 10:43:14 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 34563686: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.48, Apps=0.31
+2026-05-13 10:43:16 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 38848443: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.48, Apps=0.33
+2026-05-13 10:43:17 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 31178104: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.48, Apps=0.31
+2026-05-13 10:43:19 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 35716700: Design=StudyDesign.OTHER, N=1965, P-val=False, RPS=0.36, Apps=0.34
+2026-05-13 10:43:20 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 38157877: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.16, Apps=0.31
+2026-05-13 10:43:21 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 37537212: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.16, Apps=0.50
+2026-05-13 10:43:23 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 36189282: Design=StudyDesign.OTHER, N=157, P-val=False, RPS=0.24, Apps=0.30
+2026-05-13 10:43:24 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 37334906: Design=StudyDesign.OTHER, N=None, P-val=True, RPS=0.21, Apps=0.52
+2026-05-13 10:43:25 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 39211797: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.48, Apps=0.30
+2026-05-13 10:43:26 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 41345919: Design=StudyDesign.OTHER, N=5, P-val=False, RPS=0.16, Apps=0.30
+2026-05-13 10:43:28 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 34181663: Design=StudyDesign.OTHER, N=433, P-val=False, RPS=0.24, Apps=0.38
+2026-05-13 10:43:30 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 30575425: Design=StudyDesign.META_ANALYSIS, N=None, P-val=True, RPS=0.60, Apps=0.31
+2026-05-13 10:43:31 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 35469592: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.48, Apps=0.35
+2026-05-13 10:43:32 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 32197747: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.16, Apps=0.33
+2026-05-13 10:43:34 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 36658757: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.16, Apps=0.30
+2026-05-13 10:43:35 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 38744269: Design=StudyDesign.META_ANALYSIS, N=7905, P-val=False, RPS=0.68, Apps=0.36
+2026-05-13 10:43:36 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 39908174: Design=StudyDesign.OTHER, N=1, P-val=False, RPS=0.16, Apps=0.36
+2026-05-13 10:43:38 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 32138530: Design=StudyDesign.COHORT, N=None, P-val=True, RPS=0.33, Apps=0.32
+2026-05-13 10:43:39 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 41056926: Design=StudyDesign.OTHER, N=1, P-val=False, RPS=0.16, Apps=0.31
+2026-05-13 10:43:40 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 30981292: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.16, Apps=0.34
+2026-05-13 10:43:41 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 40803495: Design=StudyDesign.OTHER, N=None, P-val=True, RPS=0.28, Apps=0.33
+2026-05-13 10:43:42 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 40578132: Design=StudyDesign.CASE_CONTROL, N=220, P-val=True, RPS=0.40, Apps=0.32
+2026-05-13 10:43:44 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 31003854: Design=StudyDesign.COHORT, N=270, P-val=False, RPS=0.35, Apps=0.31
+2026-05-13 10:43:45 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 33952568: Design=StudyDesign.OTHER, N=1, P-val=False, RPS=0.16, Apps=0.32
+2026-05-13 10:43:46 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 32892183: Design=StudyDesign.OTHER, N=195, P-val=True, RPS=0.28, Apps=0.30
+2026-05-13 10:43:47 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 38892108: Design=StudyDesign.OTHER, N=1, P-val=False, RPS=0.16, Apps=0.32
+2026-05-13 10:43:49 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 34324392: Design=StudyDesign.OTHER, N=20, P-val=False, RPS=0.16, Apps=0.31
+2026-05-13 10:43:50 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 34652109: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.16, Apps=0.32
+2026-05-13 10:43:51 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 32758647: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.48, Apps=0.30
+2026-05-13 10:43:52 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 38457514: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.16, Apps=0.30
+2026-05-13 10:43:53 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 37843948: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.16, Apps=0.34
+2026-05-13 10:43:54 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 38527524: Design=StudyDesign.COHORT, N=691, P-val=True, RPS=0.47, Apps=0.35
+2026-05-13 10:43:55 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 41247683: Design=StudyDesign.OTHER, N=246, P-val=True, RPS=0.28, Apps=0.34
+2026-05-13 10:43:56 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Scored PMID 39007616: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.16, Apps=0.30
+2026-05-13 10:43:56 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 38157877: RPS 0.16 < 0.3
+2026-05-13 10:43:56 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 37537212: RPS 0.16 < 0.3
+2026-05-13 10:43:56 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 36189282: RPS 0.24 < 0.3
+2026-05-13 10:43:56 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 37334906: RPS 0.21 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 41345919: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 34181663: RPS 0.24 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 32197747: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 36658757: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 39908174: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 41056926: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 30981292: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 40803495: RPS 0.28 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 33952568: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 32892183: RPS 0.28 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 38892108: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 34324392: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 34652109: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 38457514: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 37843948: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 41247683: RPS 0.28 < 0.3
+2026-05-13 10:43:57 | INFO | src.nodes.epistemic_scoring | run=b6461577 | Dropped PMID 39007616: RPS 0.16 < 0.3
+2026-05-13 10:43:57 | INFO | src.core.registry | run=b6461577 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-13 10:43:59 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 9 claims from PMID 35632709
+2026-05-13 10:44:03 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 23 claims from PMID 34563686
+2026-05-13 10:44:07 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 20 claims from PMID 38848443
+2026-05-13 10:44:10 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 10 claims from PMID 31178104
+2026-05-13 10:44:15 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 21 claims from PMID 35716700
+2026-05-13 10:44:20 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 19 claims from PMID 39211797
+2026-05-13 10:44:23 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 14 claims from PMID 30575425
+2026-05-13 10:44:27 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 22 claims from PMID 35469592
+2026-05-13 10:44:32 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 11 claims from PMID 38744269
+2026-05-13 10:44:35 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 11 claims from PMID 32138530
+2026-05-13 10:44:38 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 11 claims from PMID 40578132
+2026-05-13 10:44:41 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 14 claims from PMID 31003854
+2026-05-13 10:44:49 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 46 claims from PMID 32758647
+2026-05-13 10:44:56 | INFO | src.nodes.claim_clustering | run=b6461577 | Extracted 38 claims from PMID 38527524
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 0: 4 claims from 3 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 1: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 2: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 3: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 4: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 5: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 6: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 7: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 8: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 9: 3 claims from 2 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 10: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 11: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 12: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 13: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 14: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 15: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 16: 13 claims from 2 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 17: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 18: 3 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 19: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 20: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 21: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 22: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 23: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 24: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 25: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 26: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 27: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 28: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 29: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 30: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 31: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 32: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 33: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 34: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 35: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 36: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 37: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 38: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 39: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 40: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 41: 5 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 42: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 43: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 44: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 45: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 46: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 47: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 48: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 49: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 50: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 51: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 52: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 53: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 54: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 55: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 56: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 57: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 58: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 59: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 60: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 61: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 62: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 63: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 64: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 65: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 66: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 67: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 68: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 69: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 70: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 71: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 72: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 73: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 74: 3 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 75: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 76: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 77: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 78: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 79: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 80: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 81: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 82: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 83: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 84: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 85: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 86: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 87: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 88: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 89: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 90: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 91: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 92: 3 claims from 2 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 93: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 94: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 95: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 96: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 97: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 98: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 99: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 100: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 101: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 102: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 103: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 104: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 105: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 106: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 107: 3 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 108: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 109: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 110: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 111: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 112: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 113: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 114: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 115: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 116: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 117: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 118: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 119: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 120: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 121: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 122: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 123: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 124: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 125: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 126: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 127: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 128: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 129: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 130: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 131: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 132: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 133: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 134: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 135: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 136: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 137: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 138: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 139: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 140: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 141: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 142: 3 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 143: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 144: 3 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 145: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 146: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 147: 5 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 148: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 149: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 150: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 151: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 152: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 153: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 154: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 155: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 156: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 157: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 158: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 159: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 160: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 161: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 162: 4 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 163: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 164: 4 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 165: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 166: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 167: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 168: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 169: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 170: 3 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 171: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 172: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 173: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 174: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 175: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 176: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 177: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 178: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 179: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 180: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 181: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 182: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 183: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 184: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 185: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 186: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 187: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 188: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 189: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 190: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 191: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 192: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 193: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 194: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 195: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 196: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 197: 2 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 198: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 199: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 200: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 201: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 202: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 203: 1 claims from 1 studies
+2026-05-13 10:45:01 | INFO | src.nodes.claim_clustering | run=b6461577 | Cluster 204: 1 claims from 1 studies
+2026-05-13 10:45:02 | INFO | src.nodes.claim_clustering | run=b6461577 | Refined applicability scores for 14 evidence items using extracted population claims
+2026-05-13 10:45:02 | INFO | src.nodes.claim_clustering | run=b6461577 | Updated applicability scores via claim-based population profiling
+2026-05-13 10:45:02 | INFO | src.core.registry | run=b6461577 | Cross-encoder selected | backend=sentence-transformers model=cross-encoder/nli-deberta-v3-base device=cpu
+2026-05-13 10:45:08 | INFO | src.core.registry | run=b6461577 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-13 10:45:10 | INFO | src.nodes.conflict_analysis | run=b6461577 | NLI_DEBUG {"pmid": "35632709", "claim_text": "Chikungunya virus (CHIKV) is a mosquito-borne alphavirus that recently re-emerged in many parts of the world causing large-scale outbreaks.", "hypothesis": "For a patient with population 'unknown', intervention 'unknown', and outcome 'unknown', the most likely diagnosis is Chikungunya.", "nli_raw_probs": {"ENTAILMENT": 0.0001, "NEUTRAL": 0.0008, "CONTRADICTION": 0.9991}, "nli_label": "CONTRADICTION", "nli_confidence": 0.999, "computed_stance": -0.999, "claim_confidence": 0.48}
+2026-05-13 10:45:10 | INFO | src.nodes.conflict_analysis | run=b6461577 | NLI_DEBUG {"pmid": "35632709", "claim_text": "CHIKV infection presents as a febrile illness known as chikungunya fever (CHIKF).", "hypothesis": "For a patient with population 'unknown', intervention 'unknown', and outcome 'unknown', the most likely diagnosis is Chikungunya.", "nli_raw_probs": {"ENTAILMENT": 0.0003, "NEUTRAL": 0.001, "CONTRADICTION": 0.9987}, "nli_label": "CONTRADICTION", "nli_confidence": 0.999, "computed_stance": -0.999, "claim_confidence": 0.48}
+2026-05-13 10:45:10 | INFO | src.nodes.conflict_analysis | run=b6461577 | NLI_DEBUG {"pmid": "34563686", "claim_text": "Chikungunya is caused by CHIKV", "hypothesis": "For a patient with population 'unknown', intervention 'unknown', and outcome 'unknown', the most likely diagnosis is Chikungunya.", "nli_raw_probs": {"ENTAILMENT": 0.0001, "NEUTRAL": 0.0013, "CONTRADICTION": 0.9986}, "nli_label": "CONTRADICTION", "nli_confidence": 0.999, "computed_stance": -0.999, "claim_confidence": 0.48}
+2026-05-13 10:45:10 | INFO | src.nodes.conflict_analysis | run=b6461577 | NLI_DEBUG {"pmid": "38848443", "claim_text": "Chikungunya is a viral disease caused by a mosquito-borne alphavirus.", "hypothesis": "For a patient with population 'unknown', intervention 'unknown', and outcome 'unknown', the most likely diagnosis is Chikungunya.", "nli_raw_probs": {"ENTAILMENT": 0.0001, "NEUTRAL": 0.0011, "CONTRADICTION": 0.9988}, "nli_label": "CONTRADICTION", "nli_confidence": 0.999, "computed_stance": -0.999, "claim_confidence": 0.48}
+2026-05-13 10:45:11 | INFO | src.nodes.conflict_analysis | run=b6461577 | NLI_DEBUG {"pmid": "35632709", "claim_text": "Chikungunya virus (CHIKV) is a mosquito-borne alphavirus that recently re-emerged in many parts of the world causing large-scale outbreaks.", "hypothesis": "For a patient with population 'unknown', intervention 'unknown', and outcome 'unknown', the most likely diagnosis is Dengue fever.", "nli_raw_probs": {"ENTAILMENT": 0.0021, "NEUTRAL": 0.0002, "CONTRADICTION": 0.9977}, "nli_label": "CONTRADICTION", "nli_confidence": 0.998, "computed_stance": -0.998, "claim_confidence": 0.48}
+2026-05-13 10:49:32 | INFO | src.nodes.conflict_analysis | run=b6461577 | Conflict Analysis complete | best=Hepatitis A score=-0.858 state=CONTESTED shift=False
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Uncertainty Propagation Input: 14 items
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Fusing evidence pool: 14 items
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 35632709 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 34563686 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 38848443 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 31178104 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 35716700 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 39211797 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 30575425 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 35469592 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 38744269 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 32138530 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 40578132 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 31003854 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 32758647 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-13 10:49:32 | INFO | src.nodes.uncertainty_propagation | run=b6461577 | Item 38527524 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)

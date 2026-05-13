@@ -1,0 +1,22 @@
+# Experimental toggles for MA-RAG
+# Edit to enable new epistemic features for testing.
+
+epistemic:
+  enable_nli: true
+  enable_dialectical_retrieval: true
+  enable_ds_fusion: true
+  rps_use_llm: true
+  tcs_use_llm: true
+
+dialectical_enabled: true
+adversarial_retrieval: true
+
+# Dialectical retriever tuning
+dialectical:
+  boost_factor: 2.0
+  contrastive_terms:
+    - "however"
+    - "contradicts"
+    - "contrary to"
+    - "inconsistent"
+    - "no significant"

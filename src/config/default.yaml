@@ -1,0 +1,87 @@
+# DIALECTIC-RAG Configuration
+
+# --- Reproducibility Weights ---
+reproducibility:
+  w_sample_size: 0.25
+  w_design: 0.40
+  w_pvalue: 0.15
+  w_prereg: 0.20
+  sample_size_log_base: 10001
+
+# --- Applicability Weights ---
+applicability:
+  w_population: 0.25
+  w_intervention: 0.35
+  w_comparator: 0.15
+  w_outcome: 0.25
+  surrogate_outcome_discount: 0.7
+  embedding_model: "all-MiniLM-L6-v2"
+
+# --- NLI Configuration ---
+nli:
+  model: "microsoft/deberta-v3-large-mnli"
+  contradiction_threshold: 0.8
+  entailment_threshold: 0.8
+  refine_lower: 0.4
+  refine_upper: 0.8
+  temporal_min_reproducibility: 0.5
+
+# --- Dempster-Shafer ---
+ds:
+  gamma: 0.9
+  k_threshold: 0.5   # Switch to Yager rule
+  k_abstain: 0.8     # Irreconcilable conflict
+
+# --- Epistemic States ---
+states:
+  settled:
+    belief_mid: 0.70
+    uncertainty_max: 0.20
+    conflict_max: 0.20
+  contested:
+    conflict_mid: 0.40
+  insufficient:
+    uncertainty_mid: 0.50
+
+# --- Abstention ---
+abstention:
+  full_belief_min: 0.70
+  qualified_conflict_max: 0.50
+
+# --- Source Hierarchy ---
+sources:
+  boost:
+    cochrane: 1.0
+    guideline: 0.95
+    systematic_review: 0.90
+    rct: 0.85
+    cohort: 0.50
+    other: 0.30
+  recency_half_life_days: 1825  # 5 years
+
+# --- Retrieval ---
+retrieval:
+  k_per_perspective: 5
+  max_total: 20
+  min_year: 2000
+
+# --- Temporal Configuration ---
+temporal:
+  min_confirming_sources: 2
+
+evidence_gating:
+  min_reproducibility: 0.3
+  min_applicability: 0.3
+  min_weight: 0.05
+
+# --- Graph Settings ---
+graph:
+  cache_dir: "cache/"
+  use_llm_claim_extraction: true
+# --- State Labels ---
+state_labels:
+  SETTLED: "Well-supported"
+  CONTESTED: "Conflicting"
+  FALSIFIED: "Not supported"
+  EVOLVING: "Evolving"
+  INSUFFICIENT: "Insufficient evidence"
