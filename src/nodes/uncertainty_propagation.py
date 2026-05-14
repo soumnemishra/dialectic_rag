@@ -30,7 +30,20 @@ async def uncertainty_propagation_node(state: GraphState) -> dict[str, Any]:
         evidence_pool.append(item)
 
     if not evidence_pool:
-        return {"epistemic_result": None} 
+        from src.models.schemas import EpistemicResult, ResponseTier
+        fallback = EpistemicResult(
+            state=EpistemicState.INSUFFICIENT,
+            belief=0.0,
+            uncertainty=1.0,
+            conflict=0.0,
+            temporal_shift_detected=False,
+            response_tier=ResponseTier.ABSTAIN,
+            evidence_items=[]
+        )
+        return {
+            "epistemic_result": fallback,
+            "abstention_rationale": "No evidence items survived the epistemic gating process."
+        }
 
     integrator = DempsterShaferIntegrator()
     classifier = EpistemicStateClassifier()
@@ -126,4 +139,17 @@ async def uncertainty_propagation_node(state: GraphState) -> dict[str, Any]:
         
     except Exception as e:
         logger.error(f"Uncertainty propagation failed: {e}")
-        return {"epistemic_result": None}
+        from src.models.schemas import EpistemicResult, ResponseTier
+        fallback = EpistemicResult(
+            state=EpistemicState.INSUFFICIENT,
+            belief=0.0,
+            uncertainty=1.0,
+            conflict=0.0,
+            temporal_shift_detected=False,
+            response_tier=ResponseTier.ABSTAIN,
+            evidence_items=evidence_pool
+        )
+        return {
+            "epistemic_result": fallback,
+            "abstention_rationale": f"System error during belief fusion: {str(e)}"
+        }

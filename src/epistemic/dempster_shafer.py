@@ -83,7 +83,11 @@ class DempsterShaferIntegrator:
         Returns:
             MassFunction with belief_true, belief_false, uncertainty.
         """
-        w = max(evidence.reproducibility_score * evidence.applicability_score, 0.0)
+        # Sanitise inputs to prevent NoneType crashes (Hardening v2)
+        rps = getattr(evidence, 'reproducibility_score', 0.0) or 0.0
+        app = getattr(evidence, 'applicability_score', 0.0) or 0.0
+        w = max(rps * app, 0.0)
+        
         stance = evidence.stance or EvidenceStance.NEUTRAL
 
         # Enforce minimum weight for stance-bearing evidence

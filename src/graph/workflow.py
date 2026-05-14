@@ -28,9 +28,30 @@ def build_workflow(checkpointer=None):
     workflow.add_node("uncertainty_propagation", uncertainty_propagation_node)
     workflow.add_node("response_generation", response_generation_node)
 
-    # Add Edges (Sequential for DIALECTIC-RAG core pipeline)
+    def route_post_pico(state: GraphState) -> str:
+        """Route to retrieval if PICO is valid, else skip to response generation."""
+        pico = state.get("pico")
+        # Handle both dict and PICO object cases
+        if not pico:
+            return "response_generation"
+        
+        # Check for minimal clinical components (e.g., population or intervention)
+        if isinstance(pico, dict):
+            pop = pico.get("population")
+            inter = pico.get("intervention")
+        else:
+            pop = getattr(pico, "population", None)
+            inter = getattr(pico, "intervention", None)
+            
+        if (not pop or pop == "unknown") and (not inter or inter == "unknown"):
+            logger.warning("No clinical components found in PICO. Routing to early exit.")
+            return "response_generation"
+            
+        return "contrastive_retrieval"
+
+    # Add Edges (Sequential with conditional early exit)
     workflow.add_edge(START, "extract_pico")
-    workflow.add_edge("extract_pico", "contrastive_retrieval")
+    workflow.add_conditional_edges("extract_pico", route_post_pico)
     workflow.add_edge("contrastive_retrieval", "epistemic_scoring")
     workflow.add_edge("epistemic_scoring", "claim_clustering")
     workflow.add_edge("claim_clustering", "conflict_analysis")

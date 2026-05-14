@@ -134,4 +134,9 @@ class EpistemicStateClassifier:
             EpistemicState.INSUFFICIENT: u_insufficient,
         }
 
+        # Hardening v2: Prioritise CONTESTED over INSUFFICIENT if conflict is high
+        # This ensures that "fundamentally split" evidence is not reported as "ignorance"
+        if conflict > cfg.get("contested", {}).get("conflict_mid", 0.40) and u_contested >= u_insufficient:
+             return EpistemicState.CONTESTED
+
         return max(memberships, key=memberships.get)
