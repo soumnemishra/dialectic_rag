@@ -306,11 +306,17 @@ def is_evaluation_mode() -> bool:
     return os.getenv("MA_RAG_EVAL_MODE", "").strip().lower() == "true"
 
 
-def get_past_exp_limit() -> int:
-    """Optional cap for past_exp entries; 0 means no trimming."""
-    raw_value = os.getenv("MA_RAG_PAST_EXP_LIMIT", "0").strip()
+def _load_epistemic_settings() -> dict:
+    """Load epistemic configurations from the master YAML file exactly once."""
+    import yaml
+    from pathlib import Path
+    path = Path(__file__).resolve().parent / "config" / "default.yaml"
     try:
-        limit = int(raw_value)
-    except ValueError:
-        return 0
-    return max(limit, 0)
+        with open(path, "r") as f:
+            return yaml.safe_load(f) or {}
+    except Exception as e:
+        logger.warning(f"Failed to load epistemic config from {path}: {e}")
+        return {}
+
+# Centralized epistemic settings singleton
+epistemic_settings = _load_epistemic_settings()

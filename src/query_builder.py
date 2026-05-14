@@ -143,9 +143,6 @@ STUDY_TYPE_TAGS: Dict[str, str] = {
     "guideline": "Practice Guideline[pt]",
 }
 
-# Generic intervention/outcome tokens that are too broad for bare search
-_GENERIC_INTERVENTION = {"effect", "outcome", "result", "impact", "role", "influence", "common", "causes"}
-
 
 
 # =============================================================================

@@ -67,8 +67,11 @@ async def response_generation_node(state: GraphState) -> Dict[str, Any]:
         }
 
     # 1. Build Structured Evidence Summary
-    from src.models.enums import EvidenceStance
-    evidence_pool = state.get("evidence_pool", [])
+    from src.models.schemas import EvidenceItem, EvidenceStance
+    raw_pool = state.get("evidence_pool", [])
+    # Ensure items are EvidenceItem objects for attribute access
+    evidence_pool = [EvidenceItem(**item) if isinstance(item, dict) else item for item in raw_pool]
+    
     support = [item for item in evidence_pool if item.stance == EvidenceStance.SUPPORT]
     oppose = [item for item in evidence_pool if item.stance == EvidenceStance.OPPOSE]
     

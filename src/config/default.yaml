@@ -9,11 +9,11 @@ reproducibility:
   sample_size_log_base: 10001
 
 # --- Applicability Weights ---
+# w_population + w_intervention + w_lexical must sum to 1.0
 applicability:
-  w_population: 0.25
-  w_intervention: 0.35
-  w_comparator: 0.15
-  w_outcome: 0.25
+  w_population: 0.50
+  w_intervention: 0.20
+  w_lexical: 0.30
   surrogate_outcome_discount: 0.7
   embedding_model: "all-MiniLM-L6-v2"
 
@@ -31,6 +31,8 @@ ds:
   gamma: 0.9
   k_threshold: 0.5   # Switch to Yager rule
   k_abstain: 0.8     # Irreconcilable conflict
+  conflict_scaling_factor: 4.0  # Empirically tuned scaling factor
+  refine_discount: 0.70  # Partial support multiplier for REFINE stance
 
 # --- Epistemic States ---
 states:
@@ -42,11 +44,15 @@ states:
     conflict_mid: 0.40
   insufficient:
     uncertainty_mid: 0.50
+  falsified:
+    belief_false_min: 0.60  # m(false) above this triggers FALSIFIED
+    belief_true_max: 0.10   # m(true) below this triggers FALSIFIED
 
 # --- Abstention ---
 abstention:
   full_belief_min: 0.70
   qualified_conflict_max: 0.50
+  min_belief_threshold: 0.10  # Absolute floor below which ABSTAIN is forced
 
 # --- Source Hierarchy ---
 sources:

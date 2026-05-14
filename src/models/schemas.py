@@ -1,8 +1,10 @@
+from __future__ import annotations
 from pydantic import BaseModel, Field
 from typing import Optional, List, Dict, Any
 from .enums import EvidenceStance, StudyDesign, EpistemicState, ResponseTier
 
 class PICO(BaseModel):
+    intent: str = "Therapeutic"
     population: str
     intervention: str
     comparator: Optional[str] = "standard care"

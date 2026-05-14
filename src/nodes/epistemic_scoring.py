@@ -1,5 +1,6 @@
+from __future__ import annotations
 import logging
-from typing import Dict, Any, List
+from typing import Any
 from src.models.state import GraphState
 from src.models.schemas import EvidenceItem, StudyMetadata, EvidenceStance
 from src.epistemic.metadata_extractor import MetadataExtractor
@@ -8,7 +9,7 @@ from src.epistemic.applicability_scorer import ApplicabilityScorer
 
 logger = logging.getLogger(__name__)
 
-async def epistemic_scoring_node(state: GraphState) -> Dict[str, Any]:
+async def epistemic_scoring_node(state: GraphState) -> dict[str, Any]:
     """
     Node to perform two-pass epistemic scoring:
     1. Extract metadata & Reproducibility (Pass 1 & 2)
@@ -29,8 +30,9 @@ async def epistemic_scoring_node(state: GraphState) -> Dict[str, Any]:
     rep_scorer = ReproducibilityScorer()
     app_scorer = ApplicabilityScorer()
     
-    evidence_pool: List[EvidenceItem] = []
+    evidence_pool: list[EvidenceItem] = []
     
+    scored_details = []
     for pmid, art in unique_articles.items():
         try:
             abstract = art.get("abstract", "")
@@ -42,8 +44,14 @@ async def epistemic_scoring_node(state: GraphState) -> Dict[str, Any]:
             if getattr(metadata, "year", None) is None:
                 metadata.year = art.get("year") or art.get("publication_year")
             
-            # 2. Compute Reproducibility Score
-            rps = rep_scorer.compute(metadata)
+            # 2. Compute Reproducibility Score with decomposition
+            rps_data = rep_scorer.compute(metadata, return_components=True)
+            rps = rps_data["final_rps"]
+            
+            scored_details.append({
+                "pmid": pmid,
+                "rps_decomposition": rps_data
+            })
             
             # 3. Compute Applicability Score (Placeholder study PICO for now)
             from src.models.schemas import PICO
@@ -108,13 +116,13 @@ async def epistemic_scoring_node(state: GraphState) -> Dict[str, Any]:
             logger.info(f"Dropped PMID {item.pmid}: {', '.join(reason)}")
             dropped_pmids.append({"pmid": item.pmid, "reason": reason})
 
-    # Summary stats
-    if evidence_pool:
+    # Summary stats (Fix: Calculate only on filtered_pool as requested in audit)
+    if filtered_pool:
         import statistics
-        mean_rps = statistics.mean([item.reproducibility_score for item in evidence_pool])
-        mean_apps = statistics.mean([item.applicability_score for item in evidence_pool])
-        max_rps = max([item.reproducibility_score for item in evidence_pool])
-        min_rps = min([item.reproducibility_score for item in evidence_pool])
+        mean_rps = statistics.mean([item.reproducibility_score for item in filtered_pool])
+        mean_apps = statistics.mean([item.applicability_score for item in filtered_pool])
+        max_rps = max([item.reproducibility_score for item in filtered_pool])
+        min_rps = min([item.reproducibility_score for item in filtered_pool])
     else:
         mean_rps = mean_apps = max_rps = min_rps = 0.0
 
@@ -132,10 +140,11 @@ async def epistemic_scoring_node(state: GraphState) -> Dict[str, Any]:
                 "mean_applicability": round(mean_apps, 2)
             }
         },
+        "scored_details": scored_details,
         "dropped_details": dropped_pmids
     }
 
     return {
-        "evidence_pool": [item.dict() for item in filtered_pool],
+        "evidence_pool": filtered_pool,
         "trace_events": [trace_event]
     }

@@ -5,9 +5,22 @@ from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
 from src.core.registry import ModelRegistry, safe_ainvoke
 from src.models.schemas import StudyMetadata
-from src.prompts.templates import with_json_system_suffix
 
 logger = logging.getLogger(__name__)
+
+class MetadataExtractionError(Exception):
+    pass
+
+def with_json_system_suffix(system_prompt: str) -> str:
+    """Append a strict JSON-only suffix exactly once to a system prompt."""
+    JSON_ONLY_SUFFIX = (
+        "CRITICAL INSTRUCTION: You must output ONLY valid JSON. Do NOT output any "
+        "conversational text, preamble, or markdown formatting before or after the "
+        "JSON object. Start your response with an opening curly bracket and end with a closing curly bracket."
+    )
+    if JSON_ONLY_SUFFIX in system_prompt:
+        return system_prompt
+    return system_prompt.rstrip() + "\n\n" + JSON_ONLY_SUFFIX
 
 METADATA_EXTRACTION_SYSTEM_PROMPT = """
 You are a precise biomedical metadata extractor. 
@@ -118,9 +131,7 @@ class MetadataExtractor:
             # PMID belongs to EvidenceItem, not StudyMetadata
             return parsed
         except Exception as e:
-            logger.error(f"Metadata extraction failed for PMID {pmid}: {e}")
-            # Return empty metadata on failure to avoid crashing
-            return StudyMetadata(year=None, source_type="pubmed")
+            raise MetadataExtractionError(f"Extraction failed for PMID {pmid}: {e}")
 
     async def extract_batch(self, abstracts: List[Dict[str, str]]) -> List[StudyMetadata]:
         """Extract metadata for a batch of abstracts."""

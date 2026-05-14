@@ -1,5 +1,6 @@
+from __future__ import annotations
 import logging
-from typing import Dict, Any
+from typing import Any
 from src.models.state import GraphState
 from src.models.enums import EpistemicState
 from src.epistemic.dempster_shafer import DempsterShaferIntegrator
@@ -8,7 +9,7 @@ from src.epistemic.calibrated_abstention import CalibratedAbstention
 
 logger = logging.getLogger(__name__)
 
-async def uncertainty_propagation_node(state: GraphState) -> Dict[str, Any]:
+async def uncertainty_propagation_node(state: GraphState) -> dict[str, Any]:
     """
     Node to propagate uncertainty and classify epistemic state.
     Integrates D-S fusion, fuzzy classification, and abstention logic.
@@ -18,7 +19,7 @@ async def uncertainty_propagation_node(state: GraphState) -> Dict[str, Any]:
     
     # Instrumentation & Re-instantiation
     from src.models.schemas import EvidenceItem
-    evidence_pool: List[EvidenceItem] = []
+    evidence_pool: list[EvidenceItem] = []
     
     logger.info(f"Uncertainty Propagation Input: {len(raw_pool)} items")
     for raw in raw_pool:
@@ -99,9 +100,28 @@ async def uncertainty_propagation_node(state: GraphState) -> Dict[str, Any]:
                 evidence_items=evidence_pool
             )
         
+        # Add trace event for D-S Fusion (requested in audit)
+        trace_event = {
+            "node": "uncertainty_propagation",
+            "section": "dempster_shafer_combination",
+            "output": {
+                "final_belief_masses": {
+                    "belief_true": round(combined_mass.belief_true, 4),
+                    "belief_false": round(combined_mass.belief_false, 4),
+                    "uncertainty": round(combined_mass.uncertainty, 4)
+                },
+                "conflict_mass": round(conflict, 4),
+                "pignistic_belief": round(belief, 4),
+                "epistemic_state": state_class,
+                "decision": tier,
+                "rationale": rationale
+            }
+        }
+        
         return {
             "epistemic_result": result,
-            "abstention_rationale": rationale or "Error in uncertainty propagation."
+            "abstention_rationale": rationale or "Error in uncertainty propagation.",
+            "trace_events": [trace_event]
         }
         
     except Exception as e:

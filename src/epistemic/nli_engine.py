@@ -8,6 +8,9 @@ from src.config import settings
 
 logger = logging.getLogger(__name__)
 
+class NLIInferenceError(Exception):
+    pass
+
 class NLIEngine:
     """Neural model for Natural Language Inference (ENTAILMENT | CONTRADICTION | NEUTRAL)."""
     
@@ -57,4 +60,4 @@ class NLIEngine:
             except Exception as e:
                 logger.error(f"NLI LLM fallback failed: {e}")
 
-        return {"label": "NEUTRAL", "confidence": 0.0}
+        raise NLIInferenceError("Both local and LLM NLI fallback failed")

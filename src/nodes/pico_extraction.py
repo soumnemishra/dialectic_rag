@@ -1,12 +1,13 @@
+from __future__ import annotations
 import logging
-from typing import Dict, Any
+from typing import Any
 from src.models.state import GraphState
 from src.models.schemas import PICO
 from src.retrieval.pico_extractor import PICOExtractor
 
 logger = logging.getLogger(__name__)
 
-async def pico_extraction_node(state: GraphState) -> Dict[str, Any]:
+async def pico_extraction_node(state: GraphState) -> dict[str, Any]:
     # 1. Strip MCQ options for Question-Only Retrieval (QOR)
     question = state.get("original_question", "")
     import re
@@ -37,27 +38,38 @@ async def pico_extraction_node(state: GraphState) -> Dict[str, Any]:
             if isinstance(pico_res, dict):
                 pico_res = PICO(**pico_res)
             else:
-                pico_res = PICO(population="unknown", intervention="unknown", outcome="unknown", risk_level="unknown")
+                pico_res = PICO(intent="Therapeutic", population="unknown", intervention="unknown", outcome="unknown", risk_level="unknown")
         
+        # If it's a diagnostic question and no candidate answers were provided in the question
+        if pico_res.intent == "Diagnostic" and (not candidate_answers or candidate_answers == ["Intervention is supported", "Intervention is not supported"]):
+            logger.info("Diagnostic intent detected. Generating hypotheses.")
+            pico_res_intent = await extractor.generate_diagnostic_hypotheses(vignette)
+            if pico_res_intent:
+                candidate_answers = pico_res_intent
+
         # Add trace event
         trace_event = {
             "node": "pico_extraction",
             "section": "intention_classification",
             "input": {"vignette_length": len(vignette)},
-            "output": {"pico": pico_res, "candidate_answers": candidate_answers},
-            "risk_level": pico_res.get("risk_level", "unknown")
+            "output": {
+                "intent": pico_res.intent,
+                "pico": pico_res.dict(), 
+                "candidate_answers": candidate_answers
+            },
+            "risk_level": getattr(pico_res, "risk_level", "unknown")
         }
         
         return {
-            "pico": pico_res,
-            "risk_level": pico_res.get("risk_level", "unknown"),
+            "pico": pico_res.dict(),
+            "risk_level": getattr(pico_res, "risk_level", "unknown"),
             "candidate_answers": candidate_answers,
             "trace_events": [trace_event]
         }
     except Exception as e:
         logger.error(f"PICO extraction node failed: {e}")
         # Fallback is handled within PICOExtractor.extract
-        default_res = {"population": "unknown", "intervention": "unknown", "comparator": "unknown", "outcome": "unknown", "risk_level": "unknown"}
+        default_res = {"intent": "Therapeutic", "population": "unknown", "intervention": "unknown", "comparator": "unknown", "outcome": "unknown", "risk_level": "unknown"}
         return {
             "pico": default_res,
             "risk_level": "unknown",

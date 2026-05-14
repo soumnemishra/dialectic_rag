@@ -53,13 +53,3 @@ class PermanentError(IngestError):
 class PubMedAPIError(TransientError):
     """Error from PubMed API calls."""
     pass
-
-
-class GeminiAPIError(TransientError):
-    """Error from Gemini/Vertex AI API calls."""
-    pass
-
-
-class ConfigurationError(PermanentError):
-    """Error in application configuration."""
-    pass

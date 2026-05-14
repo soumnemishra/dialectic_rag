@@ -1,0 +1,61 @@
+2026-05-13 15:13:09 | INFO | src.config | run=46547d0e | Logging configured | level=INFO file=logs\ma_rag_20260513_151309.log run_id=46547d0e
+2026-05-13 15:13:09 | INFO | __main__ | run=46547d0e | Initializing workflow for single-question test...
+2026-05-13 15:13:09 | INFO | __main__ | run=46547d0e | 
+================================================================================
+2026-05-13 15:13:09 | INFO | __main__ | run=46547d0e | Running single-question evaluation
+2026-05-13 15:13:09 | INFO | __main__ | run=46547d0e | Question: Two weeks after undergoing an emergency cardiac catherization with stenting for unstable angina pect...
+2026-05-13 15:13:09 | INFO | __main__ | run=46547d0e | ================================================================================
+
+2026-05-13 15:13:09 | INFO | __main__ | run=46547d0e | Invoking workflow with initial state...
+2026-05-13 15:14:35 | INFO | numexpr.utils | run=46547d0e | NumExpr defaulting to 12 threads.
+2026-05-13 15:14:44 | INFO | src.core.registry | run=46547d0e | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-13 15:14:52 | ERROR | src.nodes.pico_extraction | run=46547d0e | PICO extraction node failed: 3 validation errors for PICO
+population
+  Field required [type=missing, input_value={'content': '```json\n{\n...ls': {'cache_read': 0}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+intervention
+  Field required [type=missing, input_value={'content': '```json\n{\n...ls': {'cache_read': 0}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+outcome
+  Field required [type=missing, input_value={'content': '```json\n{\n...ls': {'cache_read': 0}}}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.12/v/missing
+2026-05-13 15:14:52 | INFO | src.core.registry | run=46547d0e | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-13 15:14:52 | INFO | src.pubmed_client | run=46547d0e | PubMed client initialized (Async)
+2026-05-13 15:14:54 | INFO | src.pubmed_client | run=46547d0e | Starting search pipeline with query: "Intervention is supported" AND (cardiac catheterization OR stenting OR aspirin OR clopidogrel) AND (acute kidney injury OR elevated creatinine OR decreased urinary output OR reticulated purplish disc
+2026-05-13 15:14:54 | INFO | src.pubmed_client | run=46547d0e | eSearch: "Intervention is supported" AND (cardiac catheterization OR stenting OR aspirin OR clopidogrel) AND (acute kidney injury OR elevated creatinine OR decreased urinary output OR reticulated purplish disc
+2026-05-13 15:14:55 | INFO | src.pubmed_client | run=46547d0e | eSearch complete
+2026-05-13 15:14:55 | INFO | src.pubmed_client | run=46547d0e | eFetch
+2026-05-13 15:14:58 | INFO | src.pubmed_client | run=46547d0e | eFetch complete
+2026-05-13 15:14:58 | INFO | src.pubmed_client | run=46547d0e | Filtering complete
+2026-05-13 15:14:58 | INFO | src.pubmed_client | run=46547d0e | Validation complete
+2026-05-13 15:14:58 | INFO | src.pubmed_client | run=46547d0e | Search metadata completeness
+2026-05-13 15:14:58 | INFO | src.pubmed_client | run=46547d0e | Search pipeline complete
+2026-05-13 15:14:58 | INFO | src.pubmed_client | run=46547d0e | Starting search pipeline with query: "Intervention is supported" AND (no complications OR normal renal function OR absence of rash OR normal eosinophils)
+2026-05-13 15:14:58 | INFO | src.pubmed_client | run=46547d0e | eSearch: "Intervention is supported" AND (no complications OR normal renal function OR absence of rash OR normal eosinophils)
+2026-05-13 15:15:01 | INFO | src.pubmed_client | run=46547d0e | eSearch complete
+2026-05-13 15:15:01 | INFO | src.pubmed_client | run=46547d0e | eFetch
+2026-05-13 15:15:03 | INFO | src.pubmed_client | run=46547d0e | eFetch complete
+2026-05-13 15:15:03 | INFO | src.pubmed_client | run=46547d0e | Filtering complete
+2026-05-13 15:15:03 | INFO | src.pubmed_client | run=46547d0e | Validation complete
+2026-05-13 15:15:03 | INFO | src.pubmed_client | run=46547d0e | Search metadata completeness
+2026-05-13 15:15:03 | INFO | src.pubmed_client | run=46547d0e | Search pipeline complete
+2026-05-13 15:15:03 | INFO | src.pubmed_client | run=46547d0e | Starting search pipeline with query: "Intervention is not supported" AND (diabetes mellitus OR osteoarthritis OR naproxen OR unrelated to procedure) AND (acute kidney injury OR elevated creatinine OR decreased urinary output OR reticulat
+2026-05-13 15:15:03 | INFO | src.pubmed_client | run=46547d0e | eSearch: "Intervention is not supported" AND (diabetes mellitus OR osteoarthritis OR naproxen OR unrelated to procedure) AND (acute kidney injury OR elevated creatinine OR decreased urinary output OR reticulat
+2026-05-13 15:15:04 | INFO | src.pubmed_client | run=46547d0e | eSearch complete
+2026-05-13 15:15:04 | INFO | src.pubmed_client | run=46547d0e | eFetch
+2026-05-13 15:15:06 | INFO | src.pubmed_client | run=46547d0e | eFetch complete
+2026-05-13 15:15:06 | INFO | src.pubmed_client | run=46547d0e | Filtering complete
+2026-05-13 15:15:06 | INFO | src.pubmed_client | run=46547d0e | Validation complete
+2026-05-13 15:15:06 | INFO | src.pubmed_client | run=46547d0e | Search metadata completeness
+2026-05-13 15:15:06 | INFO | src.pubmed_client | run=46547d0e | Search pipeline complete
+2026-05-13 15:15:06 | INFO | src.pubmed_client | run=46547d0e | Starting search pipeline with query: "Intervention is not supported" AND (procedure-related complication OR contrast-induced nephropathy OR drug-induced hypersensitivity OR normal renal function after intervention)
+2026-05-13 15:15:06 | INFO | src.pubmed_client | run=46547d0e | eSearch: "Intervention is not supported" AND (procedure-related complication OR contrast-induced nephropathy OR drug-induced hypersensitivity OR normal renal function after intervention)
+2026-05-13 15:15:08 | INFO | src.pubmed_client | run=46547d0e | eSearch complete
+2026-05-13 15:15:08 | INFO | src.pubmed_client | run=46547d0e | eFetch
+2026-05-13 15:15:10 | INFO | src.pubmed_client | run=46547d0e | eFetch complete
+2026-05-13 15:15:10 | INFO | src.pubmed_client | run=46547d0e | Filtering complete
+2026-05-13 15:15:10 | INFO | src.pubmed_client | run=46547d0e | Validation complete
+2026-05-13 15:15:10 | INFO | src.pubmed_client | run=46547d0e | Search metadata completeness
+2026-05-13 15:15:10 | INFO | src.pubmed_client | run=46547d0e | Search pipeline complete
+2026-05-13 15:15:10 | INFO | src.core.registry | run=46547d0e | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-13 15:15:10 | INFO | src.core.registry | run=46547d0e | Embedding device selected | device=cpu cuda_available=False
