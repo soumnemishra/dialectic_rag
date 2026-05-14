@@ -19,6 +19,8 @@ class StudyMetadata(BaseModel):
     preregistration_id: Optional[str] = None  # NCT number
     year: Optional[int] = None
     source_type: Optional[str] = None  # "pubmed", "cochrane", etc.
+    mesh_terms: List[str] = Field(default_factory=list)
+    publication_types: List[str] = Field(default_factory=list)
 
 class EvidenceItem(BaseModel):
     pmid: str

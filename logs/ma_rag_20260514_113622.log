@@ -1,0 +1,208 @@
+2026-05-14 11:36:22 | INFO | src.config | run=7d3d6a61 | Logging configured | level=INFO file=logs\ma_rag_20260514_113622.log run_id=7d3d6a61
+2026-05-14 11:36:22 | INFO | __main__ | run=7d3d6a61 | Initializing workflow for single-question test...
+2026-05-14 11:36:22 | INFO | __main__ | run=7d3d6a61 | 
+================================================================================
+2026-05-14 11:36:22 | INFO | __main__ | run=7d3d6a61 | Running single-question evaluation
+2026-05-14 11:36:22 | INFO | __main__ | run=7d3d6a61 | Question: Two weeks after undergoing an emergency cardiac catherization with stenting for unstable angina pect...
+2026-05-14 11:36:22 | INFO | __main__ | run=7d3d6a61 | ================================================================================
+
+2026-05-14 11:36:22 | INFO | __main__ | run=7d3d6a61 | Invoking workflow with initial state...
+2026-05-14 11:38:07 | INFO | numexpr.utils | run=7d3d6a61 | NumExpr defaulting to 12 threads.
+2026-05-14 11:38:21 | INFO | src.core.registry | run=7d3d6a61 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-14 11:38:30 | INFO | src.nodes.pico_extraction | run=7d3d6a61 | Diagnostic intent detected. Generating hypotheses.
+2026-05-14 11:38:31 | INFO | src.core.registry | run=7d3d6a61 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-14 11:38:31 | INFO | src.pubmed_client | run=7d3d6a61 | PubMed client initialized (Async)
+2026-05-14 11:38:33 | INFO | src.pubmed_client | run=7d3d6a61 | Starting search pipeline with query: "Cholesterol Embolism Syndrome" AND (renal dysfunction OR elevated creatinine OR "decreased urinary output" OR malaise OR "mottled purplish discoloration" OR "reticulated skin" OR eosinophilia OR "pos
+2026-05-14 11:38:33 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch: "Cholesterol Embolism Syndrome" AND (renal dysfunction OR elevated creatinine OR "decreased urinary output" OR malaise OR "mottled purplish discoloration" OR "reticulated skin" OR eosinophilia OR "pos
+2026-05-14 11:38:34 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch complete
+2026-05-14 11:38:34 | INFO | src.pubmed_client | run=7d3d6a61 | eFetch
+2026-05-14 11:38:35 | INFO | src.pubmed_client | run=7d3d6a61 | eFetch complete
+2026-05-14 11:38:35 | INFO | src.pubmed_client | run=7d3d6a61 | Filtering complete
+2026-05-14 11:38:36 | INFO | src.pubmed_client | run=7d3d6a61 | Validation complete
+2026-05-14 11:38:36 | INFO | src.pubmed_client | run=7d3d6a61 | Search metadata completeness
+2026-05-14 11:38:36 | INFO | src.pubmed_client | run=7d3d6a61 | Search pipeline complete
+2026-05-14 11:38:36 | INFO | src.pubmed_client | run=7d3d6a61 | Starting search pipeline with query: "Cholesterol Embolism Syndrome" AND (fever OR leukocytosis OR "normal platelet count" OR "normal hemoglobin")
+2026-05-14 11:38:36 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch: "Cholesterol Embolism Syndrome" AND (fever OR leukocytosis OR "normal platelet count" OR "normal hemoglobin")
+2026-05-14 11:38:36 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch complete
+2026-05-14 11:38:36 | INFO | src.pubmed_client | run=7d3d6a61 | No PMIDs found
+2026-05-14 11:38:36 | INFO | src.pubmed_client | run=7d3d6a61 | Starting search pipeline with query: "Acute Interstitial Nephritis" AND (renal dysfunction OR elevated creatinine OR "decreased urinary output" OR malaise OR eosinophilia OR fever OR leukocytosis OR "recent medication")
+2026-05-14 11:38:36 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch: "Acute Interstitial Nephritis" AND (renal dysfunction OR elevated creatinine OR "decreased urinary output" OR malaise OR eosinophilia OR fever OR leukocytosis OR "recent medication")
+2026-05-14 11:38:37 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch complete
+2026-05-14 11:38:37 | INFO | src.pubmed_client | run=7d3d6a61 | eFetch
+2026-05-14 11:38:39 | INFO | src.pubmed_client | run=7d3d6a61 | eFetch complete
+2026-05-14 11:38:39 | INFO | src.pubmed_client | run=7d3d6a61 | Filtering complete
+2026-05-14 11:38:39 | INFO | src.pubmed_client | run=7d3d6a61 | Validation complete
+2026-05-14 11:38:39 | INFO | src.pubmed_client | run=7d3d6a61 | Search metadata completeness
+2026-05-14 11:38:39 | INFO | src.pubmed_client | run=7d3d6a61 | Search pipeline complete
+2026-05-14 11:38:39 | INFO | src.pubmed_client | run=7d3d6a61 | Starting search pipeline with query: "Acute Interstitial Nephritis" AND ("mottled purplish discoloration" OR "reticulated skin" OR "intravascular vacuoles" OR "post cardiac catheterization")
+2026-05-14 11:38:39 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch: "Acute Interstitial Nephritis" AND ("mottled purplish discoloration" OR "reticulated skin" OR "intravascular vacuoles" OR "post cardiac catheterization")
+2026-05-14 11:38:39 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch complete
+2026-05-14 11:38:39 | INFO | src.pubmed_client | run=7d3d6a61 | No PMIDs found
+2026-05-14 11:38:39 | INFO | src.pubmed_client | run=7d3d6a61 | Starting search pipeline with query: "Drug-Induced Thrombotic Microangiopathy" AND (renal dysfunction OR elevated creatinine OR "decreased urinary output" OR malaise OR fever OR leukocytosis OR "recent medication" OR "clopidogrel" OR "as
+2026-05-14 11:38:39 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch: "Drug-Induced Thrombotic Microangiopathy" AND (renal dysfunction OR elevated creatinine OR "decreased urinary output" OR malaise OR fever OR leukocytosis OR "recent medication" OR "clopidogrel" OR "as
+2026-05-14 11:38:40 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch complete
+2026-05-14 11:38:40 | INFO | src.pubmed_client | run=7d3d6a61 | eFetch
+2026-05-14 11:38:41 | INFO | src.pubmed_client | run=7d3d6a61 | eFetch complete
+2026-05-14 11:38:41 | INFO | src.pubmed_client | run=7d3d6a61 | Filtering complete
+2026-05-14 11:38:41 | INFO | src.pubmed_client | run=7d3d6a61 | Validation complete
+2026-05-14 11:38:41 | INFO | src.pubmed_client | run=7d3d6a61 | Search metadata completeness
+2026-05-14 11:38:41 | INFO | src.pubmed_client | run=7d3d6a61 | Search pipeline complete
+2026-05-14 11:38:41 | INFO | src.pubmed_client | run=7d3d6a61 | Starting search pipeline with query: "Drug-Induced Thrombotic Microangiopathy" AND ("mottled purplish discoloration" OR "reticulated skin" OR eosinophilia OR "intravascular vacuoles" OR "post cardiac catheterization")
+2026-05-14 11:38:41 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch: "Drug-Induced Thrombotic Microangiopathy" AND ("mottled purplish discoloration" OR "reticulated skin" OR eosinophilia OR "intravascular vacuoles" OR "post cardiac catheterization")
+2026-05-14 11:38:42 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch complete
+2026-05-14 11:38:42 | INFO | src.pubmed_client | run=7d3d6a61 | No PMIDs found
+2026-05-14 11:38:42 | INFO | src.pubmed_client | run=7d3d6a61 | Starting search pipeline with query: "Sepsis" AND "Acute Kidney Injury" AND (fever OR leukocytosis OR elevated creatinine OR "decreased urinary output" OR malaise OR "post procedure")
+2026-05-14 11:38:42 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch: "Sepsis" AND "Acute Kidney Injury" AND (fever OR leukocytosis OR elevated creatinine OR "decreased urinary output" OR malaise OR "post procedure")
+2026-05-14 11:38:43 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch complete
+2026-05-14 11:38:43 | INFO | src.pubmed_client | run=7d3d6a61 | eFetch
+2026-05-14 11:38:47 | INFO | src.pubmed_client | run=7d3d6a61 | eFetch complete
+2026-05-14 11:38:47 | INFO | src.pubmed_client | run=7d3d6a61 | Filtering complete
+2026-05-14 11:38:47 | INFO | src.pubmed_client | run=7d3d6a61 | Validation complete
+2026-05-14 11:38:47 | INFO | src.pubmed_client | run=7d3d6a61 | Search metadata completeness
+2026-05-14 11:38:47 | INFO | src.pubmed_client | run=7d3d6a61 | Search pipeline complete
+2026-05-14 11:38:47 | INFO | src.pubmed_client | run=7d3d6a61 | Starting search pipeline with query: "Sepsis" AND "Acute Kidney Injury" AND ("mottled purplish discoloration" OR "reticulated skin" OR eosinophilia OR "intravascular vacuoles" OR "normal platelet count")
+2026-05-14 11:38:47 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch: "Sepsis" AND "Acute Kidney Injury" AND ("mottled purplish discoloration" OR "reticulated skin" OR eosinophilia OR "intravascular vacuoles" OR "normal platelet count")
+2026-05-14 11:38:48 | INFO | src.pubmed_client | run=7d3d6a61 | eSearch complete
+2026-05-14 11:38:48 | INFO | src.pubmed_client | run=7d3d6a61 | eFetch
+2026-05-14 11:38:48 | INFO | src.pubmed_client | run=7d3d6a61 | eFetch complete
+2026-05-14 11:38:48 | INFO | src.pubmed_client | run=7d3d6a61 | Filtering complete
+2026-05-14 11:38:48 | INFO | src.pubmed_client | run=7d3d6a61 | Validation complete
+2026-05-14 11:38:48 | INFO | src.pubmed_client | run=7d3d6a61 | Search metadata completeness
+2026-05-14 11:38:48 | INFO | src.pubmed_client | run=7d3d6a61 | Search pipeline complete
+2026-05-14 11:38:48 | INFO | src.core.registry | run=7d3d6a61 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-14 11:38:48 | INFO | src.epistemic.reproducibility_scorer | run=7d3d6a61 | ReproducibilityScorer initialised: w_design=0.40, w_sample=0.25, w_pvalue=0.15, w_prereg=0.20 (sum=1.00)
+2026-05-14 11:38:48 | INFO | src.epistemic.applicability_scorer | run=7d3d6a61 | ApplicabilityScorer initialised: w_pop=0.50, w_int=0.20, w_lex=0.30
+2026-05-14 11:38:48 | INFO | src.core.registry | run=7d3d6a61 | Embedding device selected | device=cpu cuda_available=False
+2026-05-14 11:39:39 | WARNING | tensorflow | run=7d3d6a61 | From D:\dialetic_rag\env\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+2026-05-14 11:39:42 | INFO | src.core.registry | run=7d3d6a61 | Embedding model selected | backend=sentence-transformers model=all-MiniLM-L6-v2 device=cpu
+2026-05-14 11:39:42 | INFO | sentence_transformers.SentenceTransformer | run=7d3d6a61 | Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2026-05-14 11:39:54 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 37001603: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.20, Apps=0.48
+2026-05-14 11:39:55 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 35273009: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.52, Apps=0.44
+2026-05-14 11:39:56 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 35830831: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.20, Apps=0.50
+2026-05-14 11:39:57 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 39138117: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.20, Apps=0.44
+2026-05-14 11:39:59 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 39455026: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.20, Apps=0.45
+2026-05-14 11:40:00 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 35534373: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.20, Apps=0.46
+2026-05-14 11:40:01 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 30249419: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.20, Apps=0.46
+2026-05-14 11:40:03 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 34051308: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.52, Apps=0.44
+2026-05-14 11:40:04 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 32301023: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.20, Apps=0.42
+2026-05-14 11:40:05 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 34972976: Design=StudyDesign.SYSTEMATIC_REVIEW, N=None, P-val=False, RPS=0.52, Apps=0.43
+2026-05-14 11:40:06 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 35902128: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.20, Apps=0.48
+2026-05-14 11:40:08 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 35303936: Design=StudyDesign.OTHER, N=1, P-val=False, RPS=0.20, Apps=0.49
+2026-05-14 11:40:09 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 38964832: Design=StudyDesign.OTHER, N=1, P-val=False, RPS=0.20, Apps=0.44
+2026-05-14 11:40:10 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 39191958: Design=StudyDesign.OTHER, N=1, P-val=False, RPS=0.20, Apps=0.39
+2026-05-14 11:40:12 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 33980166: Design=StudyDesign.OTHER, N=1, P-val=False, RPS=0.20, Apps=0.48
+2026-05-14 11:40:13 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 41887685: Design=StudyDesign.OTHER, N=1, P-val=False, RPS=0.20, Apps=0.45
+2026-05-14 11:40:14 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 39850900: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.20, Apps=0.39
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Scored PMID 33267747: Design=StudyDesign.OTHER, N=None, P-val=False, RPS=0.20, Apps=0.46
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 37001603: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 35830831: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 39138117: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 39455026: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 35534373: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 30249419: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 32301023: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 35902128: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 35303936: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 38964832: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 39191958: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 33980166: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 41887685: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 39850900: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.nodes.epistemic_scoring | run=7d3d6a61 | Dropped PMID 33267747: RPS 0.20 < 0.3
+2026-05-14 11:40:15 | INFO | src.core.registry | run=7d3d6a61 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-14 11:40:19 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Extracted 19 claims from PMID 35273009
+2026-05-14 11:40:22 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Extracted 14 claims from PMID 34051308
+2026-05-14 11:40:25 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Extracted 9 claims from PMID 34972976
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 0: 2 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 1: 2 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 2: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 3: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 4: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 5: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 6: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 7: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 8: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 9: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 10: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 11: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 12: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 13: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 14: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 15: 2 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 16: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 17: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 18: 4 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 19: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 20: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 21: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 22: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 23: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 24: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 25: 2 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 26: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 27: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 28: 3 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 29: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 30: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 31: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.nodes.claim_clustering | run=7d3d6a61 | Cluster 32: 1 claims from 1 studies
+2026-05-14 11:40:27 | INFO | src.epistemic.applicability_scorer | run=7d3d6a61 | ApplicabilityScorer initialised: w_pop=0.50, w_int=0.20, w_lex=0.30
+2026-05-14 11:40:27 | WARNING | src.nodes.claim_clustering | run=7d3d6a61 | Applicability refinement failed: 'EvidenceItem' object has no attribute 'get'; using original evidence pool
+2026-05-14 11:40:27 | INFO | src.core.registry | run=7d3d6a61 | Cross-encoder selected | backend=sentence-transformers model=cross-encoder/nli-deberta-v3-base device=cpu
+2026-05-14 11:40:32 | INFO | src.core.registry | run=7d3d6a61 | LLM selected | backend=vertex role=fast model=gemini-2.5-flash-lite temp=0.00 json=True
+2026-05-14 11:40:34 | INFO | src.nodes.conflict_analysis | run=7d3d6a61 | NLI_DEBUG {"pmid": "35273009", "claim_text": "Medications are a common cause of AKI", "hypothesis": "For a patient with population '61-year-old man with type 2 diabetes mellitus, osteoarthritis, and recent cardiac catheterization with stenting for unstable angina, presenting with decreased urinary output, malaise, and purplish discoloration of the feet.', intervention 'Evaluation of symptoms and laboratory findings, including renal biopsy showing intravascular spindle-shaped vacuoles.', and outcome 'Most likely cause of the patient's symptoms.', the most likely diagnosis is Cholesterol Embolism Syndrome.", "nli_raw_probs": {"ENTAILMENT": 0.0027, "NEUTRAL": 0.0008, "CONTRADICTION": 0.9965}, "nli_label": "CONTRADICTION", "nli_confidence": 0.997, "computed_stance": -0.997, "claim_confidence": 0.52}
+2026-05-14 11:40:35 | INFO | src.nodes.conflict_analysis | run=7d3d6a61 | NLI_DEBUG {"pmid": "35273009", "claim_text": "Medications are a common cause of AKI, especially for patients admitted to hospital wards and the intensive care unit", "hypothesis": "For a patient with population '61-year-old man with type 2 diabetes mellitus, osteoarthritis, and recent cardiac catheterization with stenting for unstable angina, presenting with decreased urinary output, malaise, and purplish discoloration of the feet.', intervention 'Evaluation of symptoms and laboratory findings, including renal biopsy showing intravascular spindle-shaped vacuoles.', and outcome 'Most likely cause of the patient's symptoms.', the most likely diagnosis is Cholesterol Embolism Syndrome.", "nli_raw_probs": {"ENTAILMENT": 0.0029, "NEUTRAL": 0.0008, "CONTRADICTION": 0.9963}, "nli_label": "CONTRADICTION", "nli_confidence": 0.996, "computed_stance": -0.996, "claim_confidence": 0.52}
+2026-05-14 11:40:36 | INFO | src.nodes.conflict_analysis | run=7d3d6a61 | NLI_DEBUG {"pmid": "35273009", "claim_text": "Medications are a common cause of AKI", "hypothesis": "For a patient with population '61-year-old man with type 2 diabetes mellitus, osteoarthritis, and recent cardiac catheterization with stenting for unstable angina, presenting with decreased urinary output, malaise, and purplish discoloration of the feet.', intervention 'Evaluation of symptoms and laboratory findings, including renal biopsy showing intravascular spindle-shaped vacuoles.', and outcome 'Most likely cause of the patient's symptoms.', the most likely diagnosis is Acute Interstitial Nephritis.", "nli_raw_probs": {"ENTAILMENT": 0.001, "NEUTRAL": 0.0038, "CONTRADICTION": 0.9952}, "nli_label": "CONTRADICTION", "nli_confidence": 0.995, "computed_stance": -0.995, "claim_confidence": 0.52}
+2026-05-14 11:40:36 | INFO | src.nodes.conflict_analysis | run=7d3d6a61 | NLI_DEBUG {"pmid": "35273009", "claim_text": "Medications are a common cause of AKI, especially for patients admitted to hospital wards and the intensive care unit", "hypothesis": "For a patient with population '61-year-old man with type 2 diabetes mellitus, osteoarthritis, and recent cardiac catheterization with stenting for unstable angina, presenting with decreased urinary output, malaise, and purplish discoloration of the feet.', intervention 'Evaluation of symptoms and laboratory findings, including renal biopsy showing intravascular spindle-shaped vacuoles.', and outcome 'Most likely cause of the patient's symptoms.', the most likely diagnosis is Acute Interstitial Nephritis.", "nli_raw_probs": {"ENTAILMENT": 0.0011, "NEUTRAL": 0.0036, "CONTRADICTION": 0.9953}, "nli_label": "CONTRADICTION", "nli_confidence": 0.995, "computed_stance": -0.995, "claim_confidence": 0.52}
+2026-05-14 11:40:37 | INFO | src.nodes.conflict_analysis | run=7d3d6a61 | NLI_DEBUG {"pmid": "35273009", "claim_text": "Medications are a common cause of AKI", "hypothesis": "For a patient with population '61-year-old man with type 2 diabetes mellitus, osteoarthritis, and recent cardiac catheterization with stenting for unstable angina, presenting with decreased urinary output, malaise, and purplish discoloration of the feet.', intervention 'Evaluation of symptoms and laboratory findings, including renal biopsy showing intravascular spindle-shaped vacuoles.', and outcome 'Most likely cause of the patient's symptoms.', the most likely diagnosis is Drug-Induced Thrombotic Microangiopathy.", "nli_raw_probs": {"ENTAILMENT": 0.0003, "NEUTRAL": 0.0039, "CONTRADICTION": 0.9959}, "nli_label": "CONTRADICTION", "nli_confidence": 0.996, "computed_stance": -0.996, "claim_confidence": 0.52}
+2026-05-14 11:42:00 | INFO | src.nodes.conflict_analysis | run=7d3d6a61 | Conflict Analysis complete | best=Sepsis with Acute Kidney Injury score=-0.910 state=CONTESTED shift=False
+2026-05-14 11:42:00 | INFO | src.nodes.uncertainty_propagation | run=7d3d6a61 | Uncertainty Propagation Input: 3 items
+2026-05-14 11:42:00 | INFO | src.epistemic.dempster_shafer | run=7d3d6a61 | DempsterShaferIntegrator initialised: gamma=0.90, k_threshold=0.50, k_abstain=0.80, conflict_scaling=4.0, refine_discount=0.70
+2026-05-14 11:42:00 | INFO | src.epistemic.epistemic_state_classifier | run=7d3d6a61 | EpistemicStateClassifier initialised: falsified_bf_min=0.60, falsified_bt_max=0.10
+2026-05-14 11:42:00 | INFO | src.epistemic.calibrated_abstention | run=7d3d6a61 | CalibratedAbstention initialised: k_abstain=0.80, full_belief_min=0.70, min_belief=0.10, qualified_conflict_max=0.50
+2026-05-14 11:42:00 | INFO | src.nodes.uncertainty_propagation | run=7d3d6a61 | Fusing evidence pool: 3 items
+2026-05-14 11:42:00 | INFO | src.nodes.uncertainty_propagation | run=7d3d6a61 | Item 35273009 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-14 11:42:00 | INFO | src.nodes.uncertainty_propagation | run=7d3d6a61 | Item 34051308 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-14 11:42:00 | INFO | src.nodes.uncertainty_propagation | run=7d3d6a61 | Item 34972976 Mass: True=0.000, False=0.000, U=1.000 (Stance=EvidenceStance.NEUTRAL)
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | 
+================================================================================
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | WORKFLOW EXECUTION COMPLETED
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | ================================================================================
+
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | Final State Summary:
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   original_question: Two weeks after undergoing an emergency cardiac catherization with stenting for unstable angina pect
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   final_reasoning: 
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   candidate_answer: ## ABSTAINED
+
+**Rationale**: Insufficient high-quality evidence available to form a conclusion.
+
+Evi
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   epistemic_state: CONTROVERSIAL
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | 
+================================================================================
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | VALIDATION METRICS
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | ================================================================================
+
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | Evidence Pool Size: 3 items
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | 
+Claim Extraction & Clustering:
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   - Extracted claims: 42
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   - Claim clusters: 33
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   - Cluster sizes: min=1, max=4, avg=1.3
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   ✓ PASS: Populated claim_clusters
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | 
+Trace Events: 6 events recorded
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   - claim_clustering: 1 events
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   - conflict_analysis: 1 events
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   - contrastive_retrieval: 1 events
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   - epistemic_scoring: 1 events
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   - pico_extraction: 1 events
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 |   - uncertainty_propagation: 1 events
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | 
+Full trace saved to: results\test_single_question_20260514_114200.json
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | 
+================================================================================
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | ✓ Single-question test completed successfully
+2026-05-14 11:42:00 | INFO | __main__ | run=7d3d6a61 | ================================================================================
+

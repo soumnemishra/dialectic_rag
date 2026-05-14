@@ -1,0 +1,9 @@
+2026-05-14 13:15:48 | INFO | src.config | run=8460d906 | Logging configured | level=INFO file=logs\ma_rag_20260514_131548.log run_id=8460d906
+2026-05-14 13:15:48 | INFO | __main__ | run=8460d906 | Initializing workflow for single-question test...
+2026-05-14 13:15:48 | INFO | __main__ | run=8460d906 | 
+================================================================================
+2026-05-14 13:15:48 | INFO | __main__ | run=8460d906 | Running single-question evaluation
+2026-05-14 13:15:48 | INFO | __main__ | run=8460d906 | Question: Two weeks after undergoing an emergency cardiac catherization with stenting for unstable angina pect...
+2026-05-14 13:15:48 | INFO | __main__ | run=8460d906 | ================================================================================
+
+2026-05-14 13:15:48 | INFO | __main__ | run=8460d906 | Invoking workflow with initial state...

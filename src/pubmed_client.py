@@ -143,6 +143,7 @@ class RetrievedDocument(BaseModel):
     doi: Optional[str] = Field(default=None, description="DOI")
     study_types: List[str] = Field(default_factory=list, description="Publication types")
     mesh_terms: List[str] = Field(default_factory=list, description="MeSH terms")
+    is_retracted: bool = Field(default=False, description="Whether PubMed marks the article with a retraction/correction relationship")
     source: str = Field(default="PubMed", description="Data source")
     publication_types: List[str] = Field(default_factory=list, description="All publication types found")
     # Provenance and retrieval metadata (populated by retrieval layer)
@@ -211,6 +212,7 @@ class RawArticle:
     mesh_terms: List[str] = field(default_factory=list)
     is_human_study: bool = False
     publication_types: List[str] = field(default_factory=list)
+    is_retracted: bool = False
 
 
 # =============================================================================
@@ -649,6 +651,18 @@ class PubMedClient:
         
         # Check if human study
         is_human = "Humans" in mesh_terms
+
+        # Retractions/corrections are explicit PubMed XML relationships. Keep
+        # this deterministic so downstream safety gates do not depend on text.
+        is_retracted = False
+        correction_ref_types = {"RetractionOf", "RetractionIn", "UpdateOf", "ErratumFor"}
+        corrections = article_elem.find("CommentsCorrectionsList")
+        if corrections:
+            for comment in corrections.find_all("CommentsCorrections"):
+                ref_type = comment.get("RefType", "")
+                if ref_type in correction_ref_types:
+                    is_retracted = True
+                    break
         
         return RawArticle(
             pmid=pmid,
@@ -661,7 +675,8 @@ class PubMedClient:
             study_types=study_types,
             mesh_terms=mesh_terms,
             is_human_study=is_human,
-            publication_types=pub_types
+            publication_types=pub_types,
+            is_retracted=is_retracted
         )
     
     # =========================================================================
@@ -771,6 +786,7 @@ class PubMedClient:
                     doi=article.doi,
                     study_types=article.study_types,
                     mesh_terms=article.mesh_terms,
+                    is_retracted=article.is_retracted,
                     publication_types=article.publication_types,
                 )
 

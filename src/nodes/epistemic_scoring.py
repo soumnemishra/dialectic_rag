@@ -22,9 +22,10 @@ async def epistemic_scoring_node(state: GraphState) -> dict[str, Any]:
     unique_articles = {}
     for perspective, articles in retrieved_docs_dict.items():
         for art in articles:
-            pmid = art.get("pmid")
+            art_dict = art.model_dump() if hasattr(art, "model_dump") else dict(art)
+            pmid = art_dict.get("pmid")
             if pmid not in unique_articles:
-                unique_articles[pmid] = art
+                unique_articles[pmid] = art_dict
     
     extractor = MetadataExtractor()
     rep_scorer = ReproducibilityScorer()
@@ -39,7 +40,7 @@ async def epistemic_scoring_node(state: GraphState) -> dict[str, Any]:
             title = art.get("title", "")
             
             # 1. Extract Metadata
-            metadata = await extractor.extract(abstract, pmid=pmid)
+            metadata = await extractor.extract(article_dict=art, pmid=pmid)
             # Ensure year is populated from retrieved article XML if LLM extractor didn't provide it
             if getattr(metadata, "year", None) is None:
                 metadata.year = art.get("year") or art.get("publication_year")
