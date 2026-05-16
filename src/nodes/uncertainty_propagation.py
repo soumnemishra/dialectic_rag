@@ -2,12 +2,18 @@ from __future__ import annotations
 import logging
 from typing import Any
 from src.models.state import GraphState
+from src.models.schemas import EvidenceItem
 from src.models.enums import EpistemicState
 from src.epistemic.dempster_shafer import DempsterShaferIntegrator
 from src.epistemic.epistemic_state_classifier import EpistemicStateClassifier
 from src.epistemic.calibrated_abstention import CalibratedAbstention
+from src.config import epistemic_settings
 
 logger = logging.getLogger(__name__)
+
+
+def _stance_value(item: EvidenceItem) -> str:
+    return str(getattr(item.stance, "value", item.stance or "NEUTRAL"))
 
 async def uncertainty_propagation_node(state: GraphState) -> dict[str, Any]:
     """
@@ -117,6 +123,20 @@ async def uncertainty_propagation_node(state: GraphState) -> dict[str, Any]:
         trace_event = {
             "node": "uncertainty_propagation",
             "section": "dempster_shafer_combination",
+            "equation_alignment": {
+                "equations": {
+                    "evidence_weight": "Eq. (6) w=RPS*A",
+                    "mass_assignment": "Eq. (7) m(T/F)=gamma*w; m(Theta)=1-m(T)-m(F)",
+                    "conflict": "Eq. (8)-(9) K and K_global",
+                    "decision_probability": "Eq. (10) BetP(T)=m(T)+0.5*m(Theta)",
+                },
+                "yaml_sections": {
+                    "ds": epistemic_settings.get("ds", {}),
+                    "evidence_gating": epistemic_settings.get("evidence_gating", {}),
+                    "states": epistemic_settings.get("states", {}),
+                    "abstention": epistemic_settings.get("abstention", {}),
+                },
+            },
             "output": {
                 "final_belief_masses": {
                     "belief_true": round(combined_mass.belief_true, 4),
@@ -125,9 +145,15 @@ async def uncertainty_propagation_node(state: GraphState) -> dict[str, Any]:
                 },
                 "conflict_mass": round(conflict, 4),
                 "pignistic_belief": round(belief, 4),
-                "epistemic_state": state_class,
-                "decision": tier,
-                "rationale": rationale
+                "epistemic_state": state_class.value,
+                "decision": tier.value,
+                "rationale": rationale,
+                "stance_counts": {
+                    "SUPPORT": sum(1 for item in evidence_pool if _stance_value(item) == "SUPPORT"),
+                    "OPPOSE": sum(1 for item in evidence_pool if _stance_value(item) == "OPPOSE"),
+                    "REFINE": sum(1 for item in evidence_pool if _stance_value(item) == "REFINE"),
+                    "NEUTRAL": sum(1 for item in evidence_pool if _stance_value(item) == "NEUTRAL"),
+                }
             }
         }
         

@@ -1,0 +1,69 @@
+{
+  "pmid": "39844140",
+  "title": "Extracellular matrix turnover in severe COVID-19 is reduced by corticosteroids.",
+  "abstract": "BACKGROUND: Severe and critical COVID-19 is characterized by pulmonary viral infection with SARS-CoV-2 resulting in local and systemic inflammation. Dexamethasone (DEX) has been shown to improve outcomes in critically ill patients; however, its effect on tissue remodeling, particularly collagen turnover, remains unclear. This study investigated the association between circulating extracellular matrix (ECM) remodeling neo-epitopes and COVID-19 severity, their relationship with mortality, and the effect of DEX on these markers. METHODS: We conducted a multi-center prospective cohort study involving 226 COVID-19 patients: 157 with severe disease admitted to the ward and 69 with critical disease admitted to the ICU. Plasma samples were collected at ICU admission and at discharge or death. Circulating collagen degradation (C3M, C4Ma3, and C6M) and synthesis (PRO-C3, PRO-C4, and PRO-C6) neo-epitopes were measured. Longitudinal analysis of ECM neo-epitope changes during ICU stay and their association with mortality was performed, along with an evaluation of the impact of DEX treatment on these markers. RESULTS: Critically ill patients exhibited higher levels of collagen degradation (reflecting inflammatory driven ECM destruction) (C3M, C6M) and collagen synthesis (strongly related to fibroblast activity) (PRO-C3, PRO-C6) neo-epitopes than severe patients. Increased collagen turnover, measured during ICU stay, was associated with mortality. Non-survivors displayed rising levels of collagen degradation and synthesis markers over time, whereas survivors had stable or declining levels. In non-survivors without DEX treatment, C6M and PRO-C6 levels were significantly increased, whereas these elevations were less pronounced in patients treated with DEX. CONCLUSION: Our findings suggest that elevated collagen turnover is associated with poor outcomes in critically ill COVID-19 patients. DEX treatment appeared to attenuate ECM remodeling, although this effect was not linked to improved survival. Further studies are needed to confirm these observations and better understand the role of ECM remodeling in COVID-19 and the potential therapeutic impact of corticosteroids.",
+  "year": 2025,
+  "journal": "Respiratory research",
+  "authors": [
+    "Janesh Pillay",
+    "Antine W Flikweert",
+    "Matijs van Meurs",
+    "Marco J Grootenboers",
+    "Simone van der Sar-van der Brugge",
+    "Peter H J van der Voort",
+    "Morten A Karsdal",
+    "Jannie M B Sand",
+    "Diana J Leeming",
+    "Janette K Burgess",
+    "Jill Moser"
+  ],
+  "doi": "10.1186/s12931-025-03098-9",
+  "publication_types": [
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Female",
+    "Extracellular Matrix",
+    "Middle Aged",
+    "COVID-19",
+    "Aged",
+    "Prospective Studies",
+    "Dexamethasone",
+    "COVID-19 Drug Treatment",
+    "Severity of Illness Index",
+    "Adrenal Cortex Hormones",
+    "Collagen",
+    "Cohort Studies",
+    "Critical Illness",
+    "Biomarkers"
+  ],
+  "keywords": [
+    "ARDS",
+    "COVID-19",
+    "Corticosteroids",
+    "Extracellular matrix",
+    "Neo-epitopes"
+  ],
+  "affiliations": [
+    "Department of Critical Care, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands. j.pillay@umcg.nl.",
+    "Department of Pathology & Medical Biology, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands. j.pillay@umcg.nl.",
+    "Research Institute for Asthma and COPD, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands. j.pillay@umcg.nl.",
+    "Department of Critical Care, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands.",
+    "Department of Pulmonary Medicine, Amphia Hospital, Breda, The Netherlands.",
+    "Department of Critical Care, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands.",
+    "Department of Pathology & Medical Biology, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands.",
+    "Department of Pulmonary Medicine, Amphia Hospital, Breda, The Netherlands.",
+    "Department of Pulmonary Medicine, Amphia Hospital, Breda, The Netherlands.",
+    "Department of Critical Care, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands.",
+    "Nordic Bioscience, Hepatic and Pulmonary Research, Herlev, Denmark.",
+    "Nordic Bioscience, Hepatic and Pulmonary Research, Herlev, Denmark.",
+    "Nordic Bioscience, Hepatic and Pulmonary Research, Herlev, Denmark.",
+    "Department of Pathology & Medical Biology, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands.",
+    "Research Institute for Asthma and COPD, University Medical Center Groningen, University of Groningen, Groningen, The Netherlands.",
+    "Department of Critical Care, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands. j.moser@umcg.nl.",
+    "Department of Pathology & Medical Biology, University of Groningen, University Medical Center Groningen, Groningen, The Netherlands. j.moser@umcg.nl."
+  ]
+}

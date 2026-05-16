@@ -1,5 +1,6 @@
 import logging
 import asyncio
+import os
 from typing import Dict, Any, List, Optional
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
@@ -7,6 +8,7 @@ from src.core.registry import ModelRegistry, safe_ainvoke
 from src.models.state import GraphState
 from src.pubmed_client import PubMedClient
 from src.retrieval.pico_extractor import PICOExtractor
+from src.utils.debug_utils import get_debug_manager
 
 logger = logging.getLogger(__name__)
 
@@ -65,6 +67,8 @@ class ContrastiveRetriever:
             return {}
 
 async def contrastive_retrieval_node(state: GraphState) -> Dict[str, Any]:
+    debug_manager = get_debug_manager()
+    debug_retrieval = os.getenv("DEBUG_RETRIEVAL", "false").strip().lower() in {"1", "true", "yes", "on"}
     question = state.get("original_question", "")
     import re
     # Extract vignette
@@ -84,7 +88,18 @@ async def contrastive_retrieval_node(state: GraphState) -> Dict[str, Any]:
     
     # Store counts for trace
     results_summary = {}
+    fallback_used = False
+    fallback_queries = {}
 
+    # Helper function to broaden a query
+    def broaden_query(q: str) -> str:
+        """Remove quotes, relax AND to OR, add fallback terms."""
+        s = q.replace('"', '')
+        s = s.replace(' AND ', ' OR ')
+        suffix = ' OR ethics OR disclosure OR "medical error" OR "operative report" OR reporting'
+        return s + suffix
+
+    # First pass: try original queries
     for candidate, queries in queries_by_candidate.items():
         all_retrieved_docs[candidate] = []
         candidate_count = 0
@@ -112,12 +127,85 @@ async def contrastive_retrieval_node(state: GraphState) -> Dict[str, Any]:
                 
         results_summary[candidate] = candidate_count
 
+    # Second pass: if no results, try broadened fallback queries
+    if len(dedup_seen) == 0:
+        logger.info("No PMIDs found in initial queries. Running fallback broadened queries.")
+        fallback_used = True
+        for candidate, queries in queries_by_candidate.items():
+            for p_type, qs in queries.items():
+                try:
+                    if isinstance(qs, list):
+                        qs = qs[0]
+                    alt_qs = broaden_query(qs)
+                    fallback_queries[f"{candidate}_{p_type}"] = alt_qs
+                    docs = await retriever.pubmed.search(alt_qs, max_results=20)
+                    
+                    for doc in docs:
+                        pmid = doc.pmid
+                        if pmid not in dedup_seen:
+                            dedup_seen.add(pmid)
+                            doc_dict = doc.model_dump()
+                            doc_dict["candidate"] = candidate
+                            doc_dict["perspective"] = p_type
+                            doc_dict["query_fallback"] = True
+                            all_retrieved_docs[candidate].append(doc_dict)
+                            results_summary[candidate] = results_summary.get(candidate, 0) + 1
+                except Exception as e:
+                    logger.error(f"Fallback search failed for {candidate} ({p_type}): {e}")
+
     trace_event = {
         "node": "contrastive_retrieval",
         "section": "retrieval",
         "input": {"candidates": candidates},
-        "output": {"queries_generated": queries_by_candidate, "results_per_candidate": results_summary, "total_unique": len(dedup_seen)}
+        "evaluation_policy": {
+            "zero_shot": True,
+            "question_only_retrieval": True,
+            "options_visible_to_retrieval": False,
+            "mcq_options_present_but_hidden": bool(state.get("mcq_options")),
+        },
+        "output": {
+            "queries_generated": queries_by_candidate,
+            "results_per_candidate": results_summary,
+            "total_unique": len(dedup_seen),
+            "fallback_used": fallback_used,
+            "fallback_queries": fallback_queries if fallback_used else None
+        }
     }
+
+    if debug_retrieval and debug_manager.is_enabled():
+        retrieved_articles = []
+        for _, articles in all_retrieved_docs.items():
+            for article in articles:
+                retrieved_articles.append(article)
+
+        debug_manager.save_query_snapshot(
+            query=question,
+            payload={
+                "pmids": sorted(list(dedup_seen)),
+                "retrieved_articles": retrieved_articles,
+                "queries_generated": queries_by_candidate,
+                "results_per_candidate": results_summary,
+                "fallback_used": fallback_used,
+                "fallback_queries": fallback_queries if fallback_used else None,
+                "evidence_scores": state.get("evidence_scores", {}),
+                "calibration_metrics": state.get("calibration_metrics", {}),
+                "final_answer": state.get("final_answer") or state.get("candidate_answer"),
+                "epistemic_state": state.get("epistemic_state"),
+                "trace_id": state.get("trace_id"),
+            },
+        )
+        debug_manager.save_json(
+            "workflow/state_snapshot.json",
+            {
+                "timestamp": state.get("trace_created_at"),
+                "node": "contrastive_retrieval",
+                "input_state": dict(state),
+                "output_state": {
+                    "retrieved_docs": all_retrieved_docs,
+                    "trace_event": trace_event,
+                },
+            },
+        )
     
     return {
         "retrieved_docs": all_retrieved_docs,

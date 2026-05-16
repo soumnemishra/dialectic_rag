@@ -1,0 +1,41 @@
+{
+  "pmid": "38987879",
+  "title": "A Brief Overview of the Diagnosis and Treatment of Cobalamin (B12) Deficiency.",
+  "abstract": "BACKGROUND: An increasing number of adult individuals are at risk of vitamin B12 deficiency, either from reduced nutritional intake or impaired gastrointestinal B12 absorption. OBJECTIVE: This study aims to review the current best practices for the diagnosis and treatment of individuals with vitamin B12 deficiency. METHODS: A narrative literature review of the diagnosis and treatment of vitamin B12 deficiency. RESULTS: Prevention and early treatment of B12 deficiency is essential to avoid irreversible neurological consequences. Diagnosis is often difficult due to diverse symptoms, marked differences in diagnostic assays' performance and the unreliability of second-line biomarkers, including holo-transcobalamin, methylmalonic acid and total homocysteine. Reduced dietary intake of B12 requires oral supplementation. In B12 malabsorption, oral supplementation is likely insufficient, and parenteral (i.e. intramuscular) supplementation is preferred. There is no consensus on the optimal long-term management of B12 deficiency with intramuscular therapy. According to the British National Formulary guidelines, many individuals with B12 deficiency due to malabsorption can be managed with 1000 µg intramuscular hydroxocobalamin once every two months after the initial loading. Long-term B12 supplementation is effective and safe, but responses to treatment may vary considerably. Clinical and patient experience strongly suggests that up to 50% of individuals require individualized injection regimens with more frequent administration, ranging from daily or twice weekly to every 2-4 weeks, to remain symptom-free and maintain a normal quality of life. 'Titration' of injection frequency based on measuring biomarkers such as serum B12 or MMA should not be practiced. There is currently no evidence to support that oral/sublingual supplementation can safely and effectively replace injections. CONCLUSIONS: This study highlights the interindividual differences in symptomatology and treatment of people with B12 deficiency. Treatment follows an individualized approach, based on the cause of the deficiency, and tailored to help someone to become and remain symptom-free. Plain language titleDiagnosis and Treatment of Vitamin B12 DeficiencyPlain language summaryThe number of people who are at risk of developing a deficiency of vitamin B12 is steadily increasing. B12 deficiency can develop when people consume too few B12-containing foods of animal origin, or when they develop a form of B12 malabsorption. B12 deficiency can lead to serious complications so prevention and early treatment are essential. Diagnosing B12 deficiency can be challenging: the symptoms vary from patient to patient, and the methods used to measure B12 in the blood, or certain biomarkers associated with B12 metabolism, such as holo-transcobalamin, methylmalonic acid, and total homocysteine are unreliable. When people do not consume enough B12-containing foods, supplementation with B12 tablets is needed. In the case of B12 malabsorption, intramuscular injections of B12 are mandatory. The usual treatment with B12 is starting with injections of 1000 µg hydroxocobalamin twice weekly or on every other day for a period of up to 5 weeks or longer, until all symptoms have disappeared, and thereafter, the frequency of injections is gradually reduced. There is, however, a large group of people who require more frequent administration to become and remain symptom-free: this may range from daily or twice weekly to every 2 to 4 weeks.",
+  "year": 2024,
+  "journal": "Food and nutrition bulletin",
+  "authors": [
+    "Bruce H R Wolffenbuttel",
+    "Andrew McCaddon",
+    "Kourosh R Ahmadi",
+    "Ralph Green"
+  ],
+  "doi": "10.1177/03795721241229500",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Vitamin B 12 Deficiency",
+    "Humans",
+    "Vitamin B 12",
+    "Dietary Supplements",
+    "Injections, Intramuscular",
+    "Biomarkers",
+    "Methylmalonic Acid",
+    "Hydroxocobalamin"
+  ],
+  "keywords": [
+    "diagnosis",
+    "education",
+    "public health",
+    "supplementation",
+    "vitamin B12"
+  ],
+  "affiliations": [
+    "University of Groningen, University Medical Center Groningen, Groningen, the Netherlands.",
+    "Faculty of Social and Life Sciences, Wrexham University, Wrexham, United Kingdom.",
+    "School of Biosciences and Medicine, University of Surrey, Guildford, United Kingdom.",
+    "University of California Davis, Sacramento, CA, USA."
+  ]
+}

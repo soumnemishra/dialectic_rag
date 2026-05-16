@@ -1,0 +1,46 @@
+{
+  "pmid": "3927946",
+  "title": "Vitamin B12-folate interrelationships.",
+  "abstract": "The studies discussed in this review support the view that biochemical and clinical symptoms common to both folate and vitamin B12 deficiency are due to the induction of a functional folate deficiency, which in turn is induced by cobalamin deprivation. The interrelationship between these two vitamins is best explained by the methyl trap hypothesis stating that vitamin B12 deficiency can lead to lowered levels of methionine synthetase, which results in a functional folate deficiency by trapping an increased proportion of folate as the 5-methyl derivative. In addition, as 5-methyl-H4PteGlu is a poor substrate for folylpolyglutamate synthetase, there is a decreased synthesis of folylpolyglutamates and consequently a decreased retention of folates by tissues. The real folate deficiency that ensues because of decreased tissue folate levels is probably as important physiologically as the functional deficiency caused by the methyl trap. The sparing effect of methionine can be explained by adenosylmethionine inhibition of methylenetetrahydrofolate reductase, which would prevent the buildup of 5-methyl-H4PteGlun. A deficiency in vitamin B12 would not, in itself, be sufficient to cause a disturbance in folate metabolism. The deficiency would have to result in lowered methyltransferase levels before any such disturbance would be manifest.",
+  "year": 1985,
+  "journal": "Annual review of nutrition",
+  "authors": [
+    "B Shane",
+    "E L Stokstad"
+  ],
+  "doi": "10.1146/annurev.nu.05.070185.000555",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, U.S. Gov't, P.H.S.",
+    "Review"
+  ],
+  "mesh_terms": [
+    "5-Methyltetrahydrofolate-Homocysteine S-Methyltransferase",
+    "Amino Acids",
+    "Animals",
+    "Bone Marrow",
+    "Folic Acid",
+    "Folic Acid Deficiency",
+    "Formates",
+    "Formiminoglutamic Acid",
+    "Histidine",
+    "Homeostasis",
+    "Humans",
+    "Liver",
+    "Megaloblasts",
+    "Methionine",
+    "Methylation",
+    "Nitrous Oxide",
+    "Peptide Synthases",
+    "Pteroylpolyglutamic Acids",
+    "Purines",
+    "Serine",
+    "Thymidine Monophosphate",
+    "Thymidylate Synthase",
+    "Thyroid Gland",
+    "Vitamin B 12",
+    "Vitamin B 12 Deficiency"
+  ],
+  "keywords": [],
+  "affiliations": []
+}

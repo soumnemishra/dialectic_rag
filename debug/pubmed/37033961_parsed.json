@@ -1,0 +1,51 @@
+{
+  "pmid": "37033961",
+  "title": "Immune and ionic mechanisms mediating the effect of dexamethasone in severe COVID-19.",
+  "abstract": "INTRODUCTION: Severe COVID-19 is characterized by cytokine storm, an excessive production of proinflammatory cytokines that contributes to acute lung damage and death. Dexamethasone is routinely used to treat severe COVID-19 and has been shown to reduce patient mortality. However, the mechanisms underlying the beneficial effects of dexamethasone are poorly understood. METHODS: We conducted transcriptomic analysis of peripheral blood mononuclear cells (PBMCs) from COVID-19 patients with mild disease, and patients with severe COVID-19 with and without dexamethasone treatment. We then treated healthy donor PBMCs in vitro with dexamethasone and investigated the effects of dexamethasone treatment ion channel abundance (by RT-qPCR and flow cytometry) and function (by electrophysiology, Ca2+ influx measurements and cytokine release) in T cells. RESULTS: We observed that dexamethasone treatment in severe COVID-19 inhibited pro-inflammatory and immune exhaustion pathways, circulating cytotoxic and Th1 cells, interferon (IFN) signaling, genes involved in cytokine storm, and Ca2+ signaling. Ca2+ influx is regulated by Kv1.3 potassium channels, but their role in COVID-19 pathogenesis remains elusive. Kv1.3 mRNA was increased in PBMCs of severe COVID-19 patients, and was significantly reduced in the dexamethasone-treated group. In agreement with these findings, in vitro treatment of healthy donor PBMCs with dexamethasone reduced Kv1.3 abundance in T cells and CD56dimNK cells. Furthermore, functional studies showed that dexamethasone treatment significantly reduced Kv1.3 activity, Ca2+ influx and IFN-g production in T cells. CONCLUSION: Our findings suggest that dexamethasone attenuates inflammatory cytokine release via Kv1.3 suppression, and this mechanism contributes to dexamethasone-mediated immunosuppression in severe COVID-19.",
+  "year": 2023,
+  "journal": "Frontiers in immunology",
+  "authors": [
+    "Ameet A Chimote",
+    "Abdulaziz O Alshwimi",
+    "Martina Chirra",
+    "Vaibhavkumar S Gawali",
+    "Margaret V Powers-Fletcher",
+    "Kristin M Hudock",
+    "Laura Conforti"
+  ],
+  "doi": "10.3389/fimmu.2023.1143350",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Research Support, N.I.H., Extramural"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Leukocytes, Mononuclear",
+    "Calcium",
+    "Cytokine Release Syndrome",
+    "COVID-19 Drug Treatment",
+    "Cytokines",
+    "Dexamethasone"
+  ],
+  "keywords": [
+    "COVID-19",
+    "cytokine storm",
+    "dexamethasone",
+    "interferon signaling",
+    "ion channels",
+    "severe COVID-19",
+    "severe COVID-19 immune signaling"
+  ],
+  "affiliations": [
+    "Department of Internal Medicine, Division of Nephrology, University of Cincinnati, Cincinnati, OH, United States.",
+    "Department of Internal Medicine, Division of Nephrology, University of Cincinnati, Cincinnati, OH, United States.",
+    "Department of Internal Medicine, Division of Nephrology, University of Cincinnati, Cincinnati, OH, United States.",
+    "Department of Internal Medicine, Division of Nephrology, University of Cincinnati, Cincinnati, OH, United States.",
+    "Department of Internal Medicine, Division of Infectious Diseases, University of Cincinnati, Cincinnati, OH, United States.",
+    "Department of Internal Medicine, Division of Pulmonary, Critical Care and Sleep Medicine, University of Cincinnati, Cincinnati, OH, United States.",
+    "Department of Pediatrics, Division of Pulmonary Biology, Cincinnati Children's Hospital Medical Center, Cincinnati, OH, United States.",
+    "Department of Internal Medicine, Division of Nephrology, University of Cincinnati, Cincinnati, OH, United States."
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "pmid": "34826840",
+  "title": "[Clinical benefit of Tocilizumab and other immunomodulating agents for treatment of COVID-19].",
+  "abstract": "The pathophysiological course of COVID-19 can be distinguished in a phase of viral replication and an inflammatory phase. Hyperinflammatory processes promote the development of severe COVID-19. Therefore, immunomodulating agents came into focus. Dexamethasone has already become standard of care for treatment of severe COVID-19. Two large randomized trials and a meta-analysis of collectively nine randomized trials showed a reduced mortality in patients with severe COVID-19 if Tocilizumab - an IL-6-rezeptor antagonist - was added to standard of care. Treatment with Baricitinib - a JAK 1/2 inhibitor - may also be beneficial for patients without or on low oxygen supplementation. National and international guidelines recommend Tocilizumab for treatment of severe COVID-19. Treatment with JAK inhibitors is an option for hospitalized patients with moderate COVID-19. It should be emphasized that comedication of JAK inhibitors and Tocilizumab is not recommended. Further high quality research is required for the widespread use of immunomodulating agents in COVID-19. IMMUNOLOGISCHER VERLAUF DER COVID-19-ERKRANKUNG:  Der pathogenetische Verlauf der COVID-19-Erkrankung lässt sich in eine replikative und eine hyperinflammatorische Phase unterteilen. Da bei schweren Verläufen die Hyperinflammation von zentraler Bedeutung ist, nehmen Immunmodulatoren aktuell eine immer größere Rolle in der Behandlung von COVID-19 ein. So gehört Dexamethason mittlerweile zur empfohlenen Therapie bei drohendem schwerem Verlauf. Weitere Immunmodulatoren wie Tocilizumab und JAK-Inhibitoren erscheinen ebenfalls vielversprechend in der Behandlung von COVID-19. WIRKUNGSWEISE VON TOCILIZUMAB UND BARICITINIB:  Tocilizumab greift als IL-6-Rezeptor-Antagonist in zentrale Schlüsselpositionen der proinflammatorischen Signalkaskade ein und wird seit einigen Jahren erfolgreich bei rheumatologischen Krankheitsbildern eingesetzt. Baricitinib ist ein JAK-1/2-Inhibitor und wird gegenwärtig zur Behandlung der rheumatoiden Arthritis eingesetzt. Neben der immunmodulatorischen Wirkung durch Inhibition der Janus-Kinasen im Bereich der Inflammations-Kaskade werden auch direkte antivirale Effekte diskutiert. BISHERIGE STUDIENLAGE ZU DIREKTEN IMMUNMODULATOREN BEI COVID-19:  Mehrere Studien zu Tocilizumab zeigten einen potenziellen positiven Effekt bei schwerer COVID-19-Erkrankung. Daten einer kürzlich veröffentlichten Meta-Analyse über 9 randomisierte kontrollierte Studien konnten kumulativ eine Mortalitätsreduktion durch Tocilizumab nachweisen. Der Einsatz im Rahmen der intensivmedizinischen Behandlung bei schweren Verläufen von COVID-19 wird daher empfohlen. Die Behandlung mit JAK-Inhibitoren scheint bei Patienten mit leichter COVID-19 Erkrankung ebenfalls einen positiven Effekt zu haben. Jedoch ist die Datenlage zu JAK-Inhibitoren und anderen Immunmodulatoren wie Anakinra im Vergleich zu Tocilizumab gegenwärtig noch uneinheitlich und bedarf weiterer Studien. Nach Therapie mit JAK-Inhibitoren wird die Gabe von Tocilizumab bei klinischer Verschlechterung aufgrund der fehlenden Datenlage derzeit nicht empfohlen.",
+  "year": 2021,
+  "journal": "Deutsche medizinische Wochenschrift (1946)",
+  "authors": [
+    "Daniel Hornuss",
+    "Roland Giesen",
+    "Paul Biever",
+    "Winfried V Kern"
+  ],
+  "doi": "10.1055/a-1643-4209",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Antibodies, Monoclonal, Humanized",
+    "Azetidines",
+    "Humans",
+    "Immunomodulating Agents",
+    "Purines",
+    "Pyrazoles",
+    "Sulfonamides",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Klinik für Innere Medizin II - Gastroenterologie, Hepatologie, Endokrinologie, Infektiologie, Universitätsklinikum Freiburg, Medizinische Fakultät, Albert-Ludwigs-Universität Freiburg.",
+    "Klinik für Innere Medizin II - Gastroenterologie, Hepatologie, Endokrinologie, Infektiologie, Universitätsklinikum Freiburg, Medizinische Fakultät, Albert-Ludwigs-Universität Freiburg.",
+    "Klinik für Innere Medizin II - Gastroenterologie, Hepatologie, Endokrinologie, Infektiologie, Universitätsklinikum Freiburg, Medizinische Fakultät, Albert-Ludwigs-Universität Freiburg.",
+    "Klinik für Kardiologie I - Universitäts-Herzzentrum Freiburg-Bad Krozingen, Universitätsklinikum Freiburg, Medizinische Fakultät, Albert-Ludwigs-Universität Freiburg.",
+    "Klinik für Innere Medizin II - Gastroenterologie, Hepatologie, Endokrinologie, Infektiologie, Universitätsklinikum Freiburg, Medizinische Fakultät, Albert-Ludwigs-Universität Freiburg."
+  ]
+}

@@ -289,27 +289,45 @@ async def refine_applicability_with_claims(
 
     refined_pool = []
     for item in evidence_pool:
-        pmid = str(item.get("pmid", ""))
+        # Support both dict-like evidence and EvidenceItem objects
+        if hasattr(item, "pmid"):
+            pmid = str(getattr(item, "pmid", ""))
+            abstract_text = str(getattr(item, "abstract", ""))[:2000]
+        else:
+            pmid = str(item.get("pmid", ""))
+            abstract_text = str(item.get("abstract", ""))[:2000]
+
         claims_for_pmid = claim_index_by_pmid.get(pmid, [])
-        
+
         # Build population profile from extracted claims
         if claims_for_pmid:
             profile = _build_population_profile(claims_for_pmid)
         else:
             profile = ""
-        
+
         # If no population profile extracted, fall back to abstract
         if not profile:
-            profile = item.get("abstract", "")[:2000]
-        
+            profile = abstract_text
+
         # Re-compute applicability with the population profile
         refined_score = scorer.compute(
             patient_pico,
-            study_abstract=item.get("abstract", ""),
+            study_abstract=abstract_text,
             study_population_profile=profile,
         )
-        
-        item["applicability_score"] = refined_score
+
+        # Write back refined score to either object or dict
+        try:
+            if hasattr(item, "applicability_score"):
+                setattr(item, "applicability_score", float(refined_score))
+            else:
+                item["applicability_score"] = float(refined_score)
+        except Exception:
+            try:
+                item["applicability_score"] = float(refined_score)
+            except Exception:
+                pass
+
         refined_pool.append(item)
     
     logger.info(f"Refined applicability scores for {len(refined_pool)} evidence items using extracted population claims")

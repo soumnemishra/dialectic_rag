@@ -1,0 +1,47 @@
+{
+  "pmid": "35084705",
+  "title": "Comparing the efficacy of tocilizumab with corticosteroid therapy in treating COVID-19 patients: a systematic review and meta-analysis.",
+  "abstract": "PURPOSE: Tocilizumab has shown equivocal outcomes in reducing mortality in COVID-19. The corticosteroids appear to be an affordable alternative to tocilizumab. This study aims to estimate the efficacy of tocilizumab and the corticosteroids particularly dexamethasone and methylprednisolone and to identify possible determinants of their efficacy. METHODS: Five electronic databases were searched for studies involving tocilizumab, dexamethasone, and methylprednisolone in treating COVID-19. We included case-control and randomized or partially randomized trials. Meta-regression for patient baseline characteristics, co-medications, and tocilizumab dose regimens was performed to identify contributing factors to drug efficacy. RESULTS: Thirteen randomized controlled trials (RCTs) and twenty-four case-control studies were included in our meta-analysis involving 18,702 patients. Meta-analysis among the RCTs showed that a summary estimate favoring mortality reduction (OR 0.71, 95%CI 0.55 - 0.92) contributed mainly by tocilizumab and dexamethasone. Among case-control studies, meta-analysis showed mortality reduction (OR 0.52, 95%CI 0.36 - 0.75) contributed by tocilizumab and tocilizumab-methylprednisolone combination. Methylprednisolone alone did not reduce mortality except for one study involving high dose pulse therapy. Meta-analysis also found that all three drugs did not significantly reduce mechanical ventilation (OR 0.72, 95%CI 0.32 - 1.60). CONCLUSION: Tocilizumab and dexamethasone emerge as viable options in reducing mortality in severe COVID-19 patients. A tocilizumab-corticosteroid combination strategy may improve therapeutic outcome in cases where single therapy fails.",
+  "year": 2022,
+  "journal": "Daru : journal of Faculty of Pharmacy, Tehran University of Medical Sciences",
+  "authors": [
+    "Phei Ching Lim",
+    "Kar Loon Wong",
+    "Retha Rajah",
+    "Meng Fei Chong",
+    "Ting Soo Chow",
+    "Sivasangari Subramaniam",
+    "Chong Yew Lee"
+  ],
+  "doi": "10.1007/s40199-021-00430-8",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Adrenal Cortex Hormones",
+    "Antibodies, Monoclonal, Humanized",
+    "Dexamethasone",
+    "Humans",
+    "Methylprednisolone",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Dexamethasone",
+    "Meta-analysis",
+    "Methylprednisolone",
+    "Tocilizumab"
+  ],
+  "affiliations": [
+    "Pharmacy Department, Hospital Pulau Pinang, 10990, George Town, Penang, Malaysia.",
+    "Pharmacy Department, Hospital Pulau Pinang, 10990, George Town, Penang, Malaysia.",
+    "Pharmacy Department, Hospital Seberang Jaya, 13700, Permatang Pauh, Penang, Malaysia.",
+    "Pharmacy Department, Hospital Pulau Pinang, 10990, George Town, Penang, Malaysia.",
+    "Infectious Disease Unit, Medical Department, Hospital Pulau Pinang, 10990, George Town, Penang, Malaysia.",
+    "Clinical Research Centre, Hospital Pulau Pinang, 10990, George Town, Penang, Malaysia.",
+    "School of Pharmaceutical Sciences, Universiti Sains Malaysia, 11800, Minden , Penang, Malaysia. chongyew@usm.my."
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "pmid": "30121939",
+  "title": "Clinicopathological and immunohistochemical analysis of autoimmune regulator expression in patients with osteosarcoma.",
+  "abstract": "Autoimmune regulator (AIRE) is a transcription factor that is expressed in medullary thymic epithelial cells. It plays an essential role in central tolerance by eliminating self-reactive T cells. Recently, extrathymic AIRE-expressing cells have been revealed, which are associated with peripheral tolerance. Moreover, AIRE expression has been demonstrated in skin tumors and breast cancer. However, the expression of AIRE in osteosarcoma is unknown. We used immunohistochemistry to investigate AIRE expression in biopsy samples from 43 patients with conventional osteosarcoma and statistically analyzed the association between AIRE expression and clinicopathological characteristics. High AIRE expression was detected in 25 patients (58.1%), and significantly associated with the presence of lung metastasis (P = 0.014) and an increased number of forkhead box P3-positive tumor-infiltrating lymphocytes (regulatory T cells) (P = 0.014). The overall survival rate for all osteosarcoma patients with high AIRE expression was significantly shorter than that for those with low AIRE expression (P = 0.046). In a subgroup analysis of American Joint Committee on Cancer stage II patients who underwent complete surgical resection and conventional chemotherapy, the overall survival and metastasis-free survival rates were significantly shorter for patients with high AIRE expression than for those with low AIRE expression (P = 0.019 and P < 0.01, respectively). High AIRE expression was confirmed to be an independent poor prognostic factor for both overall survival (hazard ratio: 3.841, P = 0.038) and metastasis-free survival (hazard ratio: 4.348, P = 0.022) in the multivariate analysis. The evaluation of AIRE expression may be useful for stratifying osteosarcoma patients for more effective clinical follow-up.",
+  "year": 2018,
+  "journal": "Clinical & experimental metastasis",
+  "authors": [
+    "Kotaro Matsuda",
+    "Hiroaki Miyoshi",
+    "Mayuko Moritsubo",
+    "Koji Hiraoka",
+    "Tetsuya Hamada",
+    "Naoto Shiba",
+    "Koichi Ohshima"
+  ],
+  "doi": "10.1007/s10585-018-9928-4",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Biopsy",
+    "Bone Neoplasms",
+    "Child",
+    "Child, Preschool",
+    "Female",
+    "Humans",
+    "Immunohistochemistry",
+    "Lung Neoplasms",
+    "Lymphocytes, Tumor-Infiltrating",
+    "Male",
+    "Middle Aged",
+    "Osteosarcoma",
+    "Paraffin Embedding",
+    "Retrospective Studies",
+    "T-Lymphocytes, Regulatory",
+    "Tissue Fixation",
+    "Transcription Factors",
+    "Young Adult",
+    "AIRE Protein"
+  ],
+  "keywords": [
+    "Autoimmune regulator",
+    "Immunohistochemical analysis",
+    "Metastasis",
+    "Osteosarcoma",
+    "Survival"
+  ],
+  "affiliations": [
+    "Departments of Pathology, Kurume University School of Medicine, 67 Asahi-machi, Kurume, Fukuoka, 830-0011, Japan.",
+    "Orthopedic Surgery, Kurume University School of Medicine, Fukuoka, Japan.",
+    "Departments of Pathology, Kurume University School of Medicine, 67 Asahi-machi, Kurume, Fukuoka, 830-0011, Japan. miyoshi_hiroaki@med.kurume-u.ac.jp.",
+    "Departments of Pathology, Kurume University School of Medicine, 67 Asahi-machi, Kurume, Fukuoka, 830-0011, Japan.",
+    "Orthopedic Surgery, Kurume University School of Medicine, Fukuoka, Japan.",
+    "Orthopedic Surgery, Kurume University School of Medicine, Fukuoka, Japan.",
+    "Orthopedic Surgery, Kurume University School of Medicine, Fukuoka, Japan.",
+    "Departments of Pathology, Kurume University School of Medicine, 67 Asahi-machi, Kurume, Fukuoka, 830-0011, Japan."
+  ]
+}

@@ -1,0 +1,44 @@
+{
+  "pmid": "33731328",
+  "title": "Current evidence for COVID-19 therapies: a systematic literature review.",
+  "abstract": "Effective therapeutic interventions for the treatment and prevention of coronavirus disease 2019 (COVID-19) are urgently needed. A systematic review was conducted to identify clinical trials of pharmacological interventions for COVID-19 published between 1 December 2019 and 14 October 2020. Data regarding efficacy of interventions, in terms of mortality, hospitalisation and need for ventilation, were extracted from identified studies and synthesised qualitatively. In total, 42 clinical trials were included. Interventions assessed included antiviral, mucolytic, antimalarial, anti-inflammatory and immunomodulatory therapies. Some reductions in mortality, hospitalisation and need for ventilation were seen with interferons and remdesivir, particularly when administered early, and with the mucolytic drug, bromhexine. Most studies of lopinavir/ritonavir and hydroxychloroquine did not show significant efficacy over standard care/placebo. Dexamethasone significantly reduced mortality, hospitalisation and need for ventilation versus standard care, particularly in patients with severe disease. Evidence for other classes of interventions was limited. Many trials had a moderate-to-high risk of bias, particularly in terms of blinding; most were short-term and some included low patient numbers.This review highlights the need for well-designed clinical trials of therapeutic interventions for COVID-19 to increase the quality of available evidence. It also emphasises the importance of tailoring interventions to disease stage and severity for maximum efficacy.",
+  "year": 2021,
+  "journal": "European respiratory review : an official journal of the European Respiratory Society",
+  "authors": [
+    "Tobias Welte",
+    "Lucy J Ambrose",
+    "Gillian C Sibbring",
+    "Shehla Sheikh",
+    "Hana Müllerová",
+    "Ian Sabir"
+  ],
+  "doi": "10.1183/16000617.0384-2020",
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Antiviral Agents",
+    "COVID-19",
+    "Clinical Trials as Topic",
+    "Hospitalization",
+    "Host-Pathogen Interactions",
+    "Humans",
+    "Immunization, Passive",
+    "Respiration, Artificial",
+    "SARS-CoV-2",
+    "Severity of Illness Index",
+    "Treatment Outcome",
+    "COVID-19 Drug Treatment",
+    "COVID-19 Serotherapy"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Dept of Pulmonary and Infectious Diseases, Hannover University School of Medicine, Germany.",
+    "Prime Global, Oxford, UK.",
+    "Prime Global, Knutsford, UK.",
+    "AstraZeneca, Cambridge, UK.",
+    "AstraZeneca, Cambridge, UK.",
+    "AstraZeneca, Cambridge, UK."
+  ]
+}

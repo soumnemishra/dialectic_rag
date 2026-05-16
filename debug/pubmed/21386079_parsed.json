@@ -1,0 +1,37 @@
+{
+  "pmid": "21386079",
+  "title": "Reporting of conflicts of interest in meta-analyses of trials of pharmacological treatments.",
+  "abstract": "CONTEXT: Disclosure of conflicts of interest (COIs) from pharmaceutical industry study funding and author-industry financial relationships is sometimes recommended for randomized controlled trials (RCTs) published in biomedical journals. Authors of meta-analyses, however, are not required to report COIs disclosed in original reports of included RCTs. OBJECTIVE: To investigate whether meta-analyses of pharmacological treatments published in high-impact biomedical journals report COIs disclosed in included RCTs. DATA SOURCES AND STUDY SELECTION: We selected the 3 most recent meta-analyses of patented pharmacological treatments published January 2009 through October 2009 in each general medicine journal with an impact factor of at least 10; in high-impact journals in each of the 5 specialty medicine areas with the greatest 2008 global therapeutic sales (oncology, cardiology, respiratory medicine, endocrinology, and gastroenterology); and in the Cochrane Database of Systematic Reviews. DATA EXTRACTION: Two investigators independently extracted data on disclosed study funding, author-industry financial ties, and author employment from each meta-analysis, from RCTs included in each meta-analysis, and on whether meta-analyses reported disclosed COIs of included RCTs. RESULTS: Of 29 meta-analyses reviewed, which included 509 RCTs, only 2 meta-analyses (7%) reported RCT funding sources; and 0 reported RCT author-industry ties or employment by the pharmaceutical industry. Of 318 meta-analyzed RCTs that reported funding sources, 219 (69%) were industry funded; and 91 of 132 (69%) that reported author financial disclosures had 1 or more authors with pharmaceutical industry financial ties. In 7 of the 29 meta-analyses reviewed, 100% of included RCTs had at least 1 form of disclosed COI (pharmaceutical industry funding, author-industry financial ties, or employment), yet only 1 of these 7 meta-analyses reported RCT funding sources, and 0 reported RCT author-industry ties or employment. CONCLUSION: Among a group of meta-analyses of pharmacological treatments published in high-impact biomedical journals, information concerning primary study funding and author COIs for the included RCTs were only rarely reported.",
+  "year": 2011,
+  "journal": "JAMA",
+  "authors": [
+    "Michelle Roseman",
+    "Katherine Milette",
+    "Lisa A Bero",
+    "James C Coyne",
+    "Joel Lexchin",
+    "Erick H Turner",
+    "Brett D Thombs"
+  ],
+  "doi": "10.1001/jama.2011.257",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Conflict of Interest",
+    "Disclosure",
+    "Drug Industry",
+    "Drug Therapy",
+    "Journal Impact Factor",
+    "Meta-Analysis as Topic",
+    "Publishing",
+    "Randomized Controlled Trials as Topic",
+    "Research Support as Topic"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Psychiatry, McGill University, Montréal, Québec, Canada."
+  ]
+}

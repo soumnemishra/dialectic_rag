@@ -1,15 +1,19 @@
 import logging
+import os
 import re
 from typing import List, Dict, Any, Optional
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_core.output_parsers import JsonOutputParser
 from src.core.registry import ModelRegistry, safe_ainvoke
 from src.models.schemas import StudyMetadata, StudyDesign
+from src.utils.debug_utils import get_debug_manager
 
 logger = logging.getLogger(__name__)
 
+
 class MetadataExtractionError(Exception):
     pass
+
 
 def with_json_system_suffix(system_prompt: str) -> str:
     """Append a strict JSON-only suffix exactly once to a system prompt."""
@@ -21,6 +25,7 @@ def with_json_system_suffix(system_prompt: str) -> str:
     if JSON_ONLY_SUFFIX in system_prompt:
         return system_prompt
     return system_prompt.rstrip() + "\n\n" + JSON_ONLY_SUFFIX
+
 
 METADATA_EXTRACTION_SYSTEM_PROMPT = """
 You are a precise biomedical metadata extractor. 
@@ -43,6 +48,7 @@ Required keys:
 
 METADATA_EXTRACTION_HUMAN_PROMPT = "Abstract: {abstract}"
 
+
 class MetadataExtractor:
     def __init__(self):
         self.llm = None
@@ -52,10 +58,33 @@ class MetadataExtractor:
             ("human", METADATA_EXTRACTION_HUMAN_PROMPT),
         ])
 
+        self.debug_manager = get_debug_manager()
+        self.debug_metadata = os.getenv("DEBUG_METADATA", "false").strip().lower() in {"1", "true", "yes", "on"}
+
         try:
             self.llm = ModelRegistry.get_flash_llm(temperature=0.0, json_mode=True)
         except Exception as e:
             logger.warning("MetadataExtractor: Flash LLM unavailable; deterministic extraction remains active: %s", e)
+
+    def _debug_enabled(self) -> bool:
+        return bool(self.debug_metadata and self.debug_manager.is_enabled())
+
+    def _llm_metadata_payload(self, metadata: StudyMetadata) -> Dict[str, Any]:
+        data = metadata.model_dump() if hasattr(metadata, "model_dump") else vars(metadata)
+        return {
+            "study_design": data.get("study_design"),
+            "sample_size": data.get("sample_size"),
+            "population": data.get("population"),
+            "intervention": data.get("intervention"),
+            "comparator": data.get("comparator"),
+            "outcomes": data.get("outcomes"),
+            "effect_direction": data.get("effect_direction"),
+            "confidence": data.get("confidence"),
+            "year": data.get("year"),
+            "has_p_value": data.get("has_p_value"),
+            "has_CI": data.get("has_CI"),
+            "preregistration_id": data.get("preregistration_id"),
+        }
 
     def _normalize_design(self, raw: Optional[str]) -> StudyDesign:
         if not raw:
@@ -152,20 +181,20 @@ class MetadataExtractor:
     def _refine_sample_size(self, abstract: str, current_n: Optional[int], design: StudyDesign) -> Optional[int]:
         if current_n and current_n > 0:
             return current_n
-        
+
         # Robust regex for sample size
         patterns = [
             r"\bn\s*=\s*([\d,]{1,9})\b",
             r"\btotal of\s*([\d,]{1,9})\s*(?:patients|participants|subjects)\b",
             r"\b([\d,]{1,9})\s*(?:patients|participants|subjects)\b",
             r"\bpooled sample of\s*([\d,]{1,9})\b",
-            r"\benrolled\s*([\d,]{1,9})\b"
+            r"\benrolled\s*([\d,]{1,9})\b",
         ]
         for pat in patterns:
             match = re.search(pat, abstract, re.IGNORECASE)
             if match:
                 return int(match.group(1).replace(",", ""))
-        
+
         # Conservative default for meta-analyses
         if design == StudyDesign.META_ANALYSIS:
             return 100
@@ -217,12 +246,24 @@ class MetadataExtractor:
                 publication_types=publication_types,
             )
 
+            if self._debug_enabled() and pmid:
+                self.debug_manager.save_json(
+                    f"pubmed/{pmid}_metadata_llm.json",
+                    self._llm_metadata_payload(metadata),
+                )
+
             return metadata
         except Exception as e:
+            if self._debug_enabled():
+                if pmid:
+                    self.debug_manager.save_exception(f"exceptions/metadata_{pmid}_exception.txt", e)
+                else:
+                    self.debug_manager.save_exception("exceptions/metadata_unknown_exception.txt", e)
             raise MetadataExtractionError(f"Extraction failed for PMID {pmid}: {e}")
 
     async def extract_batch(self, abstracts: List[Dict[str, str]]) -> List[StudyMetadata]:
         """Extract metadata for a batch of abstracts."""
         import asyncio
+
         tasks = [self.extract(article_dict=item, pmid=item.get("pmid")) for item in abstracts]
         return await asyncio.gather(*tasks)

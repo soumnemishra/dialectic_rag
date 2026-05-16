@@ -1,0 +1,35 @@
+{
+  "pmid": "7853628",
+  "title": "Birth weight and perinatal mortality. A comparison of the United States and Norway.",
+  "abstract": "OBJECTIVE: To compare perinatal mortality in the United States and Norway, using a new analytic approach based on relative birth weight. DESIGN: Comparison of linked birth and perinatal death records for US and Norwegian births from 1986 through 1987, the most recently available 2-year period. SETTING: Norway and the United States. PARTICIPANTS: A total of 7,445,914 US births and 105,084 Norwegian births. INTERVENTIONS: None. MAIN OUTCOME MEASURE: Perinatal weight-specific mortality after adjustment for each country's own mean birth weight. RESULTS: The higher rate of perinatal death in the United States compared with Norway is due to an excess of preterm deliveries in the United States. Low-weight, preterm births comprise 2.9% of US births compared with 2.1% of Norwegian births. If the United States could eliminate this slight excess of preterm delivery, perinatal mortality in the United States would decrease to the level in Norway. Unexpectedly, the survival of newborns at any given birth weight is virtually the same in the United States and Norway when newborns' birth weights are considered relative to their own nation's mean weight. CONCLUSIONS: Low rates of perinatal mortality in the Scandinavian countries have usually been attributed to the heavier weights of their newborns. Higher mortality among US infants is in fact due entirely to a small excess of preterm deliveries. The lighter weights of US newborns at term appear not to affect perinatal survival. Furthermore, the apparent survival advantage of low-weight US newborns (used by policymakers as evidence of superior US intensive neonatal care) may be at least partly an artifact. When weight-specific mortality rates are adjusted to relative birth weight, low-weight newborns have the same survival in Norway as in the United States. The prevention of excess mortality among US infants depends on the prevention of preterm births, not on changes in mean birth weight.",
+  "year": 1995,
+  "journal": "JAMA",
+  "authors": [
+    "A Wilcox",
+    "R Skjaerven",
+    "P Buekens",
+    "J Kiely"
+  ],
+  "doi": null,
+  "publication_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Birth Weight",
+    "Humans",
+    "Infant Mortality",
+    "Infant, Low Birth Weight",
+    "Infant, Newborn",
+    "Infant, Premature",
+    "Norway",
+    "Registries",
+    "Statistics as Topic",
+    "United States"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "National Institute of Environmental Health Sciences, Research Triangle Park, NC 27709."
+  ]
+}

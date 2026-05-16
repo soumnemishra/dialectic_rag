@@ -85,20 +85,21 @@ class CalibratedAbstention:
         Returns:
             Tuple of (ResponseTier, human-readable rationale string).
         """
-        # 0. Low belief floor (Absolute threshold — F4: now from config)
-        if belief < self.min_belief_threshold:
-            return (
-                ResponseTier.ABSTAIN,
-                f"Aggregated belief mass ({belief:.3f}) is below the minimum "
-                f"threshold ({self.min_belief_threshold}) for clinical assertion.",
-            )
-
-        # 0.1. Falsified state (Evidence strongly contradicts the hypothesis)
+        # 0. Falsified state. This must precede the low-belief floor because
+        # strongly negative evidence is a clinical conclusion, not abstention.
         if epistemic_state == EpistemicState.FALSIFIED:
             return (
                 ResponseTier.FULL,
                 "Strong evidence consistently contradicts the original "
                 "clinical hypothesis.",
+            )
+
+        # 0.1. Low belief floor (Absolute threshold — F4: now from config)
+        if belief < self.min_belief_threshold:
+            return (
+                ResponseTier.ABSTAIN,
+                f"Aggregated belief mass ({belief:.3f}) is below the minimum "
+                f"threshold ({self.min_belief_threshold}) for clinical assertion.",
             )
 
         # 1. Irreconcilable conflict

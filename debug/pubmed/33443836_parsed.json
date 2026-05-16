@@ -1,0 +1,43 @@
+{
+  "pmid": "33443836",
+  "title": "[Pharmacovigilance update].",
+  "abstract": "The main pharmacovigilance updates in 2020 are reviewed. Remdesivir in COVID-19: relatively safe but turns out to be less effective than expected. Hydroxychloroquine in COVID-19 : lack of efficacy and risk of arrhythmias. Cytokines storm in COVID-19: may impact pharmacokinetics. VEGF inhibitors: risk of aneurysm and artery dissection. Tofacitinib: dose-dependant risk of venous thromboembolic events. Ondansetron in the first trimester of pregnancy : a highly debated risk of orofacial cleft defects. Fingolimod : contraindicated during pregnancy due to suspected risk of congenital malformations. Ranitidine: global market withdrawal due to contamination with nitrosamines. Ulipristal for uterine fibroids : market withdrawal due to risk of severe liver injury. Ingenol mebutate : market withdrawal due to paradoxical risk of skin cancers. Les principales actualités de pharmacovigilance 2020 sont passées en revue. Remdésivir et Covid-19 : moins efficace qu’attendu mais assez sûr. Hydroxychloroquine et Covid-19 : absence d’efficacité et risque d’arythmies. Orage cytokinique et Covid-19 : impact possible sur les paramètres pharmacocinétiques. Inhibiteurs du VEGF : risque d’anévrisme artériel et de dissection. Tofacitinib : risque d’événements thromboemboliques. Ondansétron au 1er trimestre de grossesse : risque controversé de fentes palatines. Fingolimod : contre-indiqué dans la grossesse pour possible risque malformatif. Ranitidine : retrait du marché mondial pour contamination par des nitrosamines. Ulipristal et fibromyomes utérins : retrait du marché pour risque d’atteinte hépatique grave. Mébutate d’ingénol : retrait du marché pour risque paradoxal de cancers cutanés.",
+  "year": 2021,
+  "journal": "Revue medicale suisse",
+  "authors": [
+    "Pierre Ekobena",
+    "Anton Ivanyuk",
+    "Françoise Livio"
+  ],
+  "doi": null,
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Adenosine Monophosphate",
+    "Alanine",
+    "Cleft Lip",
+    "Contraindications, Drug",
+    "Cytokine Release Syndrome",
+    "Female",
+    "Fingolimod Hydrochloride",
+    "Humans",
+    "Hydroxychloroquine",
+    "Leiomyoma",
+    "Norpregnadienes",
+    "Pharmacokinetics",
+    "Pharmacovigilance",
+    "Pregnancy",
+    "Ranitidine",
+    "Safety-Based Drug Withdrawals",
+    "Skin Neoplasms",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Service de pharmacologie clinique, Département des laboratoires, CHUV, 1011 Lausanne.",
+    "Service de pharmacologie clinique, Département des laboratoires, CHUV, 1011 Lausanne.",
+    "Service de pharmacologie clinique, Département des laboratoires, CHUV, 1011 Lausanne."
+  ]
+}

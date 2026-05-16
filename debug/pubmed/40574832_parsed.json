@@ -1,0 +1,49 @@
+{
+  "pmid": "40574832",
+  "title": "Multi-omics-based subtyping of melanoma suggests distinct immune and targeted therapy strategies.",
+  "abstract": "BACKGROUND: Melanoma is a highly heterogeneous malignancy with diverse molecular and clinical behaviors. A precise molecular classification is critical for improving prognostic assessment and guiding personalized therapy. METHODS: We performed an integrative multi-omics analysis of skin cutaneous melanoma using data from The Cancer Genome Atlas (TCGA) and validated our findings in independent cohorts. Multi-layered data, including transcriptomic, genomic, epigenetic, and immune landscape profiles, were analyzed using unsupervised clustering and machine learning approaches to define molecular subtypes. Functional assays and in silico drug screening were employed to explore subtype-specific vulnerabilities. RESULTS: Three robust molecular subtypes (CS1, CS2, CS3) were identified, each with distinct genomic alterations, tumor microenvironment characteristics, and clinical outcomes. The CS2 subtype was immunologically \"hot,\" characterized by high tumor mutational burden (TMB), elevated neoantigen load, strong immune infiltration, and activated IFN-γ signaling. CS2 tumors showed significant enrichment of immune checkpoint gene expression and were associated with favorable response to anti-PD-1 therapy in external validation cohorts. In contrast, CS1 and CS3 were immunologically \"cold\" with immune exclusion, high chromosomal instability, and activation of oncogenic pathways linked to immune evasion. Transcriptomic drug sensitivity modeling suggested that CS1 and CS3 may benefit from HSP90 or MEK inhibitors. Moreover, COL11A2 was identified as a subtype-enriched oncogenic driver predominantly expressed in CS1/CS3, and its silencing impaired tumor cell proliferation, invasion, and epithelial-mesenchymal transition (EMT) features. CONCLUSIONS: This study presents a refined multi-omics classification of melanoma that reveals biologically and clinically distinct subtypes with divergent immune and therapeutic profiles. It offers a framework for subtype-specific treatment strategies, and identifies COL11A2 as a potential target in immune-cold melanomas.",
+  "year": 2025,
+  "journal": "Frontiers in immunology",
+  "authors": [
+    "Changchang Li",
+    "Xiaoqiong Lin",
+    "Jinhui Wang",
+    "Qiaochu Zhou",
+    "Fangfang Feng",
+    "Jie Xu"
+  ],
+  "doi": "10.3389/fimmu.2025.1601243",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Melanoma",
+    "Tumor Microenvironment",
+    "Skin Neoplasms",
+    "Genomics",
+    "Molecular Targeted Therapy",
+    "Biomarkers, Tumor",
+    "Immune Checkpoint Inhibitors",
+    "Transcriptome",
+    "Gene Expression Regulation, Neoplastic",
+    "Gene Expression Profiling",
+    "Immunotherapy",
+    "Multiomics"
+  ],
+  "keywords": [
+    "immune checkpoint therapy",
+    "in-silico drug screening",
+    "melanoma",
+    "molecular subtypes",
+    "multi-omics integration"
+  ],
+  "affiliations": [
+    "Wenzhou Hospital of Integrated Traditional Chinese and Western Medicine, Wenzhou, Zhejiang, China.",
+    "Wenzhou Hospital of Integrated Traditional Chinese and Western Medicine, Wenzhou, Zhejiang, China.",
+    "Wenzhou Hospital of Integrated Traditional Chinese and Western Medicine, Wenzhou, Zhejiang, China.",
+    "Wenzhou Hospital of Integrated Traditional Chinese and Western Medicine, Wenzhou, Zhejiang, China.",
+    "Wenzhou Hospital of Integrated Traditional Chinese and Western Medicine, Wenzhou, Zhejiang, China.",
+    "Wenzhou Hospital of Integrated Traditional Chinese and Western Medicine, Wenzhou, Zhejiang, China."
+  ]
+}

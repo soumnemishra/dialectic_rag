@@ -1,0 +1,69 @@
+{
+  "pmid": "33781287",
+  "title": "Precision therapeutic targets for COVID-19.",
+  "abstract": "Beginning in late 2019, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) emerged as a novel pathogen that causes coronavirus disease 2019 (COVID-19). SARS-CoV-2 has infected more than 111 million people worldwide and caused over 2.47 million deaths. Individuals infected with SARS-CoV-2 show symptoms of fever, cough, dyspnea, and fatigue with severe cases that can develop into pneumonia, myocarditis, acute respiratory distress syndrome, hypercoagulability, and even multi-organ failure. Current clinical management consists largely of supportive care as commonly administered treatments, including convalescent plasma, remdesivir, and high-dose glucocorticoids. These have demonstrated modest benefits in a small subset of hospitalized patients, with only dexamethasone showing demonstrable efficacy in reducing mortality and length of hospitalization. At this time, no SARS-CoV-2-specific antiviral drugs are available, although several vaccines have been approved for use in recent months. In this review, we will evaluate the efficacy of preclinical and clinical drugs that precisely target three different, essential steps of the SARS-CoV-2 replication cycle: the spike protein during entry, main protease (MPro) during proteolytic activation, and RNA-dependent RNA polymerase (RdRp) during transcription. We will assess the advantages and limitations of drugs that precisely target evolutionarily well-conserved domains, which are less likely to mutate, and therefore less likely to escape the effects of these drugs. We propose that a multi-drug cocktail targeting precise proteins, critical to the viral replication cycle, such as spike protein, MPro, and RdRp, will be the most effective strategy of inhibiting SARS-CoV-2 replication and limiting its spread in the general population.",
+  "year": 2021,
+  "journal": "Virology journal",
+  "authors": [
+    "Zachary A Krumm",
+    "Grace M Lloyd",
+    "Connor P Francis",
+    "Lith H Nasif",
+    "Duane A Mitchell",
+    "Todd E Golde",
+    "Benoit I Giasson",
+    "Yuxing Xia"
+  ],
+  "doi": "10.1186/s12985-021-01526-y",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Antiviral Agents",
+    "COVID-19",
+    "COVID-19 Vaccines",
+    "Coronavirus 3C Proteases",
+    "Humans",
+    "Immunization, Passive",
+    "RNA-Dependent RNA Polymerase",
+    "SARS-CoV-2",
+    "Spike Glycoprotein, Coronavirus",
+    "Virus Internalization",
+    "Virus Replication",
+    "COVID-19 Drug Treatment",
+    "COVID-19 Serotherapy"
+  ],
+  "keywords": [
+    "COVID-19",
+    "MPro",
+    "Main protease",
+    "RNA-dependent RNA polymerase",
+    "SARS-CoV-2",
+    "Spike protein",
+    "Therapy"
+  ],
+  "affiliations": [
+    "Department of Neuroscience, College of Medicine, University of Florida, 1275 Center Drive, Gainesville, FL, 32610, USA.",
+    "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, 32610, USA.",
+    "Department of Neuroscience, College of Medicine, University of Florida, 1275 Center Drive, Gainesville, FL, 32610, USA.",
+    "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, 32610, USA.",
+    "College of Medicine, McKnight Brain Institute, University of Florida, Gainesville, FL, 32610, USA.",
+    "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, 32610, USA.",
+    "UF Clinical and Translational Science Institute, University of Florida, Gainesville, FL, 32610, USA.",
+    "Department of Neuroscience, College of Medicine, University of Florida, 1275 Center Drive, Gainesville, FL, 32610, USA.",
+    "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, 32610, USA.",
+    "College of Medicine, McKnight Brain Institute, University of Florida, Gainesville, FL, 32610, USA.",
+    "Lillian S. Wells Department of Neurosurgery, University of Florida, Gainesville, FL, 32610, USA.",
+    "UF Clinical and Translational Science Institute, University of Florida, Gainesville, FL, 32610, USA.",
+    "Department of Neuroscience, College of Medicine, University of Florida, 1275 Center Drive, Gainesville, FL, 32610, USA.",
+    "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, 32610, USA.",
+    "College of Medicine, McKnight Brain Institute, University of Florida, Gainesville, FL, 32610, USA.",
+    "Department of Neuroscience, College of Medicine, University of Florida, 1275 Center Drive, Gainesville, FL, 32610, USA. bgiasson@ufl.edu.",
+    "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, 32610, USA. bgiasson@ufl.edu.",
+    "College of Medicine, McKnight Brain Institute, University of Florida, Gainesville, FL, 32610, USA. bgiasson@ufl.edu.",
+    "Department of Neuroscience, College of Medicine, University of Florida, 1275 Center Drive, Gainesville, FL, 32610, USA. yuxingxia@ufl.edu.",
+    "Center for Translational Research in Neurodegenerative Disease, College of Medicine, University of Florida, Gainesville, FL, 32610, USA. yuxingxia@ufl.edu."
+  ]
+}

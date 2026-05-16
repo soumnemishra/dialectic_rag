@@ -1,0 +1,46 @@
+{
+  "pmid": "32204974",
+  "title": "Health outcomes associated with vegetarian diets: An umbrella review of systematic reviews and meta-analyses.",
+  "abstract": "BACKGROUND: Several meta-analyses evaluated the association between vegetarian diets and health outcomes. To integrate the large amount of the available evidence, we performed an umbrella review of published meta-analyses that investigated the association between vegetarian diets and health outcomes. METHODS: We performed an umbrella review of the evidence across meta-analyses of observational and interventional studies. PubMed, Embase, Cochrane Database of Systematic Reviews, and ISI Web of Knowledge. Additional articles were retrieved from primary search references. Meta-analyses of observational or interventional studies that assessed at least one health outcome in association with vegetarian diets. We estimated pooled effect sizes (ESs) using four different random-effect models: DerSimonian and Laird, maximum likelihood, empirical Bayes, and restricted maximum likelihood. We assessed heterogeneity using I2 statistics and publication bias using funnel plots, radial plots, normal Q-Q plots, and the Rosenthal's fail-safe N test. RESULTS: The umbrella review identified 20 meta-analyses of observational and interventional research with 34 health outcomes. The majority of the meta-analyses (80%) were classified as moderate or high-quality reviews, based on the AMSTAR2 criteria. By comparison with omnivorous diets, vegetarian diets were associated with a significantly lower concentration of blood total cholesterol (pooled ES = -0.549 mmol/L; 95% CI: -0.773 to -0.325; P < 0.001), LDL-cholesterol (pooled ES = -0.467 mmol/L; 95% CI: -0.600 to -0.335); P < 0.001), and HDL-cholesterol (pooled ES = -0.082 mmol/L; 95% CI: -0.095 to -0.069; P < 0.001). In comparison to omnivorous diets, vegetarian diets were associated with a reduced risk of negative health outcomes with a pooled ES of 0.886 (95% CI: 0.848 to 0.926; P < 0.001). In comparison to omnivores, Seventh-day Adventists (SDA) vegetarians had a significantly reduced risk of negative health outcomes with a pooled ES of 0.721 (95% CI: 0.625 to 0.832; P < 0.001). Non-SDA vegetarians had no significant reduction of negative health outcomes when compared to omnivores (pooled ES = 0.973; 95% CI: 0.873 to 1.083; P = 0.51). Vegetarian diets were associated with harmful outcomes on one-carbon metabolism markers (lower concentrations of vitamin B12 and higher concentrations of homocysteine), in comparison to omnivorous diets. CONCLUSIONS: Vegetarian diets are associated with beneficial effects on the blood lipid profile and a reduced risk of negative health outcomes, including diabetes, ischemic heart disease, and cancer risk. Among vegetarians, SDA vegetarians could represent a subgroup with a further reduced risk of negative health outcomes. Vegetarian diets have adverse outcomes on one-carbon metabolism. The effect of vegetarian diets among pregnant and lactating women requires specific attention. Well-designed prospective studies are warranted to evaluate the consequences of the prevalence of vitamin B12 deficiency during pregnancy and infancy on later life and of trace element deficits on cancer risks. PROSPERO REGISTRATION NUMBER: CRD42018092470.",
+  "year": 2020,
+  "journal": "Clinical nutrition (Edinburgh, Scotland)",
+  "authors": [
+    "Abderrahim Oussalah",
+    "Julien Levy",
+    "Clémence Berthezène",
+    "David H Alpers",
+    "Jean-Louis Guéant"
+  ],
+  "doi": "10.1016/j.clnu.2020.02.037",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Diet, Vegetarian",
+    "Female",
+    "Humans",
+    "Male",
+    "Meta-Analysis as Topic",
+    "Middle Aged",
+    "Outcome Assessment, Health Care",
+    "Pregnancy",
+    "Systematic Reviews as Topic",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Health outcomes",
+    "Umbrella review of systematic reviews and meta-analyses",
+    "Vegetarian diets"
+  ],
+  "affiliations": [
+    "University of Lorraine, INSERM UMR_S 1256, Nutrition, Genetics, and Environmental Risk Exposure (NGERE), Faculty of Medicine of Nancy, F-54000, Nancy, France; Department of Molecular Medicine, Division of Biochemistry, Molecular Biology, and Nutrition, University Hospital of Nancy, F-54000, Nancy, France; Reference Center for Inborn Errors of Metabolism (ORPHA67872), University Hospital of Nancy, F-54000, Nancy, France. Electronic address: abderrahim.oussalah@univ-lorraine.fr.",
+    "University of Lorraine, INSERM UMR_S 1256, Nutrition, Genetics, and Environmental Risk Exposure (NGERE), Faculty of Medicine of Nancy, F-54000, Nancy, France.",
+    "University of Lorraine, INSERM UMR_S 1256, Nutrition, Genetics, and Environmental Risk Exposure (NGERE), Faculty of Medicine of Nancy, F-54000, Nancy, France.",
+    "Department of Internal Medicine, Washington University School of Medicine, St Louis, MO, 63130, USA.",
+    "University of Lorraine, INSERM UMR_S 1256, Nutrition, Genetics, and Environmental Risk Exposure (NGERE), Faculty of Medicine of Nancy, F-54000, Nancy, France; Department of Molecular Medicine, Division of Biochemistry, Molecular Biology, and Nutrition, University Hospital of Nancy, F-54000, Nancy, France; Reference Center for Inborn Errors of Metabolism (ORPHA67872), University Hospital of Nancy, F-54000, Nancy, France. Electronic address: jean-louis.gueant@univ-lorraine.fr."
+  ]
+}

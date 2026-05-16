@@ -1,0 +1,53 @@
+{
+  "pmid": "28244015",
+  "title": "Bisphenol A Induces Sox2 in ER+ Breast Cancer Stem-Like Cells.",
+  "abstract": "Bisphenol A (BPA) is an endocrine disrupting compound used in food and beverage plastic containers and has been shown to increase breast cancer cellular proliferation. However, the concentrations of BPA used in these experiments are far higher than the physiological levels of BPA detected in the human body. We observed in vitro that exposure of MCF-7 cells to physiological concentrations of BPA failed to increase cell proliferation or to induce canonical estrogen-responsive genes (pS2 and progesterone receptor (PR)), in contrast to 17β-estradiol (E2) treatment. However, MCF-7 cells treated with 10 nM BPA induced ALDH1 expression, a marker of human mammary stem cells. When treated with 10 nM BPA, mammospheres derived either from MCF-7 cells, a patient-derived xenograft, or the normal mouse mammary gland exhibited increased size; however, these effects were not observed in MDA-MB-231 mammospheres. Mechanistically, BPA induced SOX2 mRNA and protein in MCF-7 mammospheres, resulting from enhanced CREB phosphorylation, and subsequent binding of pCREB to a SOX2 downstream enhancer. These findings suggest that physiological levels of BPA increase estrogen receptor-positive breast cancer tumor maintenance through enhanced cancer stem-like cell activity via direct regulation of SOX2 transcription.",
+  "year": 2017,
+  "journal": "Hormones & cancer",
+  "authors": [
+    "M Angeles Lillo",
+    "Cydney Nichols",
+    "Tiffany N Seagroves",
+    "Gustavo A Miranda-Carboni",
+    "Susan A Krum"
+  ],
+  "doi": "10.1007/s12672-017-0286-5",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Aldehyde Dehydrogenase",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Animals",
+    "Benzhydryl Compounds",
+    "Breast Neoplasms",
+    "Cell Line, Tumor",
+    "Cyclic AMP Response Element-Binding Protein",
+    "Estradiol",
+    "Female",
+    "Gene Expression Regulation, Neoplastic",
+    "Humans",
+    "MCF-7 Cells",
+    "Mice",
+    "Neoplasm Transplantation",
+    "Neoplastic Stem Cells",
+    "Phenols",
+    "Phosphorylation",
+    "Receptors, Estrogen",
+    "Retinal Dehydrogenase",
+    "SOXB1 Transcription Factors",
+    "Bisphenol A Compounds"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Orthopaedic Surgery and Biomedical Engineering, University of Tennessee Health Science Center, Memphis, TN, USA.",
+    "Center for Cancer Research, University of Tennessee Health Science Center, Memphis, TN, USA.",
+    "Department of Microbiology, Immunology and Molecular Genetics, UCLA, Los Angeles, CA, USA.",
+    "Department of Pathology, University of Tennessee Health Science Center, Memphis, TN, USA.",
+    "Center for Cancer Research, University of Tennessee Health Science Center, Memphis, TN, USA.",
+    "Department of Medicine, University of Tennessee Health Science Center, Memphis, TN, USA.",
+    "Center for Cancer Research, University of Tennessee Health Science Center, Memphis, TN, USA.",
+    "Department of Orthopaedic Surgery and Biomedical Engineering, University of Tennessee Health Science Center, Memphis, TN, USA. smirand5@uthsc.edu.",
+    "Center for Cancer Research, University of Tennessee Health Science Center, Memphis, TN, USA. smirand5@uthsc.edu."
+  ]
+}

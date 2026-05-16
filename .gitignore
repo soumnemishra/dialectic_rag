@@ -6,3 +6,6 @@ env/
 data/
 results/
 output.txt
+logs/
+tools/
+benchmark/

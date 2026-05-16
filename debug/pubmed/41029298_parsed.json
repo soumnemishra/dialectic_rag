@@ -1,0 +1,60 @@
+{
+  "pmid": "41029298",
+  "title": "Early C-reactive protein reduction predicts survival in COVID-19 severe pneumonia treated with glucocorticoids.",
+  "abstract": "BACKGROUND: prolonged, low-dose glucocorticoid treatment reduces systemic inflammation and mortality in patients with SARS-CoV-2-related pneumonia requiring respiratory support. Previous studies reported a significant C-reactive protein (CRP) reduction in the early days of treatment compared to placebo. While CRP is an independent predictor of severity in community-acquired pneumonia, there is no evidence on the correlation between CRP changes and mortality within a glucocorticoid-treated population. METHODS: data from the MEDEAS randomized controlled trial were re-analyzed as a single cohort of patients with SARS-CoV-2-related pneumonia undergoing either dexamethasone 6 mg/day for 10 days or methylprednisolone 80 mg/day for ≥ 8 days from hospitalization. CRP relative decrease between treatment initiation and day 3 was calculated and tested to predict 28-day mortality. Additionally, clinically relevant CRP percentage changes by day 3 were calculated and tested to predict survival. A stratification was performed for baseline PaO2:FiO2, and a multivariable analysis was conducted to adjust for confounders. RESULTS: 597 patients were included in the analysis. In multivariable logistic regression analysis, the relative decrease in CRP by day 3 was significantly associated with 28-day survival (OR 0.77; 95%CI 0.64-0.99; p = 0.011). Furthermore, a ≥ 5% CRP reduction was associated with a lower mortality compared to either < 5% reduction or any increase in CRP levels by day 3 (8.2% versus 18.5%; OR 0.40; 95%CI 0.23-0.69; p = 0.001) in the whole cohort. When stratifying for baseline PaO2:FiO2, a ≥ 5% CRP reduction resulted in a lower mortality (10.9% versus 28.3%; OR 0.31; 95%CI 0.16-0.61; p = < 0.001) in the more severe subgroup of patients presenting with a PaO2:FiO2 ≤200, while a ≥ 20% reduction was required to significantly impact on mortality among those presenting with a PaO2:FiO2 > 200 (3.7% versus 10.0%; OR 0.35; 95%CI 0.13-0.97; p = 0.043). CONCLUSIONS: in patients with COVID-19-related severe pneumonia receiving low-dose glucocorticoid treatment, even early reductions in CRP levels, together with other meaningful clinical traits, predict survival, representing a possible biomarker to guide personalized interventions. TRIAL REGISTRATION: The MEDEAS randomized controlled trial was registered on ClinicalTrials.gov on 18 November 2020 (NCT04636671).",
+  "year": 2025,
+  "journal": "BMC pulmonary medicine",
+  "authors": [
+    "Nicolò Reccardini",
+    "Marco Confalonieri",
+    "Barbara Ruaro",
+    "Paola Confalonieri",
+    "Beatrice Da Re",
+    "Andrea Rocca",
+    "Francesco Salton"
+  ],
+  "doi": "10.1186/s12890-025-03874-9",
+  "publication_types": [
+    "Journal Article",
+    "Randomized Controlled Trial"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "C-Reactive Protein",
+    "Male",
+    "Female",
+    "Glucocorticoids",
+    "Methylprednisolone",
+    "COVID-19 Drug Treatment",
+    "Middle Aged",
+    "Aged",
+    "COVID-19",
+    "Dexamethasone",
+    "SARS-CoV-2",
+    "Severity of Illness Index"
+  ],
+  "keywords": [
+    "C-reactive protein",
+    "Covid-19",
+    "Dexamethasone",
+    "Glucocorticoids",
+    "Methylprednisolone",
+    "Pneumonia",
+    "Severe pneumonia"
+  ],
+  "affiliations": [
+    "Department of Pulmonology, University Hospital of Cattinara, Trieste, Italy. nico.recca@gmail.com.",
+    "Department of Medical, Surgical and Health Sciences, University of Trieste, Trieste, Italy. nico.recca@gmail.com.",
+    "Department of Pulmonology, University Hospital of Cattinara, Trieste, Italy.",
+    "Department of Medical, Surgical and Health Sciences, University of Trieste, Trieste, Italy.",
+    "Department of Pulmonology, University Hospital of Cattinara, Trieste, Italy.",
+    "Department of Medical, Surgical and Health Sciences, University of Trieste, Trieste, Italy.",
+    "Department of Pulmonology, University Hospital of Cattinara, Trieste, Italy.",
+    "Department of Medical, Surgical and Health Sciences, University of Trieste, Trieste, Italy.",
+    "Department of Medical, Surgical and Health Sciences, University of Trieste, Trieste, Italy.",
+    "Department of Pulmonology, Santa Maria degli Angeli Hospital, Pordenone, Italy.",
+    "Department of Medical, Surgical and Health Sciences, University of Trieste, Trieste, Italy.",
+    "Department of Pulmonology, University Hospital of Cattinara, Trieste, Italy.",
+    "Department of Medical, Surgical and Health Sciences, University of Trieste, Trieste, Italy."
+  ]
+}

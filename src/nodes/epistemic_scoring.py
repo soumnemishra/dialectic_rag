@@ -39,19 +39,18 @@ async def epistemic_scoring_node(state: GraphState) -> dict[str, Any]:
             abstract = art.get("abstract", "")
             title = art.get("title", "")
             
-            # 1. Extract Metadata
-            metadata = await extractor.extract(article_dict=art, pmid=pmid)
-            # Ensure year is populated from retrieved article XML if LLM extractor didn't provide it
+            # 1. Extract Metadata from abstract
+            metadata = await extractor.extract(abstract=abstract, pmid=pmid)
+            # Ensure year is populated from retrieved article if LLM extractor didn't provide it
             if getattr(metadata, "year", None) is None:
                 metadata.year = art.get("year") or art.get("publication_year")
             
-            # 2. Compute Reproducibility Score with decomposition
-            rps_data = rep_scorer.compute(metadata, return_components=True)
-            rps = rps_data["final_rps"]
+            # 2. Compute Reproducibility Score
+            rps = rep_scorer.compute(metadata)
             
             scored_details.append({
                 "pmid": pmid,
-                "rps_decomposition": rps_data
+                "rps": round(rps, 3)
             })
             
             # 3. Compute Applicability Score (Placeholder study PICO for now)

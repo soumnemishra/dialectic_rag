@@ -1,0 +1,36 @@
+{
+  "pmid": "23235689",
+  "title": "Industry sponsorship and research outcome.",
+  "abstract": "BACKGROUND: Clinical research affecting how doctors practice medicine is increasingly sponsored by companies that make drugs and medical devices. Previous systematic reviews have found that pharmaceutical industry sponsored studies are more often favorable to the sponsor's product compared with studies with other sources of sponsorship. This review is an update using more stringent methodology and also investigating sponsorship of device studies. OBJECTIVES: To investigate whether industry sponsored drug and device studies have more favorable outcomes and differ in risk of bias, compared with studies having other sources of sponsorship. SEARCH METHODS: We searched MEDLINE (1948 to September 2010), EMBASE (1980 to September 2010), the Cochrane Methodology Register (Issue 4, 2010) and Web of Science (August 2011). In addition, we searched reference lists of included papers, previous systematic reviews and author files. SELECTION CRITERIA: Cross-sectional studies, cohort studies, systematic reviews and meta-analyses that quantitatively compared primary research studies of drugs or medical devices sponsored by industry with studies with other sources of sponsorship. We had no language restrictions. DATA COLLECTION AND ANALYSIS: Two assessors identified potentially relevant papers, and a decision about final inclusion was made by all authors. Two assessors extracted data, and we contacted authors of included papers for additional unpublished data. Outcomes included favorable results, favorable conclusions, effect size, risk of bias and whether the conclusions agreed with the study results. Two assessors assessed risk of bias of included papers. We calculated pooled risk ratios (RR) for dichotomous data (with 95% confidence intervals). MAIN RESULTS: Forty-eight papers were included. Industry sponsored studies more often had favorable efficacy results, risk ratio (RR): 1.24 (95% confidence interval (CI): 1.14 to 1.35), harms results RR: 1.87 (95% CI: 1.54 to 2.27) and conclusions RR: 1.31 (95% CI: 1.20 to 1.44) compared with non-industry sponsored studies. Ten papers reported on sponsorship and effect size, but could not be pooled due to differences in their reporting of data. The results were heterogeneous; five papers found larger effect sizes in industry sponsored studies compared with non-industry sponsored studies and five papers did not find a difference in effect size. Only two papers (including 120 device studies) reported separate data for devices and we did not find a difference between drug and device studies on the association between sponsorship and conclusions (test for interaction, P = 0.23). Comparing industry and non-industry sponsored studies, we did not find a difference in risk of bias from sequence generation, allocation concealment and follow-up. However, industry sponsored studies more often had low risk of bias from blinding, RR: 1.32 (95% CI: 1.05 to 1.65), compared with non-industry sponsored studies. In industry sponsored studies, there was less agreement between the results and the conclusions than in non-industry sponsored studies, RR: 0.84 (95% CI: 0.70 to 1.01). AUTHORS' CONCLUSIONS: Sponsorship of drug and device studies by the manufacturing company leads to more favorable results and conclusions than sponsorship by other sources. Our analyses suggest the existence of an industry bias that cannot be explained by standard 'Risk of bias' assessments.",
+  "year": 2012,
+  "journal": "The Cochrane database of systematic reviews",
+  "authors": [
+    "Andreas Lundh",
+    "Sergio Sismondo",
+    "Joel Lexchin",
+    "Octavian A Busuioc",
+    "Lisa Bero"
+  ],
+  "doi": "10.1002/14651858.MR000033.pub2",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Conflict of Interest",
+    "Data Interpretation, Statistical",
+    "Drug Industry",
+    "Equipment and Supplies",
+    "Industry",
+    "Publication Bias",
+    "Research Report",
+    "Research Support as Topic",
+    "Treatment Outcome"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "The Nordic Cochrane Centre, Rigshospitalet, Copenhagen, Denmark. al@cochrane.dk."
+  ]
+}

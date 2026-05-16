@@ -1,0 +1,38 @@
+{
+  "pmid": "31169583",
+  "title": "Disclosures Undisclosed.",
+  "abstract": "BACKGROUND: The Centers for Medicare & Medicaid Services (CMS) Open Payments public database, resulting from the Physician Payments Sunshine Act of 2010, was designed to increase transparency of physicians' financial relationships with pharmaceutical manufacturers. We compared physician-reported conflict-of-interest (COI) disclosures in journal articles with this database to determine any discrepancies in physician-reported disclosures. METHODS: COIs reported by authors from 2014 through 2016 were analyzed in 3 journals: Foot & Ankle International (FAI), The Journal of Bone & Joint Surgery (JBJS), and The Journal of Arthroplasty (JOA). Payment information in the CMS Open Payments database was cross-referenced with each author's disclosure statement to determine if a disclosure discrepancy was present. RESULTS: We reviewed 3,465 authorship positions (1,932 unique authors) in 1,770 articles. Within this sample, 7.1% of authorships had a recorded undisclosed COI (disclosure discrepancy), and 13.2% of articles had first and/or last authors with a disclosure discrepancy. Additionally, we saw a great variation in the percentage of authorships with disclosure discrepancies among the journals (JBJS, 2.3%; JOA, 3.6%; and FAI, 23.7%). CONCLUSIONS: Discrepancies exist between payment disclosures made by authors and those published in the CMS Open Payments database. Although the percentage of articles with these discrepancies varies widely among the journals that were analyzed in this study, no trend was found when analyzing the number of discrepancies over the 3-year period. CLINICAL RELEVANCE: COI disclosures are important for the interpretation of study results and need to be accurately reported. However, COI disclosure criteria vary among orthopaedic journals, causing uncertainty regarding which conflicts should be disclosed.",
+  "year": 2019,
+  "journal": "The Journal of bone and joint surgery. American volume",
+  "authors": [
+    "Cory F Janney",
+    "Kiya Shazadeh Safavi",
+    "Gregory J Schneider",
+    "Daniel C Jupiter",
+    "Vinod K Panchbhavi"
+  ],
+  "doi": "10.2106/JBJS.18.01061",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Centers for Medicare and Medicaid Services, U.S.",
+    "Conflict of Interest",
+    "Databases, Factual",
+    "Disclosure",
+    "Drug Industry",
+    "Humans",
+    "Orthopedics",
+    "Physicians",
+    "United States"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Orthopaedic Surgery and Rehabilitation, University of Texas Medical Branch, Galveston, Texas.",
+    "United States Navy, Navy Medical Center San Diego, San Diego, California.",
+    "Department of Orthopaedic Surgery and Rehabilitation, University of Texas Medical Branch, Galveston, Texas.",
+    "Department of Orthopaedic Surgery and Rehabilitation, University of Texas Medical Branch, Galveston, Texas.",
+    "Department of Orthopaedic Surgery and Rehabilitation, University of Texas Medical Branch, Galveston, Texas.",
+    "Department of Orthopaedic Surgery and Rehabilitation, University of Texas Medical Branch, Galveston, Texas."
+  ]
+}

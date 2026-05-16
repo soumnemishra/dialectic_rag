@@ -1,0 +1,38 @@
+{
+  "pmid": "35145555",
+  "title": "Dabigatran in patients with atrial fibrillation after COVID-19 hospitalization: an update of the ANIBAL protocol.",
+  "abstract": "COVID-19 increases the risk of atrial fibrillation (AF) and thrombotic complications, particularly in severe cases, leading to higher mortality rates. Anticoagulation is the cornerstone to reduce thromboembolic risk in patients with AF. Considering the risk of hepatotoxicity in patients with severe COVID-19 as well as the risk of drug-drug interactions, drug-induced hepatotoxicity and bleeding, the ANIBAL protocol was developed to facilitate the anticoagulation approach at discharge after COVID-19 hospitalization. However, since the publication of the original algorithm, relevant changes have occurred. First, treatment of COVID-19 pneumonia has been modified with the use of dexamethasone or remdesivir during the first week in patients that require oxygen therapy, and of dexamethasone and/or tocilizumab or baricitinib during the second week in patients that necessitate supplementary oxygen or with a high inflammation state, respectively. On the other hand, metabolic syndrome is common in patients with AF as well as metabolic-associated fatty liver disease, and this could negatively impact the prognosis of patients with COVID-19, including high transaminase levels in patients treated with immunomodulators. The EHRA guidelines update also introduce some interesting changes in drug-drug interaction patterns with the reduction of the level of the interaction with dexamethasone, which is of paramount importance in this clinical context. Considering the new information, the protocol, named ANIBAL II, has been updated. In this new protocol, the anticoagulant of choice in patients with AF after COVID-19 hospitalization is provided according to three scenarios: with/without dexamethasone treatment at discharge and normal hepatic function, transaminases ≤2 times the upper limit of normal, or transaminases >2 times the upper limit of normal.",
+  "year": 2022,
+  "journal": "Drugs in context",
+  "authors": [
+    "Juan José Cerezo-Manchado",
+    "Olga Meca Birlanga",
+    "Luis García de Guadiana Romualdo",
+    "Ignacio Gil-Ortega",
+    "Antonio Martínez Francés",
+    "Teodoro Iturbe-Hernandez"
+  ],
+  "doi": "10.7573/dic.2021-9-4",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "MAFLD",
+    "atrial fibrillation",
+    "dabigatran",
+    "direct oral anticoagulants",
+    "hepatotoxicity",
+    "metabolic syndrome"
+  ],
+  "affiliations": [
+    "Department of Hematology, Hospital Clínico Universitario Santa Lucía, Cartagena, Spain.",
+    "Department of Pneumology, Hospital Clínico Universitario Santa Lucía, Cartagena, Spain.",
+    "Laboratory Department, Hospital Clínico Universitario Santa Lucía, Cartagena, Spain.",
+    "Department of Cardiology, Hospital Clínico Universitario Santa Lucía, Cartagena, Spain.",
+    "Department of Hematology, Hospital Clínico Universitario Santa Lucía, Cartagena, Spain.",
+    "Department of Hematology, Hospital Clínico Universitario Santa Lucía, Cartagena, Spain."
+  ]
+}

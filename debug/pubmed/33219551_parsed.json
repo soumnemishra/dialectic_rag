@@ -1,0 +1,70 @@
+{
+  "pmid": "33219551",
+  "title": "High-dose methylprednisolone in nonintubated patients with severe COVID-19 pneumonia.",
+  "abstract": "BACKGROUND: Recent trials with dexamethasone and hydrocortisone have demonstrated benefit in patients with coronavirus disease 2019 (COVID-19). Data on methylprednisolone are limited. METHODS: Retrospective cohort of consecutive adults with severe COVID-19 pneumonia on high-flow oxygen (FiO2  ≥ 50%) admitted to an academic centre in New York, from 1 March to 15 April 2020. We used inverse probability of treatment weights to estimate the effect of methylprednisolone on clinical outcomes and intensive care resource utilization. RESULTS: Of 447 patients, 153 (34.2%) received methylprednisolone and 294 (65.8%) received no corticosteroids. At 28 days, 102 patients (22.8%) had died and 115 (25.7%) received mechanical ventilation. In weighted analyses, risk for death or mechanical ventilation was 37% lower with methylprednisolone (hazard ratio 0.63; 95% CI 0.47-0.86; P = .003), driven by less frequent mechanical ventilation (subhazard ratio 0.56; 95% CI 0.40-0.79; P = .001); mortality did not differ between groups. The methylprednisolone group had 2.8 more ventilator-free days (95% CI 0.5-5.1; P = .017) and 2.6 more intensive care-free days (95% CI 0.2-4.9; P = .033) during the first 28 days. Complication rates were not higher with methylprednisolone. CONCLUSIONS: In nonintubated patients with severe COVID-19 pneumonia, methylprednisolone was associated with reduced need for mechanical ventilation and less-intensive care resource utilization without excess complications.",
+  "year": 2021,
+  "journal": "European journal of clinical investigation",
+  "authors": [
+    "Aikaterini Papamanoli",
+    "Jeanwoo Yoo",
+    "Prabhjot Grewal",
+    "William Predun",
+    "Jessica Hotelling",
+    "Robin Jacob",
+    "Azad Mojahedi",
+    "Hal A Skopicki",
+    "Mohamed Mansour",
+    "Luis A Marcos",
+    "Andreas P Kalogeropoulos"
+  ],
+  "doi": "10.1111/eci.13458",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Bacteremia",
+    "COVID-19",
+    "Continuous Positive Airway Pressure",
+    "Female",
+    "Gastrointestinal Hemorrhage",
+    "Glucocorticoids",
+    "Healthcare-Associated Pneumonia",
+    "Humans",
+    "Intensive Care Units",
+    "Length of Stay",
+    "Male",
+    "Methylprednisolone",
+    "Middle Aged",
+    "Oxygen Inhalation Therapy",
+    "Pneumonia, Ventilator-Associated",
+    "Proportional Hazards Models",
+    "Respiration, Artificial",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "Severity of Illness Index",
+    "Treatment Outcome",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "healthcare resource utilization",
+    "intensive care unit",
+    "mechanical ventilation",
+    "methylprednisolone",
+    "pneumonia"
+  ],
+  "affiliations": [
+    "Division of Infectious Diseases, Department of Medicine, Stony Brook University, Stony Brook, NY, USA.",
+    "Department of Medicine, Stony Brook University, Stony Brook, NY, USA.",
+    "Department of Medicine, Stony Brook University, Stony Brook, NY, USA.",
+    "Department of Medicine, Stony Brook University, Stony Brook, NY, USA.",
+    "Department of Medicine, Stony Brook University, Stony Brook, NY, USA.",
+    "Department of Medicine, Stony Brook University, Stony Brook, NY, USA.",
+    "Department of Medicine, Stony Brook University, Stony Brook, NY, USA.",
+    "Division of Cardiology, Department of Medicine, Stony Brook University, Stony Brook, NY, USA.",
+    "Division of Pulmonary & Critical Care Medicine, Department of Medicine, Stony Brook University, Stony Brook, NY, USA.",
+    "Division of Infectious Diseases, Department of Medicine, Stony Brook University, Stony Brook, NY, USA.",
+    "Division of Cardiology, Department of Medicine, Stony Brook University, Stony Brook, NY, USA."
+  ]
+}

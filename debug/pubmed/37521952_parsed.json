@@ -1,0 +1,46 @@
+{
+  "pmid": "37521952",
+  "title": "Risk Factors for Severity and Mortality in Adult Patients Confirmed with COVID-19 in Sierra Leone: A Retrospective Study.",
+  "abstract": "BACKGROUND: The coronavirus disease 2019 (COVID-19) is a highly infectious respiratory disease. There is no recommended antiviral treatment approved for COVID-19 in Sierra Leone, and supportive care and protection of vital organ function are performed for the patients. This study summarized the clinical characteristics, drug treatments, and risk factors for the severity and prognosis of COVID-19 in Sierra Leone to provide evidence for the treatment of COVID-19. METHODS: Data of 180 adult COVID-19 patients from the 34th Military Hospital in Freetown Sierra Leone between March 31, 2020 and August 11, 2020 were retrospectively collected. Patients with severe and critically ill are classified in the severe group, while patients that presented asymptomatic, mild, and moderate disease were grouped in the non-severe group. The clinical and laboratory information was retrospectively collected to assess the risk factors and treatment strategies for severe COVID-19. Demographic information, travel history, clinical symptoms and signs, laboratory detection results, chest examination findings, therapeutics, and clinical outcomes were collected from each case file. Multivariate logistic analysis was adopted to identify the risk factors for deaths. Additionally, the clinical efficacy of dexamethasone treatment was investigated. RESULTS: Seventy-six (42.22%) cases were confirmed with severe COVID-19, while 104 patients (57.78%) were divided into the non-severe group. Fever (56.67%, 102/180) and cough (50.00%, 90/180) were the common symptoms of COVID-19. The death rate was 18.89% (34/180), and severe pneumonia (44.12%, 15/34) and septic shock (23.53%, 8/34) represented the leading reasons for deaths. The older age population, a combination of hypertension and diabetes, the presence of pneumonia, and high levels of inflammatory markers were significantly associated with severity of COVID-19 development (P < 0.05 for all). Altered level of consciousness [odds ratio (OR) = 56.574, 95% confidence interval (CI) 5.645-566.940, P = 0.001], high levels of neutrophils (OR = 1.341, 95%CI 1.109-1.621, P = 0.002) and C-reactive protein (CRP) (OR = 1.014, 95%CI 1.003-1.025, P = 0.016) might be indicators for COVID-19 deaths. Dexamethasone treatment could reduce mortality [30.36% (17/56) vs. 50.00% (10/20)] among severe COVID-19 cases, but the results were not statistically significant (P > 0.05). CONCLUSIONS: The development and prognosis of COVID-19 may be significantly correlated with consciousness status, and the levels of neutrophils and CRP.",
+  "year": 2022,
+  "journal": "Infectious diseases & immunity",
+  "authors": [
+    "Bo Tu",
+    "Sulaiman Lakoh",
+    "Biao Xu",
+    "Marta Lado",
+    "Reginald Cole",
+    "Fang Chu",
+    "Susan Hastings-Spaine",
+    "Mohamed Bole Jalloh",
+    "Junjie Zheng",
+    "Weiwei Chen",
+    "Stephen Sevalie"
+  ],
+  "doi": "10.1097/ID9.0000000000000037",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "Clinical type",
+    "Dexamethasone",
+    "Risk factor"
+  ],
+  "affiliations": [
+    "Fifth Medical Center of Chinese PLA General Hospital, Beijing 100039, China.",
+    "College of Medicine and Allied Health Sciences, University of Sierra Leone, Freetown, Sierra Leone.",
+    "Fifth Medical Center of Chinese PLA General Hospital, Beijing 100039, China.",
+    "Joint Medical Unit, Republic of Sierra Leone Armed Forces, 34 Military Hospital Wilberforce Freetown, Freetown, Sierra Leone.",
+    "Partners In Health, Sierra Leone.",
+    "Joint Medical Unit, Republic of Sierra Leone Armed Forces, 34 Military Hospital Wilberforce Freetown, Freetown, Sierra Leone.",
+    "Fifth Medical Center of Chinese PLA General Hospital, Beijing 100039, China.",
+    "Joint Medical Unit, Republic of Sierra Leone Armed Forces, 34 Military Hospital Wilberforce Freetown, Freetown, Sierra Leone.",
+    "Joint Medical Unit, Republic of Sierra Leone Armed Forces, 34 Military Hospital Wilberforce Freetown, Freetown, Sierra Leone.",
+    "Fifth Medical Center of Chinese PLA General Hospital, Beijing 100039, China.",
+    "Fifth Medical Center of Chinese PLA General Hospital, Beijing 100039, China.",
+    "College of Medicine and Allied Health Sciences, University of Sierra Leone, Freetown, Sierra Leone.",
+    "Joint Medical Unit, Republic of Sierra Leone Armed Forces, 34 Military Hospital Wilberforce Freetown, Freetown, Sierra Leone."
+  ]
+}

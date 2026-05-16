@@ -1,0 +1,57 @@
+{
+  "pmid": "33545499",
+  "title": "Characteristics and outcomes in hospitalized COVID-19 patients during the first 28 days of the spring and autumn pandemic waves in Milan: An observational prospective study.",
+  "abstract": "BACKGROUND: The therapeutic approach to COVID-19 and healthcare system preparedness improved during 2020. We compared characteristics and outcomes of hospitalized COVID-19 patients during the first 28 days of the March and October pandemic waves in Milan, Italy. MATERIAL AND METHODS: A prospective, observational study enrolling adult patients hospitalized with COVID-19 pneumonia during March 7-April 4 (1st period) and October 15-November 12 (2nd period). During the 1st period hydroxychloroquine, lopinavir/ritonavir and therapeutic enoxaparin when thrombosis was confirmed were administered; systemic corticosteroids were given in case of severe pneumonia. During the 2nd period dexamethasone, methylprednisolone, remdesivir, thromboprophylaxis or anticoagulation were administered according to international recommendations. Patients with respiratory distress on oxygen masks initiated CPAP. Outcomes were: length of hospital stay, all-cause in-hospital mortality and need for intubation. RESULTS: We included 70 patients (75% males) during the 1st and 76 patients (51% males, p = 0.522) during the 2nd period. Prevalence of severe respiratory failure (30% vs. 12%, p = 0.006), and D-dimer >3000 FEU (34% vs. 15%, P = 0.012) were reduced during the 2nd period, while anticoagulation and corticosteroids were more frequently administered (both p < 0.01). Mortality and time to referral were also reduced (39.4% vs. 22.4%, p = 0.019 and 6 vs. 5 days, p = 0.014), while need for intubation didn't change. Hospitalization length was comparable, but the proportion of patients discharged home was higher during the 2nd period (28.2% vs. 55.4%, p = 0.001). CONCLUSIONS: Changing treatment paradigms and early referral might have reduced mortality in COVID-19 patients. The effects of specific therapeutic regimens needs further confirmation in future clinical studies.",
+  "year": 2021,
+  "journal": "Respiratory medicine",
+  "authors": [
+    "Dejan Radovanovic",
+    "Stefano Pini",
+    "Elisa Franceschi",
+    "Marica Pecis",
+    "Andrea Airoldi",
+    "Maurizio Rizzi",
+    "Pierachille Santus"
+  ],
+  "doi": "10.1016/j.rmed.2021.106323",
+  "publication_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Anticoagulants",
+    "Antiviral Agents",
+    "COVID-19",
+    "Female",
+    "Hospital Mortality",
+    "Hospitalization",
+    "Humans",
+    "Italy",
+    "Length of Stay",
+    "Male",
+    "Middle Aged",
+    "Prospective Studies",
+    "Respiratory Therapy",
+    "Seasons",
+    "Survival Rate"
+  ],
+  "keywords": [
+    "COVID-19",
+    "CPAP",
+    "Mortality",
+    "Pneumonia",
+    "Respiratory failure",
+    "Treatment"
+  ],
+  "affiliations": [
+    "Division of Respiratory Diseases, Ospedale L. Sacco, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157, Milano, Italy. Electronic address: dejan.radovanovic@asst-fbf-sacco.it.",
+    "Division of Respiratory Diseases, Ospedale L. Sacco, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157, Milano, Italy; Department of Biomedical and Clinical Sciences (DIBIC), Università Degli Studi di Milano, Division of Respiratory Diseases, Luigi Sacco University Hospital, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157, Milano, Italy. Electronic address: stefano.pini@unimi.it.",
+    "Division of Respiratory Diseases, Ospedale L. Sacco, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157, Milano, Italy; Department of Biomedical and Clinical Sciences (DIBIC), Università Degli Studi di Milano, Division of Respiratory Diseases, Luigi Sacco University Hospital, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157, Milano, Italy. Electronic address: elisa.franceschi@unimi.it.",
+    "Division of Respiratory Diseases, Ospedale L. Sacco, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157, Milano, Italy. Electronic address: marica.pecis@asst-fbf-sacco.it.",
+    "Division of Respiratory Diseases, Ospedale L. Sacco, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157, Milano, Italy. Electronic address: andrea.airoldi@asst-fbf-sacco.it.",
+    "Division of Respiratory Diseases, Ospedale L. Sacco, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157, Milano, Italy. Electronic address: maurizio.rizzi@asst-fbf-sacco.it.",
+    "Division of Respiratory Diseases, Ospedale L. Sacco, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157, Milano, Italy; Department of Biomedical and Clinical Sciences (DIBIC), Università Degli Studi di Milano, Division of Respiratory Diseases, Luigi Sacco University Hospital, ASST Fatebenefratelli-Sacco, Via G.B. Grassi 74, 20157, Milano, Italy. Electronic address: pierachille.santus@unimi.it."
+  ]
+}

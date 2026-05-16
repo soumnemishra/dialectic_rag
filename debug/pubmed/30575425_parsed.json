@@ -1,0 +1,42 @@
+{
+  "pmid": "30575425",
+  "title": "Symptomatic treatment of dengue: should the NSAID contraindication be reconsidered?",
+  "abstract": "Consensus guidelines for treatment of dengue fever from the World Health Organization and US Centers for Disease Control recommend acetaminophen to manage pain and fever but contraindicate nonsteroidal anti-inflammatory agents (NSAIDs) because of potentially increased bleeding risk, with thrombocytopenia as a complication. Neither acetaminophen nor ibuprofen (the NSAID with lowest bleeding risk) have been evaluated for dengue treatment in randomized, controlled clinical trials. Epidemiologic and cohort studies and case series describing NSAID use in dengue generally point to minimal or no significant increase in bleeding risk, except for aspirin. Given the lack of data on use of NSAIDs in dengue, we assessed the literature for the risk of postoperative bleeding with NSAID use, with a particular focus on ibuprofen, as a potential surrogate marker of bleeding risk in dengue. Ibuprofen at over-the-counter doses used to treat pain and fever (i.e. up to 1,200 mg/d for up to 10 days) is associated with zero to minimally increased risk for postoperative bleeding events. Where detected, statistically significant increases in bleeding incidence and/or bleed volume were not clinically meaningful. Because hepatitis is also a frequent dengue complication, acetaminophen-associated hepatotoxicity (the most common cause of drug-induced liver disease and acute liver failure in the United States and Europe) raises the possibility of severe hepatic injury with acetaminophen treatment. Data suggesting that conditions associated with chronic liver damage reduce the dosing threshold for induction of liver failure are of particular concern. Meta-analyses of clinical studies across a range of clinical settings consistently conclude that ibuprofen, at non-prescription doses, provides equivalent or superior analgesic and antipyretic activity compared with acetaminophen, with comparable safety. These data suggest that the consensus guideline recommendations for acetaminophen and against NSAID use in dengue treatment should be reconsidered in light of current evidence regarding the risks and benefits of each agent.",
+  "year": 2019,
+  "journal": "Postgraduate medicine",
+  "authors": [
+    "David Kellstein",
+    "Luiz Fernandes"
+  ],
+  "doi": "10.1080/00325481.2019.1561916",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Anti-Inflammatory Agents, Non-Steroidal",
+    "Contraindications, Drug",
+    "Dengue",
+    "Fever",
+    "Hemorrhage",
+    "Humans",
+    "Ibuprofen",
+    "Pain",
+    "Thrombocytopenia"
+  ],
+  "keywords": [
+    "Dengue fever",
+    "acetaminophen",
+    "acetaminophen-associated hepatotoxicity",
+    "arbovirus",
+    "consensus treatment guidelines",
+    "dengue hemorrhagic fever",
+    "emerging diseases",
+    "ibuprofen",
+    "thrombocytopenia"
+  ],
+  "affiliations": [
+    "a Pain Management Team , Pfizer Consumer Healthcare , Madison , NJ , USA.",
+    "b Global Medical Affairs , Pfizer Consumer Healthcare , Sao Paulo , Brazil."
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "pmid": "25922865",
+  "title": "Group versus conventional antenatal care for women.",
+  "abstract": "BACKGROUND: Antenatal care is one of the key preventive health services used around the world. In most Western countries, antenatal care traditionally involves a schedule of one-to-one visits with a care provider. A different way of providing antenatal care involves use of a group model. OBJECTIVES: 1. To compare the effects of group antenatal care versus conventional antenatal care on psychosocial, physiological, labour and birth outcomes for women and their babies.2. To compare the effects of group antenatal care versus conventional antenatal care on care provider satisfaction. SEARCH METHODS: We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 October 2014), contacted experts in the field and reviewed the reference lists of retrieved studies. SELECTION CRITERIA: All identified published, unpublished and ongoing randomised and quasi-randomised controlled trials comparing group antenatal care with conventional antenatal care were included. Cluster-randomised trials were eligible, and one has been included. Cross-over trials were not eligible. DATA COLLECTION AND ANALYSIS: Two review authors independently assessed trials for inclusion and risk of bias and extracted data; all review authors checked data for accuracy. MAIN RESULTS: We included four studies (2350 women). The overall risk of bias for the included studies was assessed as acceptable in two studies and good in two studies. No statistically significant differences were observed between women who received group antenatal care and those given standard individual antenatal care for the primary outcome of preterm birth (risk ratio (RR) 0.75, 95% confidence interval (CI) 0.57 to 1.00; three trials; N = 1888). The proportion of low-birthweight (less than 2500 g) babies was similar between groups (RR 0.92, 95% CI 0.68 to 1.23; three trials; N = 1935). No group differences were noted for the primary outcomes small-for-gestational age (RR 0.92, 95% CI 0.68 to 1.24; two trials; N = 1473) and perinatal mortality (RR 0.63, 95% CI 0.32 to 1.25; three trials; N = 1943).Satisfaction was rated as high among women who were allocated to group antenatal care, but this outcome was measured in only one trial. In this trial, mean satisfaction with care in the group given antenatal care was almost five times greater than that reported by those allocated to standard care (mean difference 4.90, 95% CI 3.10 to 6.70; one study; N = 993). No differences in neonatal intensive care admission, initiation of breastfeeding or spontaneous vaginal birth were observed between groups. Several outcomes related to stress and depression were reported in one trial. No differences between groups were observed for any of these outcomes.No data were available on the effects of group antenatal care on care provider satisfaction.We used the GRADE (Grades of Recommendation, Assessment, Development and Evaluation) approach to assess evidence for seven prespecified outcomes; results ranged from low quality (perinatal mortality) to moderate quality (preterm birth, low birthweight, neonatal intensive care unit admission, breastfeeding initiation) to high quality (satisfaction with antenatal care, spontaneous vaginal birth). AUTHORS' CONCLUSIONS: Available evidence suggests that group antenatal care is positively viewed by women and is associated with no adverse outcomes for them or for their babies. No differences in the rate of preterm birth were reported when women received group antenatal care. This review is limited because of the small numbers of studies and women, and because one study contributed 42% of the women. Most of the analyses are based on a single study. Additional research is required to determine whether group antenatal care is associated with significant benefit in terms of preterm birth or birthweight.",
+  "year": 2015,
+  "journal": "The Cochrane database of systematic reviews",
+  "authors": [
+    "Christine J Catling",
+    "Nancy Medley",
+    "Maralyn Foureur",
+    "Clare Ryan",
+    "Nicky Leap",
+    "Alison Teate",
+    "Caroline S E Homer"
+  ],
+  "doi": "10.1002/14651858.CD007622.pub3",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Female",
+    "Humans",
+    "Infant, Low Birth Weight",
+    "Infant, Newborn",
+    "Peer Group",
+    "Pregnancy",
+    "Premature Birth",
+    "Prenatal Care",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Centre for Midwifery, Child and Family Health, University of Technology Sydney, Faculty of Health, Broadway, NSW, Australia, 2007"
+  ]
+}

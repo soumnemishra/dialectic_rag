@@ -1,0 +1,38 @@
+{
+  "pmid": "35677732",
+  "title": "Baricitinib in hospitalised patients with COVID-19: A meta-analysis of randomised controlled trials.",
+  "abstract": "BACKGROUND: To date, only dexamethasone and tocilizumab have been shown to reduce mortality in patients with COVID-19. Baricitinib is a Janus kinase 1/2 inhibitor with known anti-inflammatory and anti-viral properties. We performed a meta-analysis of RCTs assessing the role of baricitinib in hospitalised patients with COVID-19. METHODS: Electronic databases such as MEDLINE, EMBASE, and Cochrane Central were searched up until March 31, 2022, for RCTs evaluating the efficacy of baricitinib in hospitalised patients with COVID-19. The outcomes assessed were 28-day mortality, progression to invasive mechanical ventilation (IMV) or ECMO, progression to respiratory failure needing positive pressure ventilation, IMV or death, duration of hospitalisation and time to discharge. The meta-analysis was registered in the PROSPERO database (CRD42022314579). FINDINGS: Four studies (with 10,815 patients) were included in the analysis. Pooled analysis using random-effects model showed a statistically significant reduction in 28-day mortality (OR 0.69, 95% CI 0.50-0.94; p=0.04, I2=65%) and composite outcome of progression to severe disease needing positive pressure ventilation, IMV or death (OR 0.89, 95% CI 0.80-0.99, p= 0.03, I2=0%). There was a favorable trend towards reduced progression to IMV or ECMO (OR 0.76, 95% CI 0.58-1.01; p=0.06, I2=49%) in the baricitinib arm compared to standard therapy, even though it was not statistically significant. Statistical significance was achieved for all outcomes with fixed-effects model analysis. INTERPRETATION: In hospitalised patients with COVID-19, baricitinib was associated with reduced 28-day mortality although there was not a statistically significant reduction in progression to IMV or ECMO. Baricitinib used in conjunction with standard of care treatments is associated with improved mortality in hospitalised patients with COVID-19 disease. FUNDING: None.",
+  "year": 2022,
+  "journal": "EClinicalMedicine",
+  "authors": [
+    "Vijairam Selvaraj",
+    "Arkadiy Finn",
+    "Amos Lal",
+    "Mohammad Saud Khan",
+    "Kwame Dapaah-Afriyie",
+    "Gerardo P Carino"
+  ],
+  "doi": "10.1016/j.eclinm.2022.101489",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "Baricitinib",
+    "COVID",
+    "COVID19",
+    "JAK",
+    "Janus kinase inhibitors"
+  ],
+  "affiliations": [
+    "Department of Medicine, Warren Alpert School of Medicine at Brown University, Providence, RI, USA.",
+    "The Miriam Hospital, Providence, RI, USA.",
+    "Department of Medicine, Warren Alpert School of Medicine at Brown University, Providence, RI, USA.",
+    "The Miriam Hospital, Providence, RI, USA.",
+    "Department of Medicine, Division of Pulmonary and Critical Care Medicine, Mayo Clinic, Rochester, MN, USA.",
+    "Division of Cardiology, University of Kentucky, Bowling Green, KY, USA.",
+    "Department of Medicine, Warren Alpert School of Medicine at Brown University, Providence, RI, USA.",
+    "The Miriam Hospital, Providence, RI, USA.",
+    "Division of Pulmonary and Critical Care, Rhode Island Hospital, Providence, RI, USA."
+  ]
+}

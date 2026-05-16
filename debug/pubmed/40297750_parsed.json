@@ -1,0 +1,41 @@
+{
+  "pmid": "40297750",
+  "title": "The comparative effectiveness of methylprednisolone versus dexamethasone on in-hospital mortality in patients with severe or critical COVID-19: a retrospective observational study.",
+  "abstract": "BACKGROUND: Studies comparing the effectiveness of dexamethasone versus methylprednisolone for treating severe-to-critical COVID-19 have produced conflicting results. This study aimed to evaluate the impact of dexamethasone compared with methylprednisolone on in-hospital mortality among patients with severe or critical COVID-19. OBJECTIVES: The objective of this study was to assess the effectiveness of dexamethasone in comparison to methylprednisolone in reducing in-hospital mortality in patients suffering from severe-to-critical COVID-19 pneumonia. DESIGN: This was a retrospective observational study conducted at a tertiary care academic medical center. METHODS: Clinical data from 706 hospitalized patients with severe or critical COVID-19 in Karachi, Pakistan, were reviewed. Of these patients, 217 received either oral or intravenous dexamethasone, and 393 were treated with methylprednisolone. The primary outcome was in-hospital mortality, while secondary outcomes included the length of hospitalization and the need for mechanical ventilation. RESULTS: The methylprednisolone group had a male predominance (74% vs 54%; p < 0.001). However, there was no significant difference in median age between the dexamethasone group (55 years) and the methylprednisolone group (57 years) (p = 0.09). Mortality was significantly higher in the methylprednisolone group compared to the dexamethasone group (13.7% vs 3.2%, p < 0.001). Multivariable analysis showed that dexamethasone was associated with lower in-hospital mortality (adjusted odds ratio (aOR): 0.24; 95% CI: 0.09-0.62; p = 0.003). Furthermore, patients in the dexamethasone group had a shorter length of hospital stay (aOR: 0.87 (95% CI: 0.82-0.92)) compared to the methylprednisolone group. A higher proportion of patients required invasive mechanical ventilation in the methylprednisolone group compared to the dexamethasone group (13.7% vs 3.2%; p < 0.001). CONCLUSION: Dexamethasone was associated with lower mortality and a reduced length of hospital stay and a lower proportion of patients required mechanical ventilation compared to methylprednisolone in patients with severe-to-critical COVID-19. Which medication is better for severe COVID-19: dexamethasone or methylprednisolone? This study compared two common drugs, Dexamethasone and Methylprednisolone, to see which one is better for treating severe cases of COVID-19. Previous studies gave mixed results, so this research aimed to find out which drug is more effective in lowering the chances of dying from COVID-19 while in the hospital. The study looked at the medical records of 706 patients with severe or critical COVID-19 who were treated at a hospital in Karachi, Pakistan. Some patients received Dexamethasone, while others got Methylprednisolone. The study checked as to how many patients survived their hospital stay, along with how long they stayed in the hospital and if they needed help breathing with a ventilator. The results showed that the group given Methylprednisolone had more deaths compared to those given Dexamethasone. After taking into account different factors, the researchers found that Dexamethasone was better at lowering the risk of death in the hospital compared to Methylprednisolone. This is important because it helps doctors know which medicine is better for treating severe COVID-19. Using the right medicine can improve the chances of survival and reduce the time spent in the hospital for patients with severe cases of COVID-19.",
+  "year": 2025,
+  "journal": "Therapeutic advances in infectious disease",
+  "authors": [
+    "Abdullah Wagley",
+    "Samar Fatima",
+    "Safia Awan",
+    "Maheen Zakaria",
+    "Aleena Arshad",
+    "Farah Khalid",
+    "Noreen Nasir",
+    "Masooma Aqeel",
+    "Nosheen Nasir"
+  ],
+  "doi": "10.1177/20499361251328824",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "dexamethasone",
+    "methylprednisolone",
+    "mortality",
+    "steroids"
+  ],
+  "affiliations": [
+    "Aga Khan University Medical College, Karachi, Pakistan.",
+    "Department of Medicine, Aga Khan University, Karachi, Pakistan.",
+    "Department of Medicine, Aga Khan University, Karachi, Pakistan.",
+    "Aga Khan University Medical College, Karachi, Pakistan.",
+    "Department of Medicine, Aga Khan University, Karachi, Pakistan.",
+    "Department of Medicine, Aga Khan University, Karachi, Pakistan.",
+    "Department of Medicine, Aga Khan University, Karachi, Pakistan.",
+    "Department of Medicine, Aga Khan University, Karachi, Pakistan.",
+    "Section of Adult Infectious Diseases, Department of Medicine, Aga Khan University, P.O Box. 3500, Stadium Road, Karachi-74800, Pakistan."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "pmid": "41086802",
+  "title": "Challenges in the Prevention and Treatment of Dengue Fever: An Emerging Issue.",
+  "abstract": "Dengue fever (DF), caused by dengue virus (DENV), is a major global health concern, potentially affecting more than 390 million people annually across more than 100 countries. Despite extensive research, significant challenges persist in both prevention and therapeutic approaches toward dengue. Preventive strategies are mainly focused on vector control through physical, biological, and chemical methods, as well as vaccination efforts in recent years. Existing vaccines, such as Dengvaxia® (Sanofi Pasteur, Paris, France) and Qdenga® (Takeda Pharmaceutical Company, Tokyo, Japan), have demonstrated some efficacy; however, limitations include a lack of efficacy against certain regional DENV strains and the potential for antibody-dependent enhancement (ADE), particularly in individuals without previous DENV exposure. Therapeutic monoclonal antibodies against DENV are potential treatment options, but they are hindered by rapid elimination and ADE risks. The absence of suitable animal models that replicate the symptoms of DF further complicates vaccine and therapeutic development. Emerging strategies, including messenger RNA vaccines and engineered antibodies, show promise but would still require thorough validation for efficacy and safety. To date, therapeutic approaches to DF are predominantly supportive, focusing on symptom management and complication prevention. Although antiviral drugs and immunotherapies are under investigation, none have exhibited clinical success. The intricate pathogenesis of DENV, involving complex virus-host interactions and immune responses, presents additional treatment challenges. In this review, the current challenges and advancements in DF prevention and treatment are examined, emphasizing the limits of existing vaccines and medicines while exploring novel approaches with potential for effectiveness in clinical settings.",
+  "year": 2025,
+  "journal": "The American journal of tropical medicine and hygiene",
+  "authors": [
+    "Niloofar Farsiu",
+    "Keivan Zandi",
+    "Mohammad Rezaei Zadeh Rukerd",
+    "Javad Charostad",
+    "Davood Bashash",
+    "Somayeh Ghafari",
+    "Mohammad Pardeshenas",
+    "Mahsan Shahri",
+    "Hanieh Mirkamali",
+    "Pouya Hassandarvish",
+    "Mohsen Nakhaie",
+    "Sazaly AbuBakar"
+  ],
+  "doi": "10.4269/ajtmh.25-0049",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Dengue",
+    "Humans",
+    "Dengue Vaccines",
+    "Dengue Virus",
+    "Animals",
+    "Antiviral Agents"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Gastroenterology and Hepatology Research Center, Institute of Basic and Clinical Physiology Sciences, Kerman University of Medical Sciences, Kerman, Iran.",
+    "Department of Microbiology, Biochemistry and Immunology, Morehouse School of Medicine, Atlanta, Georgia.",
+    "Department of Stem Cells and Developmental Biology, Cell Science Research Center, Royan Institute for Stem Cell Biology and Technology, ACECR, Tehran, Iran.",
+    "Department of Microbiology, Faculty of Medicine, Shahid Sadoughi University of Medical Sciences, Yazd, Iran.",
+    "Department of Hematology and Blood Banking, School of Allied Medical Sciences, Shahid Beheshti University of Medical Sciences, Tehran, Iran.",
+    "Endocrinology and Metabolism Research Center, Institute of Basic and Clinical Physiology Sciences, Kerman University of Medical Sciences, Kerman, Iran.",
+    "Department of Microbiology, School of Medicine, Kerman University of Medical Sciences, Kerman, Iran.",
+    "Department of Microbiology, School of Medicine, Kerman University of Medical Sciences, Kerman, Iran.",
+    "Faculty of Medicine, Kerman University of Medical Sciences, Kerman, Iran.",
+    "Tropical Infectious Diseases Research & Education Centre, Universiti Malaya, Kuala Lumpur, Malaysia.",
+    "Research Center of Tropical and Infectious Diseases, Kerman University of Medical Sciences, Kerman, Iran.",
+    "Clinical Research Development Unit, Afzalipour Hospital, Kerman University of Medical Sciences, Kerman, Iran.",
+    "Tropical Infectious Diseases Research & Education Centre, Universiti Malaya, Kuala Lumpur, Malaysia."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "25489183",
+  "title": "A meta-analysis of selected maternal and fetal factors for perinatal mortality.",
+  "abstract": "BACKGROUND: In several developing countries, achieving Millennium Development Goal 4 is still off track. Multiple maternal and fetal risk factors were inconsistently attributed to the high perinatal mortality in developing countries. However, there was no meta-analysis that assessed the pooled effect of these factors on perinatal mortality. The purpose of this meta-analysis was to identify maternal and fetal factors predicting perinatal mortality. METHODS: In this meta-analysis, we included 23 studies that assessed perinatal mortality in relation to antenatal care, parity, mode of delivery, gestational age, birth weight and sex of the fetus. A computer based search of articles was conducted mainly in the databases of PUBMED, MEDLINE, HINARI, AJOL, Google Scholar and Cochrane Library. The overall odds ratios (OR) were determined by the random-effect model. Heterogeneity testing and sensitivity analysis were also conducted. RESULTS: The pooled analysis showed a strong association of perinatal mortality with lack of antenatal care (OR=3.2), prematurity (OR=7.9), low birth weight (OR=9.6), and marginal association with primigravidity (OR=1.5) and male sex (OR=1.2). The regression analysis also showed down-going trend lines of stillbirth and neonatal mortality rates in relation to the proportion of antenatal care. The metaanalysis showed that there was no association between mode of delivery and perinatal mortality. CONCLUSION: The present meta-analysis indicated a significant reduction in perinatal mortality among women who attended antenatal care, gave birth to term and normal birth weight baby. However, the association of perinatal mortality with parity, mode of delivery and fetal sex needs further investigation.",
+  "year": 2014,
+  "journal": "Ethiopian journal of health sciences",
+  "authors": [
+    "Yifru Berhan",
+    "Asres Berhan"
+  ],
+  "doi": "10.4314/ejhs.v24i0.6s",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Developing Countries",
+    "Female",
+    "Fetal Death",
+    "Fetus",
+    "Humans",
+    "Infant",
+    "Infant Mortality",
+    "Infant, Low Birth Weight",
+    "Infant, Newborn",
+    "Infant, Premature",
+    "Male",
+    "Perinatal Death",
+    "Perinatal Mortality",
+    "Pregnancy",
+    "Prenatal Care"
+  ],
+  "keywords": [
+    "antenatal care",
+    "developing countries",
+    "meta-analysis",
+    "perinatal mortality",
+    "skilled person attended delivery"
+  ],
+  "affiliations": [
+    "Hawassa University, College of Medicine and Health Sciences, Department of Gynecology-Obstetrics.",
+    "Hawassa University, College of Medicine and Health Sciences, Department of Pharmacology."
+  ]
+}

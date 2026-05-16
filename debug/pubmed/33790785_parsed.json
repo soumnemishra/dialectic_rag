@@ -1,0 +1,47 @@
+{
+  "pmid": "33790785",
+  "title": "Evaluation of the Current Therapeutic Approaches for COVID-19: A Systematic Review and a Meta-analysis.",
+  "abstract": "Background: Limited data on the efficacy and safety of currently applied COVID-19 therapeutics and their impact on COVID-19 outcomes have raised additional concern. Objective and Methods: To estimate the efficacy and safety of COVID-19 therapeutics, we performed meta-analyses of the studies reporting clinical features and treatments of COVID-19 published from January 21 to September 6, 2020. Results: We included 136 studies that involved 102,345 COVID-19 patients. The most prevalent treatments were antibiotics (proportion: 0.59, 95% CI: [0.51, 0.67]) and antivirals (proportion: 0.52, 95% CI: [0.44, 0.60]). The combination of lopinavir/ritonavir and Arbidol was the most effective in treating COVID-19 (standardized mean difference (SMD) = 0.68, 95% CI: [0.15, 1.21]). The use of corticosteroids was associated with a small clinical improvement (SMD = -0.40, 95% CI: [-0.85, -0.23]), but with a higher risk of disease progression and death (mortality: RR = 9.26, 95% CI: [4.81, 17.80]; hospitalization length: RR = 1.54, 95% CI: [1.39, 1.72]; severe adverse events: RR = 2.65, 95% CI: [2.09, 3.37]). The use of hydroxychloroquine was associated with a higher risk of death (RR = 1.68, 95% CI: [1.18, 2.38]). The combination of lopinavir/ritonavir, ribavirin, and interferon-β (RR = 0.34, 95% CI: [0.22, 0.54]); hydroxychloroquine (RR = 0.58, 95% CI: [0.39, 0.58]); and lopinavir/ritonavir (RR = 0.72, 95% CI: [0.56, 0.91]) was associated with reduced hospitalization length. Hydrocortisone (RR = 0.05, 95% CI: [0.03, 0.10]) and remdesivir (RR = 0.74, 95% CI: [0.62, 0.90]) were associated with lower incidence of severe adverse events. Dexamethasone was not significant in reducing disease progression (RR = 0.45, 95% CI: [0.16, 1.25]) and mortality (RR = 0.90, 95% CI: [0.70, 1.16]). The estimated combination of corticosteroids with antivirals was associated with a better clinical improvement than antivirals alone (SMD = -1.09, 95% CI: [-1.64, -0.53]). Conclusion: Antivirals are safe and effective in COVID-19 treatment. Remdesivir cannot significantly reduce COVID-19 mortality and hospitalization length, while it is associated with a lower incidence of severe adverse events. Corticosteroids could increase COVID-19 severity, but it could be beneficial when combined with antivirals. Our data are potentially valuable for the clinical treatment and management of COVID-19 patients.",
+  "year": 2021,
+  "journal": "Frontiers in pharmacology",
+  "authors": [
+    "Zeinab Abdelrahman",
+    "Qian Liu",
+    "Shanmei Jiang",
+    "Mengyuan Li",
+    "Qingrong Sun",
+    "Yue Zhang",
+    "Xiaosheng Wang"
+  ],
+  "doi": "10.3389/fphar.2021.607408",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19 treatment",
+    "antiviral agents",
+    "dexamethasone",
+    "hydroxychloroquine",
+    "meta-analysis",
+    "remdesivir"
+  ],
+  "affiliations": [
+    "Biomedical Informatics Research Lab, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, China.",
+    "Big Data Research Institute, China Pharmaceutical University, Nanjing, China.",
+    "Biomedical Informatics Research Lab, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, China.",
+    "Big Data Research Institute, China Pharmaceutical University, Nanjing, China.",
+    "Biomedical Informatics Research Lab, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, China.",
+    "Big Data Research Institute, China Pharmaceutical University, Nanjing, China.",
+    "Biomedical Informatics Research Lab, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, China.",
+    "Big Data Research Institute, China Pharmaceutical University, Nanjing, China.",
+    "Biomedical Informatics Research Lab, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, China.",
+    "Big Data Research Institute, China Pharmaceutical University, Nanjing, China.",
+    "Pinghu Hospital of Shenzhen University, Shenzhen, China.",
+    "Futian Hospital for Rheumatic Diseases, Shenzhen, China.",
+    "Department of Rheumatology and Immunology, The First Clinical College of Harbin Medical University, Harbin, China.",
+    "Biomedical Informatics Research Lab, School of Basic Medicine and Clinical Pharmacy, China Pharmaceutical University, Nanjing, China.",
+    "Big Data Research Institute, China Pharmaceutical University, Nanjing, China."
+  ]
+}

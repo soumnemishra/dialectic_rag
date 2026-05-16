@@ -1,0 +1,28 @@
+{
+  "pmid": "10466189",
+  "title": "Folate and vitamin B12.",
+  "abstract": "The folates are made up of a pterdine ring attached to a p-aminobenzoate and a polyglutamyl chain. The active form is tetrahydrofolate which can have C1 units enzymically attached. These C1 units (as a formly group) are passed on to enzymes in the purine pathway that insert the C-2 and C-8 into the purine ring. A methylene group (-CH2-) attached to tetrahydrofolate is used to convert the uracil-type pyrimidine base found in RNA into the thymine base found in DNA. A further folate cofactor, i.e. 5-methyltetrahydrofolate, is involved in the remethylation of the homocysteine produced in the methylation cycle back to methionine. After activation to S-adenosylmethionine this acts as a methyl donor for the dozens of different methyltransferases present in all cells. Folate deficiency results in reduction of purine and pyrimidine biosynthesis and consequently DNA biosynthesis and cell division. This process is most easily seen in a reduction of erythrocytes causing anaemia. Reduction in the methylation cycle has multiple effects less easy to identify. One such effect is certainly on the nerve cells, because interruption of the methylation cycle causing neuropathy can also happen in vitamin B12 deficiency due to reduced activity of the vitamin B12-dependent enzyme methionine synthase (EC 2.1.1.13). In vitamin B12 deficiency, blocking of the methylation cycle causes the folate cofactors in the cell to become trapped as 5-methyltetrahydrofolate. This process in turn produces a pseudo folate deficiency in such cells, preventing cell division and giving rise to an anaemia identical to that seen in folate deficiency.",
+  "year": 1999,
+  "journal": "The Proceedings of the Nutrition Society",
+  "authors": [
+    "J M Scott"
+  ],
+  "doi": "10.1017/s0029665199000580",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Diet",
+    "Folic Acid",
+    "Folic Acid Deficiency",
+    "Humans",
+    "Nutritional Requirements",
+    "Vitamin B 12",
+    "Vitamin B 12 Deficiency"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Biochemistry, Trinity College, Dublin 2, Republic of Ireland. jscott@tcd.ie"
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "pmid": "40575645",
+  "title": "COVID-19 management in patients with comorbid conditions.",
+  "abstract": "The novel coronavirus disease 2019 (COVID-19) causes serious respiratory illness and related disorders. Vulnerable populations, including those with chronic obstructive pulmonary disease, heart disease, diabetes, chronic kidney disease, obesity, and the elderly, face an increased risk of severe complications. As the pandemic evolves, various diagnostic techniques are available to detect severe acute respiratory distress syndrome (SARS-CoV-2), including clinical presentation, rapid antigen/antibody testing, molecular testing, supplemental laboratory analysis, and imaging. Based on peer-reviewed data, treatment options include convalescent plasma transfusion, corticosteroids, antivirals, and immunomodulatory medications. Convalescent plasma therapy, historically used in outbreaks like Middle East respiratory syndrome, Ebola, and SARS, is suggested by the World Health Organization for critically ill COVID-19 patients when vaccines or antiviral drugs are unavailable. Neutralizing antibodies in convalescent plasma help control viral load and improve patient outcomes, especially when administered early, though effectiveness varies. The United States Food and Drug Administration has authorized its emergency use for severe COVID-19 cases, but potential risks such as transfusion reactions and transfusion-related acute lung injury require further investigation to establish definitive efficacy. Antiviral agents like Remdesivir, an adenosine nucleotide analog, inhibit viral RNA polymerase and have shown efficacy in reducing COVID-19 severity, leading to its emergency use authorization for hospitalized patients. Other antivirals like ritonavir, lopinavir, and umifenovir disrupt viral replication and entry, but their effectiveness against SARS-CoV-2 remains under investigation. Dexamethasone, a corticosteroid, has been used in critically ill COVID-19 patients to reduce inflammation and prevent respiratory failure, as shown in the RECOVERY trial. Other immunosuppressants like ruxolitinib, baricitinib, and colchicine help modulate the immune response, reducing cytokine storms and inflammation-related complications. However, corticosteroids carry risks such as hyperglycemia, immunosuppression, and delayed viral clearance, requiring careful administration. Systematic reviews of clinical studies revealed that hydroxychloroquine with or without azithromycin did not decrease viral load nor reduce the severity of symptoms, but increased mortality among acutely hospitalized patients. There was no improvement in patients' clinical conditions after 15 days compared to standard treatment. The United States Food and Drug Administration has revoked the authorization for the use of hydroxychloroquine in COVID-19 patients due to the null benefit-risk balance. Monoclonal antibodies like itolizumab, gimsilumab, sarilumab, and tocilizumab are being studied for their ability to reduce the severe inflammatory response in COVID-19 patients, particularly cytokine release syndrome and acute respiratory distress syndrome. These antibodies target specific immune pathways to decrease pro-inflammatory cytokines, with some showing promising results in clinical trials, though their use remains under investigation. The Clustered Regularly Interspaced Short Palindromic Repeats/Cas13 family of enzymes, sequenced from many COVID-19-positive patients, can potentially inhibit SARS-CoV-2 replication, cleave the RNA genome, and aid in the amplification of the genome assay. Cas13 can also target emerging pathogens via an adeno-associated virus vector when delivered to the infected lungs. In addition to pharmacological agents, vaccines effectively prevent symptomatic infection, reduce hospitalizations, minimize mortality rates, and ultimately reduce the severity of the disease. This paper aims to explore the management of patients with underlying conditions who present with COVID-19 to lessen the burden on healthcare systems.",
+  "year": 2025,
+  "journal": "World journal of virology",
+  "authors": [
+    "Adekunle Sanyaolu",
+    "Chuku Okorie",
+    "Aleksandra Marinkovic",
+    "Stephanie Prakash",
+    "Vyshnavy Balendra",
+    "Amine Lehachi",
+    "Abu Fahad Abbasi",
+    "Nafees Haider",
+    "Amos Abioye",
+    "Verner N Orish",
+    "Afolabi Antonio",
+    "Olanrewaju Badaru",
+    "Rajashree Pandit",
+    "Ricardo Izurieta"
+  ],
+  "doi": "10.5501/wjv.v14.i2.102674",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "Chemotherapy",
+    "Comorbidity",
+    "Diabetes",
+    "Heart disease",
+    "Therapeutic management",
+    "Vaccine"
+  ],
+  "affiliations": [
+    "Department of Biomedical Science, D'Youville University, Buffalo, NY 14201, United States. sanyakunle@hotmail.com.",
+    "Department of Biomedical Science, D'Youville University, Buffalo, NY 14201, United States.",
+    "Department of Basic Medical Science, Saint James School of Medicine, The Quarter 2640, Anguilla.",
+    "Department of Basic Medical Science, Saint James School of Medicine, The Quarter 2640, Anguilla.",
+    "Department of Basic Medical Science, Saint James School of Medicine, The Quarter 2640, Anguilla.",
+    "Department of Basic Medical Science, Saint James School of Medicine, The Quarter 2640, Anguilla.",
+    "Department of Internal Medicine, Loyola University Medical Center, Maywood, IL 60153, United States.",
+    "Department of Basic Science, All Saints University School of Medicine, Roseau 00152, Dominica.",
+    "College of Pharmacy and Health Sciences, Belmont University, Nashville, TN 37212, United States.",
+    "Department of Microbiology and Immunology, School of Medicine, University of Health and Allied Sciences, Ho PMB31, Ghana.",
+    "Department of Medicine, Lloydminster Regional Hospital, Lloydminster S9V 1Y5, Saskatchewan, Canada.",
+    "Department of Public Health, Federal Ministry of Health, Abuja 083, Federal Capital Territory, Nigeria.",
+    "Department of Biomedical Science, D'Youville University, Buffalo, NY 14201, United States.",
+    "School of Public Health and Health Sciences, California State University, Los Angeles, CA 90747, United States."
+  ]
+}

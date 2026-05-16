@@ -1,0 +1,55 @@
+{
+  "pmid": "36335329",
+  "title": "High levels of soluble RAGE are associated with a greater risk of mortality in COVID-19 patients treated with dexamethasone.",
+  "abstract": "Blood levels of the soluble receptor for advanced glycation end-products (sRAGE) are acutely elevated during the host inflammatory response to infection and predict mortality in COVID-19. However, the prognostic performance of this biomarker in the context of treatments to reduce inflammation is unclear. In this study we investigated the association between sRAGE and mortality in dexamethasone-treated COVID-19 patients. We studied 89 SARS-CoV-2 positive subjects and 22 controls attending the emergency department of a University Teaching Hospital during the second wave of COVID-19 and measured sRAGE at admission. In positive individuals sRAGE increased with disease severity and correlated with the National Early Warning Score 2 (Pearson's r = 0.56, p < 0.001). Fourteen out of 72 patients treated with dexamethasone died during 28 days of follow-up. Survival rates were significantly lower in patients with high sRAGE (> 3532 pg/mL) than in those with low sRAGE (p = 0.01). Higher sRAGE levels were associated with an increased risk of death after adjustment for relevant covariates. In contrast, IL-6 did not predict mortality in these patients. These results demonstrate that sRAGE remains an independent predictor of mortality among COVID-19 patients treated with dexamethasone. Determination of sRAGE could be useful for the clinical management of this patient population.",
+  "year": 2022,
+  "journal": "Respiratory research",
+  "authors": [
+    "Lee Butcher",
+    "Jun-Cezar Zaldua",
+    "Jose A Carnicero",
+    "Karl Hawkins",
+    "Janet Whitley",
+    "Rangaswamy Mothukuri",
+    "Phillip A Evans",
+    "Keith Morris",
+    "Suresh Pillai",
+    "Jorge D Erusalimsky"
+  ],
+  "doi": "10.1186/s12931-022-02220-5",
+  "publication_types": [
+    "Letter"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Receptor for Advanced Glycation End Products",
+    "SARS-CoV-2",
+    "Biomarkers",
+    "Dexamethasone",
+    "Glycation End Products, Advanced",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "Biomarkers",
+    "COVID-19",
+    "Dexamethasone",
+    "IL-6",
+    "Mortality",
+    "NEWS2",
+    "Prognostic",
+    "SARS-CoV-2",
+    "sRAGE"
+  ],
+  "affiliations": [
+    "The Cellular Senescence and Pathophysiology Group, Cardiff Metropolitan University, Llandaff Campus, Western Avenue, Cardiff, CF5 2YB, UK.",
+    "Welsh Centre for Emergency Medicine Research, Emergency Department, Morriston Hospital, Swansea Bay University Health Board, Swansea, SA6 6NL, UK.",
+    "Fundación para la Investigación Biomédica del Hospital Universitario de Getafe, Getafe, Spain.",
+    "Medical School, Swansea University, Swansea, UK.",
+    "Welsh Centre for Emergency Medicine Research, Emergency Department, Morriston Hospital, Swansea Bay University Health Board, Swansea, SA6 6NL, UK.",
+    "Welsh Centre for Emergency Medicine Research, Emergency Department, Morriston Hospital, Swansea Bay University Health Board, Swansea, SA6 6NL, UK.",
+    "Welsh Centre for Emergency Medicine Research, Emergency Department, Morriston Hospital, Swansea Bay University Health Board, Swansea, SA6 6NL, UK.",
+    "The Cellular Senescence and Pathophysiology Group, Cardiff Metropolitan University, Llandaff Campus, Western Avenue, Cardiff, CF5 2YB, UK.",
+    "Welsh Centre for Emergency Medicine Research, Emergency Department, Morriston Hospital, Swansea Bay University Health Board, Swansea, SA6 6NL, UK. SureshKumar.GopalaPillai@wales.nhs.uk.",
+    "The Cellular Senescence and Pathophysiology Group, Cardiff Metropolitan University, Llandaff Campus, Western Avenue, Cardiff, CF5 2YB, UK. jderusalimsky@cardiffmet.ac.uk."
+  ]
+}

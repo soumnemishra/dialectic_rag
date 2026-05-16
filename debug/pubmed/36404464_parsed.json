@@ -1,0 +1,51 @@
+{
+  "pmid": "36404464",
+  "title": "High-dose corticosteroids in patients hospitalized for COVID-19 pneumonia: an observational study of comparative effectiveness.",
+  "abstract": "OBJECTIVES: To assess whether high- compared with low-dose corticosteroids started upon hospitalization reduce mortality in patients with severe COVID-19 pneumonia or in subgroups stratified by severity of respiratory impairment on admission. METHODS: We conducted a retrospective cohort study of patients with confirmed SARS-CoV-2 infection who required oxygen supplementation upon hospitalization between March 1 and December 31, 2020. In-hospital death was analyzed using logistic regression with inverse probability of treatment weighting of receiving low- or high-dose corticosteroid (dexamethasone 6-10 mg daily or >10-20 mg daily or other corticosteroid equivalents). RESULTS: We analyzed 13,366 patients who received low-dose and 948 who received high-dose corticosteroids, of whom 31.3% and 40.4% had severe respiratory impairment (>15 l/min of oxygen or mechanical ventilation) upon admission, respectively. There were no differences in the propensity score-adjusted odds of death (odds ratio 1.17, 95% CI 0.72-1.90) or infections (odds ratio 0.70, 95% CI 0.44-1.11) for patients who received high-dose compared with low-dose corticosteroids, beginning on the day of admission. No significant differences in subgroups stratified by severity of respiratory impairment were found. CONCLUSION: Initiating high-dose compared with low-dose corticosteroids among newly hospitalized patients with COVID-19 pneumonia did not improve survival. However, benefit of high-dose corticosteroids in specific subgroups cannot be excluded.",
+  "year": 2022,
+  "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+  "authors": [
+    "Annette Langer-Gould",
+    "Stanley Xu",
+    "Laura C Myers",
+    "Aiyu Chen",
+    "John D Greene",
+    "Beth Creekmur",
+    "Katia Bruxvoort",
+    "John L Adams",
+    "Vincent Liu",
+    "Michael K Gould"
+  ],
+  "doi": "10.1016/j.ijid.2022.10.023",
+  "publication_types": [
+    "Observational Study",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Hospital Mortality",
+    "Retrospective Studies",
+    "Adrenal Cortex Hormones"
+  ],
+  "keywords": [
+    "Anakinra",
+    "COVID-19",
+    "Corticosteroids",
+    "Infections",
+    "Mortality"
+  ],
+  "affiliations": [
+    "Southern California Permanente Medical Group, Neurology Department, Kaiser Permanente Southern California, Los Angeles, USA; Department of Clinical Science, Kaiser Permanente Bernard J. Tyson School of Medicine, Pasadena, USA. Electronic address: Annette.M.Langer-Gould@kp.org.",
+    "Department of Research and Evaluation, Kaiser Permanente Southern California, Pasadena, USA.",
+    "Division of Research and The Permanente Medical Group, Kaiser Permanente Northern California, Oakland, USA.",
+    "Department of Research and Evaluation, Kaiser Permanente Southern California, Pasadena, USA.",
+    "Division of Research and The Permanente Medical Group, Kaiser Permanente Northern California, Oakland, USA.",
+    "Department of Research and Evaluation, Kaiser Permanente Southern California, Pasadena, USA.",
+    "Department of Research and Evaluation, Kaiser Permanente Southern California, Pasadena, USA.",
+    "Kaiser Permanente Center for Effectiveness and Safety Research, Pasadena, USA; Department of Health Systems Science, Kaiser Permanente Bernard J. Tyson School of Medicine, Pasadena, USA.",
+    "Department of Health Systems Science, Kaiser Permanente Bernard J. Tyson School of Medicine, Pasadena, USA.",
+    "Department of Health Systems Science, Kaiser Permanente Bernard J. Tyson School of Medicine, Pasadena, USA."
+  ]
+}

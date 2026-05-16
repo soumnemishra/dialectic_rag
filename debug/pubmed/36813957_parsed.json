@@ -1,0 +1,39 @@
+{
+  "pmid": "36813957",
+  "title": "Sequence determinant of small RNA production by DICER.",
+  "abstract": "RNA silencing relies on specific and efficient processing of double-stranded RNA by Dicer, which yields microRNAs (miRNAs) and small interfering RNAs (siRNAs)1,2. However, our current knowledge of the specificity of Dicer is limited to the secondary structures of its substrates: a double-stranded RNA of approximately 22 base pairs with a 2-nucleotide 3' overhang and a terminal loop3-11. Here we found evidence pointing to an additional sequence-dependent determinant beyond these structural properties. To systematically interrogate the features of precursor miRNAs (pre-miRNAs), we carried out massively parallel assays with pre-miRNA variants and human DICER (also known as DICER1). Our analyses revealed a deeply conserved cis-acting element, termed the 'GYM motif' (paired G, paired pyrimidine and mismatched C or A), near the cleavage site. The GYM motif promotes processing at a specific position and can override the previously identified 'ruler'-like counting mechanisms from the 5' and 3' ends of pre-miRNA3-6. Consistently, integrating this motif into short hairpin RNA or Dicer-substrate siRNA potentiates RNA interference. Furthermore, we find that the C-terminal double-stranded RNA-binding domain (dsRBD) of DICER recognizes the GYM motif. Alterations in the dsRBD reduce processing and change cleavage sites in a motif-dependent fashion, affecting the miRNA repertoire in cells. In particular, the cancer-associated R1855L substitution in the dsRBD strongly impairs GYM motif recognition. This study uncovers an ancient principle of substrate recognition by metazoan Dicer and implicates its potential in the design of RNA therapeutics.",
+  "year": 2023,
+  "journal": "Nature",
+  "authors": [
+    "Young-Yoon Lee",
+    "Haedong Kim",
+    "V Narry Kim"
+  ],
+  "doi": "10.1038/s41586-023-05722-4",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Base Pairing",
+    "DEAD-box RNA Helicases",
+    "MicroRNAs",
+    "Ribonuclease III",
+    "RNA Interference",
+    "RNA, Double-Stranded",
+    "RNA, Small Interfering",
+    "RNA Precursors",
+    "Base Sequence",
+    "Nucleic Acid Conformation"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Center for RNA Research, Institute for Basic Science (IBS), Seoul, Republic of Korea.",
+    "School of Biological Sciences, Seoul National University, Seoul, Republic of Korea.",
+    "Center for RNA Research, Institute for Basic Science (IBS), Seoul, Republic of Korea.",
+    "School of Biological Sciences, Seoul National University, Seoul, Republic of Korea.",
+    "Center for RNA Research, Institute for Basic Science (IBS), Seoul, Republic of Korea. narrykim@snu.ac.kr.",
+    "School of Biological Sciences, Seoul National University, Seoul, Republic of Korea. narrykim@snu.ac.kr."
+  ]
+}

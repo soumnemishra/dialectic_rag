@@ -1,0 +1,50 @@
+{
+  "pmid": "38987872",
+  "title": "Excess Folic Acid and Vitamin B12 Deficiency: Clinical Implications?",
+  "abstract": "BACKGROUND: In the 1940s to 1950s, high-dose folic acid supplements (>5 mg/d) were used clinically to reverse the megaloblastic anemia of vitamin B12 deficiency caused by pernicious anemia. However, this treatment strategy masked the underlying B12 deficiency and possibly exacerbated its neuropathological progression. The issue of masking and exacerbating B12 deficiency has recently been rekindled with the institution of folic acid fortification and the wide-spread use of folic acid supplements. OBJECTIVES: The objectives of this review are to describe clinical and epidemiological evidence that excess folic acid exacerbates B12 deficiency, to summarize a hypothesis to explain this phenomenon, and to provide guidance for clinicians. RESULTS: Cognitive function test scores are lower and blood homocysteine and methylmalonic acid concentrations are higher in people with low B12 and elevated folate than in those with low B12 and nonelevated folate. High-dose folic acid supplementation in patients with pernicious anemia or epilepsy cause significant reductions in serum B12. It is hypothesized that high-dose folic acid supplements cause depletion of serum holotranscobalamin and thus exacerbate B12 deficiency. CONCLUSION: The evidence for excess folic acid exacerbating B12 deficiency is primarily correlative or from uncontrolled clinical observations, and the hypothesis to explain the phenomenon has not yet been tested. Nonetheless, the evidence is sufficiently compelling to warrant increased vigilance for identifying B12 deficiency in at risk individuals, including older adults and others with low B12 intake or conditions that are associated with B12 malabsorption, who also ingest excessive folic acid or are prescribed folic acid in high doses. Plain language titleExcess Folic Acid and Vitamin B12 Deficiency: Clinical Implications?Plain language summaryIt has been known for many decades that high doses of the B vitamin supplement, folic acid, can alleviate the anemia of vitamin B12 deficiency, at least temporarily. However, by alleviating the anemia, such folic acid supplements were said to “mask” the underlying vitamin B12 deficiency, thus allowing neurological damage to continue or possibly be exacerbated. Consequently, treating vitamin B12 deficiency with high dose folic acid was discontinued in the 1970s. The issue of whether folic acid supplements can exacerbate vitamin B12 deficiency reemerged in the 1990s with folic acid fortification of cereals and grains in the United States and Canada (and now in over 80 countries around the world) to prevent spina bifida and other birth defects. This narrative review summarizes the results of studies that have assessed the relationships between folic acid and folate and vitamin B12 status in patients and in populations. A recent hypothesis on how folic acid might exacerbate vitamin B12 deficiency is summarized, and recommendations to clinicians are made for increased vigilance in assessing vitamin B12 status in certain groups at risk of vitamin B12 deficiency, including older adults, people with gastrointestinal issues and other factors that cause vitamin B12 malabsorption, people with unexplained neurological problems, and people who follow vegan or vegetarian diets which are naturally low in vitamin B12.",
+  "year": 2024,
+  "journal": "Food and nutrition bulletin",
+  "authors": [
+    "Joshua W Miller",
+    "Andre Smith",
+    "Aron M Troen",
+    "Joel B Mason",
+    "Paul F Jacques",
+    "Jacob Selhub"
+  ],
+  "doi": "10.1177/03795721241229503",
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, U.S. Gov't, Non-P.H.S."
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Vitamin B 12 Deficiency",
+    "Folic Acid",
+    "Dietary Supplements",
+    "Vitamin B 12",
+    "Homocysteine",
+    "Methylmalonic Acid",
+    "Anemia, Pernicious"
+  ],
+  "keywords": [
+    "folate",
+    "folic acid",
+    "holotranscobalamin",
+    "homocysteine",
+    "megaloblastic anemia",
+    "methylmalonic acid",
+    "pernicious anemia",
+    "vitamin B12"
+  ],
+  "affiliations": [
+    "Rutgers University, New Brunswick, NJ, USA.",
+    "Rutgers University, New Brunswick, NJ, USA.",
+    "The Hebrew University of Jerusalem, Israel.",
+    "Tufts-USDA Human Nutrition Research Center on Aging, Boston, MA, USA.",
+    "Tufts-USDA Human Nutrition Research Center on Aging, Boston, MA, USA.",
+    "Tufts-USDA Human Nutrition Research Center on Aging, Boston, MA, USA."
+  ]
+}

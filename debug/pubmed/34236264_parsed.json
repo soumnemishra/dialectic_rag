@@ -1,0 +1,36 @@
+{
+  "pmid": "34236264",
+  "title": "Efficacy of tocilizumab in COVID-19: A review of the current evidence.",
+  "abstract": "As cases of coronavirus 2019 (COVID-19) keep rising, reported deaths are increasing. Public health measures have been implemented with mixed efficacy. As vaccines are becoming more widely available and accessible globally, treating critically ill COVID-19 patients remains an issue with only dexamethasone found to be therapeutically effective to date. However, trials studying the efficacy of IL-6 inhibitors, namely tocilizumab have been underway with promising results. This paper is a narrative review that aims to review the current evidence provided by randomized clinical trials (RCT) for the use of tocilizumab in COVID-19. Electronic database searches were carried out in Medline, PubMed, Embase, Google Scholar, and ongoing clinical trial registries with the period set from January 1, 2020 to February 20, 2021. Prepublication manuscripts were found using the pre-print repository medRxiv. Keywords included \"COVID-19,\"\"coronavirus,\"\"SARS-CoV-2,\"\"sepsis,\"\"pneumonia,\"\"cytokine storm,\"\"cytokine release syndrome,\"\"IL-6 inhibitors,\" and \"tocilizumab,\" as exact phrases, and a combination of subject headings according to databases syntax. Only trials with a clear and well-defined methodology, at least 100 patients recruited, and which have had results published either after peer review or in pre-print were included. In hospitalized patients with severe COVID-19, who are hypoxic and have a CRP ≥ 75 mg/L, the current evidence favors the use of a combination of tocilizumab and corticosteroids to reduce mortality, among other clinical benefits. There is also overwhelming evidence of the good safety profile of tocilizumab with only few cases of neutropenia reported with a decrease in infection rates. Tocilizumab is currently thought to work through the inhibition of IL-6 receptors (IL-6R), preventing downstream activation of pro-inflammatory reactions and cytokine release syndrome.",
+  "year": 2021,
+  "journal": "Science progress",
+  "authors": [
+    "Walid Alam",
+    "Abdul Rahman Bizri"
+  ],
+  "doi": "10.1177/00368504211030372",
+  "publication_types": [
+    "Journal Article",
+    "Comment"
+  ],
+  "mesh_terms": [
+    "Antibodies, Monoclonal, Humanized",
+    "Humans",
+    "SARS-CoV-2",
+    "Treatment Outcome",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "IL-6 inhibitors",
+    "clinical outcomes",
+    "mortality",
+    "randomized clinical trial",
+    "review",
+    "tocilizumab"
+  ],
+  "affiliations": [
+    "Global Health Institute, American University of Beirut, Hamra, Beirut, Lebanon.",
+    "Division of Infectious Diseases, Department of Internal Medicine, American University of Beirut Medical Center, Hamra, Beirut, Lebanon."
+  ]
+}

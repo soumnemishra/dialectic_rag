@@ -1,0 +1,45 @@
+{
+  "pmid": "34315117",
+  "title": "IgM-enriched immunoglobulin in COVID-19: Case series of 15 severely ill SARS-CoV-2-infected patients.",
+  "abstract": "The healthcare system in Iran, like most around the world, is managing thousands of patients hospitalised with COVID-19. In Iran, in-hospital mortality is in the region of 25%, rising to 50-60% in patients admitted to intensive care. Hyperinflammation, characterised by cytokine storm, appears to be a hallmark of severe COVID-19 and to date only the anti-inflammatory drug dexamethasone has been shown to reduce mortality in those hospitalised with the disease. There is a sound scientific rationale behind the use of IgM-enriched immunoglobulin in the management of patients with severe COVID-19. It has been used successfully in the management of hyperinflammation in patients with sepsis and has led to improved radiographic scores in patients with severe cases of severe acute respiratory syndrome coronavirus (SARS-CoV) infection. Recently the successful treatment of a patient with COVID-19 with IgM-enriched immunoglobulin was reported. Here we report the outcome of a further 15 patients hospitalised with COVID-19 treated with IgM-enriched immunoglobulin. Improvements in computed tomography (CT) score were observed in nine patients, indicating that further clinical studies into the use of IgM-enriched immunoglobulin in the treatment of severe COVID-19 are warranted.",
+  "year": 2021,
+  "journal": "International immunopharmacology",
+  "authors": [
+    "Payam Tabarsi",
+    "Seyed Mohammad Reza Hashemian",
+    "Artur Bauhofer",
+    "Ali Amir Savadkoohi",
+    "Somayeh Ghadimi",
+    "Sara Haseli",
+    "Farzaneh Dastan"
+  ],
+  "doi": "10.1016/j.intimp.2021.107998",
+  "publication_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Humans",
+    "Immunoglobulin M",
+    "Iran",
+    "Lung"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Cytokine storm",
+    "Hyperinflammation",
+    "IgM-enriched immunoglobulin",
+    "Intravenous immunoglobulin (IVIG)",
+    "SARS-CoV-2"
+  ],
+  "affiliations": [
+    "Clinical Tuberculosis and Epidemiology Research Center, National Research Institute of Tuberculosis and Lung Diseases (NRITLD), Masih Daneshvari Hospital, Shahid Beheshti University of Medical Sciences, Tehran, Iran.",
+    "Chronic Respiratory Diseases Research Center, National Research Institute of Tuberculosis and Lung Diseases (NRITLD), Shahid Beheshti University of Medical Sciences, Tehran, Iran.",
+    "Corporate Medical Affairs, Biotest AG, Landsteinerstr. 5, 63303 Dreieich, Germany.",
+    "Anesthesia and Critical Care Department, Chairman of Iranian Critical Care Society, Mehrad Hospital, Tehran, Iran.",
+    "Clinical Tuberculosis and Epidemiology Research Center, National Research Institute of Tuberculosis and Lung Diseases (NRITLD), Masih Daneshvari Hospital, Shahid Beheshti University of Medical Sciences, Tehran, Iran.",
+    "Chronic Respiratory Diseases Research Center, National Research Institute of Tuberculosis and Lung Diseases (NRITLD), Shahid Beheshti University of Medical Sciences, Tehran, Iran.",
+    "Chronic Respiratory Diseases Research Center, National Research Institute of Tuberculosis and Lung Diseases (NRITLD), Shahid Beheshti University of Medical Sciences, Tehran, Iran; Department of Clinical Pharmacy, School of Pharmacy, Shahid Beheshti University of Medical Sciences, Tehran, Iran. Electronic address: fzh.dastan@gmail.com."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pmid": "39796106",
+  "title": "The Significance of Aldehyde Dehydrogenase 1 in Cancers.",
+  "abstract": "The goal of this paper is to discuss the role of ALDH isozymes in different cancers, review advances in ALDH1-targeting cancer therapies, and explore a mechanism that explains how ALDH expression becomes elevated during cancer development. ALDH is often overexpressed in cancer, and each isoform has a unique expression pattern and a distinct role in different cancers. The abnormal expression of ALDHs in different cancer types (breast, colorectal, lung, gastric, cervical, melanoma, prostate, and renal) is presented and correlated with patient prognosis. ALDH plays a significant role in various cellular functions, such as metabolism, oxidative stress response, detoxification, and cellular differentiation. Among the ALDH families, ALDH1 has gained considerable attention as a cancer stem cell (CSC) marker due to its significant role in the maintenance of stemness and the differentiation of stem cells (SCs), along with its involvement in tumorigenesis. A description of the cellular mechanisms and physiology of ALDH1 that underlies cancer development is provided. Moreover, current advances in ALDH1-targeting cancer therapies are discussed.",
+  "year": 2024,
+  "journal": "International journal of molecular sciences",
+  "authors": [
+    "Anh L Nguyen",
+    "Caroline O B Facey",
+    "Bruce M Boman"
+  ],
+  "doi": "10.3390/ijms26010251",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Neoplasms",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Neoplastic Stem Cells",
+    "Isoenzymes",
+    "Animals",
+    "Biomarkers, Tumor",
+    "Retinal Dehydrogenase",
+    "Gene Expression Regulation, Neoplastic",
+    "Cell Differentiation"
+  ],
+  "keywords": [
+    "ALDH isoenzymes",
+    "aldehyde dehydrogenase",
+    "breast cancer",
+    "cancer stem cells",
+    "cervical cancer",
+    "colorectal cancer",
+    "gastric cancer",
+    "lung cancer",
+    "melanoma",
+    "prostate cancer",
+    "renal cancer",
+    "retinoic acid"
+  ],
+  "affiliations": [
+    "Department of Biological Sciences, University of Delaware, Newark, DE 19716, USA.",
+    "Center for Translational Cancer Research, Helen F. Graham Cancer Center and Research Institute, 4701 Ogletown-Stanton Road, Newark, DE 19713, USA.",
+    "Center for Translational Cancer Research, Helen F. Graham Cancer Center and Research Institute, 4701 Ogletown-Stanton Road, Newark, DE 19713, USA.",
+    "Department of Biological Sciences, University of Delaware, Newark, DE 19716, USA.",
+    "Center for Translational Cancer Research, Helen F. Graham Cancer Center and Research Institute, 4701 Ogletown-Stanton Road, Newark, DE 19713, USA.",
+    "Department of Pharmacology and Experimental Therapeutics, Thomas Jefferson University, Philadelphia, PA 19107, USA."
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "pmid": "36823000",
+  "title": "Impact of systemic corticosteroids on hospital length of stay among patients with COVID-19.",
+  "abstract": "BACKGROUND AND OBJECTIVE: The COVID-19 pandemic has posed a threat to hospital capacity due to the high number of admissions, which has led to the development of various strategies to release and create new hospital beds. Due to the importance of systemic corticosteroids in this disease, we assessed their efficacy in reducing the length of stay (LOS) in hospitals and compared the effect of 3 different corticosteroids on this outcome. METHODS: We conducted a real-world, controlled, retrospective cohort study that analysed data from a hospital database that included 3934 hospitalised patients diagnosed with COVID-19 in a tertiary hospital from April to May 2020. Hospitalised patients who received systemic corticosteroids (CG) were compared with a propensity score control group matched by age, sex and severity of disease who did not receive systemic corticosteroids (NCG). The decision to prescribe CG was at the discretion of the primary medical team. RESULTS: A total of 199 hospitalized patients in the CG were compared with 199 in the NCG. The LOS was shorter for the CG than for the NCG (median = 3 [interquartile range = 0-10] vs. 5 [2-8.5]; p = 0.005, respectively), showing a 43% greater probability of being hospitalised ≤ 4 days than > 4 days when corticosteroids were used. Moreover, this difference was only noticed in those treated with dexamethasone (76.3% hospitalised ≤ 4 days vs. 23.7% hospitalised > 4 days [p < 0.001]). Serum ferritin levels, white blood cells and platelet counts were higher in the CG. No differences in mortality or intensive care unit admission were observed. CONCLUSIONS: Treatment with systemic corticosteroids is associated with reduced LOS in hospitalised patients diagnosed with COVID-19. This association is significant in those treated with dexamethasone, but no for methylprednisolone and prednisone. OBJETIVO: El COVID-19 supuso una amenaza para la capacidad hospitalaria por el elevado número de ingresos, lo que llevó al desarrollo de diversas estrategias para liberar y crear nuevas camas hospitalarias. Dada la importancia de los corticoides sistémicos en esta enfermedad, se evaluó la eficacia de estos en la reducción de la duración de la estancia hospitalaria (LOS) y se comparó el efecto de tres corticosteroides diferentes sobre este resultado. MÉTODO: Se realizó un estudio en vida real de cohorte retrospectivo, controlado que analizó una base de datos hospitalaria que incluyó 3.934 pacientes hospitalizados diagnosticados con COVID-19 en un hospital terciario de abril a mayo de 2020. Se comparó un grupo de enfermos que recibieron corticosteroides sistémicos (CG) frente a un grupo de control que no recibió corticosteroides sistémicos (NCG) emparejado por edad, sexo y gravedad de la enfermedad mediante una puntuación de propensión. La decisión de prescribir CG dependía principalmente del criterio del médico responsable. RESULTADOS: Se compararon un total de 199 pacientes hospitalizados en el GC con 199 en el GNC. La LOS fue más corta para el GC que para el NCG (mediana = 3 [rango intercuartílico = 0-10] vs. 5 [2-8,5]; p = 0,005, respectivamente), mostrando un 43% más de probabilidad de ser hospitalizado ≤ 4 días que > 4 días cuando se usaron corticosteroides. Además, esta diferencia solo la mostraron aquellos tratados con dexametasona (76,3% hospitalizados ≤ 4 días vs. 23,7% hospitalizados > 4 días [p < 0,001]). Los niveles de ferritina sérica, glóbulos blancos y plaquetas fueron más elevados en el GC. No se observaron diferencias en la mortalidad ni en el ingreso a la unidad de cuidados intensivos. CONCLUSIONES: El tratamiento con corticosteroides sistémicos se asocia con una disminución de la estancia hospitalaria en pacientes hospitalizados con diagnóstico de COVID-19. Esta asociación es significativa en aquellos tratados con dexametasona, no así en metilprednisolona o prednisona.",
+  "year": 2023,
+  "journal": "Farmacia hospitalaria : organo oficial de expresion cientifica de la Sociedad Espanola de Farmacia Hospitalaria",
+  "authors": [
+    "Ester Zamarrón",
+    "Carlos Carpio",
+    "Elena Villamañán",
+    "Rodolfo Álvarez-Sala",
+    "Alberto M Borobia",
+    "Luis Gómez-Carrera",
+    "Antonio Buño",
+    "Concepción Prados"
+  ],
+  "doi": "10.1016/j.farma.2022.11.003",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Length of Stay",
+    "Retrospective Studies",
+    "Pandemics",
+    "SARS-CoV-2",
+    "Adrenal Cortex Hormones",
+    "Hospitals",
+    "Dexamethasone"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Corticosteroids",
+    "Dexamethasone",
+    "corticoides",
+    "dexametasona",
+    "hospitalización",
+    "hospitalization"
+  ],
+  "affiliations": [
+    "Pneumology Department, La Paz University Hospital-IdiPAZ, Autonomous Universidad Autónoma de Madrid, CIBERES, Madrid, Spain.",
+    "Pneumology Department, La Paz University Hospital-IdiPAZ, Autonomous Universidad Autónoma de Madrid, CIBERES, Madrid, Spain. Electronic address: carlinjavier@hotmail.com.",
+    "Pharmacy Department, La Paz University Hospital-IdiPAZ, Autonomous Universidad Autónoma de Madrid, Madrid, Spain.",
+    "Pneumology Department, La Paz University Hospital-IdiPAZ, Autonomous Universidad Autónoma de Madrid, CIBERES, Madrid, Spain.",
+    "Clinical Pharmacology Department, La Paz University Hospital-IdiPAZ, Autonomous Universidad Autónoma de Madrid, Madrid, Spain.",
+    "Pneumology Department, La Paz University Hospital-IdiPAZ, Autonomous Universidad Autónoma de Madrid, CIBERES, Madrid, Spain.",
+    "Clinical Analytics Department, La Paz University Hospital-IdiPAZ, Autonomous Universidad Autónoma de Madrid, Madrid, Spain.",
+    "Pneumology Department, La Paz University Hospital-IdiPAZ, Autonomous Universidad Autónoma de Madrid, CIBERES, Madrid, Spain."
+  ]
+}

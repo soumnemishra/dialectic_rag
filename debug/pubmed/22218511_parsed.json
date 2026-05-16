@@ -1,0 +1,41 @@
+{
+  "pmid": "22218511",
+  "title": "Perinatal morbidity and mortality associated with chlamydial infection: a meta-analysis study.",
+  "abstract": "OBJECTIVE: To evaluate the effect of Chlamydia trachomatis infection during pregnancy on perinatal morbidity and mortality. METHODS: Systematic review and meta-analysis in an electronic database and manual, combining high sensitivity specific descriptors seeking to answer the research objective. The articles considered to be of high methodological quality (score above 6 on the Newcastle-Ottawa Scale) were assessed by meta-analysis. RESULTS: Summary estimates of 12 studies were calculated by means of Mantel-Haenszel test with 95% confidence interval. It was observed that Chlamydia infection during pregnancy increased risk of preterm labor (relative risk (RR) = 1.35 [1.11, 1.63]), low birth weight (RR = 1.52 [1.24, 1.87]) and perinatal mortality (RR = 1.84 [1.15, 2.94]). No evidence of increased risk was associated with Chlamydia infection in regard to premature rupture of membranes (RR = 1.13 [0.95, 1.34]), abortion and postpartum endometritis (RR = 1.20 [0.65, 2.20] and 0.89 [0.49, 1.61] respectively). CONCLUSION: The diagnosis and treatment of Chlamydia cervicitis during pregnancy can reduce perinatal morbidity and mortality associated with this infection. However, clinical trials are needed to confirm these findings.",
+  "year": 2011,
+  "journal": "The Brazilian journal of infectious diseases : an official publication of the Brazilian Society of Infectious Diseases",
+  "authors": [
+    "Maria José Penna Maisonnette de Attayde Silva",
+    "Gilzandra Lira Dantas Florêncio",
+    "José Roberto Erbolato Gabiatti",
+    "Rose Luce do Amaral",
+    "José Eleutério Júnior",
+    "Ana Katherine da Silveira Gonçalves"
+  ],
+  "doi": "10.1590/s1413-86702011000600006",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Abortion, Spontaneous",
+    "Chlamydia Infections",
+    "Endometritis",
+    "Female",
+    "Humans",
+    "Infant, Low Birth Weight",
+    "Infant, Newborn",
+    "Obstetric Labor, Premature",
+    "Perinatal Mortality",
+    "Pregnancy",
+    "Pregnancy Complications, Infectious",
+    "Risk Factors",
+    "Uterine Cervicitis"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Postgraduate Program in Health Sciences, Universidade Federal do Rio Grande do Norte."
+  ]
+}

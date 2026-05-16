@@ -1,0 +1,69 @@
+{
+  "pmid": "24641534",
+  "title": "Pregnancy and childbirth outcomes among adolescent mothers: a World Health Organization multicountry study.",
+  "abstract": "OBJECTIVE: To investigate the risk of adverse pregnancy outcomes among adolescents in 29 countries. DESIGN: Secondary analysis using facility-based cross-sectional data of the World Health Organization Multicountry Survey on Maternal and Newborn Health. SETTING: Twenty-nine countries in Africa, Latin America, Asia and the Middle East. POPULATION: Women admitted for delivery in 359 health facilities during 2-4 months between 2010 and 2011. METHODS: Multilevel logistic regression models were used to estimate the association between young maternal age and adverse pregnancy outcomes. MAIN OUTCOME MEASURES: Risk of adverse pregnancy outcomes among adolescent mothers. RESULTS: A total of 124 446 mothers aged ≤24 years and their infants were analysed. Compared with mothers aged 20-24 years, adolescent mothers aged 10-19 years had higher risks of eclampsia, puerperal endometritis, systemic infections, low birthweight, preterm delivery and severe neonatal conditions. The increased risk of intra-hospital early neonatal death among infants born to adolescent mothers was reduced and statistically insignificant after adjustment for gestational age and birthweight, in addition to maternal characteristics, mode of delivery and congenital malformation. The coverage of prophylactic uterotonics, prophylactic antibiotics for caesarean section and antenatal corticosteroids for preterm delivery at 26-34 weeks was significantly lower among adolescent mothers. CONCLUSIONS: Adolescent pregnancy was associated with higher risks of adverse pregnancy outcomes. Pregnancy prevention strategies and the improvement of healthcare interventions are crucial to reduce adverse pregnancy outcomes among adolescent women in low- and middle-income countries.",
+  "year": 2014,
+  "journal": "BJOG : an international journal of obstetrics and gynaecology",
+  "authors": [
+    "T Ganchimeg",
+    "E Ota",
+    "N Morisaki",
+    "M Laopaiboon",
+    "P Lumbiganon",
+    "J Zhang",
+    "B Yamdamsuren",
+    "M Temmerman",
+    "L Say",
+    "Ö Tunçalp",
+    "J P Vogel",
+    "J P Souza",
+    "R Mori"
+  ],
+  "doi": "10.1111/1471-0528.12630",
+  "publication_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Multicenter Study"
+  ],
+  "mesh_terms": [
+    "Adolescent",
+    "Adolescent Health Services",
+    "Africa",
+    "Asia",
+    "Cesarean Section",
+    "Child",
+    "Cross-Sectional Studies",
+    "Delivery, Obstetric",
+    "Developing Countries",
+    "Eclampsia",
+    "Female",
+    "Health Care Surveys",
+    "Health Services Accessibility",
+    "Humans",
+    "Infant, Low Birth Weight",
+    "Infant, Newborn",
+    "Latin America",
+    "Maternal Age",
+    "Maternal-Child Health Centers",
+    "Middle East",
+    "Pregnancy",
+    "Pregnancy Outcome",
+    "Pregnancy in Adolescence",
+    "Pregnancy, Unplanned",
+    "Puerperal Infection",
+    "Reproductive Health Services",
+    "Risk Factors",
+    "World Health Organization",
+    "Young Adult"
+  ],
+  "keywords": [
+    "Adolescent pregnancy",
+    "adverse pregnancy outcomes",
+    "low birthweight",
+    "perinatal mortality",
+    "preterm birth"
+  ],
+  "affiliations": [
+    "Department of Health Policy, National Center for Child Health and Development, Tokyo, Japan."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "39314607",
+  "title": "Enhanced Treatment in Severe-Critical COVID-19 With Tocilizumab, Remdesivir, Dexamethasone: A Jordanian Cohort Study.",
+  "abstract": "BACKGROUND: Several medications have been proposed to manage COVID-19, with controversial data regarding their clinical benefits. We aimed to investigate the clinical efficacy of using remdesivir (RDV) with and without tocilizumab (TCZ) and standard therapy in treating severe COVID-19. METHODS: This retrospective cohort study was conducted in a Jordanian tertiary hospital (September 26th, 2020 - August 28th, 2021) and included adult COVID-19 patients requiring oxygen support. Patients were categorized into three groups based on treatment: TCZ+RDV and standard therapy; RDV and standard therapy; and standard therapy alone, which included dexamethasone, vitamins, anticoagulants, and ceftriaxone. RESULTS: Of 1,556 screened, 1,244 patients (mean age 62.33, 60.8% men) were included. Distribution was 106 in TCZ+RDV, 520 in RDV, and 618 in standard therapy. No significant differences were observed in age, gender, or BMI. Mortality was lowest in TCZ+RDV (32.1%), followed by RDV (40.6%) and standard therapy (47.1%) (p=0.005). Among ICU patients, TCZ+RDV showed significantly lower mortality (51.1%) compared to RDV (75%) and standard therapy (85.8%) (p<0.001). The ICU stays and invasive mandatory ventilation (IMV) durations were significantly shorter with TCZ+RDV (4.30 and 2.69 days, respectively) compared to RDV (7.61 and 4.52 days) and standard therapy (7.98 and 5.32 days) (p<0.001 for ICU stays, p=0.025 for IMV durations). CONCLUSIONS: Combining TCZ, RDV, and dexamethasone shows promise in reducing mortality and ICU/IMV duration for severe COVID-19.",
+  "year": 2024,
+  "journal": "Cureus",
+  "authors": [
+    "Abdel-Hameed W Al-Mistarehi",
+    "Shadi El-Akawi",
+    "Khalid A Kheirallah",
+    "Ehab M Bani Ata",
+    "Khaled J Zaitoun",
+    "Ahmad B Khassawneh",
+    "Abdullah Jarrah",
+    "Hamed M Alzoubi",
+    "Sayer Al-Azzam",
+    "Reema A Karasneh",
+    "Rana B Altawalbeh",
+    "Basheer Khassawneh"
+  ],
+  "doi": "10.7759/cureus.67467",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "covid-19 therapy",
+    "dexamethasone",
+    "remdesivir",
+    "tocilizumab",
+    "treatment outcomes"
+  ],
+  "affiliations": [
+    "School of Medicine, Johns Hopkins University School of Medicine, Baltimore, USA.",
+    "Internal Medicine, MedStar Washington Hospital Center-Georgetown University, Washington, DC, USA.",
+    "Faculty of Medicine, Jordan University of Science and Technology, Irbid, JOR.",
+    "Faculty of Medicine, Jordan University of Science and Technology, Irbid, JOR.",
+    "Faculty of Medicine, Jordan University of Science and Technology, Amman, JOR.",
+    "Faculty of Medicine, Jordan University of Science and Technology, Irbid, JOR.",
+    "Internal Medicine, Detroit Medical Center/Sinai Grace Hospital/Wayne State University, Detroit, USA.",
+    "Faculty of Medicine, Jordan University of Science and Technology, Irbid, JOR.",
+    "Faculty of Pharmacy, Jordan University of Science and Technology, Irbid, JOR.",
+    "Faculty of Medicine, Yarmouk University, Irbid, JOR.",
+    "Faculty of Medicine, Jordan University of Science and Technology, Irbid, JOR.",
+    "Faculty of Medicine, Jordan University of Science and Technology, Irbid, JOR."
+  ]
+}

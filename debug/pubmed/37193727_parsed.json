@@ -1,0 +1,37 @@
+{
+  "pmid": "37193727",
+  "title": "A retrospective analysis of clinical features of patients hospitalized with SARS-CoV-2 Omicron variants BA.1 and BA.2.",
+  "abstract": "The causative agent of the ongoing Corona virus disease 2019 (COVID-19) pandemic, Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has acquired a considerable amount of mutations, leading to changes in clinical manifestations and increased transmission. Recent studies based on animal disease models and data from the general population were reporting a higher pathogenicity of the BA.2 sublineage compared to BA.1. The aim of this study was to provide real world data on patients with the SARS-CoV-2 Omicron BA.1 and BA.2 subvariants treated at our center, highlighting similarities and differences in the clinical disease course. We retrospectively collected and analyzed the data of adult patients admitted with confirmed SARS-CoV-2 infection at the Department for Infectious Diseases and Tropical Medicine, Klinik Favoriten, Vienna, Austria. Patient characteristics including age, underlying diseases, vaccination status and outcome were compared between patients with the BA.1 and BA.2 subvariants. Between January 2022 and May 2022 we included 168 patients infected with Omicron BA.1 and 100 patients with BA.2. Patients admitted with BA.2 were significantly older, more often fully immunized and required less dexamethasone than patients with BA.1. No substantial differences were identified between patients infected with BA.1 and BA.2 regarding BMI, laboratory findings, need for supplemental oxygen, mortality and other evaluated comorbidities excepting active malignancies. The significantly larger percentage of fully immunized patients admitted with BA.2 is pointing to an increased transmissibility of this subvariant, while the comparable outcome of a somewhat older and sicker patient population might be indicative of reduced virulence.",
+  "year": 2023,
+  "journal": "Scientific reports",
+  "authors": [
+    "Cristina Groza",
+    "David Totschnig",
+    "Christoph Wenisch",
+    "Johanna Atamaniuk",
+    "Alexander Zoufaly"
+  ],
+  "doi": "10.1038/s41598-023-34712-9",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Animals",
+    "Retrospective Studies",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Austria"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Medicine IV, Klinik Favoriten, Vienna Healthcare Group, Kundratstraße 3, 1100, Vienna, Austria. cristina.groza@gesundheitsverbund.at.",
+    "Faculty of Medicine, Sigmund Freud University, Vienna, Austria. cristina.groza@gesundheitsverbund.at.",
+    "Department of Medicine IV, Klinik Favoriten, Vienna Healthcare Group, Kundratstraße 3, 1100, Vienna, Austria.",
+    "Department of Medicine IV, Klinik Favoriten, Vienna Healthcare Group, Kundratstraße 3, 1100, Vienna, Austria.",
+    "Faculty of Medicine, Sigmund Freud University, Vienna, Austria.",
+    "Department of Laboratory Medicine, Klinik Favoriten, Vienna Healthcare Group, Kundratstraße 3, 1100, Vienna, Austria.",
+    "Department of Medicine IV, Klinik Favoriten, Vienna Healthcare Group, Kundratstraße 3, 1100, Vienna, Austria.",
+    "Faculty of Medicine, Sigmund Freud University, Vienna, Austria."
+  ]
+}

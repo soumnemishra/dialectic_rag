@@ -1,0 +1,50 @@
+{
+  "pmid": "41319785",
+  "title": "Survival analysis of drug effectiveness of remdesivir and dexamethasone for confirmed COVID-19 patients using Japanese medical claim data.",
+  "abstract": "OBJECTIVES: Earlier studies and clinical trials have demonstrated that drugs, such as antiviral drugs, antibody cocktails, and steroids and anti-inflammatory drugs, can be expected to prevent severe COVID-19 outcomes and death. Nevertheless, the timing of drug administration might not have been considered in those analyses. Using survival analysis to assess drug effectiveness of remdesivir and dexamethasone, we examined an estimated model of drug choice for COVID-19 using observed data in Japan. METHODS: We applied a proportional hazard model with drug administration of remdesivir and dexamethasone, including time-variant variables, to data of the Medical Information Analysis Databank operated by the National Hospital Organization in Japan. The outcome was defined as mortality. Subjects were inpatients treated using oxygen administration or respiratory ventilation. Information about physical characteristics such as age and sex or underlying disease was also controlled. RESULTS: Findings indicate that remdesivir and dexamethasone might not contribute to saving lives among patients with oxygen administration. No drug increased or reduced the probability of saving lives among patients who were treated with ventilation. CONCLUSION: Remdesivir and dexamethasone did not demonstrate a clear survival benefit among hospitalized COVID-19 patients requiring oxygen administration or respiratory ventilation.",
+  "year": 2026,
+  "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+  "authors": [
+    "Shingo Mitsushima",
+    "Hiromasa Horiguchi",
+    "Kiyosu Taniguchi"
+  ],
+  "doi": "10.1016/j.ijid.2025.108268",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Female",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Adenosine Monophosphate",
+    "Alanine",
+    "Anti-Inflammatory Agents",
+    "Antiviral Agents",
+    "COVID-19",
+    "COVID-19 Drug Treatment",
+    "Dexamethasone",
+    "Japan",
+    "Proportional Hazards Models",
+    "Respiration, Artificial",
+    "Survival Analysis",
+    "Treatment Outcome",
+    "East Asian People"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Dexamethasone",
+    "Medical claim data",
+    "Remdesivir",
+    "Survival analysis"
+  ],
+  "affiliations": [
+    "Mie University Graduate School of Medicine, Tsu, Japan. Electronic address: mitsushima@med.mie-u.ac.jp.",
+    "National Hospital Organization, Meguro-ku, Tokyo, Japan.",
+    "National Hospital Organization Mie National Hospital, Tsu, Japan."
+  ]
+}

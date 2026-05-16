@@ -1,0 +1,46 @@
+{
+  "pmid": "35357033",
+  "title": "Efficacy of pharmacological interventions in COVID-19: A network meta-analysis.",
+  "abstract": "AIMS: To perform network meta-analysis for a head-to-head comparison of various interventions used in coronavirus disease 2019 (COVID-19) on mortality, clinical recovery, time to clinical improvement and the occurrence of serious adverse events. METHODS: Systematic search was performed using online databases with suitable MeSH terms including coronavirus, COVID-19, randomized controlled trial, hydroxychloroquine, lopinavir/ritonavir, tocilizumab, remdesivir, favipiravir, dexamethasone and interferon-β. Data were independently extracted by 2 study investigators and analysed. RESULTS: Out of 1225 studies screened, 23 were included for qualitative and quantitative analysis. Among the drugs studied, dexamethasone reduces mortality by 10%, with a relative risk of 0.90 (95% confidence interval [0.82-0.97]) and increases clinical recovery by 6% (relative risk 1.06, 95% confidence interval [1.02-1.10]) compared to standard of care. Similarly, remdesivir administered for 10 days increased clinical recovery by 10%, reduced time to clinical improvement by 4 days and lowered the occurrence of serious adverse events by 27% as compared to standard of care. CONCLUSION: In comparison to standard of care, dexamethasone was found to increase clinical recovery and lower mortality; remdesivir was significantly associated with a lower risk of mortality as compared to tocilizumab and higher clinical recovery and shorter time to clinical improvement as compared to hydroxychloroquine and tocilizumab; remdesivir followed by tocilizumab were found to have lesser occurrence of serious adverse events in patients with moderate to severe COVID-19.",
+  "year": 2022,
+  "journal": "British journal of clinical pharmacology",
+  "authors": [
+    "Sandhiya Selvarajan",
+    "Annuja Anandaradje",
+    "Santhosh Shivabasappa",
+    "Deepthy Melepurakkal Sadanandan",
+    "N Sreekumaran Nair",
+    "Melvin George"
+  ],
+  "doi": "10.1111/bcp.15338",
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Antiviral Agents",
+    "Dexamethasone",
+    "Humans",
+    "Hydroxychloroquine",
+    "Lopinavir",
+    "Randomized Controlled Trials as Topic",
+    "Treatment Outcome",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "clinical recovery",
+    "dexamethasone",
+    "hydroxychloroquine",
+    "mortality",
+    "remdesivir"
+  ],
+  "affiliations": [
+    "Department of Clinical Pharmacology, JIPMER, Puducherry, India.",
+    "Department of Clinical Pharmacology, JIPMER, Puducherry, India.",
+    "Department of Clinical Pharmacology, JIPMER, Puducherry, India.",
+    "Department of Biostatistics, JIPMER, Puducherry, India.",
+    "Department of Biostatistics, JIPMER, Puducherry, India.",
+    "Department of Clinical Pharmacology, SRM Medical College Hospital & Research Centre, SRMIST, Chennai, Tamil Nadu, India."
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "pmid": "33310907",
+  "title": "Prediction of In-Hospital Mortality After 24 Hours in Very Low Birth Weight Infants.",
+  "abstract": "BACKGROUND AND OBJECTIVES: The existing prediction formulas for in-hospital mortality of very low birth weight (VLBW) infants were mostly developed in the 1990s or 2000s and thus may not reflect the recently improved levels of neonatal care. We conducted this study to build a model for predicting the in-hospital mortality using perinatal factors available soon after birth. METHODS: We gathered data on VLBW infants from the Korean Neonatal Network, a nationwide, prospective, Web-based registry that enrolled patients from 2013 to 2017. Perinatal variables that were significantly associated with mortality in univariate logistic regression or those with apparent clinical importance were included in the multivariable logistic regression model. The final formula was constructed by considering the collinearity, parsimony, goodness of fit, and clinical interpretation. RESULTS: A total of 9248 VLBW infants were analyzed, including 1105 (11.9%) who died during hospitalization. The mean gestational age was 29.0 ± 2.9 weeks and the mean birth weight was 1096 ± 280 g. Significant variables used in the final equation included polyhydramnios, oligohydramnios, gestational age, Apgar score at 1 minute, intubation at birth, birth weight, and base excess. In internal validation, the area under the curve (AUC) for the prediction of in-hospital mortality was 0.870 and the optimism-corrected AUC was 0.867. The prediction equation revealed good discrimination and calibration in the external validation as well (AUC: 0.876). CONCLUSIONS: The newly developed Korean Neonatal Network prediction formula for in-hospital mortality could be a useful tool in counseling by providing a reliable prediction for the in-hospital mortality of VLBW infants.",
+  "year": 2021,
+  "journal": "Pediatrics",
+  "authors": [
+    "Hye Won Park",
+    "Seo Young Park",
+    "Ellen Ai-Rhan Kim"
+  ],
+  "doi": "10.1542/peds.2020-004812",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Area Under Curve",
+    "Birth Weight",
+    "Clinical Decision Rules",
+    "Female",
+    "Gestational Age",
+    "Hospital Mortality",
+    "Humans",
+    "Infant, Newborn",
+    "Infant, Premature",
+    "Infant, Very Low Birth Weight",
+    "Logistic Models",
+    "Male",
+    "Perinatal Mortality",
+    "Registries",
+    "Reproducibility of Results",
+    "Republic of Korea",
+    "Retrospective Studies",
+    "Risk Assessment",
+    "Risk Factors"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Division of Neotatology, Department of Pediatrics, Konkuk University Hospital and School of Medicine, Konkuk University, Seoul, South Korea.",
+    "Department of Clinical Epidemiology and Biostatistics, Asan Medical Center.",
+    "Division of Neonatology, Department of Pediatrics, Asan Medical Center Children's Hospital and University of Ulsan College of Medicine, Seoul, South Korea.",
+    "Division of Neonatology, Department of Pediatrics, Asan Medical Center Children's Hospital and University of Ulsan College of Medicine, Seoul, South Korea arkim@amc.seoul.kr."
+  ]
+}

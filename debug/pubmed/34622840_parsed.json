@@ -1,0 +1,39 @@
+{
+  "pmid": "34622840",
+  "title": "The effect of glucocorticoids on mortality in severe COVID-19 patients: Evidence from 13 studies involving 6612 cases.",
+  "abstract": "BACKGROUND: Since the start of the coronavirus disease 2019 (COVID-19) pandemic, there is an urgent need for effective therapies for patients with COVID-19. In this study, we aimed to assess the therapeutic efficacy of glucocorticoids in severe COVID-19. METHODS: A systematic literature search was performed across PubMed, Web of Science, EMBASE, and the Cochrane Library (up to June 26, 2021). The literature investigated the outcomes of interest were mortality and invasive mechanical ventilation. RESULTS: The search identified 13 studies with 6612 confirmed severe COVID-19 patients. Our meta-analysis found that using glucocorticoids could significantly decrease COVID-19 mortality (hazard ratio (HR) 0.60, 95% confidence interval (CI) 0.45-0.79, P < .001), relative to non-use of glucocorticoids. Meanwhile, using glucocorticoids also could significantly decrease the risk of progression to invasive mechanical ventilation for severe COVID-19 patients (HR = 0.69, 95% CI 0.58-0.83, P < .001). Compared with using dexamethasone (HR = 0.68, 95% CI 0.50-0.92, P = .012), methylprednisolone use had a better therapeutic effect for reducing the mortality of patients (HR = 0.35, 95% CI 0.19-0.64, P = .001). CONCLUSION: The result of this meta-analysis showed that using glucocorticoids could reduce mortality and risk of progression to invasive mechanical ventilation in severe COVID-19 patients.",
+  "year": 2021,
+  "journal": "Medicine",
+  "authors": [
+    "Guang-Qing Yu",
+    "Zhong-Hui Jiang",
+    "Zhong-Bin Yang",
+    "Shi-Qin Jiang",
+    "Xiao-Qing Quan"
+  ],
+  "doi": "10.1097/MD.0000000000027373",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Dexamethasone",
+    "Glucocorticoids",
+    "Humans",
+    "Methylprednisolone",
+    "Respiration, Artificial",
+    "SARS-CoV-2",
+    "Severity of Illness Index",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Microbiological Laboratory, Bao'an District Center for Disease Control and Prevention, Shenzhen, China.",
+    "Department of Stomatology, Taihe Hospital, Hubei University of Medicine, Shiyan, China.",
+    "Department of Stomatology, Taihe Hospital, Hubei University of Medicine, Shiyan, China.",
+    "Department of Clinical Pharmacy, Shenzhen Hospital of Integrated Traditional Chinese and Western Medicine, Shenzhen, China.",
+    "Department of General Pratice, Shenzhen Longhua District Central Hospital, The Affiliated Central Hospital of Shenzhen Longhua District, Guangdong Medical University, Shenzhen, China."
+  ]
+}

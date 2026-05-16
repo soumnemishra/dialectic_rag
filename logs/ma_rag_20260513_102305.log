@@ -1,2 +1,0 @@
-2026-05-13 10:23:05 | INFO | src.config | run=0d24bef0 | Logging configured | level=INFO file=logs\ma_rag_20260513_102305.log run_id=0d24bef0
-2026-05-13 10:23:06 | INFO | __main__ | run=0d24bef0 | Running question 0228; gold answer=A

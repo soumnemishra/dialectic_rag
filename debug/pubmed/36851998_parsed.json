@@ -1,0 +1,31 @@
+{
+  "pmid": "36851998",
+  "title": "Risk of Underlying Diseases and Effectiveness of Drugs on COVID-19 Inpatients Assessed Using Medical Claims in Japan: Retrospective Observational Study.",
+  "abstract": "BACKGROUND: Results of earlier studies have demonstrated underlying diseases such as cancer, diabetes mellitus, immunodeficiency, hypertension and heart failure to be risk factors for severe outcomes and mortality. Furthermore, clinical trials have shown that drugs such as antiviral drugs, antibody cocktails, steroids and anti-inflammatory drugs can be expected to prevent severe COVID-19 outcomes and death. METHODS: This study, using inpatient records from the Medical Information Analysis Databank covering national hospital organizations in Japan, was conducted to evaluate the effects of underlying diseases and/or administered drugs on mortality. Subjects were all inpatients receiving oxygen administration and inpatients using respiratory ventilators, categorized by three age classes: all ages, patients 65 years old or older, and patients younger than 65 years old. We used logistic regression to analyze outcomes for underlying diseases, administered drugs, age, sex, the proportion of the mutated strains, and vaccine coverage. RESULTS: Patients with hypertension, except for younger inpatients, have a lower risk of mortality (estimated coefficient 0.67 among all inpatients (p < 0.01): 0.77 among inpatients with oxygen therapy (p = 0.02) and 0.57 among inpatients with respiratory ventilation w (p = 0.01)). Except for younger inpatients, antibody cocktail (casirivimab/imdevimab or sotrovimab) administration was associated with a higher probability of survival (estimated coefficient 0.27 among all inpatients (p < 0.01)). It raised the survival probability consistently, although other drugs might have reduced the probability of survival. CONCLUSION: These findings suggest that antiviral drugs (remdesivir, estimated coefficient 1.44 (p < 0.01)), steroids (dexamethasone, estimated coefficient 1.85 (p < 0.01)), and anti-inflammatory drugs (baricitinib, estimated coefficient 1.62 (p < 0.01), and tocilizumab, estimated coefficient 2.73 (p < 0.01)) might not contribute to survival. These results have not been reported from earlier studies. More sophisticated estimation procedures, such as treatment effect models, are necessary to obtain conclusive results.",
+  "year": 2023,
+  "journal": "International journal of general medicine",
+  "authors": [
+    "Shingo Mitsushima",
+    "Hiromasa Horiguchi",
+    "Kiyosu Taniguchi"
+  ],
+  "doi": "10.2147/IJGM.S394413",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "anti-inflammatory drug",
+    "antibody cocktail",
+    "antiviral drug",
+    "hypertension",
+    "steroid",
+    "variant strains"
+  ],
+  "affiliations": [
+    "Center for Field Epidemic Intelligence, Research and Professional Development, National Institute of Infectious Diseases, Shinjuku-ku, Tokyo, Japan.",
+    "Department of Clinical Data Management and Research, Clinical Research Center, National Hospital Organization Headquarters, Meguro-ku, Tokyo, Japan.",
+    "Director-General, National Hospital Organization Mie National Hospital, Tsu, Mie, Japan.",
+    "Research Director, The Tokyo Foundation for Policy Research, Minato-ku, Tokyo, Japan."
+  ]
+}

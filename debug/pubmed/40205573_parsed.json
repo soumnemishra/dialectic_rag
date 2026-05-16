@@ -1,0 +1,53 @@
+{
+  "pmid": "40205573",
+  "title": "The impact of insulin requirement on mortality and morbidity in non-diabetic covid-19 patients in the intensive care unit: A retrospective, observational study.",
+  "abstract": "BACKGROUND: COVID-19 ranges from asymptomatic cases to severe disease with high mortality. Corticosteroids are crucial in treatment, reducing mortality and morbidity. However, the use of corticosteroids poses additional challenges in maintaining glycemic control in COVID-19 patients This study aims to eva-luate the impact of insulin requirement on mortality and morbidity in non-diabetic ICU patients and investigate its correlation with disease severity. METHODS: This retrospective cohort study included non-diabetic COVID-19 patients aged ≥ 18 years admitted to the ICU of Prof. Dr. Cemil Taşcıoğlu City Hospital (Turkey) between September 1, 2020, and May 31, 2021. Patients requiring ≥ 24 h of insulin therapy were compared with those who did not need insulin. Data on demographics, severity scores (SOFA, APACHE II, SAPS II), insulin initiation and duration, corticosteroid therapy, mechanical ventilation, antiviral and immunomodulatory treatments, laboratory markers, and infection parameters were analyzed. Mortality and incidence of new-onset diabetes mellitus within the first six months post-discharge were assessed. Statistical analyses were performed using SPSS v22.0, with p < 0.05 considered statistically significant. RESULTS: Patients with insulin requirements had higher SOFA (p = 0.001), APACHE II (p < 0.001), and SAPS II (p = 0.041) scores, along with increased mechanical ventilation duration (p < 0.001). While corticosteroid type had no effect, > 1 mg/kg/day methylprednisolone or equivalent dexamethasone significantly increased insulin demand (p = 0.002). Among laboratory markers, only peak CRP levels were significantly higher in insulin-requiring patients (p = 0.001). ICU and total hospital stays were significantly longer in the insulin group (p < 0.001). Although in-hospital mortality was similar, 6-month mortality was significantly higher in insulin-requiring patients (p = 0.022). New-onset DM rates were 4.2% in the non-insulin group vs. 31.1% in the insulin group (p = 0.001). CONCLUSIONS: Insulin requirement in non-diabetic COVID-19 ICU patients is a predictor of 6-month mortality. High-dose corticosteroids exacerbate glycemic dysregulation, increasing insulin needs. SARS-CoV-2-induced beta-cell damage and hyperinflammation-related stress hyperglycemia elevate the risk of post-discharge DM. Close monitoring and diabetes screening are essential in this population.",
+  "year": 2025,
+  "journal": "BMC anesthesiology",
+  "authors": [
+    "Kadir Yeşildal",
+    "Fethi Gültop",
+    "Cansu Kılınç Berktaş",
+    "Müslüm Akkılıç",
+    "Namigar Turgut"
+  ],
+  "doi": "10.1186/s12871-025-03037-7",
+  "publication_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Retrospective Studies",
+    "Male",
+    "Female",
+    "Middle Aged",
+    "COVID-19",
+    "Insulin",
+    "Intensive Care Units",
+    "Aged",
+    "Hypoglycemic Agents",
+    "COVID-19 Drug Treatment",
+    "Hospital Mortality",
+    "Adrenal Cortex Hormones",
+    "Adult",
+    "Diabetes Mellitus",
+    "Severity of Illness Index",
+    "Respiration, Artificial",
+    "Cohort Studies"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Corticosteroids",
+    "Hyperglycemia",
+    "Insulin",
+    "Intensive care unit"
+  ],
+  "affiliations": [
+    "Prof. Dr. Cemil Taşcıoğlu City Hospital. Anaestesiology and Reanimation, Ministry of Health, Istanbul, Turkey.",
+    "Ankara Etlik City Hospital. Anaestesiology and Reanimation, Ministry of Health, Ankara, Turkey. fethigultop@yahoo.com.",
+    "Prof. Dr. Cemil Taşcıoğlu City Hospital. Anaestesiology and Reanimation, Ministry of Health, Istanbul, Turkey.",
+    "Prof. Dr. Cemil Taşcıoğlu City Hospital. Anaestesiology and Reanimation, Ministry of Health, Istanbul, Turkey.",
+    "Prof. Dr. Cemil Taşcıoğlu City Hospital. Anaestesiology and Reanimation, Ministry of Health, Istanbul, Turkey."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "34541972",
+  "title": "Effects of different corticosteroid therapy on severe COVID-19 patients: a meta-analysis of randomized controlled trials.",
+  "abstract": "BACKGROUND: To assess the efficacy and safety of corticosteroids in COVID-19 patients compared with standard care or placebo. METHODS: Electronic databases were searched to identify relevant studies. The mortality, adverse events, and other data from studies were pooled for statistical analysis. RESULTS: Ten randomized clinical trials were eligible for inclusion. Corticosteroid treatment in COVID-19 patients did not significantly reduce the risk of death (RR: 0.93; CI: 0.82, 1.05) and the need for mechanical ventilation (RR: 0.82; CI: 0.62, 1.08). No mortality reduction was also observed in the subgroup of patients requiring mechanical ventilation (RR: 0.90; CI: 0.79-1.03). The use of corticosteroids increased mortality in the subgroup of patients not requiring oxygen support (RR: 1.24; CI: 1.00-1.55). The survival benefit was observed in a low dosage of corticosteroids (RR: 0.90; CI: 0.84-0.97) and dexamethasone (RR: 0.90; 95% CI: 0.79-1.04). There was no difference in the rates of adverse events (RR: 1.13; CI: 0.58, 2.20) and secondary infections (RR: 0.87; CI: 0.66, 1.15). CONCLUSION: Corticosteroid treatment did not convincingly improve survival in severe COVID-19 patients. Low-dose dexamethasone could be considered as a drug for the treatment of COVID-19 patients. More high-quality trials are needed to further verify this conclusion.Expert Opinion: The effect of corticosteroids on patient survival highly depended on the selection of the right dosage and type and in a specific subgroup of patients. This meta-analysis, which included more RCTs, evaluated the safety and efficacy in severe COVID-19 patients and analyzed the effects of different types of corticosteroid treatments. Corticosteroid treatment did not convincingly improve survival in severe COVID-19 patients. But the low dose dexamethasone appear to have a role in the management of severe COVID-19 patients.",
+  "year": 2022,
+  "journal": "Expert review of respiratory medicine",
+  "authors": [
+    "Jiayuan Tu",
+    "Xiaoqiao Mo",
+    "Xiangda Zhang",
+    "Jing Xun",
+    "Xueshun Chen",
+    "Yun Liu",
+    "Wenhua Jing",
+    "Tian Xie"
+  ],
+  "doi": "10.1080/17476348.2021.1983429",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Adrenal Cortex Hormones",
+    "COVID-19",
+    "Humans",
+    "Randomized Controlled Trials as Topic",
+    "Respiration, Artificial",
+    "SARS-CoV-2"
+  ],
+  "keywords": [
+    "COVID-19",
+    "adverse events",
+    "corticosteroids",
+    "dose",
+    "mortality"
+  ],
+  "affiliations": [
+    "School of Chemistry and Life Science, Nanjing University Jinling College, Nanjing, China.",
+    "Department of Operating Room, Xinhua Hospital, Shanghai Jiao Tong University School of Medicine, Shanghai, China.",
+    "Department of Public Health and Preventive Medicine, Monash University, Melbourne, Australia.",
+    "School of Nursing, Guizhou University of Traditional Chinese Medicine, Guiyang, China.",
+    "School of Chemistry and Life Science, Nanjing University Jinling College, Nanjing, China.",
+    "Jinling Hospital, Medical School of Nanjing University, Nanjing, China.",
+    "School of Chemistry and Life Science, Nanjing University Jinling College, Nanjing, China.",
+    "Department of Hepatobiliary and Pancreatic Surgery, Union Shenzhen Hospital, Huazhong University of Science and Technology, Shenzhen, China."
+  ]
+}

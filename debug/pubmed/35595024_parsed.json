@@ -1,0 +1,61 @@
+{
+  "pmid": "35595024",
+  "title": "Survey of Mode of Delivery and Maternal and Perinatal Outcomes in Canada.",
+  "abstract": "OBJECTIVE: To identify determinants of cesarean delivery (CD) and examine associations between mode of delivery (MOD) and maternal and perinatal outcomes. METHODS: We conducted a retrospective analysis of a Canadian multicentre birth cohort derived from provincial data collected in 2008/2009. Maternal and perinatal characteristics and outcomes were compared between vaginal and cesarean birth and between the following MOD subgroups: spontaneous vaginal delivery (VD), assisted VD, planned cesarean delivery (CD), and intrapartum CD. Multivariate regression identified determinants of CD and the effects of MOD and previous CD on maternal and perinatal outcomes. RESULTS: The cohort included 264 755 births (72.1% VD and 27.9% CD) from 91 participating institutions. Determinants of CD included maternal age, parity, previous CD, chronic hypertension, diabetes, urinary tract infection or pyelonephritis, gestational hypertension, vaginal bleeding, labour induction, pre-term gestational age, low birth weight, large for gestational age, malpresentation, and male sex. CD was associated with greater risk of maternal and perinatal morbidity and mortality. Subgroup analysis demonstrated higher risk of adverse pregnancy outcomes with assisted VD and intrapartum CD than spontaneous VD. Planned CD reduced the risk of obstetric wound hematoma and perinatal mortality but increased maternal and neonatal morbidity. Previous CD increased the risk of maternal and neonatal morbidity among multiparous women. CONCLUSIONS: The CD rate in Canada is consistent with global trends reflecting demographic and obstetric intervention factors. The risk of adverse pregnancy outcomes with CD warrants evaluation of interventions to safely prevent nonessential cesarean birth.",
+  "year": 2022,
+  "journal": "Journal of obstetrics and gynaecology Canada : JOGC = Journal d'obstetrique et gynecologie du Canada : JOGC",
+  "authors": [
+    "Jie Yang",
+    "B Anthony Armson",
+    "Rebecca Attenborough",
+    "George D Carson",
+    "Orlando da Silva",
+    "Maureen Heaman",
+    "Patricia Janssen",
+    "Phil A Murphy",
+    "Jean Charles Pasquier",
+    "Reg Sauve",
+    "Peter Von Dadelszen",
+    "Mark Walker",
+    "Shoo K Lee"
+  ],
+  "doi": "10.1016/j.jogc.2022.04.017",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Canada",
+    "Cesarean Section",
+    "Delivery, Obstetric",
+    "Female",
+    "Humans",
+    "Infant, Newborn",
+    "Male",
+    "Pregnancy",
+    "Pregnancy Outcome",
+    "Retrospective Studies"
+  ],
+  "keywords": [
+    "cesarean section",
+    "delivery, obstetric",
+    "obstetrical forceps",
+    "pregnancy outcome",
+    "vacuum extraction, obstetrical"
+  ],
+  "affiliations": [
+    "Maternal-Infant Care Research Centre (MiCare), Mount Sinai Hospital, Toronto, ON.",
+    "Department of Obstetrics and Gynaecology, Dalhousie University, Halifax, NS. Electronic address: ba.armson@gmail.com.",
+    "Reproductive Care Program of Nova Scotia, Halifax, NS.",
+    "Division of Maternal Fetal Medicine, Regina General Hospital, Regina, SK.",
+    "Department of Pediatrics, London Health Sciences Centre, Western University, London, ON.",
+    "College of Nursing, Rady Faculty of Health Sciences, University of Manitoba, Winnipeg, MB.",
+    "School of Population and Public Health, Faculty of Medicine, University of British Columbia, Vancouver, BC.",
+    "Children's and Women's Health Program, Eastern Health, St. John's, NL.",
+    "Department of Obstetrics and Gynecology, Université de Sherbrooke, Faculté de médecine et des sciences de la santé, Sherbrooke, QC.",
+    "Department of Pediatrics, Cumming School of Medicine, University of Calgary, Calgary, AB.",
+    "Department of Women and Children's Health, School of Life Course Sciences, Faculty of Life Sciences and Medicine, King's College London, South Bank, London, UK.",
+    "Department of Obstetrics, Gynecology & Newborn Care, University of Ottawa, Ottawa, ON.",
+    "Maternal-Infant Care Research Centre (MiCare), Mount Sinai Hospital, Toronto, ON."
+  ]
+}

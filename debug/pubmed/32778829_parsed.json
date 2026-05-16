@@ -1,0 +1,41 @@
+{
+  "pmid": "32778829",
+  "title": "After 62 years of regulating immunity, dexamethasone meets COVID-19.",
+  "abstract": "Six months into the COVID-19 pandemic, effective treatments have been frustratingly sparse. The RECOVERY clinical trial, however, revealed that treatment with dexamethasone, a classic synthetic glucocorticoid, enhanced survival of critically ill patients with COVID-19. In this Comment, we discuss the immunological impacts of glucocorticoid therapy for COVID-19. The corticosteroid dexamethasome has been shown to reduce mortality in patients hospitalized with COVID-19 who require mechanical ventilation. Here, the authors describe how this immunosuppressive drug might work.",
+  "year": 2020,
+  "journal": "Nature reviews. Immunology",
+  "authors": [
+    "Derek W Cain",
+    "John A Cidlowski"
+  ],
+  "doi": "10.1038/s41577-020-00421-x",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Intramural"
+  ],
+  "mesh_terms": [
+    "Alarmins",
+    "Anti-Inflammatory Agents",
+    "Betacoronavirus",
+    "COVID-19",
+    "Coronavirus Infections",
+    "Cytokine Release Syndrome",
+    "Dexamethasone",
+    "Drug Administration Schedule",
+    "Humans",
+    "Immunity, Innate",
+    "Immunosuppressive Agents",
+    "Pandemics",
+    "Pneumonia, Viral",
+    "Randomized Controlled Trials as Topic",
+    "Receptors, Glucocorticoid",
+    "SARS-CoV-2",
+    "Severity of Illness Index",
+    "Time Factors"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Medicine, Duke Human Vaccine Institute, Duke University, Durham, NC, USA.",
+    "The Signal Transduction Laboratory, National Institute of Environmental Health Sciences, National Institutes of Health, Department of Health and Human Services, Research Triangle Park, NC, USA. cidlows1@niehs.nih.gov."
+  ]
+}

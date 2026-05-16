@@ -1,0 +1,60 @@
+{
+  "pmid": "40456838",
+  "title": "Post-pandemic recommendations for the management of COVID-19 in patients with haematological malignancies or undergoing cellular therapy, from the European Conference on Infections in Leukaemia (ECIL-10).",
+  "abstract": "In the post-pandemic years, SARS-CoV-2 morbidity and mortality declined due to less pathogenic variants, active and passive immunization, and antiviral therapies. However, patients with hematological malignancies and/or undergoing hematopoietic cell transplantation (HCT) remain at increased risk for poor outcomes. Therefore, adherence to contact and droplet precautions is essential to avoid transmission, especially during epidemic waves. Detection of viral RNA by nucleic acid testing of naso-oro-pharyngeal samples is the gold standard for diagnosis due to its high sensitivity and specificity. Direct antigen testing allows for rapid management decisions if positive, but has a low sensitivity, especially in asymptomatic patients. Active immunisation is the key to prevention and may require annual matching to circulating variants. Passive immunization with SARS-CoV-2 neutralizing anti-antibodies lost its indication due to the emergence of immune escape variants. Convalescent plasma has been proposed for passive immunization but is not readily available in most centres. For symptomatic patients, early antiviral treatment with nirmatrelvir/ritonavir or remdesivir may reduce the risk of progression to severe-critical COVID-19. Prolonged administration, repeated courses, and a combination of antivirals are considered for patients with clinical or virological failure to antiviral monotherapy. In severe-critical COVID-19, dexamethasone or drugs downregulating the inflammatory cytokine responses (anti-Il-6/anti-IL-2 agents, Janus kinase inhibitor) are recommended, together with the best supportive and intensive care, but care should be exercised in immunosuppressed patients. Deferral of intensive chemotherapy, HCT conditioning, T-cell-based immunotherapy, or T-cell engaging antibodies are considered for patients with COVID-19, whereas deferral decisions are taken on a case-by-case basis for asymptomatic patients with confirmed SARS-CoV-2 infection.",
+  "year": 2025,
+  "journal": "Leukemia",
+  "authors": [
+    "Simone Cesaro",
+    "Per Ljungman",
+    "Malgorzata Mikulska",
+    "Hans H Hirsch",
+    "David Navarro",
+    "Catherine Cordonnier",
+    "Varun Mehra",
+    "Jan Styczynski",
+    "Francesco Marchesi",
+    "Jose Luis Pinana",
+    "Gernot Beutel",
+    "Herman Einsele",
+    "Johan Maertens",
+    "Rafael de la Camara"
+  ],
+  "doi": "10.1038/s41375-025-02649-9",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Hematologic Neoplasms",
+    "SARS-CoV-2",
+    "Immunization, Passive",
+    "Antiviral Agents",
+    "Hematopoietic Stem Cell Transplantation",
+    "Europe",
+    "Pandemics",
+    "Cell- and Tissue-Based Therapy",
+    "COVID-19 Serotherapy"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Pediatric Haematology Oncology, Department of Mother and Child, Azienda Ospedaliera Universitaria Integrata, Verona, Italy. simone.cesaro@aovr.veneto.it.",
+    "Division of Haematology, Department of Medicine, Huddinge, Karolinska Institute, Stockholm, Sweden.",
+    "Department of Cellular Therapy and Allogeneic Stem Cell Transplantation, Karolinska Comprehensive Cancer Center, Karolinska University Hospital, Huddinge, Stockholm, Sweden.",
+    "Division of Infectious Diseases, Department of Health Sciences (DISSAL), University of Genova, and Ospedale Policlinico San Martino, Genova, Italy.",
+    "Transplantation & Clinical Virology, Department of Biomedicine, University of Basel, Basel, Switzerland.",
+    "Microbiology Service, Hospital Clínico Universitario, Instituto de Investigación INCLIVA, Valencia, Spain.",
+    "Department of Microbiology, School of Medicine, University of Valencia, Valencia, Spain.",
+    "University Paris Est-Créteil, Paris, France.",
+    "Department of Haematology, King's College Hospital NHS Foundation Trust, London, United Kingdom.",
+    "Department of Paediatric Haematology and Oncology, Jurasz University Hospital, Nicolaus Copernicus University Torun, Collegium Medicum, Bydgoszcz, Poland.",
+    "Haematology Unit, Department of Research and Clinical Oncology, IRCCS Regina Elena National Cancer Institute, Rome, Italy.",
+    "Hematology Department, Hospital Clinico Universitario de Valencia; Fundación INCLIVA, Instituto de Investigación Sanitaria, Hospital Clínico, Universitario de Valencia, Valencia, Spain.",
+    "Department for Haematology, Haemostasis, Oncology and Stem Cell Transplantation, Hannover Medical School, Hannover, Germany.",
+    "Department of Internal Medicine II, University of Würzburg, Würzburg, Germany.",
+    "Haematology Department, University Hospitals Leuven, KU Leuven, Leuven, Belgium.",
+    "Department of Haematology, Hospital de la Princesa, Madrid, Spain."
+  ]
+}

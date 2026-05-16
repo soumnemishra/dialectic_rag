@@ -1,0 +1,56 @@
+{
+  "pmid": "34099751",
+  "title": "ALDH1 expression predicts progression of premalignant lesions to cancer in Type I endometrial carcinomas.",
+  "abstract": "In type 1 endometrial cancer, unopposed estrogen stimulation is thought to lead to endometrial hyperplasia which precedes malignant progression. Recent data from our group and others suggest that ALDH activity mediates stemness in endometrial cancer, but while aldehyde dehydrogenase 1 (ALDH1) has been suggested as a putative cancer stem cell marker in several cancer types, its clinical and prognostic value in endometrial cancer remains debated. The aim of this study was to investigate the clinical value of ALDH1 expression in endometrial hyperplasia and to determine its ability to predict progression to endometrial cancer. Interrogation of the TCGA database revealed upregulation of several isoforms in endometrial cancer, of which the ALDH1 isoforms collectively constituted the largest group. To translate its expression, a tissue microarray was previously constructed which contained a wide sampling of benign and malignant endometrial samples. The array contained a metachronous cohort of samples from individuals who either developed or did not develop endometrial cancer. Immunohistochemical staining was used to determine the intensity and frequency of ALDH1 expression. While benign proliferative and secretory endometrium showed very low levels of ALDH1, slightly higher expression was observed within the stratum basalis. In disease progression, cytoplasmic ALDH1 expression showed a step-wise increase between endometrial hyperplasia, atypical hyperplasia, and endometrial cancer. ALDH1 was also shown to be an early predictor of EC development, suggesting that it can serve as an independent prognostic indicator of patients with endometrial hyperplasia with or without atypia who would progress to cancer (p = 0.012).",
+  "year": 2021,
+  "journal": "Scientific reports",
+  "authors": [
+    "Vei Mah",
+    "Yahya Elshimali",
+    "Alison Chu",
+    "Neda A Moatamed",
+    "Jamar P Uzzell",
+    "Jessica Tsui",
+    "Stephen Schettler",
+    "Hania Shakeri",
+    "Madhuri Wadehra"
+  ],
+  "doi": "10.1038/s41598-021-90570-3",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Biomarkers, Tumor",
+    "Cell Line, Tumor",
+    "Disease Progression",
+    "Endometrial Hyperplasia",
+    "Endometrial Neoplasms",
+    "Female",
+    "Gene Expression Regulation, Neoplastic",
+    "Humans",
+    "Kaplan-Meier Estimate",
+    "Middle Aged",
+    "Precancerous Conditions",
+    "Prognosis"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "4525 MacDonald Research Laboratories, Department of Pathology and Laboratory Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA, 90095, USA.",
+    "Division of Cancer Research and Training, Department of Medicine, Charles R. Drew University of Medicine and Science, Los Angeles, USA.",
+    "Department of Pediatrics, David Geffen School of Medicine at UCLA, Los Angeles, USA.",
+    "4525 MacDonald Research Laboratories, Department of Pathology and Laboratory Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA, 90095, USA.",
+    "4525 MacDonald Research Laboratories, Department of Pathology and Laboratory Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA, 90095, USA.",
+    "4525 MacDonald Research Laboratories, Department of Pathology and Laboratory Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA, 90095, USA.",
+    "4525 MacDonald Research Laboratories, Department of Pathology and Laboratory Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA, 90095, USA.",
+    "4525 MacDonald Research Laboratories, Department of Pathology and Laboratory Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA, 90095, USA.",
+    "4525 MacDonald Research Laboratories, Department of Pathology and Laboratory Medicine, David Geffen School of Medicine at UCLA, Los Angeles, CA, 90095, USA. mwadehra@mednet.ucla.edu.",
+    "Division of Cancer Research and Training, Department of Medicine, Charles R. Drew University of Medicine and Science, Los Angeles, USA. mwadehra@mednet.ucla.edu.",
+    "Jonsson Comprehensive Cancer Center, David Geffen School of Medicine at UCLA, Los Angeles, USA. mwadehra@mednet.ucla.edu."
+  ]
+}

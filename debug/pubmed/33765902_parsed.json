@@ -1,0 +1,41 @@
+{
+  "pmid": "33765902",
+  "title": "Clinical effectiveness of drugs in hospitalized patients with COVID-19: a systematic review and meta-analysis.",
+  "abstract": "The aim was to assess the clinical effectiveness of drugs used in hospitalized patients with COVID-19 infection. We conducted a systematic review of randomized clinical trials assessing treatment with remdesivir, chloroquine, hydroxychloroquine, lopinavir, ritonavir, dexamethasone, and convalescent plasma, for hospitalized patients with a diagnosis of SARS-CoV-2 infection. The outcomes were mortality, clinical improvement, duration of ventilation, duration of oxygen support, duration of hospitalization, virological clearance, and severe adverse events. A total of 48 studies were retrieved from the databases. Eleven articles were finally included in the data extraction and qualitative synthesis of results. The meta-analysis suggests a benefit of dexamethasone versus standard care in the reduction of risk of mortality at day 28; and the clinical improvement at days 14 and 28 in patients treated with remdesivir. We can conclude that dexamethasone would have a better result in hospitalized patients, especially in low-resources settings. The analysis of the main treatments proposed for hospitalized patients is of vital importance to reduce mortality in low-income countries, since the COVID-19 pandemic had an economic impact worldwide with the loss of jobs and economic decline in countries with scarce resources.The reviews of this paper are available via the supplemental material section.",
+  "year": 2021,
+  "journal": "Therapeutic advances in respiratory disease",
+  "authors": [
+    "Roberto Ariel Abeldaño Zuñiga",
+    "Silvia Mercedes Coca",
+    "Giuliana Florencia Abeldaño",
+    "Ruth Ana María González-Villoria"
+  ],
+  "doi": "10.1177/17534666211007214",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Antiviral Agents",
+    "Hospitalization",
+    "Humans",
+    "Treatment Outcome",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "SARS-CoV-2",
+    "antivirals",
+    "clinical improvement",
+    "drugs",
+    "mortality"
+  ],
+  "affiliations": [
+    "Guillermo Rojas Mijangos SN, Ciudad Universitaria, Miahuatlan de Porfirio Diaz, Oaxaca, 70800, Mexico.",
+    "Postgraduate Department, University of Sierra Sur, Miahuatlan de Porfirio Diaz, Oaxaca, 70800, Mexico.",
+    "Public Health Research Institute, University of Sierra Sur, Miahuatlan de Porfirio Diaz, Oaxaca, Mexico.",
+    "School of Medicine, University of Sierra Sur, Miahuatlan de Porfirio Diaz, Oaxaca, Mexico.",
+    "Postgraduate Department, University of Sierra Sur, Miahuatlan de Porfirio Diaz, Oaxaca, Mexico."
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "pmid": "38160009",
+  "title": "Luminal B Breast Cancer Coexpressing p62 and ALDH1A3 Is Less Susceptible to Radiotherapy.",
+  "abstract": "BACKGROUND/AIM: We have reported that p62 (also known as sequestosome 1) is needed for survival/proliferation and tumor formation by aldehyde dehydrogenase 1 (ALDH1) -positive cancer stem cells (CSCs) and that p62high ALDH1A3high expression is associated with a poor prognosis in luminal B breast cancer. However, the association between p62high ALDH1A3high and the benefit from radiotherapy in patients with luminal B breast cancer remains unclear. MATERIALS AND METHODS: Datasets from the Molecular Taxonomy of Breast Cancer International Consortium (METABRIC) and The Cancer Genome Atlas (TCGA) were downloaded, and data from p62high ALDH1A3high luminal B patients treated without or with radiotherapy were analyzed by Kaplan-Meier and multivariate Cox regression analyses. We also performed an in vitro tumor sphere formation assay after X-ray irradiation using p62-knockdown ALDH1high luminal B BT-474 cells. RESULTS: p62high ALDH1A3high patients had poorer clinical outcomes than other luminal B breast cancer patients treated with radiotherapy. The combination of p62 DsiRNA KD and X-ray irradiation suppressed in vitro tumor sphere formation by ALDH1high BT-474 cells. These results suggest that p62 is involved in the reduced effect of X-ray irradiation on ALDH1-positive luminal B breast CSCs. CONCLUSION: p62 and ALDH1A3 may serve as prognostic biomarkers for luminal B breast cancer patients treated with radiotherapy. Additionally, the combination of p62 inhibition and radiotherapy could be useful for targeted strategies against ALDH1-positive luminal B breast CSCs.",
+  "year": 2024,
+  "journal": "Anticancer research",
+  "authors": [
+    "Ayaka Ozaki",
+    "Akari Matsuda",
+    "Yuki Maemura",
+    "Yuna Tada",
+    "Takahiro Kasai",
+    "Yuka Nagashima",
+    "Chotaro Onaga",
+    "Yasushi Hara",
+    "Kazuki Kitabatake",
+    "Mitsutoshi Tsukimoto",
+    "Shoma Tamori",
+    "Kazunori Sasaki",
+    "Shigeo Ohno",
+    "Kazunori Akimoto"
+  ],
+  "doi": "10.21873/anticanres.16786",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Breast Neoplasms",
+    "Biomarkers, Tumor",
+    "Breast",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Cell Line, Tumor",
+    "Neoplastic Stem Cells",
+    "Retinal Dehydrogenase",
+    "Prognosis"
+  ],
+  "keywords": [
+    "ALDH1",
+    "Breast cancer",
+    "cancer stem cell",
+    "luminal B",
+    "p62",
+    "radiotherapy"
+  ],
+  "affiliations": [
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Research Institute for Biomedical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Pharmacy, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Pharmacy, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Research Division of Medical Data Science, Research Institute for Science and Technology, Tokyo University of Science, Chiba, Japan.",
+    "Laboratory of Cancer Biology, Institute for Diseases of Old Age, Juntendo University School of Medicine, Tokyo, Japan.",
+    "Laboratory of Cancer Biology, Institute for Diseases of Old Age, Juntendo University School of Medicine, Tokyo, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan; akimoto@rs.tus.ac.jp.",
+    "Research Division of Medical Data Science, Research Institute for Science and Technology, Tokyo University of Science, Chiba, Japan."
+  ]
+}

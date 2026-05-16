@@ -1,0 +1,8 @@
+Traceback (most recent call last):
+  File "D:\dialetic_rag\src\epistemic\metadata_extractor.py", line 238, in extract
+    sample_size=self._refine_sample_size(abstract_text, None, design),
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "D:\dialetic_rag\src\epistemic\metadata_extractor.py", line 196, in _refine_sample_size
+    return int(match.group(1).replace(",", ""))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''

@@ -1,0 +1,46 @@
+{
+  "pmid": "36414291",
+  "title": "Comparison of COVID-19 survival in relation to CPAP length of treatment and by comorbidity and transmission setting (community or hospital acquired) in a medium-sized UK hospital in 2020: a retrospective study.",
+  "abstract": "OBJECTIVE: To estimate continuous positive airway pressure (CPAP) length of treatment effect on survival of hospitalised COVID-19 patients in a medium-sized UK Hospital, and how this effect changes according to the patient's comorbidity and COVID-19 route of acquisition (community or nosocomial) during the two waves in 2020. SETTING: The acute inpatient unit in Wrightington, Wigan and Leigh Teaching Hospitals National Health Service (NHS) Foundation Trust (WWL), a medium-sized NHS Trust in north-west of England. DESIGN: Retrospective cohort of all confirmed COVID-19 patients admitted in WWL during 2020. PARTICIPANTS: 1830 patients (568 first wave, 1262 s wave) with antigen confirmed COVID-19 disease and severe acute respiratory syndrome admitted between 17 March 2020 (first confirmed COVID-19 case) and 31 December 2020. OUTCOME MEASURE: COVID-19 survival rate in all patients and survival rate in potentially hospital-acquired COVID-19 (PHA) patients were modelled using a predictor set which include comorbidities (eg, obesity, diabetes, chronic ischaemic heart disease (IHD), chronic kidney disease (CKD), chronic obstructive pulmonary disease (COPD)), wave, age, sex and care home residency, and interventions (remdesivir, dexamethasone, CPAP, intensive care unit (ICU), intubation). Secondary outcome measure was CPAP length, which was modelled using the same predictors of the survival rate. RESULTS: Mortality rate in the second wave was significantly lower than in the first wave (43.4% vs 28.1%, p<0.001), although for PHA COVID-19 patients mortality did not reduce, remaining at very high levels independently of wave and CPAP length. For all cohort, statistical modelling identified CPAP length (HR 95% CI 0.86 to 0.96) and women (HR 95% CI 0.71 to 0.81) were associated with improved survival, while being older age (HR 95% CI 1.02 to 1.03) admitted from care homes (HR 95% CI 2.22 to 2.39), IHD (HR 95% CI 1.13 to 1.24), CKD (HR 95% CI 1.14 to 1.25), obesity (HR 95% CI 1.18 to 1.28) and COPD-emphysema (HR 95% CI 1.18 to 1.57) were associated with reduced survival. Despite the detrimental effect of comorbidities, patients with CKD (95% CI 16% to 30% improvement in survival), IHD (95% CI 1% to 10% improvement in survival) and asthma (95% CI 8% to 30% improvement in survival) benefitted most from CPAP length, while no significant survival difference was found for obese and patients with diabetes. CONCLUSIONS: The experience of an Acute Trust during the COVID-19 outbreak of 2020 is documented and indicates the importance of care home and hospitals in disease acquisition. Death rates fell between the first and second wave only for community-acquired COVID-19 patients. The fall was associated to CPAP length, especially for some comorbidities. While uncovering some risk and protective factors of mortality in COVID-19 studies, the study also unravels how little is known about PHA COVID-19 and the interaction between CPAP and some comorbidities.",
+  "year": 2022,
+  "journal": "BMJ open",
+  "authors": [
+    "Luigi Sedda",
+    "Abdul Ashish",
+    "Alison Unsworth",
+    "Jane Martindale",
+    "Ramachandaran Sundar",
+    "Martin Farrier"
+  ],
+  "doi": "10.1136/bmjopen-2022-060994",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Continuous Positive Airway Pressure",
+    "Retrospective Studies",
+    "COVID-19",
+    "State Medicine",
+    "Comorbidity",
+    "Pulmonary Disease, Chronic Obstructive",
+    "Hospitals",
+    "Obesity",
+    "Renal Insufficiency, Chronic",
+    "United Kingdom"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Infection control",
+    "RESPIRATORY MEDICINE (see Thoracic Medicine)"
+  ],
+  "affiliations": [
+    "Lancaster Ecology and Epidemiology Group, Lancaster University, Lancaster, UK.",
+    "Wrightington Wigan and Leigh NHS Foundation Trust, Wigan, UK.",
+    "Wrightington Wigan and Leigh NHS Foundation Trust, Wigan, UK.",
+    "Wrightington Wigan and Leigh NHS Foundation Trust, Wigan, UK.",
+    "Department of Respiratory Medicine, Wrightington Wigan and Leigh NHS Foundation Trust, Wigan, UK.",
+    "Paediatrics, Wrightington Wigan and Leigh NHS Foundation Trust, Wigan, UK martin.farrier@wwl.nhs.uk."
+  ]
+}

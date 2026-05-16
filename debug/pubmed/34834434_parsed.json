@@ -1,0 +1,37 @@
+{
+  "pmid": "34834434",
+  "title": "COVID-19 Advanced Care.",
+  "abstract": "The coronavirus disease 2019 (COVID-19) pandemic, related to the novel severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has caused a worldwide sudden and substantial burden in public health due to an enormous increase in hospitalizations for pneumonia with the multiorgan disease. Treatment for individuals with COVID-19 includes best practices for supportive management of acute hypoxic respiratory failure. Emerging data indicate that dexamethasone therapy reduces 28-day mortality in patients requiring supplemental oxygen compared with usual care, and ongoing trials are testing the efficacy of antiviral therapies, immune modulators and anticoagulants in the prevention of disease progression and complications, while monoclonal antibodies and hyperimmune globulin may provide additional preventive strategies. Consensus suggestions can standardize care, thereby improving outcomes and facilitating future research. This review discusses current evidence regarding the pharmacotherapy of COVID-19.",
+  "year": 2021,
+  "journal": "Journal of personalized medicine",
+  "authors": [
+    "Evangelia Fouka",
+    "Ioannis Kalomenidis",
+    "Niki Gianniou",
+    "Sofia Gida",
+    "Paschalis Steiropoulos"
+  ],
+  "doi": "10.3390/jpm11111082",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "SARS-CoV-2",
+    "antibiotics",
+    "anticoagulation",
+    "antiviral agents",
+    "monoclonal antibodies",
+    "passive immune therapies",
+    "severe acute respiratory syndrome",
+    "systemic corticosteroids"
+  ],
+  "affiliations": [
+    "Pulmonary Department, Aristotle University of Thessaloniki, G. Papanikolaou Hospital, 57010 Thessaloniki, Greece.",
+    "1st Department of Critical Care and Pulmonary Medicine, Evaggelismos Hospital, National and Kapodistrian University of Athens, 10679 Athens, Greece.",
+    "1st Department of Critical Care and Pulmonary Medicine, Evaggelismos Hospital, National and Kapodistrian University of Athens, 10679 Athens, Greece.",
+    "Intensive Care Unit, General Hospital of Trikala, 42100 Trikala, Greece.",
+    "Department of Respiratory Medicine, Medical School, Democritus University of Thrace, 67100 Alexandroupolis, Greece."
+  ]
+}

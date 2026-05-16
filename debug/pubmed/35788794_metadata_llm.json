@@ -1,0 +1,14 @@
+{
+  "study_design": "rct",
+  "sample_size": 3806,
+  "population": null,
+  "intervention": null,
+  "comparator": null,
+  "outcomes": null,
+  "effect_direction": null,
+  "confidence": null,
+  "year": null,
+  "has_p_value": false,
+  "has_CI": true,
+  "preregistration_id": "NCT03360539"
+}

@@ -1,0 +1,46 @@
+{
+  "pmid": "34048906",
+  "title": "Do inflammaging and coagul-aging play a role as conditions contributing to the co-occurrence of the severe hyper-inflammatory state and deadly coagulopathy during COVID-19 in older people?",
+  "abstract": "The coronavirus disease 2019 (COVID-19) is a new infectious respiratory disease, which has caused a pandemic that has become the world's leading public health emergency, threatening people of all ages worldwide, especially the elderly. Complications of COVID-19 are closely related to an upregulation of the inflammatory response revealed by the pro-inflammatory profile of plasma cytokines (to the point of causing a cytokine storm), which is also a contributing cause of the associated coagulation disorders with venous and arterial thromboembolisms, causing multiple organ dysfunction and failure. In severe fulminant cases of COVID-19, there is an activation of coagulation and consumption of clotting factors leading to a deadly disseminated intravascular coagulation (DIC). It is well established that human immune response changes with age, and also that the pro-inflammatory profile of plasma cytokines is upregulated in both healthy and diseased elderly people. In fact, normal aging is known to be associated with a subclinical, sterile, low-grade, systemic pro-inflammatory state linked to the chronic activation of the innate immune system, a phenomenon known as \"inflammaging\". Inflammaging may play a role as a condition contributing to the co-occurrence of the severe hyper-inflammatory state (cytokine storm) during COVID-19, and also in other severe infections (sepsis) in older people. Moreover, we must consider the impact of inflammation on coagulation due to the crosstalk between inflammation and coagulation. The systemic inflammatory state and coagulation disorders are closely related, a phenomenon that here we call \"coagul-aging\" (Giunta S.). In this review, we discuss the various degrees of inflammation in older adults after being infected with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), and the adverse effects of aging on the inflammatory response and coagulation system. It is important to note that although there is no gender difference in susceptibility to COVID-19 infection, however, due to differences in angiotensin-converting enzyme 2 (ACE2) expression, innate immunity, and comorbidities, older men exhibit more severe disease and higher mortality than older women. There are currently no FDA-approved specific antiviral drugs that can be used against the virus. Therapies used in patients with COVID-19 consist of remdesivir, dexamethasone, low-molecular-weight heparin, in addition to monoclonal antibodies against the spike protein of SARS-CoV-2 in the early phase of the disease. Future pharmacological research should also consider targeting the possible role of the underlying scenario of inflammaging in healthy older people to prevent or mitigate disease complications. It is worth mentioning that some specific cytokine antagonists and traditional Chinese medicine preparations can reduce the elderly's inflammatory state.",
+  "year": 2021,
+  "journal": "Experimental gerontology",
+  "authors": [
+    "Kangqiao Xu",
+    "Yaqin Wei",
+    "Sergio Giunta",
+    "Min Zhou",
+    "Shijin Xia"
+  ],
+  "doi": "10.1016/j.exger.2021.111423",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aging",
+    "Blood Coagulation Disorders",
+    "COVID-19",
+    "Cytokine Release Syndrome",
+    "Female",
+    "Humans",
+    "Male",
+    "SARS-CoV-2"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Coagul-aging",
+    "Cytokine storm",
+    "Deadly coagulopathy",
+    "Hyper-inflammatory",
+    "Inflammaging"
+  ],
+  "affiliations": [
+    "Department of Geriatrics, Shanghai Institute of Geriatrics, Huadong Hospital, Fudan University, Shanghai, PR China. Electronic address: 0156257@fudan.edu.cn.",
+    "Department of Geriatrics, Shanghai Institute of Geriatrics, Huadong Hospital, Fudan University, Shanghai, PR China; School of Clinical Medicine, Bengbu Medical College, Bengbu, PR China.",
+    "Casa di Cura Prof. Nobili-GHC Garofalo Health Care, Bologna, Italy.",
+    "Department of Respiratory Diseases, Jinshan Branch of the Sixth People's Hospital of Shanghai, Shanghai Jiaotong University, Shanghai, PR China. Electronic address: zhoumin-1209@163.com.",
+    "Department of Geriatrics, Shanghai Institute of Geriatrics, Huadong Hospital, Fudan University, Shanghai, PR China. Electronic address: xiashijinhd@163.com."
+  ]
+}

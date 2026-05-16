@@ -1,0 +1,42 @@
+{
+  "pmid": "37147596",
+  "title": "A systematic review and meta-analysis of glucocorticoids treatment in severe COVID-19: methylprednisolone versus dexamethasone.",
+  "abstract": "OBJECTIVE: The preferred agent of glucocorticoids in the treatment of patients with severe COVID-19 is still controversial. This study aimed to compare the efficacy and safety of methylprednisolone and dexamethasone in the treatment of patients with severe COVID-19. METHODS: By searching the electronic literature database including PubMed, Cochrane Central Register of Controlled Trials, and Web of Science, the clinical studies comparing methylprednisolone and dexamethasone in the treatment of severe COVID-19 were selected according to the inclusion criteria and exclusion criteria. Relevant data were extracted and literature quality was assessed. The primary outcome was short-term mortality. The secondary outcomes were the rates of ICU admission and mechanical ventilation, PaO2/FiO2 ratio, plasma levels of C-reactive protein (CRP), ferritin, and neutrophil/lymphocyte ratio, hospital stay, and the incidence of severe adverse events. Statistical pooling applied the fixed or random effects model and reported as risk ratio (RR) or mean difference (MD) with the corresponding 95% confidence interval (CI). Meta-analysis was performed using Review Manager 5.1.0. RESULTS: Twelve clinical studies were eligible, including three randomized controlled trials (RCTs) and nine non-RCTs. A total of 2506 patients with COVID-19 were analyzed, of which 1242 (49.6%) received methylprednisolone and 1264 (50.4%) received dexamethasone treatment. In general, the heterogeneity across studies was significant, and the equivalent doses of methylprednisolone were higher than that of dexamethasone. Our meta-analysis showed that methylprednisolone treatment in severe COVID-19 patients was related to significantly reduced plasma ferritin and neutrophil/lymphocyte ratio compared with dexamethasone, and that no significant difference in other clinical outcomes between the two groups was found. However, subgroup analyses of RCTs demonstrated that methylprednisolone treatment was associated with reduced short-term mortality, and decreased CRP level compared with dexamethasone. Moreover, subgroup analyses observed that severe COVID-19 patients treated with a moderate dose (2 mg/kg/day) of methylprednisolone were related to a better prognosis than those treated with dexamethasone. CONCLUSIONS: This study showed that compared with dexamethasone, methylprednisolone could reduce the systemic inflammatory response in severe COVID-19, and its effect was equivalent to that of dexamethasone on other clinical outcomes. It should be noted that the equivalent dose of methylprednisolone used was higher. Based on the evidence of subgroup analyses of RCTs, methylprednisolone, preferably at a moderate dose, has an advantage over dexamethasone in the treatment of patients with severe COVID-19.",
+  "year": 2023,
+  "journal": "BMC infectious diseases",
+  "authors": [
+    "Shukun Hong",
+    "Hongye Wang",
+    "Shuyuan Li",
+    "Jian Liu",
+    "Lujun Qiao"
+  ],
+  "doi": "10.1186/s12879-023-08280-2",
+  "publication_types": [
+    "Meta-Analysis",
+    "Systematic Review",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Glucocorticoids",
+    "Methylprednisolone",
+    "COVID-19",
+    "COVID-19 Drug Treatment",
+    "Dexamethasone"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Dexamethasone",
+    "Glucocorticoids",
+    "Meta-analysis",
+    "Methylprednisolone"
+  ],
+  "affiliations": [
+    "Department of Intensive Care Unit, Shengli Oilfield Central Hospital, Dongying, China. hongshukun@126.com.",
+    "Department of Obstetrics and Gynecology, Shengli Oilfield Central Hospital, Dongying, China.",
+    "Department of Intensive Care Unit, Shengli Oilfield Central Hospital, Dongying, China.",
+    "Department of Intensive Care Unit, Shengli Oilfield Central Hospital, Dongying, China.",
+    "Department of Intensive Care Unit, Shengli Oilfield Central Hospital, Dongying, China. qiaolujunicu@sina.com."
+  ]
+}

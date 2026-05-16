@@ -1,0 +1,69 @@
+{
+  "pmid": "33388006",
+  "title": "Clinical outcomes after early ambulatory multidrug therapy for high-risk SARS-CoV-2 (COVID-19) infection.",
+  "abstract": "There is an emergency need for early ambulatory treatment of Coronavirus Disease 2019 (COVID-19) in acutely ill patients in an attempt to reduce disease progression and the risks of hospitalization and death. Such management should be applied in high-risk patients age > 50 years or with one or more medical problems including cardiovascular disease. We evaluated a total of 922 outpatients from March to September 2020. All patients underwent contemporary real-time polymerase chain reaction (PCR) assay tests from anterior nasal swab samples. Patients age 50.5 ± 13.7 years (range 12 to 89), 61.6% women, at moderate or high risk for COVID-19 received empiric management via telemedicine. At least two agents with antiviral activity against SARS-CoV-2 (zinc, hydroxychloroquine, ivermectin) and one antibiotic (azithromycin, doxycycline, ceftriaxone) were used along with inhaled budesonide and/or intramuscular dexamethasone consistent with the emergent science on early COVID-19 treatment. For patients with high severity of symptoms, urgent in-clinic administration of albuterol nebulizer, inhaled budesonide, and intravenous volume expansion with supplemental parenteral thiamine 500 mg, magnesium sulfate 4 grams, folic acid 1 gram, vitamin B12 1 mg. A total of 320/922 (34.7%) were treated resulting in 6/320 (1.9%) and 1/320 (0.3%) patients that were hospitalized and died, respectively. We conclude that early ambulatory (not hospitalized, treated at home), multidrug therapy is safe, feasible, and associated with low rates of hospitalization and death. Early treatment should be considered for high-risk patients as an emergency measure while we await randomized trials and guidelines for ambulatory management.",
+  "year": 2020,
+  "journal": "Reviews in cardiovascular medicine",
+  "authors": [
+    "Brian C Procter",
+    "Casey Ross",
+    "Vanessa Pickard",
+    "Erica Smith",
+    "Cortney Hanson",
+    "Peter A McCullough"
+  ],
+  "doi": "10.31083/j.rcm.2020.04.260",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adolescent",
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Ambulatory Care",
+    "Antirheumatic Agents",
+    "COVID-19",
+    "Child",
+    "Drug Therapy, Combination",
+    "Female",
+    "Follow-Up Studies",
+    "Humans",
+    "Hydroxychloroquine",
+    "Leprostatic Agents",
+    "Male",
+    "Middle Aged",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "Telemedicine",
+    "Treatment Outcome",
+    "Young Adult",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "SARS-CoV-2",
+    "ambulatory",
+    "antiviral",
+    "azithromycin",
+    "corticosteroid",
+    "doxycycline",
+    "hospitalization",
+    "hydroxychloroquine",
+    "ivermectin",
+    "mortality",
+    "multidrug",
+    "vitamin",
+    "zinc"
+  ],
+  "affiliations": [
+    "McKinney Family Medicine, McKinney, 75070, TX, USA.",
+    "McKinney Family Medicine, McKinney, 75070, TX, USA.",
+    "McKinney Family Medicine, McKinney, 75070, TX, USA.",
+    "McKinney Family Medicine, McKinney, 75070, TX, USA.",
+    "McKinney Family Medicine, McKinney, 75070, TX, USA.",
+    "Baylor University Medical Center, Dallas, 75226, TX, USA.",
+    "Baylor Heart and Vascular Institute, Dallas, 75226, TX, USA.",
+    "Baylor Jack and Jane Hamilton Heart and Vascular Hospital, Dallas, 75226, TX, USA."
+  ]
+}

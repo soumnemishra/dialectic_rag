@@ -31,7 +31,9 @@ async def main():
     
     # Test question
     test_question = (
-        "Two weeks after undergoing an emergency cardiac catherization with stenting for unstable angina pectoris, a 61-year-old man has decreased urinary output and malaise. He has type 2 diabetes mellitus and osteoarthritis of the hips. Prior to admission, his medications were insulin and naproxen. He was also started on aspirin, clopidogrel, and metoprolol after the coronary intervention. His temperature is 38°C (100.4°F), pulse is 93/min, and blood pressure is 125/85 mm Hg. Examination shows mottled, reticulated purplish discoloration of the feet. Laboratory studies show: Hemoglobin count 14 g/dL, Leukocyte count 16,400/mm3, Segmented neutrophils 56%, Eosinophils 11%, Lymphocytes 31%, Monocytes 2%, Platelet count 260,000/mm3, Erythrocyte sedimentation rate 68 mm/h, Serum Urea nitrogen 25 mg/dL, Creatinine 4.2 mg/dL. Renal biopsy shows intravascular spindle-shaped vacuoles. Which of the following is the most likely cause of this patient's symptoms?"
+        "A 45-year-old man with acute dengue fever presents with fever, "
+        "body aches, and headache. His lab work shows thrombocytopenia and "
+        "mild leukopenia. What is the most common complication of dengue fever?"
     )
     
     logger.info(f"\n{'='*80}")

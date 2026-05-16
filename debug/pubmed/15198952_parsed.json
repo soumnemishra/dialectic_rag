@@ -1,0 +1,44 @@
+{
+  "pmid": "15198952",
+  "title": "Alpha(+)-thalassemia protects African children from severe malaria.",
+  "abstract": "The high frequency of alpha(+)-thalassemia in malaria-endemic regions may reflect natural selection due to protection from potentially fatal severe malaria. In Africa, bearing 90% of global malaria morbidity and mortality, this has not yet been observed. We tested this hypothesis in an unmatched case-control study among 301 Ghanaian children with severe malaria and 2107 controls (62% parasitemic). In control children, alpha(+)-thalassemia affected neither prevalence nor density of Plasmodium falciparum. However, heterozygous alpha(+)-thalassemia was observed in 32.6% of controls but in only 26.2% of cases (odds ratio [OR], 0.74; 95% confidence interval [CI], 0.56-0.98). Protection against severe malaria was found to be pronounced comparing severe malaria patients with parasitemic controls (adjusted OR in children < 5 years of age, 0.52; 95% CI, 0.34-0.78) and to wane with age. No protective effect was discernible for homozygous children. Our findings provide evidence for natural selection of alpha(+)-thalassemia in Africa due to protection from severe malaria.",
+  "year": 2004,
+  "journal": "Blood",
+  "authors": [
+    "Frank P Mockenhaupt",
+    "Stephan Ehrhardt",
+    "Sabine Gellert",
+    "Rowland N Otchwemah",
+    "Ekkehart Dietz",
+    "Sylvester D Anemana",
+    "Ulrich Bienzle"
+  ],
+  "doi": "10.1182/blood-2003-11-4090",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Case-Control Studies",
+    "Child",
+    "Child, Preschool",
+    "Communicable Disease Control",
+    "Communicable Diseases",
+    "Female",
+    "Ghana",
+    "Heterozygote",
+    "Homozygote",
+    "Humans",
+    "Infant",
+    "Malaria, Falciparum",
+    "Male",
+    "Multivariate Analysis",
+    "Odds Ratio",
+    "Polymerase Chain Reaction",
+    "alpha-Thalassemia"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Institute of Tropical Medicine, Charité, Humboldt University, Berlin, Germany. frank.mockenhaupt@charite.de"
+  ]
+}

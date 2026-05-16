@@ -1,0 +1,62 @@
+{
+  "pmid": "33635218",
+  "title": "High-dose glucocorticoids pulse-therapy for beta-coronaviridae pneumonia: a systematic literature review and case-series of Coronavirus disease-2019.",
+  "abstract": "OBJECTIVES: The results of the RECOVERY trial identified dexamethasone as the first pharmacological therapy that reduces mortality in patients with COVID-19. The aim of this paper is to conduct a systematic literature review on safety and efficacy of pulse glucocorticoid therapy for Severe Acute Respiratory Syndrome (SARS)-CoronaVirus (CoV), Middle East Respiratory Syndrome (MERS)-CoV or SARS-CoV-2 infections and describe a case-series of COVID-19 patients treated with off-label pulse doses of methylprednisolone. METHODS: We performed a systematic literature review on safety and efficacy of pulse therapy for betacoronaviridae infections as described in the protocol registered on PROSPERO (CRD42020190183). All consecutive patients admitted to Arcispedale Santa Maria Nuova di Reggio Emilia or Guastalla Hospital with COVID-19 between March 1st and April 30th, 2020 and treated with methylprednisolone 1 gram/day for at least three days were included in the case series. A retrospective review of available computed tomography (CT) scan and chest x-ray was performed independently by two radiologists blinded to clinical data, and discordances were resolved by consensus. RESULTS: Twenty papers were included for SARS, but only two were comparative and were included in the primary endpoint analysis. Likewise, eleven papers were included for COVID-19, four of which were comparative and were considered for the primary outcome analysis. Included studies for both SARS and COVID-19 are mostly retrospective and highly heterogeneous, with lethality ranging from 0% to 100% and ICU admission rate ranging from 9% to 100%. Fourteen patients were included in our case series, 7 males and 7 females. CONCLUSIONS: No randomised controlled trial is available yet for corticosteroids pulse-therapy defined as at least ≥500mg/day methylprednisolone in patients with emerging coronavirus pneumonia. Lethality among our cohort is high (4/14), but this finding should be interpreted with caution due to the fact that in our setting pulse-steroids were used in patients not eligible for other treatments because of comorbidities or as rescue therapy. The incidence of steroid-related adverse events seems low in our cohort. The quality of the evidence on glucocorticoid pulse-therapy in SARS, MERS and COVID-19 is poor. Randomised controlled trials are greatly needed.",
+  "year": 2021,
+  "journal": "Clinical and experimental rheumatology",
+  "authors": [
+    "Giovanni Dolci",
+    "Giulia Cassone",
+    "Francesco Venturelli",
+    "Giulia Besutti",
+    "Matteo Revelli",
+    "Romina Corsini",
+    "Fabio Sampaolesi",
+    "Paolo Pavone",
+    "Giada Contardi",
+    "Nicoletta Riva",
+    "Giulia Marini",
+    "Claudia Lazzaretti",
+    "Sergio Mezzadri",
+    "Jovana Milic",
+    "Marco Massari",
+    "Massimo Costantini",
+    "Carlo Salvarani"
+  ],
+  "doi": "10.55563/clinexprheumatol/36rs0j",
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Coronaviridae",
+    "Female",
+    "Glucocorticoids",
+    "Humans",
+    "Male",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "Treatment Outcome"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Infectious Disease School, University of Modena and Reggio Emilia, Modena, Italy.",
+    "Rheumatology Unit, IRCCS Arcispedale Santa Maria Nuova, Azienda Unità Sanitaria Locale-IRCCS di Reggio Emilia, Reggio Emilia, and University of Modena and Reggio Emilia PhD Program, Department of Surgical, Medical, Dental and Morphological Sciences, University of Modena and Reggio Emilia, Modena, Italy.",
+    "University of Modena and Reggio Emilia PhD Program, Department of Surgical, Medical, Dental and Morphological Sciences, University of Modena and Reggio Emilia, Modena, and Epidemiology Unit, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "University of Modena and Reggio Emilia PhD Program, Department of Surgical, Medical, Dental and Morphological Sciences, University of Modena and Reggio Emilia, Modena, and Radiology Unit, Department of Imaging and Laboratory Medicine, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "Radiology Unit, Department of Imaging and Laboratory Medicine, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "Infectious Disease Unit, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "Infectious Disease Unit, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "Infectious Disease Unit, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "Infectious Disease Unit, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "Infectious Disease Unit, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "Infectious Disease Unit, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "Infectious Disease Unit, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "Infectious Disease Unit, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "University of Modena and Reggio Emilia PhD Program, Department of Surgical, Medical, Dental and Morphological Sciences, University of Modena and Reggio Emilia, Modena, Italy.",
+    "Infectious Disease Unit, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "Scientific Director, Azienda USL-IRCCS di Reggio Emilia, Italy.",
+    "Rheumatology Unit, IRCCS Arcispedale Santa Maria Nuova, Azienda Unità Sanitaria Locale-IRCCS di Reggio Emilia, and Rheumatology Unit, University of Modena and Reggio Emilia, Modena, Italy. salvarani.carlo@ausl.re.it."
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "pmid": "34275096",
+  "title": "High-dose dexamethasone treatment for COVID-19 severe acute respiratory distress syndrome: a retrospective study.",
+  "abstract": "Low-dose dexamethasone reduces mortality in patients with coronavirus disease 2019 (COVID-19)-related acute respiratory distress syndrome (ARDS). We retrospectively analyzed the efficacy of high-dose dexamethasone in patients with COVID-19-related ARDS and evaluated factors affecting the composite outcome (death or invasive mechanical ventilation). From March 4th to April 1st 2020, 98 patients with COVID-19 pneumonia were included. Those who after at least 7 days from symptom onset presented a worsening of the respiratory function or of inflammatory biomarkers were started on intravenous high-dose dexamethasone (20 mg daily for 5 days, followed by 10 mg daily for 5 days). Most patients were males (62%) with a mean age of 69 years. Hypertension and cardiovascular disease (CVD) were prevalent. Following dexamethasone treatment, a significant improvement in PaO2/FiO2 (277.41 [178.5-374.8] mmHg vs. 146.75 [93.62-231.16] mmHg, p < 0.001), PaO2 (88.15 [76.62-112.0] mmHg vs. 65.65 [57.07-81.22] mmHg, p < 0.001), and SpO2 (96 [95-98]% vs. 94 [90-96]%, p < 0.001) was observed. A concomitant decrease in C-reactive protein and ferritin levels was found (132.25 [82.27-186.5] mg/L vs. 7.3 [3.3-24.2] mg/L and 1169 [665-2056] ng/mL vs. 874.0 [569.5-1434] ng/mL, respectively; p < 0.001 for both vs. baseline). CVD was found to increase the risk of the composite outcome (RR 7.64, 95% CI 1.24-47.06, p = 0.028). In hospitalized patients with COVID-19-related ARDS, high-dose dexamethasone rapidly improves the clinical status and decreases inflammatory biomarkers. CVD was found to increase the risk of the composite outcome. These data support the importance of randomized clinical trials with high-dose dexamethasone in COVID-19 patients.",
+  "year": 2021,
+  "journal": "Internal and emergency medicine",
+  "authors": [
+    "Alessandra Vecchié",
+    "Alberto Batticciotto",
+    "Flavio Tangianu",
+    "Aldo Bonaventura",
+    "Benedetta Pennella",
+    "Alessia Abenante",
+    "Rossana Corso",
+    "Stefano Grazioli",
+    "Nicola Mumoli",
+    "Ombretta Para",
+    "Andrea Maria Maresca",
+    "Daniela Dalla Gasperina",
+    "Francesco Dentali"
+  ],
+  "doi": "10.1007/s11739-021-02800-1",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Anti-Inflammatory Agents",
+    "COVID-19",
+    "Dexamethasone",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Outcome Assessment, Health Care",
+    "Respiratory Distress Syndrome",
+    "Retrospective Studies",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "ARDS",
+    "COVID-19",
+    "Dexamethasone",
+    "FiO2",
+    "Inflammation",
+    "PaO2",
+    "SARS-CoV-2"
+  ],
+  "affiliations": [
+    "Department of Internal Medicine, ASST Sette Laghi, Varese, Italy.",
+    "Department of Internal Medicine, ASST Sette Laghi, Varese, Italy.",
+    "Department of Internal Medicine, ASST Sette Laghi, Varese, Italy.",
+    "Department of Internal Medicine, ASST Sette Laghi, Varese, Italy.",
+    "Department of Internal Medicine, ASST Sette Laghi, Varese, Italy.",
+    "Department of Internal Medicine, ASST Sette Laghi, Varese, Italy.",
+    "Department of Internal Medicine, ASST Sette Laghi, Varese, Italy.",
+    "Department of Internal Medicine, ASST Sette Laghi, Varese, Italy.",
+    "Department of Internal Medicine, Ospedale di Magenta, ASST Ovest Milanese, Legnano, Italy.",
+    "SOD Medicina Interna I, Azienda Ospedaliero-Universitaria Careggi, Firenze, Italy.",
+    "Department of Medicine and Surgery, Insubria University, Varese, Italy.",
+    "Department of Medicine and Surgery, Insubria University, Varese, Italy.",
+    "Department of Medicine and Surgery, Insubria University, Varese, Italy. francesco.dentali@asst-settelaghi.it."
+  ]
+}

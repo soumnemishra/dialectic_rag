@@ -1,0 +1,43 @@
+{
+  "pmid": "33233748",
+  "title": "Biomimetic Nanoparticles Potentiate the Anti-Inflammatory Properties of Dexamethasone and Reduce the Cytokine Storm Syndrome: An Additional Weapon against COVID-19?",
+  "abstract": "Recent studies on coronavirus infectious disease 2019 (COVID-19) pathophysiology indicated the cytokine release syndrome induced by the virus as the main cause of mortality. Patients with severe COVID-19 infection present a systemic hyper inflammation that can lead to lung and multi-organ injuries. Among the most recent treatments, corticosteroids have been identified to be effective in mitigating these catastrophic effects. Our group has recently developed leukocyte-derived nanovesicles, termed leukosomes, able to target in vivo the inflamed vasculature associated with pathological conditions including cancer, cardiovascular diseases, and sepsis. Herein, to gain insights on the anti-inflammatory properties of leukosomes, we investigated their ability to reduce uncontrolled inflammation in a lethal model of lipopolysaccharide (LPS)-induced endotoxemia, recapitulating the cytokine storm syndrome observed in COVID-19 infection after encapsulating dexamethasone. Treated animals showed a significant survival advantage and an improved immune response resolution, as demonstrated by a cytokine array analysis of pro- and anti-inflammatory cytokines, chemokines, and other immune-relevant markers. Our results showed that leukosomes enhance the therapeutic activity of dexamethasone and better control the inflammatory response compared to the free drug. Such an approach could be useful for the development of personalized therapies in the treatment of hyperinflammation related to infectious diseases, including the ones caused by COVID-19.",
+  "year": 2020,
+  "journal": "Nanomaterials (Basel, Switzerland)",
+  "authors": [
+    "Roberto Molinaro",
+    "Anna Pasto",
+    "Francesca Taraballi",
+    "Federica Giordano",
+    "Jamil A Azzi",
+    "Ennio Tasciotti",
+    "Claudia Corbo"
+  ],
+  "doi": "10.3390/nano10112301",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "biomimetic nanovesicles",
+    "cytokine storm",
+    "inflammation",
+    "leukocyte-like carriers"
+  ],
+  "affiliations": [
+    "Center for Biomimetic Medicine, Houston Methodist Research Institute, Houston, TX 77030, USA.",
+    "IRCCS San Raffaele Hospital, 20132 Milan, Italy.",
+    "Center for Biomimetic Medicine, Houston Methodist Research Institute, Houston, TX 77030, USA.",
+    "Center for Musculoskeletal Regeneration, Houston Methodist Academic Institute, Houston, TX 77030, USA.",
+    "Orthopedics and Sport Medicine, Houston Methodist Hospital, Houston, TX 77030, USA.",
+    "Center for Musculoskeletal Regeneration, Houston Methodist Academic Institute, Houston, TX 77030, USA.",
+    "Orthopedics and Sport Medicine, Houston Methodist Hospital, Houston, TX 77030, USA.",
+    "Renal Division, Brigham and Women's Hospital, Harvard Medical School, Boston, MA 02115, USA.",
+    "Center for Biomimetic Medicine, Houston Methodist Research Institute, Houston, TX 77030, USA.",
+    "Orthopedics and Sport Medicine, Houston Methodist Hospital, Houston, TX 77030, USA.",
+    "Biotechnology Program, San Raffaele University and IRCCS San Raffaele Pisana, 00166 Roma RM, Italy.",
+    "Center for Biomimetic Medicine, Houston Methodist Research Institute, Houston, TX 77030, USA.",
+    "Department of Medicine and Surgery, Center for Nanomedicine Nanomib, University of Milan Bicocca, 20854 Vedano al Lambro MB, Italy."
+  ]
+}

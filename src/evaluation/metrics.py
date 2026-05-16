@@ -2,7 +2,9 @@
 
 from __future__ import annotations
 
+import os
 from typing import Any, Iterable, List, Sequence
+from src.utils.debug_utils import get_debug_manager
 
 
 HEDGE_KEYWORDS = [
@@ -93,7 +95,7 @@ def compute_calibration_metrics(results: list[Any]) -> dict[str, Any]:
             and float(_get_metadata_value(result, "eus")) < 0.1
         ]
 
-    return {
+    metrics = {
         "hedge_rate": round(len(hedged) / n * 100, 1),
         "abstention_rate": round(len(abstained) / n * 100, 1),
         "avg_eus_correct": _avg(correct_eus),
@@ -105,6 +107,27 @@ def compute_calibration_metrics(results: list[Any]) -> dict[str, Any]:
         ),
         "n_overconfident": len(overconfident),
     }
+
+    debug_calibration = os.getenv("DEBUG_CALIBRATION", "false").strip().lower() in {"1", "true", "yes", "on"}
+    debug_manager = get_debug_manager()
+    if debug_calibration and debug_manager.is_enabled():
+        debug_manager.save_json(
+            "calibration/uncertainty_metrics.json",
+            {
+                "n_results": n,
+                "metrics": metrics,
+                "sample": [
+                    {
+                        "predicted_answer": _safe_str(getattr(result, "predicted_answer", "")),
+                        "is_correct": bool(getattr(result, "is_correct", False)),
+                        "eus": _get_metadata_value(result, "eus"),
+                    }
+                    for result in results
+                ],
+            },
+        )
+
+    return metrics
 
 
 def compute_evaluation_invariants(results: list[Any]) -> dict[str, Any]:

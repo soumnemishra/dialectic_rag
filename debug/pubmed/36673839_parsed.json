@@ -1,0 +1,46 @@
+{
+  "pmid": "36673839",
+  "title": "Early Stage Combination Treatment with Methylprednisolone Pulse and Remdesivir for Severe COVID-19 Pneumonia.",
+  "abstract": "BACKGROUND: This study evaluated the clinical outcomes of patients with severe COVID-19 pneumonia treated with remdesivir plus standard corticosteroid treatment (SCT) or with remdesivir plus high-dose corticosteroid pulse therapy (HDCPT). METHODS: One hundred and two patients with severe COVID-19 pneumonia and respiratory failure were included. The patients were divided into two cohorts. The first comprised patients who received remdesivir and SCT, consisting of 6 mg dexamethasone daily for up to 10 days or until hospital discharge. The second included patients who received remdesivir and HDCPT, composed of 250 mg iv of methylprednisolone for three days, followed by a slow reduction in the dose of steroids. The severity of hypoxemia was assessed using the SaO2/FiO2 peripheral oxygen saturation index. RESULTS: 55 received remdesivir plus HDCPT, and 47 received remdesivir plus SCT. Mortality at 30 days was significantly lower among patients who received remdesivir plus HDCPT (4/55) than among those who did not (15/47). In patients who received remdesivir plus HDCPT, 7.3% required invasive mechanical ventilation and admission to the ICU and 36.4% non-invasive ventilation versus 29.8% and 61.7%, respectively, among those treated with remdesivir plus SCT. Remdesivir plus HDCPT induced a significantly faster improvement in the SaO2/FiO2 index. CONCLUSION: Early combination treatment with remdesivir plus HDCPT reduced in-hospital mortality and the need for admission to the ICU. Furthermore, it improved the SaO2/FiO2 index faster in patients with severe COVID-19 pneumonia.",
+  "year": 2023,
+  "journal": "International journal of environmental research and public health",
+  "authors": [
+    "Claudio Mastruzzo",
+    "Elena Commodari",
+    "Umberto Grasso",
+    "Valentina Lucia La Rosa",
+    "Daniela Balsamo",
+    "Cristina Circo",
+    "Rosario Oliveri"
+  ],
+  "doi": "10.3390/ijerph20021081",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Methylprednisolone",
+    "COVID-19 Drug Treatment",
+    "Alanine",
+    "Adrenal Cortex Hormones",
+    "Oxygen",
+    "Adenosine Monophosphate"
+  ],
+  "keywords": [
+    "COVID-19",
+    "corticosteroids",
+    "pulse therapy",
+    "remdesivir"
+  ],
+  "affiliations": [
+    "Unit of Respiratory Diseases, Department of Medicine, Garibaldi Hospital, 95124 Catania, Italy.",
+    "Department of Educational Sciences, University of Catania, 95124 Catania, Italy.",
+    "Unit of Internal Medicine, Department of Medicine, Garibaldi Hospital, 95124 Catania, Italy.",
+    "Department of Educational Sciences, University of Catania, 95124 Catania, Italy.",
+    "Unit of Internal Medicine, Department of Medicine, Garibaldi Hospital, 95124 Catania, Italy.",
+    "Unit of Respiratory Diseases, Department of Medicine, Garibaldi Hospital, 95124 Catania, Italy.",
+    "Unit of Respiratory Diseases, Department of Medicine, Garibaldi Hospital, 95124 Catania, Italy."
+  ]
+}

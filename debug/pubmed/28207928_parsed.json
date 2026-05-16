@@ -1,0 +1,40 @@
+{
+  "pmid": "28207928",
+  "title": "Industry sponsorship and research outcome.",
+  "abstract": "BACKGROUND: Clinical research affecting how doctors practice medicine is increasingly sponsored by companies that make drugs and medical devices. Previous systematic reviews have found that pharmaceutical-industry sponsored studies are more often favorable to the sponsor's product compared with studies with other sources of sponsorship. A similar association between sponsorship and outcomes have been found for device studies, but the body of evidence is not as strong as for sponsorship of drug studies. This review is an update of a previous Cochrane review and includes empirical studies on the association between sponsorship and research outcome. OBJECTIVES: To investigate whether industry sponsored drug and device studies have more favorable outcomes and differ in risk of bias, compared with studies having other sources of sponsorship. SEARCH METHODS: In this update we searched MEDLINE (2010 to February 2015), Embase (2010 to February 2015), the Cochrane Methodology Register (2015, Issue 2) and Web of Science (June 2015). In addition, we searched reference lists of included papers, previous systematic reviews and author files. SELECTION CRITERIA: Cross-sectional studies, cohort studies, systematic reviews and meta-analyses that quantitatively compared primary research studies of drugs or medical devices sponsored by industry with studies with other sources of sponsorship. We had no language restrictions. DATA COLLECTION AND ANALYSIS: Two assessors screened abstracts and identified and included relevant papers. Two assessors extracted data, and we contacted authors of included papers for additional unpublished data. Outcomes included favorable results, favorable conclusions, effect size, risk of bias and whether the conclusions agreed with the study results. Two assessors assessed risk of bias of included papers. We calculated pooled risk ratios (RR) for dichotomous data (with 95% confidence intervals (CIs)). MAIN RESULTS: Twenty-seven new papers were included in this update and in total the review contains 75 included papers. Industry sponsored studies more often had favorable efficacy results, RR: 1.27 (95% CI: 1.17 to 1.37) (25 papers) (moderate quality evidence), similar harms results RR: 1.37 (95% CI: 0.64 to 2.93) (four papers) (very low quality evidence) and more often favorable conclusions RR: 1.34 (95% CI: 1.19 to 1.51) (29 papers) (low quality evidence) compared with non-industry sponsored studies. Nineteen papers reported on sponsorship and efficacy effect size, but could not be pooled due to differences in their reporting of data and the results were heterogeneous. We did not find a difference between drug and device studies in the association between sponsorship and conclusions (test for interaction, P = 0.98) (four papers). Comparing industry and non-industry sponsored studies, we did not find a difference in risk of bias from sequence generation, allocation concealment, follow-up and selective outcome reporting. However, industry sponsored studies more often had low risk of bias from blinding, RR: 1.25 (95% CI: 1.05 to 1.50) (13 papers), compared with non-industry sponsored studies. In industry sponsored studies, there was less agreement between the results and the conclusions than in non-industry sponsored studies, RR: 0.83 (95% CI: 0.70 to 0.98) (six papers). AUTHORS' CONCLUSIONS: Sponsorship of drug and device studies by the manufacturing company leads to more favorable efficacy results and conclusions than sponsorship by other sources. Our analyses suggest the existence of an industry bias that cannot be explained by standard 'Risk of bias' assessments.",
+  "year": 2017,
+  "journal": "The Cochrane database of systematic reviews",
+  "authors": [
+    "Andreas Lundh",
+    "Joel Lexchin",
+    "Barbara Mintzes",
+    "Jeppe B Schroll",
+    "Lisa Bero"
+  ],
+  "doi": "10.1002/14651858.MR000033.pub3",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Conflict of Interest",
+    "Data Interpretation, Statistical",
+    "Drug Industry",
+    "Equipment and Supplies",
+    "Industry",
+    "Publication Bias",
+    "Research Report",
+    "Research Support as Topic",
+    "Treatment Outcome"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Center for Evidence-Based Medicine, Odense University Hospital and University of Southern Denmark, Sdr. Boulevard 29, Entrance 50 (Videncentret), Odense, Denmark, 5000.",
+    "School of Health Policy and Management, York University, 121 Walmer Rd, Toronto, ON, Canada, M5R 2X8.",
+    "Charles Perkins Centre and Faculty of Pharmacy, The University of Sydney, Room 6W75, 6th Floor, The Hub, Charles Perkins Centre D17, Sydney, NSW, Australia, 2006.",
+    "Department of Obstetrics and Gynaecology, Herlev Hospital, Herlev Ringvej 75, Herlev, Denmark, 2730.",
+    "Charles Perkins Centre and Faculty of Pharmacy, University of Sydney, 6th Floor (6W76), The University of Sydney, Sydney, New South Wales 2006, Australia."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "34309236",
+  "title": "Drug repurposing strategies of relevance for Parkinson's disease.",
+  "abstract": "Parkinson's disease is a highly disabling, progressive neurodegenerative disease that manifests as a mix of motor and non-motor signs. Although we are equipped with some symptomatic treatments, especially for the motor signs of the disease, there are still no established disease-modifying drugs so the disease progresses unchecked. Standard drug discovery programs for disease-modifying therapies have provided key insights into the pathogenesis of Parkinson's disease but, of the many positive candidates identified in pre-clinical studies, none has yet translated into a successful clinically efficacious drug. Given the huge cost of drug discovery programs, it is not surprising that much attention has turned toward repurposing strategies. The trialing of an established therapeutic has the advantage of bypassing the need for preclinical safety testing and formulation optimization, thereby cutting both time and costs involved in getting a treatment to the clinic. Additional reduced failure rates for repurposed drugs are also a potential bonus. Many different strategies for drug repurposing are open to researchers in the Parkinson's disease field. Some of these have already proven effective in identifying suitable drugs for clinical trials, lending support to such approaches. In this review, we present a summary of the different strategies for drug repurposing, from large-scale epidemiological correlation analysis through to single-gene transcriptional approaches. We provide examples of past or ongoing studies adopting each strategy, where these exist. For strategies that have yet to be applied to Parkinson's disease, their utility is illustrated using examples taken from other disorders.",
+  "year": 2021,
+  "journal": "Pharmacology research & perspectives",
+  "authors": [
+    "Edward J R Fletcher",
+    "Thomas Kaminski",
+    "Gareth Williams",
+    "Susan Duty"
+  ],
+  "doi": "10.1002/prp2.841",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Animals",
+    "Drug Repositioning",
+    "Humans",
+    "Ligands",
+    "Parkinson Disease"
+  ],
+  "keywords": [
+    "clinical observation",
+    "epidemiological correlation",
+    "genome-wide association studies",
+    "target identification",
+    "transcriptional profiling"
+  ],
+  "affiliations": [
+    "King's College London, Institute of Psychiatry, Psychology & Neuroscience, Wolfson Centre for Age-Related Diseases, London, UK.",
+    "King's College London, Institute of Psychiatry, Psychology & Neuroscience, Wolfson Centre for Age-Related Diseases, London, UK.",
+    "King's College London, Institute of Psychiatry, Psychology & Neuroscience, Wolfson Centre for Age-Related Diseases, London, UK.",
+    "King's College London, Institute of Psychiatry, Psychology & Neuroscience, Wolfson Centre for Age-Related Diseases, London, UK."
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "pmid": "36199017",
+  "title": "Real-world effectiveness of steroids in severe COVID-19: a retrospective cohort study.",
+  "abstract": "INTRODUCTION: Randomised controlled trials have shown that steroids reduce the risk of dying in patients with severe Coronavirus disease 2019 (COVID-19), whilst many real-world studies have failed to replicate this result. We aim to investigate real-world effectiveness of steroids in severe COVID-19. METHODS: Clinical, demographic, and viral genome data extracted from electronic patient record (EPR) was analysed from all SARS-CoV-2 RNA positive patients admitted with severe COVID-19, defined by hypoxia at presentation, between March 13th 2020 and May 27th 2021. Steroid treatment was measured by the number of prescription-days with dexamethasone, hydrocortisone, prednisolone or methylprednisolone. The association between steroid > 3 days treatment and disease outcome was explored using multivariable cox proportional hazards models with adjustment for confounders (including age, gender, ethnicity, co-morbidities and SARS-CoV-2 variant). The outcome was in-hospital mortality. RESULTS: 1100 severe COVID-19 cases were identified having crude hospital mortality of 15.3%. 793/1100 (72.1%) individuals were treated with steroids and 513/1100 (46.6%) received steroid ≤ 3 days. From the multivariate model, steroid > 3 days was associated with decreased hazard of in-hospital mortality (HR: 0.47 (95% CI: 0.31-0.72)). CONCLUSION: The protective effect of steroid treatment for severe COVID-19 reported in randomised clinical trials was replicated in this retrospective study of a large real-world cohort.",
+  "year": 2022,
+  "journal": "BMC infectious diseases",
+  "authors": [
+    "Wenjuan Wang",
+    "Luke B Snell",
+    "Davide Ferrari",
+    "Anna L Goodman",
+    "Nicholas M Price",
+    "Charles D Wolfe",
+    "Vasa Curcin",
+    "Jonathan D Edgeworth",
+    "Yanzhong Wang"
+  ],
+  "doi": "10.1186/s12879-022-07750-3",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Dexamethasone",
+    "Humans",
+    "Hydrocortisone",
+    "Methylprednisolone",
+    "RNA, Viral",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Mortality",
+    "Retrospective cohort study",
+    "Steroids"
+  ],
+  "affiliations": [
+    "School of Population Health and Environmental Sciences, King's College London, London, UK. wenjuan.wang@kcl.ac.uk.",
+    "Centre for Clinical Infection and Diagnostics Research, School of Immunology and Microbial Sciences, King's College London, London, UK.",
+    "Department of Infectious Diseases, Guy's and St Thomas' NHS Foundation Trust, London, UK.",
+    "NIHR Biomedical Research Centre, Guy's and St Thomas' NHS Foundation Trust, London, UK.",
+    "School of Population Health and Environmental Sciences, King's College London, London, UK.",
+    "Department of Infectious Diseases, Guy's and St Thomas' NHS Foundation Trust, London, UK.",
+    "Department of Infectious Diseases, Guy's and St Thomas' NHS Foundation Trust, London, UK.",
+    "School of Population Health and Environmental Sciences, King's College London, London, UK.",
+    "NIHR Biomedical Research Centre, Guy's and St Thomas' NHS Foundation Trust, London, UK.",
+    "School of Population Health and Environmental Sciences, King's College London, London, UK.",
+    "NIHR Biomedical Research Centre, Guy's and St Thomas' NHS Foundation Trust, London, UK.",
+    "Centre for Clinical Infection and Diagnostics Research, School of Immunology and Microbial Sciences, King's College London, London, UK.",
+    "Department of Infectious Diseases, Guy's and St Thomas' NHS Foundation Trust, London, UK.",
+    "NIHR Biomedical Research Centre, Guy's and St Thomas' NHS Foundation Trust, London, UK.",
+    "School of Population Health and Environmental Sciences, King's College London, London, UK.",
+    "NIHR Biomedical Research Centre, Guy's and St Thomas' NHS Foundation Trust, London, UK."
+  ]
+}

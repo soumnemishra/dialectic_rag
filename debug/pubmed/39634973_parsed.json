@@ -1,0 +1,41 @@
+{
+  "pmid": "39634973",
+  "title": "Timing of Dexamethasone Initiation and Its Impact on the Outcome of COVID-19 Patients.",
+  "abstract": "Introduction COVID-19 emerged in Wuhan in December 2019 and was declared a pandemic in March 2020. Severe cases manifest with respiratory distress. Corticosteroids, initially debated, are now recommended for severe cases following the RECOVERY (Randomised Evaluation of COVID-19 Therapy) trial findings. The timing of administration impacts outcomes, with earlier use potentially improving mortality and ICU stays. Regional studies on timing in severe cases are lacking, warranting further investigation. Methodology This retrospective cohort study was conducted at the Medical Department of King Abdulaziz Medical City (KAMC), Riyadh, Saudi Arabia. Data were extracted from the BestCare database using a customized data collection sheet. Data were cleaned in Excel (Microsoft Corporation, Redmond, WA) and analyzed in IBM SPSS (IBM Corp., Armonk, NY). Results Our study included 791 COVID-19 patients with 43.1% being female (n = 341) and 56.9% being male (n = 450). The mean age was 69.5 years (SD = 16.1). Regarding BMI, 52.4% (n = 414) were obese. Most admissions were from the emergency department (90.6%, n = 717). Dexamethasone was administered to 80.3% (n = 635) of patients, with 53.0% (n = 419) receiving it early. Patients receiving early dexamethasone had significantly higher discharge rates (p < 0.001). Mortality was higher among those receiving late dexamethasone initiation (52.6%, p = 0.256). Moreover, there was an 87.5% death rate for doses >6 mg (p < 0.001). Intravenous administration was associated with higher mortality (62.3%, p < 0.001). Males had a higher likelihood of discharge (OR = 1.426, p = 0.043). Age and ventilation needs were strong mortality predictors (OR = 1.040, p < 0.001 and OR = 17.620, p < 0.001, respectively). Higher BMI slightly reduced mortality risk (OR = 0.978, p = 0.049). Conclusion Our study highlights significant associations between dexamethasone timing, dosage, and route of administration with COVID-19 outcomes. Early dexamethasone use correlated with higher discharge rates, while late initiation and higher doses were linked to increased mortality. Age and ventilation needs were critical predictors, with BMI showing a nuanced effect on mortality risk.",
+  "year": 2024,
+  "journal": "Cureus",
+  "authors": [
+    "Jamila Alonazi",
+    "Najla Alrasheed",
+    "Saad Aljabr",
+    "Khalaf Albaqami",
+    "Khalid Alshallal",
+    "Saif A Alsemairi",
+    "Fahad AlBaqami",
+    "Nawaf F Alnufaie",
+    "Faisal A Bin Talib"
+  ],
+  "doi": "10.7759/cureus.72983",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "corticosteroid",
+    "covid-19",
+    "dexamethasone",
+    "dexamethasone initiation time",
+    "icu"
+  ],
+  "affiliations": [
+    "Department of Internal Medicine, King Abdulaziz Medical City, Riyadh, SAU.",
+    "Department of Internal Medicine, King Abdulaziz Medical City, Riyadh, SAU.",
+    "Division of Internal Medicine, Department of Medicine, King Abdulaziz Medical City, Ministry of National Guard Health Affairs (MNGHA), Riyadh, SAU.",
+    "Division of Medicine, Department of Medicine, King Abdulaziz Medical City, Ministry of National Guard Health Affairs (MNGHA), Riyadh, SAU.",
+    "Division of Internal Medicine, Department of Medicine, King Abdulaziz Medical City, Ministry of National Guard Health Affairs (MNGHA), Riyadh, SAU.",
+    "Division of Internal Medicine, Department of Medicine, King Abdulaziz Medical City, Ministry of National Guard Health Affairs (MNGHA), Riyadh, SAU.",
+    "Division of Internal Medicine, Department of Medicine, King Abdulaziz Medical City, Ministry of National Guard Health Affairs (MNGHA), Riyadh, SAU.",
+    "Department of Radiology, King Faisal Specialist Hospital and Research Centre, Riyadh, SAU.",
+    "Division of Internal Medicine, Department of Medicine, King Abdulaziz Medical City, Ministry of National Guard Health Affairs (MNGHA), Riyadh, SAU."
+  ]
+}

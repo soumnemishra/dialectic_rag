@@ -1,0 +1,41 @@
+{
+  "pmid": "9242562",
+  "title": "Mouse zeta- and alpha-globin genes: embryonic survival, alpha-thalassemia, and genetic background effects.",
+  "abstract": "A classical notion regarding the expression of murine embryonic zeta- and adult alpha-globin genes holds that there is a switch in globin production from the embryonic to the adult form during fetal development. Our previous in situ hybridization studies challenged this view, since both zeta- and alpha-globin mRNAs can be detected simultaneously in the earliest erythrocyte populations. This finding raises the possibility that zeta-globin production might be wholly or partially redundant in embryos in which the adult alpha-globin is also expressed. To test this possibility, we created a null mutation of the zeta-globin gene using homologous recombination in embryonic stem cells. Many outbred mice homozygous for the zeta-null mutation were able to develop normally, undermining the notion that there is an absolute need for zeta-globin and indicating that alpha-globin alone can serve the survival needs of the fetus. Interestingly, insertion of the PGK-Neo cassette (used to create the null mutation) into the zeta-globin gene appears to influence the expression of the nearby alpha-globin genes, giving rise to reduced alpha-globin production and to an alpha-thalassemia-like syndrome. There is also evidence indicating the strong influence of genetic background on the zeta-null and alpha1-null phenotypes, both of which are much more severe in the 129/SvEv inbred genetic background. These quantitative differences can potentially be exploited to identify genes important for erythropoiesis.",
+  "year": 1997,
+  "journal": "Blood",
+  "authors": [
+    "A Leder",
+    "C Daugherty",
+    "B Whitney",
+    "P Leder"
+  ],
+  "doi": null,
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Alleles",
+    "Animals",
+    "Embryonic and Fetal Development",
+    "Epistasis, Genetic",
+    "Erythropoiesis",
+    "Fetal Blood",
+    "Fetal Death",
+    "Gene Expression Regulation, Developmental",
+    "Gene Targeting",
+    "Genotype",
+    "Globins",
+    "Mice",
+    "Mice, Inbred BALB C",
+    "Mice, Inbred Strains",
+    "Mice, Knockout",
+    "Recombination, Genetic",
+    "Stem Cells",
+    "alpha-Thalassemia"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Genetics, Harvard Medical School, Howard Hughes Medical Institute, Boston, MA 02115, USA."
+  ]
+}

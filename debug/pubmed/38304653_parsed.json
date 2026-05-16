@@ -1,0 +1,35 @@
+{
+  "pmid": "38304653",
+  "title": "The Trend of C-Reactive Protein After Corticosteroid Therapy in COVID-19 Patients Admitted to IGIMS, Patna.",
+  "abstract": "BACKGROUND: C-reactive protein (CRP) is a routine inflammation biomarker. Increased CRP levels are correlated with COVID-19. We found a marked reduction in CRP concentration on corticosteroid therapy, which in turn led to reduced mortality and duration of hospital stay. METHODS: In this retrospective cohort study, CRP levels were measured on admission and at 72 hours and compared between two groups of patients, with and without corticosteroid therapy. The study sample consisted of 105 RT-PCR-confirmed patients admitted to the ICU of the COVID ward. Out of the total patients, 57 received one or more doses of dexamethasone in addition to usual treatment, and 48 were given only usual care. RESULT: CRP at the time of admission was comparable for both groups. Also, a significant decrease in the CRP was noted in both groups 72 hours post-admission. Moreover, the decline was more marked in the steroid-administered group (CRP-baseline: 34.3mg/dL (+/-8.44), CRP at 72 hours 18.5mg/dL(+/-7.95) (p <0.00) compared to non-steroid group (CRP_baseline: 34.04mg/dL (+/-10.06), CRP at 72. Those with comorbidities were administered steroids (n=38, 66.7%) compared to those who were not (n=08, 16.7%). The average duration of hospital stay was less (5 to 7 days) in the corticosteroid-administered group compared to the other group (7 to 10 days). CONCLUSION: Routine CRP tests can predict the outcome and treatment of severe coronavirus disease. Corticosteroid treatment in COVID-19 patients is associated with reduced CRP levels within 72 hours after therapy.",
+  "year": 2024,
+  "journal": "Cureus",
+  "authors": [
+    "Neelima Singh",
+    "Randhir Kumar",
+    "Shailesh Kumar",
+    "Nidhi Prasad",
+    "Sweta Muni",
+    "Namrata Kumari"
+  ],
+  "doi": "10.7759/cureus.51499",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "corona virus disease 2019",
+    "corticosteroids in covid-19",
+    "crp (c reactive protein)",
+    "cytokine storm syndrome",
+    "inflammatory biomarker"
+  ],
+  "affiliations": [
+    "Infectious Disease, Indira Gandhi Institute of Medical Sciences, Patna, IND.",
+    "Infectious Disease, Indira Gandhi Institute of Medical Sciences, Patna, IND.",
+    "Infectious Disease, Indira Gandhi Institute of Medical Sciences, Patna, IND.",
+    "Infectious Disease, Indira Gandhi Institute of Medical Sciences, Patna, IND.",
+    "Infectious Disease, Indira Gandhi Institute of Medical Sciences, Patna, IND.",
+    "Infectious Disease, Indira Gandhi Institute of Medical Sciences, Patna, IND."
+  ]
+}

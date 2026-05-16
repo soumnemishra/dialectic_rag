@@ -1,0 +1,36 @@
+{
+  "pmid": "40486314",
+  "title": "The Neurological Sequelae of Vitamin B12 Deficiency: A Systematic Review and Randomized Controlled Trial.",
+  "abstract": "Vitamin B12 deficiency is a well-recognized cause of neurological complications, including peripheral neuropathy, cognitive decline, and myelopathy. However, the extent of neurological benefits from supplementation, especially in subclinical cases, remains uncertain. This systematic review evaluated randomized controlled trials (RCTs) investigating the neurological effects of vitamin B12 supplementation. The review focused on treatment outcomes, route of administration, and population characteristics, along with the methodological quality of included studies. Ten RCTs were included, involving individuals with clinical and subclinical vitamin B12 deficiency. Supplementation improved neurological symptoms in patients with overt deficiency, with oral therapy showing similar efficacy to intramuscular injections, better tolerability, and lower cost. In older adults with subclinical deficiency, supplementation did not significantly improve cognitive or neurological outcomes. In diabetic patients with neuropathy, improvements were noted in symptom scores, but not in objective neurological measures. Although reductions in homocysteine levels were observed, these biochemical changes did not consistently correlate with clinical improvements. Vitamin B12 supplementation is effective for patients with clinical deficiency but shows limited neurological benefit in subclinical cases. Further trials using standardized outcomes and longer follow-up are needed to refine treatment strategies and support biomarker-guided approaches.",
+  "year": 2025,
+  "journal": "Cureus",
+  "authors": [
+    "Abir Abdalaal Hamza Ali",
+    "Fatima H A Mohamed",
+    "Samir Hago",
+    "Israa Fathelrahman Elsadig Elgali",
+    "Hager Elsir Sherfeldin Mohammed",
+    "Rania G Mirghani"
+  ],
+  "doi": "10.7759/cureus.83668",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "cobalamin",
+    "neurological sequelae",
+    "randomized controlled trials",
+    "systematic review",
+    "vitamin b12"
+  ],
+  "affiliations": [
+    "Internal Medicine, Maidstone Hospital, Maidstone, GBR.",
+    "Medicine, University Hospitals of North Midlands NHS Trust, Stoke on Trent, GBR.",
+    "Internal Medicine, Noble's Hospital, Douglas, IMN.",
+    "Neurology, Sheikh Jaber Al-Ahmad Al-Sabah Hospital, Kuwait City, KWT.",
+    "Internal Medicine, King Abdulaziz Medical City, Riyadh, SAU.",
+    "Internal Medicine/Neurology, Omdurman Teaching Hospital, Omdurman, SDN."
+  ]
+}

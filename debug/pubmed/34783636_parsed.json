@@ -1,0 +1,52 @@
+{
+  "pmid": "34783636",
+  "title": "A comparison between virus- versus patients-centred therapeutic attempts to reduce COVID-19 mortality.",
+  "abstract": "Since December 2019, coronavirus disease 2019 (COVID-19), caused by infection with severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), has changed our lives. Elderly and those with comorbidities represent the vast majority of patients hospitalized with severe COVID-19 symptoms, including acute respiratory disease syndrome and cardiac dysfunction. Despite a huge effort of the scientific community, improved treatment modalities limiting the severity and mortality of hospitalized COVID-19 patients are still required. Here, we compare the effectiveness of virus- and patients-centred strategies to reduce COVID-19 mortality. We also discuss the therapeutic options that might further reduce death rates associated with the disease in the future. Unexpectedly, extensive review of the literature suggests that SARS-CoV-2 viral load seems to be associated neither with the severity of symptoms nor with mortality of hospitalized patients with COVID-19. This may explain why, so far, virus-centred strategies using antivirals aiming to inhibit the viral replicative machinery have failed to reduce COVID-19 mortality in patients with respiratory failure. By contrast, anti-inflammatory treatments without antiviral capacities but centred on patients, such as dexamethasone or Tocilizumab®, reduce COVID-19 mortality. Finally, since the spike protein of SARS-CoV-2 binds to angiotensin converting enzyme 2 and inhibits its function, we explore the different treatment options focussing on rebalancing the renin-angiotensin system. This new therapeutic strategy could hopefully further reduce the severity of respiratory failure and limit COVID-19 mortality in elderly patients.",
+  "year": 2021,
+  "journal": "Emerging microbes & infections",
+  "authors": [
+    "Serge Camelo",
+    "Mathilde Latil",
+    "Sam Agus",
+    "Waly Dioh",
+    "Stanislas Veillet",
+    "René Lafont",
+    "Pierre J Dilda"
+  ],
+  "doi": "10.1080/22221751.2021.2006579",
+  "publication_types": [
+    "Comparative Study",
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Angiotensin-Converting Enzyme 2",
+    "Angiotensin-Converting Enzyme Inhibitors",
+    "Anti-Inflammatory Agents",
+    "Antiviral Agents",
+    "COVID-19",
+    "Humans",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "ACE2",
+    "COVID-19",
+    "Tocilizumab",
+    "aging",
+    "antivirals",
+    "dexamethasone",
+    "mas receptor",
+    "renin-angiotensin system"
+  ],
+  "affiliations": [
+    "Biophytis, Sorbonne Université, Paris, France.",
+    "Biophytis, Sorbonne Université, Paris, France.",
+    "Biophytis Inc., Cambridge, MA, USA.",
+    "Biophytis, Sorbonne Université, Paris, France.",
+    "Biophytis, Sorbonne Université, Paris, France.",
+    "Biophytis, Sorbonne Université, Paris, France.",
+    "CNRS - Institut de Biologie Paris Seine (BIOSIPE), Sorbonne Université, Paris, France.",
+    "Biophytis, Sorbonne Université, Paris, France."
+  ]
+}

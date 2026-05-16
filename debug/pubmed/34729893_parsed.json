@@ -1,0 +1,27 @@
+{
+  "pmid": "34729893",
+  "title": "Host-modifying drugs against COVID-19: some successes, but not yet the breakthrough.",
+  "abstract": "After reviewing antiviral drugs (Brüssow Environmental Microbiology 2021) the present review summarizes the results of clinical trials with host-modifying drugs in COVID-19 patients. Clinical benefits were observed with different immunomodulators. The variable outcomes of trials with the interleukin 6 receptor inhibitor tocilizumab demonstrated that treatment benefits might only be present in specific subgroups of patients or in specific infection stages. A meta-analysis of trials with the interleukin 1 receptor antagonist anakinra showed a survival benefit only in patients with hyperinflammation. The Janus kinase inhibitor baricitinib is an anti-inflammatory treatment that showed a clinical benefit in hospitalized patients who do not yet need supplementary oxygen. In contrast, the corticosteroid dexamethasone showed mortality reducing effects that were limited to patients on ventilation or in need of supplementary oxygen. Therapeutic dose of anticoagulation met the criteria for inferiority in severe cases, but showed a small survival benefit in non-severe COVID-19 patients. Large trials with colchicine showed a small or no survival benefit. Azithromycin, an antibiotic with immunomodulatory activity, showed no effects in numerous clinical trials. The trials showed a clear need for new drugs instead of repurposed drugs and drugs that specifically target the SARS-CoV-2 virus or the pathology developing in COVID-19 patients.",
+  "year": 2021,
+  "journal": "Environmental microbiology",
+  "authors": [
+    "Harald Brüssow"
+  ],
+  "doi": "10.1111/1462-2920.15828",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Antiviral Agents",
+    "Clinical Trials as Topic",
+    "Humans",
+    "Meta-Analysis as Topic",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Biosystems, Laboratory of Gene Technology, KU Leuven, Leuven, Belgium."
+  ]
+}

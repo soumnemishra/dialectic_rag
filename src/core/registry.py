@@ -90,6 +90,40 @@ class ModelRegistry:
     _embedding_device_lock = Lock()
     
     @staticmethod
+    def _has_real_vertex_project() -> bool:
+        project = (settings.GOOGLE_CLOUD_PROJECT or "").strip()
+        return bool(project and project != "your-gcp-project-id")
+
+    @staticmethod
+    def _get_gemini_api_llm(
+        model: str,
+        temperature: float = 0.0,
+        json_mode: bool = False,
+        role: str = "smart",
+    ):
+        """Use Gemini Developer API through langchain-google-genai."""
+        from langchain_google_genai import ChatGoogleGenerativeAI
+
+        logger.info(
+            "LLM selected | backend=gemini role=%s model=%s temp=%.2f json=%s",
+            role,
+            model,
+            temperature,
+            json_mode,
+        )
+        extra_kwargs = {}
+        if json_mode:
+            extra_kwargs["response_mime_type"] = "application/json"
+        return ChatGoogleGenerativeAI(
+            model=model,
+            google_api_key=settings.GOOGLE_API_KEY,
+            temperature=temperature,
+            convert_system_message_to_human=True,
+            max_retries=settings.RETRY_MAX_ATTEMPTS,
+            **extra_kwargs,
+        )
+
+    @staticmethod
     def get_llm(temperature: float = 0.0, json_mode: bool = False):
         """Standard/Legacy accessor - proxies to Smart LLM."""
         return ModelRegistry.get_smart_llm(temperature, json_mode)
@@ -249,54 +283,46 @@ class ModelRegistry:
             return llm
 
         # Option 2: Force Vertex AI for heavy model when available
-        if settings.USE_GEMINI_HEAVY and settings.GOOGLE_CLOUD_PROJECT:
-            from langchain_google_vertexai import ChatVertexAI
-            logger.info(
-                "LLM selected | backend=vertex role=smart model=%s temp=%.2f json=%s project=%s location=%s",
-                settings.GEMINI_MODEL_HEAVY,
-                temperature,
-                json_mode,
-                settings.GOOGLE_CLOUD_PROJECT,
-                settings.GOOGLE_CLOUD_LOCATION,
-            )
-            extra_kwargs = {}
-            if json_mode:
-                extra_kwargs["model_kwargs"] = {
-                    "generation_config": {
-                        "response_mime_type": "application/json",
+        if settings.USE_GEMINI_HEAVY and ModelRegistry._has_real_vertex_project():
+            try:
+                from langchain_google_vertexai import ChatVertexAI
+
+                logger.info(
+                    "LLM selected | backend=vertex role=smart model=%s temp=%.2f json=%s project=%s location=%s",
+                    settings.GEMINI_MODEL_HEAVY,
+                    temperature,
+                    json_mode,
+                    settings.GOOGLE_CLOUD_PROJECT,
+                    settings.GOOGLE_CLOUD_LOCATION,
+                )
+                extra_kwargs = {}
+                if json_mode:
+                    extra_kwargs["model_kwargs"] = {
+                        "generation_config": {
+                            "response_mime_type": "application/json",
+                        }
                     }
-                }
-            return ChatVertexAI(
-                model_name=settings.GEMINI_MODEL_HEAVY,
-                project=settings.GOOGLE_CLOUD_PROJECT,
-                location=settings.GOOGLE_CLOUD_LOCATION,
-                temperature=temperature,
-                **extra_kwargs,
-            )
-            with ModelRegistry._smart_llm_lock:
-                ModelRegistry._smart_llm_cache[cache_key] = llm
-            return llm
+                llm = ChatVertexAI(
+                    model_name=settings.GEMINI_MODEL_HEAVY,
+                    project=settings.GOOGLE_CLOUD_PROJECT,
+                    location=settings.GOOGLE_CLOUD_LOCATION,
+                    temperature=temperature,
+                    **extra_kwargs,
+                )
+                with ModelRegistry._smart_llm_lock:
+                    ModelRegistry._smart_llm_cache[cache_key] = llm
+                return llm
+            except ImportError:
+                logger.warning(
+                    "langchain_google_vertexai is not installed; falling back to Gemini Developer API."
+                )
         
         # Option 3: Use Gemini (API)
-        from langchain_google_genai import ChatGoogleGenerativeAI
-        logger.info(
-            "LLM selected | backend=gemini role=smart model=%s temp=%.2f json=%s",
+        llm = ModelRegistry._get_gemini_api_llm(
             settings.GEMINI_MODEL_HEAVY,
             temperature,
             json_mode,
-        )
-        extra_kwargs = {}
-        if json_mode:
-            extra_kwargs["model_kwargs"] = {
-                "response_mime_type": "application/json",
-            }
-        return ChatGoogleGenerativeAI(
-            model=settings.GEMINI_MODEL_HEAVY,
-            google_api_key=settings.GOOGLE_API_KEY,
-            temperature=temperature,
-            convert_system_message_to_human=True,
-            max_retries=settings.RETRY_MAX_ATTEMPTS,
-            **extra_kwargs,
+            role="smart",
         )
         with ModelRegistry._smart_llm_lock:
             ModelRegistry._smart_llm_cache[cache_key] = llm
@@ -314,43 +340,37 @@ class ModelRegistry:
 
         if use_light:
                 # Prefer Vertex AI when a GCP project is configured (uses Vertex auth).
-                if getattr(settings, "GOOGLE_CLOUD_PROJECT", None):
-                    from langchain_google_vertexai import ChatVertexAI
-                    logger.info(
-                        "LLM selected | backend=vertex role=fast model=%s temp=%.2f json=%s",
-                        settings.GEMINI_MODEL_LIGHT,
-                        temperature,
-                        json_mode,
-                    )
-                    extra_kwargs = {}
-                    if json_mode:
-                        extra_kwargs["model_kwargs"] = {"generation_config": {"response_mime_type": "application/json"}}
-                    return ChatVertexAI(
-                        model_name=settings.GEMINI_MODEL_LIGHT,
-                        project=settings.GOOGLE_CLOUD_PROJECT,
-                        location=settings.GOOGLE_CLOUD_LOCATION,
-                        temperature=temperature,
-                        **extra_kwargs,
-                    )
+                if ModelRegistry._has_real_vertex_project():
+                    try:
+                        from langchain_google_vertexai import ChatVertexAI
+
+                        logger.info(
+                            "LLM selected | backend=vertex role=fast model=%s temp=%.2f json=%s",
+                            settings.GEMINI_MODEL_LIGHT,
+                            temperature,
+                            json_mode,
+                        )
+                        extra_kwargs = {}
+                        if json_mode:
+                            extra_kwargs["model_kwargs"] = {"generation_config": {"response_mime_type": "application/json"}}
+                        return ChatVertexAI(
+                            model_name=settings.GEMINI_MODEL_LIGHT,
+                            project=settings.GOOGLE_CLOUD_PROJECT,
+                            location=settings.GOOGLE_CLOUD_LOCATION,
+                            temperature=temperature,
+                            **extra_kwargs,
+                        )
+                    except ImportError:
+                        logger.warning(
+                            "langchain_google_vertexai is not installed; falling back to Gemini Developer API."
+                        )
 
                 # Fallback to Gemini Developer API (requires GOOGLE_API_KEY).
-                from langchain_google_genai import ChatGoogleGenerativeAI
-                logger.info(
-                    "LLM selected | backend=gemini role=fast model=%s temp=%.2f json=%s",
+                return ModelRegistry._get_gemini_api_llm(
                     settings.GEMINI_MODEL_LIGHT,
                     temperature,
                     json_mode,
-                )
-                extra_kwargs = {}
-                if json_mode:
-                    extra_kwargs["model_kwargs"] = {"response_mime_type": "application/json"}
-                return ChatGoogleGenerativeAI(
-                    model=settings.GEMINI_MODEL_LIGHT,
-                    google_api_key=settings.GOOGLE_API_KEY,
-                    temperature=temperature,
-                    convert_system_message_to_human=True,
-                    max_retries=settings.RETRY_MAX_ATTEMPTS,
-                    **extra_kwargs,
+                    role="fast",
                 )
 
         return ModelRegistry.get_smart_llm(temperature, json_mode)

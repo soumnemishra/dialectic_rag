@@ -1,0 +1,43 @@
+{
+  "pmid": "34674158",
+  "title": "Increased risk of death in COVID-19 hospital admissions during the second wave as compared to the first epidemic wave: a prospective, single-centre cohort study in London, UK.",
+  "abstract": "BACKGROUND: The second coronavirus disease (COVID-19) epidemic wave in the UK progressed aggressively and was characterised by the emergence and circulation of variant of concern alpha (VOC 202012/01). The impact of this variant on in-hospital COVID-19-specific mortality has not been widely studied. We aimed to compare mortality, clinical characteristics, and management of COVID-19 patients across epidemic waves to better understand the progression of the epidemic at a hospital level and support resource planning. METHODS: We conducted an analytical, dynamic cohort study in a large hospital in South London. We included all adults (≥ 18 years) with confirmed severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) who required hospital admission to COVID-19-specific wards between January 2020 and March 2021 (n = 2701). Outcome was COVID-19-specific in-hospital mortality ascertained through Medical Certificate Cause of Death. RESULTS: In the second wave, the number of COVID-19 admissions doubled, and the crude mortality rate dropped 25% (1.66 versus 2.23 per 100 person-days in second and first wave, respectively). After accounting for age, sex, dexamethasone, oxygen requirements, symptoms at admission and Charlson Comorbidity Index, mortality hazard ratio associated with COVID-19 admissions was 1.62 (95% CI 1.26, 2.08) times higher in the second wave. CONCLUSIONS: Although crude mortality rates dropped during the second wave, the multivariable analysis suggests a higher underlying risk of death for COVID-19 admissions in the second wave. These findings are ecologically correlated with an increased circulation of SARS-CoV-2 variant of concern 202012/1 (alpha). Availability of improved management, particularly dexamethasone, was important in reducing risk of death.",
+  "year": 2022,
+  "journal": "Infection",
+  "authors": [
+    "Martina Cusinato",
+    "Jessica Gates",
+    "Danyal Jajbhay",
+    "Timothy Planche",
+    "Yee Ean Ong"
+  ],
+  "doi": "10.1007/s15010-021-01719-1",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "COVID-19",
+    "Cohort Studies",
+    "Hospitals",
+    "Humans",
+    "London",
+    "Prospective Studies",
+    "SARS-CoV-2"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Epidemiology",
+    "Hospital mortality",
+    "SARS-CoV-2",
+    "SARS-CoV-2 variants"
+  ],
+  "affiliations": [
+    "Institute for Infection and Immunity, St. George's University of London, London, UK. mcusinat@sgul.ac.uk.",
+    "Department of Respiratory Medicine, St. George's University Hospitals NHS Foundation Trust, London, UK.",
+    "Department of Respiratory Medicine, St. George's University Hospitals NHS Foundation Trust, London, UK.",
+    "Institute for Infection and Immunity, St. George's University of London, London, UK.",
+    "Department of Respiratory Medicine, St. George's University Hospitals NHS Foundation Trust, London, UK.",
+    "Institute of Medical and Biomedical Education, St. George's University of London, London, UK."
+  ]
+}

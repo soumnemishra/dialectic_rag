@@ -5,19 +5,6 @@ from pydantic import BaseModel, Field
 from .schemas import PICO, EvidenceItem, EpistemicResult
 from .enums import EpistemicState
 
-def deduplicate_evidence(x: List[EvidenceItem], y: List[EvidenceItem]) -> List[EvidenceItem]:
-    """Reducer that appends lists and deduplicates by PMID to support iterative agent loops."""
-    combined = x + y
-    seen_pmids = set()
-    unique = []
-    for item in combined:
-        # Handle both EvidenceItem objects and dictionaries
-        pmid = str(getattr(item, "pmid", "") or (item.get("pmid", "") if isinstance(item, dict) else ""))
-        if pmid not in seen_pmids:
-            unique.append(item)
-            seen_pmids.add(pmid)
-    return unique
-
 class GraphState(TypedDict):
     """
     Master shared state for the Publishable Epistemic RAG Pipeline.
@@ -30,8 +17,8 @@ class GraphState(TypedDict):
     pico: Optional[PICO]
     
     # -- Evidence Pool --
-    # Uses deduplication reducer to enable multi-step retrieval (Hardening v2)
-    evidence_pool: Annotated[List[EvidenceItem], deduplicate_evidence]
+    # Explicitly enforce replacement of the list to avoid concatenation bugs
+    evidence_pool: Annotated[List[EvidenceItem], lambda x, y: y]
     
     # -- Contrastive Retrieval --
     retrieved_docs: Dict[str, List[Dict]]

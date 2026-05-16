@@ -1,0 +1,42 @@
+{
+  "pmid": "27446930",
+  "title": "Biomarkers and Algorithms for the Diagnosis of Vitamin B12 Deficiency.",
+  "abstract": "Vitamin B12 (cobalamin, Cbl, B12) is an indispensable water-soluble micronutrient that serves as a coenzyme for cytosolic methionine synthase (MS) and mitochondrial methylmalonyl-CoA mutase (MCM). Deficiency of Cbl, whether nutritional or due to inborn errors of Cbl metabolism, inactivate MS and MCM leading to the accumulation of homocysteine (Hcy) and methylmalonic acid (MMA), respectively. In conjunction with total B12 and its bioactive protein-bound form, holo-transcobalamin (holo-TC), Hcy, and MMA are the preferred serum biomarkers utilized to determine B12 status. Clinically, vitamin B12 deficiency leads to neurological deterioration and megaloblastic anemia, and, if left untreated, to death. Subclinical vitamin B12 deficiency (usually defined as a total serum B12 of <200 pmol/L) presents asymptomatically or with rather subtle generic symptoms that oftentimes are mistakenly ascribed to unrelated disorders. Numerous studies have now established that serum vitamin B12 has limited diagnostic value as a stand-alone marker. Low serum levels of vitamin B12 not always represent deficiency, and likewise, severe functional deficiency of the micronutrient has been documented in the presence of normal and even high levels of serum vitamin B12. This review discusses the usefulness and limitations of current biomarkers of B12 status in newborn screening, infant and adult diagnostics, the algorithms utilized to diagnose B12 deficiency and unusual findings of vitamin B12 status in various human disorders.",
+  "year": 2016,
+  "journal": "Frontiers in molecular biosciences",
+  "authors": [
+    "Luciana Hannibal",
+    "Vegard Lysne",
+    "Anne-Lise Bjørke-Monsen",
+    "Sidney Behringer",
+    "Sarah C Grünert",
+    "Ute Spiekerkoetter",
+    "Donald W Jacobsen",
+    "Henk J Blom"
+  ],
+  "doi": "10.3389/fmolb.2016.00027",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "cobalamin",
+    "diagnostic algorithm",
+    "functional deficiency of B12",
+    "holo-transcobalamin",
+    "homocysteine",
+    "methylmalonic acid",
+    "vitamin B12"
+  ],
+  "affiliations": [
+    "Laboratory of Clinical Biochemistry and Metabolism, Department for Pediatrics, Medical Center, University of Freiburg Freiburg, Germany.",
+    "Department of Clinical Sciences, University of Bergen Bergen, Norway.",
+    "Department of Clinical Biochemistry, Haukeland University Hospital Bergen, Norway.",
+    "Laboratory of Clinical Biochemistry and Metabolism, Department for Pediatrics, Medical Center, University of Freiburg Freiburg, Germany.",
+    "Laboratory of Clinical Biochemistry and Metabolism, Department for Pediatrics, Medical Center, University of Freiburg Freiburg, Germany.",
+    "Laboratory of Clinical Biochemistry and Metabolism, Department for Pediatrics, Medical Center, University of Freiburg Freiburg, Germany.",
+    "Department of Cellular and Molecular Medicine, Lerner Research Institute, Cleveland Clinic Cleveland, OH, USA.",
+    "Laboratory of Clinical Biochemistry and Metabolism, Department for Pediatrics, Medical Center, University of Freiburg Freiburg, Germany."
+  ]
+}

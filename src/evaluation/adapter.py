@@ -6,7 +6,7 @@ import logging
 
 from src.graph.workflow import build_workflow
 from src.models.state import GraphState
-from src.config import settings
+from src.config import epistemic_settings, settings
 
 logger = logging.getLogger(__name__)
 
@@ -47,17 +47,40 @@ class MaRagAdapter:
             logger.info("QOR parsing successful. Separated vignette and options.")
             
         initial_state: GraphState = {
-            "original_question": f"{clinical_vignette}\n\nOptions:\n{mcq_options}" if mcq_options else clinical_vignette,
+            # QOR/ZSL policy: retrieval and PICO extraction receive only the
+            # question stem. MCQ options are kept separately for final MCE.
+            "original_question": clinical_vignette,
             "mcq_options": mcq_options,
+            "intent": None,
+            "risk_level": None,
+            "pico": None,
             "trace_id": str(uuid.uuid4()),
             "trace_created_at": datetime.utcnow().isoformat(),
             "trace_events": [],
             "evidence_pool": [],
             "retrieved_docs": {},
             "step_notes": [],
+            "claim_clusters": [],
+            "temporal_result": None,
+            "consensus_state": None,
+            "epistemic_result": None,
+            "abstention_rationale": None,
+            "candidate_answers": [],
             "candidate_answer": "UNKNOWN",
             "final_reasoning": "",
+            "abstention_triggered": False,
+            "extracted_claims": [],
+            "candidate_stances": {},
+            "fused_beliefs": {},
+            "temporal_shift": {},
+            "epistemic_state": None,
             "safety_flags": [],
+            "evaluation_policy": {
+                "zero_shot": True,
+                "question_only_retrieval": True,
+                "multi_choice_evaluation": True,
+                "options_visible_to_retrieval": False,
+            },
         }
         
         try:
@@ -87,12 +110,31 @@ class MaRagAdapter:
                 "belief_intervals": {"global": {"belief": belief}},
                 "trace_id": result.get("trace_id"),
                 "trace_events": result.get("trace_events", []),
+                "evaluation_policy": result.get("evaluation_policy", {}),
                 "eus_belief": {
                     "belief": belief,
                     "uncertainty": uncertainty,
                 },
                 "risk_level": result.get("risk_level", "unknown"),
                 "safety_flags": safety_flags,
+                "equation_config_snapshot": {
+                    "reproducibility": {
+                        "equation": "Eq. (1) RPS=wD*D+wS*S+wP*P+wR*R",
+                        "yaml": epistemic_settings.get("reproducibility", {}),
+                    },
+                    "applicability": {
+                        "equation": "Eq. (2)-(3) A=0.3+0.7*clamp(Araw,0,1)",
+                        "yaml": epistemic_settings.get("applicability", {}),
+                    },
+                    "conflict_analysis": {
+                        "equation": "Eq. (5) S=sum_i(s_i*w_i)/sum_i(w_i)",
+                        "yaml": epistemic_settings.get("conflict_analysis", {}),
+                    },
+                    "dempster_shafer": {
+                        "equation": "Eq. (6)-(10) evidence mass fusion and BetP(T)",
+                        "yaml": epistemic_settings.get("ds", {}),
+                    },
+                },
             }
 
 

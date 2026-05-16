@@ -1,0 +1,46 @@
+{
+  "pmid": "36223612",
+  "title": "Corticosteroid effectiveness among hospitalised COVID-19 patients in Malaysia.",
+  "abstract": "INTRODUCTION: Using steroids to manage hospitalised coronavirus disease 2019 (COVID-19) patients caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV2) infection has been shown to reduce the need for mechanical ventilation and mortality. To date, low-dose dexamethasone and methylprednisolone corticosteroids have been effective in reducing the infection's progress in hospitalised patients. However, it is unknown if high dosages of corticosteroids can achieve a better clinical outcome. This study aims to compare the clinical outcomes of hospitalised COVID-19 patients who are given a 10-day low-dose corticosteroid treatment (IV 2 mg/kg/day methylprednisolone loading dose (LD) then 0.25 mg/kg four times a day (q.i.d.)) with patients given a 10-day high-dose corticosteroid treatment (IV 20 mg dexamethasone once daily (o.d.) or a 1.5 mg/kg prednisolone tablet o.d.). METHODOLOGY: Retrospective data on hospitalised COVID-19 patients were collected for this study, and the primary outcome measure was the patients' clinical status based on the World Health Organization's (WHO) Ordinal Scale for Clinical Improvement (OSCI) on Day-5 and Day-10 post-steroid. RESULTS: The results demonstrated that using steroids significantly improved patients' clinical outcomes from a WHO OSCI level of 4 (0.1) on Day-1 to 2.6 (2.5) on Day-5 (p < 0.001). There was no significant difference in clinical outcome between low-dose and high-dose corticosteroid treatment on Day-5 (H = 2.15; p = 0.34) and Day-10 (H = 1.12; p = 0.58). CONCLUSIONS: This study concludes that using low-dose corticosteroids is recommended for hospitalised COVID-19 patients to ensure clinical outcomes are optimised.",
+  "year": 2022,
+  "journal": "Journal of infection in developing countries",
+  "authors": [
+    "Najma Kori",
+    "Farida Islahudin",
+    "Muhammad Yusuf Zawir Abd Rahim",
+    "Petrick Periyasamy",
+    "Noraida Mohamed Shah",
+    "Ernieda Md Hatah",
+    "Lau Chee Lan"
+  ],
+  "doi": "10.3855/jidc.16039",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adrenal Cortex Hormones",
+    "Dexamethasone",
+    "Humans",
+    "Malaysia",
+    "Methylprednisolone",
+    "RNA, Viral",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Coronavirus",
+    "corticosteroids",
+    "outcome"
+  ],
+  "affiliations": [
+    "Department of Medicine, Hospital Canselor Tuanku Muhriz, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia.",
+    "Quality Management of Medicines, Faculty of Pharmacy, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia. faridaislahudin@yahoo.com.",
+    "Department of Medicine, Hospital Canselor Tuanku Muhriz, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia.",
+    "Department of Medicine, Hospital Canselor Tuanku Muhriz, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia.",
+    "Quality Management of Medicines, Faculty of Pharmacy, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia.",
+    "Quality Management of Medicines, Faculty of Pharmacy, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia.",
+    "Department of Pharmacy, Hospital Canselor Tuanku Muhriz, Universiti Kebangsaan Malaysia, Kuala Lumpur, Malaysia."
+  ]
+}

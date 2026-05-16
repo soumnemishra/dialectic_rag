@@ -1,0 +1,36 @@
+{
+  "pmid": "1536353",
+  "title": "Birth weight and perinatal mortality: the effect of gestational age.",
+  "abstract": "BACKGROUND: The strong association between birth weight and perinatal mortality is due both to gestational age and to factors unrelated to gestational age. Conventional analysis obscures these separate contributions to perinatal mortality, and overemphasizes the role of birth weight. An alternative approach is used here to separate gestational age from other factors. METHODS: Data are from 400,000 singleton births in the Norwegian Medical Birth Registry. The method of Wilcox and Russell is used to distinguish the contributions to perinatal mortality made by gestational age and by relative birth weight at each gestational age. RESULTS: Gestational age is a powerful predictor of birth weight and perinatal survival. After these effects of gestational age are controlled for, relative birth weight retains a strong association with survival. CONCLUSIONS: Current public health policies in the United States emphasize the prevention of low birth weight. The present analysis suggests that the prevention of early delivery would benefit babies of all birth weights.",
+  "year": 1992,
+  "journal": "American journal of public health",
+  "authors": [
+    "A J Wilcox",
+    "R Skjaerven"
+  ],
+  "doi": "10.2105/ajph.82.3.378",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Birth Weight",
+    "Causality",
+    "Evaluation Studies as Topic",
+    "Female",
+    "Gestational Age",
+    "Humans",
+    "Infant Mortality",
+    "Infant, Low Birth Weight",
+    "Infant, Newborn",
+    "Models, Statistical",
+    "Normal Distribution",
+    "Obstetric Labor, Premature",
+    "Predictive Value of Tests",
+    "Pregnancy",
+    "Registries"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Epidemiology Branch, National Institute of Environmental Health Sciences, Research Triangle Park, NC 27709."
+  ]
+}

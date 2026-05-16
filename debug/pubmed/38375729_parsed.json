@@ -1,0 +1,36 @@
+{
+  "pmid": "38375729",
+  "title": "Effect of pulse methylprednisolone on prognosis in SARS-CoV-2 patients with severe pneumonia.",
+  "abstract": "OBJECTIVE: This study aimed to evaluate the effect of pulse methylprednisolone treatment on prognosis in severe COVID-19 pneumonia. PATIENTS AND METHODS: This retrospective cohort study included 128 patients hospitalized in our clinic for severe COVID-19 between March 2020 and February 2021. Standard treatment (plaquenil, favipravir, low molecular weight heparin, and antibiotics when necessary) was given to the patients in accordance with the Turkish Ministry of Health guidelines. After steroid treatment was included in the guidelines, dexamethasone 6 mg/day was administered along with standard treatment. In patients whose clinical condition did not improve despite this treatment, 250 mg/day methylprednisolone (pulse steroid therapy) was administered intravenous (i.v.) for 3 days, followed by a 40 mg/day maintenance dose. The group receiving methylprednisolone 250 mg/day for 3 days and the group receiving standard treatment without steroids were compared in terms of symptoms, comorbidities, laboratory and radiological findings, length of hospitalization, prognosis, intensive care unit (ICU) admission, and intubation. RESULTS: Of the 128 patients included in the study, 85 (66.4%) were male, and the mean age was 61.7 ± 13.2 years (min: 25; max: 88). A total of 50 (39.1%) patients were transferred to the ICU, while the number of intubated patients was 37 (28.9%). Pulse methylprednisolone treatment was given to 98 (76.6%) patients, compared to the 30 (23.4%) patients who received only standard treatment. In total, 37 patients (28.9%) died. The presence of comorbid diseases (34.3% vs. 1.5%, p = 0.012), advanced age (67.7 vs. 59.3, p = 0.001), and not receiving steroid treatment (p = 0.046) significantly increased mortality. The mortality rate was 24.4% (24/98 patients) in the steroid therapy group and 43.3% (13/30 patients) in patients not receiving steroid therapy, and the difference was statistically significant (p = 0.046). Pulse steroid therapy also significantly decreased the rate of intubation (p = 0.014) and ICU admission (p = 0.007). In the logistic regression analysis that included comorbidity, advanced age, and pulse steroid therapy, advanced age (p = 0.022) and pulse steroid therapy (p = 0.048) were found to be effective independent variables of mortality. CONCLUSIONS: The results showed that pulse i.v. methylprednisolone significantly reduced mortality in severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) patients with severe pneumonia requiring hospitalization, in addition to significantly reducing the need for intensive care and intubation. In SARS-CoV-2 patients with severe pneumonia, pulse i.v. methylprednisolone may be useful as a standard treatment in patients who do not respond to dexamethasone.",
+  "year": 2024,
+  "journal": "European review for medical and pharmacological sciences",
+  "authors": [
+    "B Z Eraslan",
+    "A Fidan",
+    "T Baysal",
+    "S S Cömert",
+    "N Kıral",
+    "E T Parmaksız"
+  ],
+  "doi": "10.26355/eurrev_202402_35362",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Aged",
+    "Female",
+    "SARS-CoV-2",
+    "COVID-19",
+    "Methylprednisolone",
+    "Retrospective Studies",
+    "Prognosis",
+    "Dexamethasone"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Chest Diseases, University of Health Sciences Kartal Dr. Lütfi Kırdar City Hospital, Istanbul, Turkey. berzinbalta@yahoo.com."
+  ]
+}

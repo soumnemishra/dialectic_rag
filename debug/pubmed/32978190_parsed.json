@@ -1,0 +1,55 @@
+{
+  "pmid": "32978190",
+  "title": "Impact of regionalisation and case-volume on neonatal and perinatal mortality: an umbrella review.",
+  "abstract": "OBJECTIVE: This umbrella review summarises and critically appraises the evidence on the effects of regulated or high-volume perinatal care on outcome among very low birth weight/very preterm infants born in countries with neonatal mortality <5/1000 births. INTERVENTION/EXPOSITION: Perinatal regionalisation, centralisation, case-volume. PRIMARY OUTCOMES: Death. SECONDARY OUTCOMES: Disability, discomfort, disease, dissatisfaction. METHODS: On 29 November 2019 a systematic search in MEDLINE and Embase was performed and supplemented by hand search. Relevant systematic reviews (SRs) were critically appraised with A MeaSurement Tool to Assess systematic Reviews 2. RESULTS: The literature search revealed 508 hits and three SRs were included. Effects of perinatal regionalisation were assessed in three (34 studies) and case-volume in one SR (6 studies). Centralisation has not been evaluated. The included SRs reported effects on 'death' (eg, neonatal), 'disability' (eg, mental status), 'discomfort' (eg, maternal sensitivity) and 'disease' (eg, intraventricular haemorrhages). 'Dissatisfactions' were not reported. The critical appraisal showed a heterogeneous quality ranging from moderate to critically low. A pooled effect estimate was reported once and showed a significant favour of perinatal regionalisation in terms of neonatal mortality (OR 1.60, 95% CI 1.33-1.92). The qualitative evidence synthesis of the two SRs without pooled estimate suggests superiority of perinatal regionalisation in terms of different mortality and non-mortality outcomes. In one SR, contradictory results of lower neonatal mortality rates were reported in hospitals with higher birth volumes. CONCLUSIONS: Regionalised perinatal care seems to be a crucial care strategy to improve the survival of very low birth weight and preterm births. To overcome the low and critically low methodological quality and to consider additional clinical and patient-reported results that were not addressed by the SRs included, we recommend an updated SR. In the long term, an international, uniformly conceived and defined perinatal database could help to provide evidence-based recommendations on optimal strategies to regionalise perinatal care. PROSPERO REGISTRATION NUMBER: CRD42018094835.",
+  "year": 2020,
+  "journal": "BMJ open",
+  "authors": [
+    "Felix Walther",
+    "Denise Bianca Küster",
+    "Anja Bieber",
+    "Mario Rüdiger",
+    "Jürgen Malzahn",
+    "Jochen Schmitt",
+    "Stefanie Deckert"
+  ],
+  "doi": "10.1136/bmjopen-2020-037135",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Dietary Supplements",
+    "Female",
+    "Hospitals",
+    "Humans",
+    "Infant",
+    "Infant Mortality",
+    "Infant, Newborn",
+    "Infant, Premature",
+    "Perinatal Mortality",
+    "Pregnancy"
+  ],
+  "keywords": [
+    "health policy",
+    "neonatal intensive & critical care",
+    "neonatology",
+    "paediatric intensive & critical care",
+    "quality in health care",
+    "risk management"
+  ],
+  "affiliations": [
+    "Center for Evidence-based Healthcare, TU Dresden Faculty of Medicine Carl Gustav Carus, Dresden, Germany.",
+    "Quality and Medical Risk Management, University Hospital Carl Gustav Carus, Dresden, Germany.",
+    "Center for Evidence-based Healthcare, TU Dresden Faculty of Medicine Carl Gustav Carus, Dresden, Germany.",
+    "Center for Evidence-based Healthcare, TU Dresden Faculty of Medicine Carl Gustav Carus, Dresden, Germany.",
+    "Institute of Health and Nursing Science, Martin Luther-Universitat Halle-Wittenberg, Halle, Germany.",
+    "Department for Neonatology and Pediatric Intensive Care, University Hospital Carl Gustav Carus, Dresden, Germany.",
+    "Saxony Center for Feto-Neonatal Health, TU Dresden Faculty of Medicine Carl Gustav Carus, Dresden, Germany.",
+    "Clinical Care, Federation of Local Health Insurance Funds, Berlin, Germany.",
+    "Center for Evidence-based Healthcare, TU Dresden Faculty of Medicine Carl Gustav Carus, Dresden, Germany.",
+    "Saxony Center for Feto-Neonatal Health, TU Dresden Faculty of Medicine Carl Gustav Carus, Dresden, Germany.",
+    "Center for Evidence-based Healthcare, TU Dresden Faculty of Medicine Carl Gustav Carus, Dresden, Germany stefanie.deckert@uniklinikum-dresden.de."
+  ]
+}

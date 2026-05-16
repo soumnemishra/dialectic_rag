@@ -1,0 +1,45 @@
+{
+  "pmid": "38432039",
+  "title": "Corticosteroid in non-COVID-19 induced community-acquired pneumonia, a meta-analysis.",
+  "abstract": "BACKGROUND: Corticosteroid treatment in non-COVID-19 induced Community-acquired pneumonia (CAP) remains inconclusive. OBJECTIVES: We aimed to assess the role of corticosteroid treatment in CAP. METHODS: We conducted a comprehensive search of online databases, including PubMed, Embase, and Cochrane, to identify articles published from January 1, 2000, to May 5, 2023. Double-blind RCTs were selected. Two authors screened studies and extracted data. The evidence was assessed using the Grading of Recommendations Assessment, Development, and Evaluation approach. RESULTS: We analyzed data from 12 RCTs, involving 2446 patients. Corticosteroids therapy may reduce short-term mortality in patients with severe CAP (sCAP) and shorten the hospital length of stay in patients with CAP. Furthermore, corticosteroids treatment can decrease the risk of requiring mechanical ventilation, developing septic shock and multiple organ dysfunction syndrome (MODS). There were no significant differences between the corticosteroid and control groups concerning gastrointestinal bleeding and nosocomial infection. The use of corticosteroids could increase the risk of hyperglycemia. CONCLUSION: Corticosteroid treatment for sCAP has the potential to provide benefits in reducing short-term mortality, but this conclusion necessitates more evidence. Besides, we found no evidence that strongly prevents us from using corticosteroids in patients with sCAP or those at risk of progressing to sCAP.",
+  "year": 2024,
+  "journal": "Heart & lung : the journal of critical care",
+  "authors": [
+    "Jian Liu",
+    "Yongquan Dong",
+    "Jia Chen",
+    "Yuqing Jin",
+    "Yunqing Qiu",
+    "Lingtong Huang"
+  ],
+  "doi": "10.1016/j.hrtlng.2024.02.004",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Community-Acquired Infections",
+    "Adrenal Cortex Hormones",
+    "Pneumonia",
+    "COVID-19"
+  ],
+  "keywords": [
+    "Community-acquired pneumonia",
+    "Corticosteroid",
+    "Dexamethasone",
+    "Hydrocortisone",
+    "Methylprednisolone",
+    "Severe community-acquired pneumonia"
+  ],
+  "affiliations": [
+    "Department of Critical Care Medicine, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China. Electronic address: 1516050@zju.edu.cn.",
+    "Department of Respiratory Disease, YinZhou Second Hospital, Ningbo, Zhejiang, China.",
+    "Research Center for Healthcare Data Science, Zhejiang Lab, Hangzhou, Zhejiang, China.",
+    "Research Center for Healthcare Data Science, Zhejiang Lab, Hangzhou, Zhejiang, China.",
+    "Zhejiang Provincial Key Laboratory for Drug Clinical Research and Evaluation, Department of Clinical Pharmacy, the First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China.",
+    "Department of Critical Care Medicine, The First Affiliated Hospital, College of Medicine, Zhejiang University, Hangzhou, Zhejiang, China. Electronic address: lingtonghuang@zju.edu.cn."
+  ]
+}

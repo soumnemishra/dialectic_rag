@@ -1,0 +1,39 @@
+{
+  "pmid": "25927101",
+  "title": "Zinc supplementation for improving pregnancy and infant outcome.",
+  "abstract": "BACKGROUND: It has been suggested that low serum zinc levels may be associated with suboptimal outcomes of pregnancy such as prolonged labour, atonic postpartum haemorrhage, pregnancy-induced hypertension, preterm labour and post-term pregnancies, although many of these associations have not yet been established. OBJECTIVES: To assess the effects of zinc supplementation in pregnancy on maternal, fetal, neonatal and infant outcomes. SEARCH METHODS: We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 October 2014) and reference lists of retrieved studies. SELECTION CRITERIA: Randomised trials of zinc supplementation in pregnancy. We excluded quasi-randomised controlled trials. DATA COLLECTION AND ANALYSIS: Three review authors applied the study selection criteria, assessed trial quality and extracted data. When necessary, we contacted study authors for additional information. The quality of the evidence was assessed using GRADE. MAIN RESULTS: We included 21 randomised controlled trials (RCTs) reported in 54 papers involving over 17,000 women and their babies. One trial did not contribute data. Trials were generally at low risk of bias. Zinc supplementation resulted in a small reduction in preterm birth (risk ratio (RR) 0.86, 95% confidence interval (CI) 0.76 to 0.97 in 16 RCTs; 16 trials of 7637 women). This was not accompanied by a similar reduction in numbers of babies with low birthweight (RR 0.93, 95% CI 0.78 to 1.12; 14 trials of 5643 women). No clear differences were seen between the zinc and no zinc groups for any of the other primary maternal or neonatal outcomes, except for induction of labour in a single trial. No differing patterns were evident in the subgroups of women with low versus normal zinc and nutrition levels or in women who complied with their treatment versus those who did not. The GRADE quality of the evidence was moderate for preterm birth, small-for-gestational age, and low birthweight, and low for stillbirth or neonatal death and birthweight. AUTHORS' CONCLUSIONS: The evidence for a 14% relative reduction in preterm birth for zinc compared with placebo was primarily represented by trials involving women of low income and this has some relevance in areas of high perinatal mortality. There was no convincing evidence that zinc supplementation during pregnancy results in other useful and important benefits. Since the preterm association could well reflect poor nutrition, studies to address ways of improving the overall nutritional status of populations in impoverished areas, rather than focusing on micronutrient and or zinc supplementation in isolation, should be an urgent priority.",
+  "year": 2015,
+  "journal": "The Cochrane database of systematic reviews",
+  "authors": [
+    "Erika Ota",
+    "Rintaro Mori",
+    "Philippa Middleton",
+    "Ruoyan Tobe-Gai",
+    "Kassam Mahomed",
+    "Celine Miyazaki",
+    "Zulfiqar A Bhutta"
+  ],
+  "doi": "10.1002/14651858.CD000230.pub5",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Dietary Supplements",
+    "Female",
+    "Humans",
+    "Infant, Low Birth Weight",
+    "Infant, Newborn",
+    "Pregnancy",
+    "Pregnancy Outcome",
+    "Premature Birth",
+    "Randomized Controlled Trials as Topic",
+    "Zinc"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Health Policy, National Center for Child Health and Development, 2-10-1 Okura, Setagaya-ku, Tokyo, Japan, 157-8535."
+  ]
+}

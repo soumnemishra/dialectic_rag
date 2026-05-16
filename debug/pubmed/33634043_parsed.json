@@ -1,0 +1,32 @@
+{
+  "pmid": "33634043",
+  "title": "An updated systematic review and network meta-analysis of 25 randomized trials assessing the efficacy and safety of treatments in COVID-19 disease.",
+  "abstract": "To date, there is no definite effective treatment for the COVID- 19 pandemic. We performed an update network meta-analysis to compare and rank COVID-19 treatments according to their efficacy and safety. Literature search was performed from MEDLINE and CENTRAL databases from inception to September 5, 2020. Randomized clinical trials (RCTs) which compared the effect of any pharmacological drugs versus standard care or placebo 28-day after hospitalization in adult patients with COVID-19 disease were included. Risk ratio (RR) and 95% CI were calculated for 28-day all-cause mortality, clinical improvement, any adverse event (AEs), and viral clearance. A total of 25 RCTs, evaluating 17 different treatments, and 11,597 participants were analyzed. Remdesivir for 10- day compared to standard care (RR 0.69, 95% CI [0.48-0.99]), and a low dose compared to a high dose of HCQ (0.38, [0.17-0.89]) were associated with a lower risk of death. A total of 2,766 patients experienced clinical improvement, a 5-day course of remdesivir was associated with a higher frequency of clinical improvement compared to standard care (RR 1.21, 95% CI [1.00-1.47]). Compared to standard care, remdesivir for both 5 and 10 days, lopinavir/ritonavir, and dexamethasone reduced the risk of any severe AEs by 52% (0.48, 0.34-0.67), 24% (0.77, 0.63-0.92), 40% (0.60, 0.37-0.98), and 50% (0.50, 0.25-0.98) respectively. In this study of hospitalized patients with COVID-19, administration of remdesivir for 10-day compared to standard care was associated with lower 28-day all-cause mortality and serious AEs, and higher clinical improvement rate.",
+  "year": 2021,
+  "journal": "Journal of public health research",
+  "authors": [
+    "Alhassane Diallo",
+    "Miguel Carlos-Bolumbu",
+    "Marie Traoré",
+    "Mamadou Hassimiou Diallo",
+    "Christophe Jedrecy"
+  ],
+  "doi": "10.4081/jphr.2021.1945",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "SARS-CoV-2",
+    "network meta-analysis",
+    "treatment"
+  ],
+  "affiliations": [
+    "INSERM, CIC 1411, CHU of Montpellier, St Eloi Hospital, University of Montpellier.",
+    "Urgences Réanimation Centre Hospitalier Sud Essonnes CHSE, Paris.",
+    "Service de Rhumatologie, APHP Henry Mondor, Paris.",
+    "Hôpitaux Universitaires Pitié Salpêtrière - Charles Foix, Unité de Recherche Clinique Salpêtrière - Charles Foix, Paris, France.",
+    "Urgences Réanimation Centre Hospitalier Sud Essonnes CHSE, Paris."
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "pmid": "38151772",
+  "title": "Cryo-EM structures of human DICER dicing a pre-miRNA substrate.",
+  "abstract": "Dicer, a multi-domain ribonuclease III (RNase III) protein, is crucial for gene regulation via RNA interference. It processes hairpin-like precursors into microRNAs (miRNAs) and long double-stranded RNAs (dsRNAs) into small interfering RNAs (siRNAs). During the \"dicing\" process, the miRNA or siRNA substrate is stably anchored and cleaved by Dicer's RNase III domain. Although numerous studies have investigated long dsRNA cleavage by Dicer, the specific mechanism by which human Dicer (hDICER) processes pre-miRNA remains unelucidated. This review introduces the recently revealed hDICER structure bound to pre-miRNA uncovered through cryo-electron microscopy and compares it with previous reports describing Dicer. The domain-wise movements of the helicase and dsRNA-binding domain (dsRBD) and specific residues involved in substrate sequence recognition have been identified. During RNA substrate binding, the hDICER apical domains and dsRBD recognize the pre-miRNA termini and cleavage site, respectively. Residue rearrangements in positively charged pockets within the apical domain influence substrate recognition and cleavage site determination. The specific interactions between dsRBD positively charged residues and nucleotide bases near the cleavage site emphasize the significance of cis-acting elements in the hDICER processing mechanism. These findings provide valuable insights for understanding hDICER-related diseases.",
+  "year": 2024,
+  "journal": "The FEBS journal",
+  "authors": [
+    "Hansol Lee",
+    "Soung-Hun Roh"
+  ],
+  "doi": "10.1111/febs.17048",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Ribonuclease III",
+    "Cryoelectron Microscopy",
+    "MicroRNAs",
+    "DEAD-box RNA Helicases",
+    "RNA, Double-Stranded",
+    "Models, Molecular",
+    "RNA Precursors",
+    "Substrate Specificity",
+    "Protein Domains",
+    "Protein Binding",
+    "Binding Sites"
+  ],
+  "keywords": [
+    "Dicer",
+    "GYM motif",
+    "RNA interference",
+    "RNA recognition",
+    "cryo‐electron microscopy",
+    "dsRNA‐binding domain",
+    "long dsRNA cleavage",
+    "miRNA",
+    "ribonuclease III",
+    "small interfering RNAs"
+  ],
+  "affiliations": [
+    "School of Biological Sciences, Seoul National University, Seoul, South Korea.",
+    "Institute of Molecular Biology and Genetics, Seoul National University, Seoul, South Korea.",
+    "School of Biological Sciences, Seoul National University, Seoul, South Korea.",
+    "Institute of Molecular Biology and Genetics, Seoul National University, Seoul, South Korea."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "35549854",
+  "title": "Automated medical chart review for breast cancer outcomes research: a novel natural language processing extraction system.",
+  "abstract": "BACKGROUND: Manually extracted data points from health records are collated on an institutional, provincial, and national level to facilitate clinical research. However, the labour-intensive clinical chart review process puts an increasing burden on healthcare system budgets. Therefore, an automated information extraction system is needed to ensure the timeliness and scalability of research data. METHODS: We used a dataset of 100 synoptic operative and 100 pathology reports, evenly split into 50 reports in training and test sets for each report type. The training set guided our development of a Natural Language Processing (NLP) extraction pipeline system, which accepts scanned images of operative and pathology reports. The system uses a combination of rule-based and transfer learning methods to extract numeric encodings from text. We also developed visualization tools to compare the manual and automated extractions. The code for this paper was made available on GitHub. RESULTS: A test set of 50 operative and 50 pathology reports were used to evaluate the extraction accuracies of the NLP pipeline. Gold standard, defined as manual extraction by expert reviewers, yielded accuracies of 90.5% for operative reports and 96.0% for pathology reports, while the NLP system achieved overall 91.9% (operative) and 95.4% (pathology) accuracy. The pipeline successfully extracted outcomes data pertinent to breast cancer tumor characteristics (e.g. presence of invasive carcinoma, size, histologic type), prognostic factors (e.g. number of lymph nodes with micro-metastases and macro-metastases, pathologic stage), and treatment-related variables (e.g. margins, neo-adjuvant treatment, surgical indication) with high accuracy. Out of the 48 variables across operative and pathology codebooks, NLP yielded 43 variables with F-scores of at least 0.90; in comparison, a trained human annotator yielded 44 variables with F-scores of at least 0.90. CONCLUSIONS: The NLP system achieves near-human-level accuracy in both operative and pathology reports using a minimal curated dataset. This system uniquely provides a robust solution for transparent, adaptable, and scalable automation of data extraction from patient health records. It may serve to advance breast cancer clinical research by facilitating collection of vast amounts of valuable health data at a population level.",
+  "year": 2022,
+  "journal": "BMC medical research methodology",
+  "authors": [
+    "Yifu Chen",
+    "Lucy Hao",
+    "Vito Z Zou",
+    "Zsuzsanna Hollander",
+    "Raymond T Ng",
+    "Kathryn V Isaac"
+  ],
+  "doi": "10.1186/s12874-022-01583-z",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Breast Neoplasms",
+    "Electronic Health Records",
+    "Female",
+    "Humans",
+    "Information Storage and Retrieval",
+    "Natural Language Processing",
+    "Outcome Assessment, Health Care",
+    "Research Report"
+  ],
+  "keywords": [
+    "Breast cancer",
+    "Health data",
+    "Natural language processing"
+  ],
+  "affiliations": [
+    "Department of Computer Science, University of British Columbia, Faculty of Science, 201-2366 Main Mall, Vancouver, BC, V6T 1Z4, Canada.",
+    "Prevention of Organ Failure (PROOF) Centre of Excellence, 1190 Hornby Street, Vancouver, BC, V6Z 2K5, Canada.",
+    "Department of Computer Science, University of British Columbia, Faculty of Science, 201-2366 Main Mall, Vancouver, BC, V6T 1Z4, Canada.",
+    "Prevention of Organ Failure (PROOF) Centre of Excellence, 1190 Hornby Street, Vancouver, BC, V6Z 2K5, Canada.",
+    "Department of Surgery, University of British Columbia, Faculty of Medicine, 2221 Wesbrook Mall, Vancouver, BC, V5Z 1M9, Canada.",
+    "Department of Computer Science, University of British Columbia, Faculty of Science, 201-2366 Main Mall, Vancouver, BC, V6T 1Z4, Canada.",
+    "Prevention of Organ Failure (PROOF) Centre of Excellence, 1190 Hornby Street, Vancouver, BC, V6Z 2K5, Canada.",
+    "Department of Computer Science, University of British Columbia, Faculty of Science, 201-2366 Main Mall, Vancouver, BC, V6T 1Z4, Canada.",
+    "Prevention of Organ Failure (PROOF) Centre of Excellence, 1190 Hornby Street, Vancouver, BC, V6Z 2K5, Canada.",
+    "Department of Surgery, University of British Columbia, Faculty of Medicine, 2221 Wesbrook Mall, Vancouver, BC, V5Z 1M9, Canada. kathryn.isaac@ubc.ca."
+  ]
+}

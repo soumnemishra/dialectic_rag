@@ -1,0 +1,46 @@
+{
+  "pmid": "32675396",
+  "title": "Expression of cancer stem cell markers in breast phyllodes tumor.",
+  "abstract": "BACKGROUND: Phyllodes tumor (PT) is a rare tumor showing various malignant potential. The histological grade of PT is related to clinical outcome, but its relationship between gaining of malignant potential and underlying mechanism including cancer stem cell factor was not understood yet. OBJECTIVE: The main purpose of this study was to determine the expression pattern of cancer stem cell marker in PT and to understand its clinical and pathological implications. METHODS: CD44, CD166, ALDH1, and Ki-67 immunohistochemistry were performed on a tissue microarray from 185 cases of PT specimens (138 benign, 32 borderline, 15 malignant). The immunohistochemistry result and clinicopathological parameter of each cases were compared to analyze the implications of cancer stem cell markers on PT. RESULTS: Borderline/malignant PT showed higher CD44 expression of the stromal component than benign PT (p< 0.001). In lower histologic grade PT, CD166 showed increased expression in the epithelial component (p= 0.019), but decreased in the stromal component (p< 0.001). Stromal overgrowth was rarely observed as the number of positive cancer stem cell markers increased in the epithelial component (p< 0.001). In the stromal component, the number of positive cancer stem cell markers was related to higher histologic grade (p< 0.001), and increased stromal cellularity (p< 0.001), stromal atypia (p= 0.003), and stromal mitosis (p= 0.002). In benign PT, CD44 negativity (p= 0.013) and a decreased number of positive cancer stem cell markers (p= 0.012) in the epithelial component were related to poor prognosis. CONCLUSIONS: The cancer stem cell markers, CD44 and CD166, are expressed in both the epithelial and stromal components of phyllodes tumor. Besides, ALDH1 is only expressed in stromal component. In the stromal component, expression of cancer stem cell markers increases with higher PT histologic grade. In the epithelial component, the absence of cancer stem cell marker expression is related to poor clinical prognosis.",
+  "year": 2020,
+  "journal": "Cancer biomarkers : section A of Disease markers",
+  "authors": [
+    "Sun Il Kim",
+    "Ja Seung Koo"
+  ],
+  "doi": "10.3233/CBM-191276",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Antigens, CD",
+    "Biomarkers, Tumor",
+    "Breast",
+    "Breast Neoplasms",
+    "Cell Adhesion Molecules, Neuronal",
+    "Disease-Free Survival",
+    "Female",
+    "Fetal Proteins",
+    "Follow-Up Studies",
+    "Humans",
+    "Hyaluronan Receptors",
+    "Mastectomy",
+    "Middle Aged",
+    "Neoplasm Grading",
+    "Neoplasm Recurrence, Local",
+    "Neoplastic Stem Cells",
+    "Phyllodes Tumor",
+    "Prognosis",
+    "Retinal Dehydrogenase",
+    "Tissue Array Analysis",
+    "Activated-Leukocyte Cell Adhesion Molecule"
+  ],
+  "keywords": [
+    "Breast",
+    "cancer stem cell",
+    "phyllodes tumor"
+  ],
+  "affiliations": []
+}

@@ -1,0 +1,33 @@
+{
+  "pmid": "35070258",
+  "title": "Real-world evidence of the use of glucocorticoids for severe COVID-19.",
+  "abstract": "INTRODUCTION: Currently, only glucocorticoids have proved to impact adverse outcomes in COVID-19. However, their risk/benefit balance remains inconclusive and populations' characteristics should be considered. OBJECTIVE: The objective was to evaluate the real-life use of glucocorticoids in patients with severe COVID-19 hospitalized in a third-level referral center and to determine the type, accumulated doses, and the in-hospital outcomes related with their use. METHODS: We evaluated a retrospective cohort of 737 patients with criteria for severe COVID-19 and a positive polymerase chain reaction (PCR) test for SARS-CoV-2. We extracted data for epidemiological analysis, medical history, and medications, as well as baseline laboratory tests. Data were analyzed using SPSS 21.0 and nonparametric tests, medians, and interquartile ranges (IQR). A p < 0.05 was considered significant. RESULTS: A total of 65.3% were men, with a median age of 59 years (IQR 46-70) and a median of 10 days of hospital stay (IQR 6-16), more than 40% had diabetes, hypertension, and/or obesity, and 0.8% used steroids chronically. At the time of the study, 54.0% had been discharged due to improvement and 40.8% died. The most common treatment used was dexamethasone 6 mg/day/10 days (46.6%). Patients with a complete dexamethasone scheme [as proposed by the Randomized Evaluation of COVID-19 Therapy (RECOVERY) study] had a lower mortality risk [hazard ratio (HR) 0.441, 95% confidence interval (CI) 0.232-0.840] in comparison with patients with lower doses (HR 1.803, 95% CI 1.080-3.012). Patients with methylprednisolone or several steroids tended to have higher cumulative doses (equivalent to >675 mg of prednisolone). CONCLUSION: The use of steroids in severe COVID-19 reduces mortality only at the dose proposed in the RECOVERY study in the younger population. No benefit of the use of steroids was observed in patients with older age or higher number of comorbidities.",
+  "year": 2022,
+  "journal": "Therapeutic advances in endocrinology and metabolism",
+  "authors": [
+    "Alejandra Albarrán-Sánchez",
+    "Claudia Ramírez-Rentería",
+    "Moisés Mercado",
+    "Miriam Sánchez-García",
+    "Corazón de Jesús Barrientos-Flores",
+    "Aldo Ferreira-Hermosillo"
+  ],
+  "doi": "10.1177/20420188211072704",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "SARS-CoV-2",
+    "dexamethasone",
+    "therapeutics"
+  ],
+  "affiliations": [
+    "Internal Medicine Department, Hospital de Especialidades Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Ciudad de México, México.",
+    "Unidad de Investigación Médica en Enfermedades Endócrinas, Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Ciudad de México, México.",
+    "Unidad de Investigación Médica en Enfermedades Endócrinas, Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Ciudad de México, México.",
+    "Endocrinology Department, Hospital General de Zona #8, Instituto Mexicano del Seguro Social, Ciudad de México, México.",
+    "Internal Medicine Department, Hospital de Especialidades Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Ciudad de México, México.",
+    "Unidad de Investigación Médica en Enfermedades Endócrinas, Centro Medico Nacional Siglo XXI, Instituto Mexicano del Seguro Social, Cuauhtémoc 330, Col. Doctores, Delegación Cuauhtémoc, CP 06720 Ciudad de México, México."
+  ]
+}

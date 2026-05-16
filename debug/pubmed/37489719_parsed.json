@@ -1,0 +1,73 @@
+{
+  "pmid": "37489719",
+  "title": "A Comparison of the Effects of Dexamethasone and Methylprednisolone, Used on Level-3 Intensive Care COVID-19 Patients, on Mortality: A Multi-Center Retrospective Study.",
+  "abstract": "BACKGROUND: Coronavirus disease 2019 (COVID-19) is often a mild disease, usually manifesting with respiratory complaints, and is sometimes mortal due to multiple organ failure. Hyperinflammation is a known COVID-19 component and is associated with organ dysfunction, disease severity and mortality. Controlling hyperinflammatory response is crucial in determining treatment direction. An important agent in providing this control is corticosteroids. This study aimed to determine whether dexamethasone and methylprednisolone, doses, administration time and duration in COVID-19 treatment are associated with improved treatment outcomes. METHODS: This retrospective multicenter study was conducted with participation of 6 healthcare centers which collected data by retrospectively examining files of 1,340 patients admitted to intensive care unit due to COVID-19 between March 2020 and September 2021, diagnosed with polymerase chain reaction (+) and/or clinically and radiologically. RESULTS: Mortality in the pulse methylprednisolone group was statistically significantly higher than that in the other 3 groups. Mortality was higher in older patients with comorbidities such as hypertension, diabetes mellitus, chronic kidney failure, coronary artery disease, and dementia. Pulse and mini-pulse steroid doses were less effective than standard methylprednisolone and dexamethasone doses, pulse steroid doses being associated with high mortality. Standard-dose methylprednisolone and dexamethasone led to similar effects, but standard dose methylprednisolone was more effective in severe patients who required mechanical ventilation (MV). Infection development was related to steroid treatment duration, not cumulative steroid dose. CONCLUSION: Corticosteroids are shown to be beneficial in critical COVID-19, but the role of early corticosteroids in mild COVID-19 patients remains unclear. The anti-inflammatory effects of corticosteroids may have a positive effect by reducing mortality in severe COVID-19 patients. Although dexamethasone was first used for this purpose, methylprednisolone was found to be as effective at standard doses. Methylprednisolone administered at standard doses was associated with greater PaO2/FiO2 ratios than dexamethasone, especially in the severe group requiring MV. High dose pulse steroid doses are closely associated with mortality and standard methylprednisolone dose is recommended.",
+  "year": 2023,
+  "journal": "Journal of Korean medical science",
+  "authors": [
+    "Ahmet Sari",
+    "Osman Ekinci",
+    "Kemal Tolga Saraçoğlu",
+    "Recep Balık",
+    "Mesut Aslan",
+    "Yelda Balık",
+    "Ceren Önal",
+    "Murat Aslan",
+    "Semra Cevher",
+    "Aylin Parmaksız",
+    "Şeule Vatansever",
+    "Münire Canan Çicek",
+    "Özge Sayın Ayan",
+    "Gaye Şensöz Çelik",
+    "Açelya Toprak",
+    "Mehmet Yılmaz",
+    "Emine Yurt",
+    "Nurten Bakan",
+    "Selda Tekin",
+    "Esra Adıyeke"
+  ],
+  "doi": "10.3346/jkms.2023.38.e232",
+  "publication_types": [
+    "Multicenter Study",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Aged",
+    "Methylprednisolone",
+    "Retrospective Studies",
+    "COVID-19 Drug Treatment",
+    "COVID-19",
+    "Critical Care",
+    "Dexamethasone"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Dexamethasone",
+    "Intensive Care",
+    "Methylprednisolone",
+    "Secondary Infections"
+  ],
+  "affiliations": [
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Haydarpasa Numune Training and Research Hospital, Istanbul, Turkey. ahmet-0221@hotmail.com.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Haydarpasa Numune Training and Research Hospital, Istanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Kartal Dr. Lutfi Kırdar Training and Research Hospital, Istanbul, Turkey.",
+    "Department of İnfectious Diseases and Clinical Microbiology, Health Sciences University Haydarpasa Numune Training and Research Hospital, Istanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Haydarpasa Numune Training and Research Hospital, Istanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Haydarpasa Numune Training and Research Hospital, Istanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Kartal Dr. Lutfi Kırdar Training and Research Hospital, Istanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Bakırköy Dr. Sadi Konuk Training and Research Hospital, İstanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Bakırköy Dr. Sadi Konuk Training and Research Hospital, İstanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Bakırköy Dr. Sadi Konuk Training and Research Hospital, İstanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Prof. Dr. Cemil Taşcıoğlu City Hospital, İstanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Prof. Dr. Cemil Taşcıoğlu City Hospital, İstanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Prof. Dr. Cemil Taşcıoğlu City Hospital, İstanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Prof. Dr. Cemil Taşcıoğlu City Hospital, İstanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Prof. Dr. Cemil Taşcıoğlu City Hospital, İstanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Derince Training and Research Hospital, Kocaeli, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Health Sciences University Derince Training and Research Hospital, Kocaeli, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Sancaktepe Şehit Prof Dr Ilhan Varank Training and Research Hospital, İstanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Sancaktepe Şehit Prof Dr Ilhan Varank Training and Research Hospital, İstanbul, Turkey.",
+    "Department of Anesthesiology and Reanimation/Intensive Care, Sancaktepe Şehit Prof Dr Ilhan Varank Training and Research Hospital, İstanbul, Turkey."
+  ]
+}

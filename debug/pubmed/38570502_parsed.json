@@ -1,0 +1,26 @@
+{
+  "pmid": "38570502",
+  "title": "Reverse development of vaccines against antimicrobial-resistant pathogens.",
+  "abstract": "Vaccine R&D is typically a lengthy process taking >10 years. However, vaccines still fail in clinical development because of unreliable animal models or absent immunological correlates of protection. Without a correlate of protection, phase-1 and -2 studies of safety and immunogenicity can fail to predict phase-3 efficacy. Indeed, the history of vaccine development is replete with promising phase-1 and -2 results and failed phase-3 efficacy trials. To avoid this misfortune, we present Reverse Vaccine Development for vaccines against antimicrobial-resistant (AMR) pathogens. In this approach, instead of evaluating efficacy in phase 3, proof-of-principle efficacy is evaluated as early as possible in a population with a high incidence of disease, which may differ from the population intended for registration, and can be a controlled human infection population. To identify a correlate of protection in these populations, the vaccine-elicited immune response is compared between protected and unprotected subjects. If a correlate is identified, it can help to refine the vaccine dosage, schedule, and formulation, and facilitate the assessment of vaccine efficacy in other populations with different attack rates, subject characteristics, and disease manifestations. This may be the only way to provide life-saving vaccines to populations affected by AMR-pathogen diseases at incidences that are typically low and unsuited to phase-3 efficacy trials. The availability of a correlate of protection early in clinical development can potentially prevent failures of large phase-3 trials and unnecessary exposures of populations to inefficacious vaccines that have resulted in disinvestment in the development of vaccines against AMR pathogens.",
+  "year": 2024,
+  "journal": "NPJ vaccines",
+  "authors": [
+    "Fabio Bagnoli",
+    "Ilaria Galgani",
+    "V Kumaran Vadivelu",
+    "Sanjay Phogat"
+  ],
+  "doi": "10.1038/s41541-024-00858-4",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "keywords": [],
+  "affiliations": [
+    "GSK, Siena, Italy. fabio.x.bagnoli@gsk.com.",
+    "GSK, Siena, Italy.",
+    "GSK, Rockville, MD, USA.",
+    "GSK, Rockville, MD, USA."
+  ]
+}

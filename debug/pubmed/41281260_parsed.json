@@ -1,0 +1,43 @@
+{
+  "pmid": "41281260",
+  "title": "High-Dose Corticosteroids in Critically Ill COVID-19 Patients: A Retrospective Cohort Study from Suriname.",
+  "abstract": "BACKGROUND: High-dose corticosteroids (HDS) are established treatment for non-COVID-19 acute respiratory distress syndrome (ARDS) because of their anti-inflammatory effects. In COVID-19 patients requiring oxygen therapy or invasive mechanical ventilation, 6mg dexamethasone daily reduces mortality. In severe COVID-19 pneumonia, higher corticosteroid doses are sometimes administered in an attempt to reduce mortality. This study evaluated the effect of HDS compared to standard-dose dexamethasone on IC mortality and superinfection rates in Suriname. METHODS: This retrospective cohort study included patients with PCR-confirmed severe COVID-19 pneumonia admitted to ICUs in Suriname, between June 2020 and October 2021. Data was analyzed from a random sample of patients extracted from a larger database originally collected for another ICU COVID-19 study. Patients received standard-dose corticosteroids (SDS) and/or HDS (dexamethasone >6 mg daily or equivalent). Treatment with HDS was analyzed as a time-dependent exposure. Predictors of mortality were identified through logistic regression and incorporated as covariates in a time-updated Cox survival model. Chi-square test compared bacterial superinfections between treatment groups. RESULTS: Of 103 included patients, 36 (35%) received HDS. Invasive mechanical ventilation, septic shock, bacterial superinfection, creatinine elevation, age, CXR score, and P/F ratios were associated with mortality in univariable analysis. In multivariable analysis, only age (OR 1.10 per year, p=0.022) and invasive mechanical ventilation (OR 8.28, p=0.046) remained significant. Time-updated survival analysis showed no significant harm or benefit with HDS (HR 1.99, 95% CI:0.78-5.09, p=0.15) and no increased superinfection rates (p=1.00). CONCLUSION: This first Surinamese study of HDS in severe COVID-19 pneumonia found no improved outcomes compared to SDS, nor increased bacterial superinfections. Our findings do not support HDS escalation in this population. The identified mortality risk factors provide valuable guidance for recognizing high-risk patients.",
+  "year": 2025,
+  "journal": "Journal of inflammation research",
+  "authors": [
+    "Katrijn Daenen",
+    "Anfernee Neus",
+    "Lycke Woittiez",
+    "Rakesh Bansie",
+    "Arno Nierich",
+    "Jilske A Huijben",
+    "Henrik Endeman",
+    "Eric C M van Gorp",
+    "Rosita Bihariesingh-Sanchit"
+  ],
+  "doi": "10.2147/JIR.S546976",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "corticosteroid",
+    "infectious diseases",
+    "virology"
+  ],
+  "affiliations": [
+    "Department of Viroscience, Erasmus University Medical Center, Rotterdam, the Netherlands.",
+    "Department of Intensive Care, Erasmus University Medical Center, Rotterdam, the Netherlands.",
+    "Faculty of Medicine, Anton de Kom University, Paramaribo, Suriname.",
+    "Department of Internal Medicine, Academic Hospital Paramaribo, Paramaribo, Suriname.",
+    "Department of Internal Medicine, Academic Hospital Paramaribo, Paramaribo, Suriname.",
+    "Departments of Anesthesiology and Intensive Care, Isala, Zwolle, the Netherlands.",
+    "Department of Intensive Care, Erasmus University Medical Center, Rotterdam, the Netherlands.",
+    "Department of Intensive Care, Erasmus University Medical Center, Rotterdam, the Netherlands.",
+    "Department of Intensive Care, OLVG, Amsterdam, the Netherlands.",
+    "Department of Viroscience, Erasmus University Medical Center, Rotterdam, the Netherlands.",
+    "Department of Internal Medicine, Erasmus University Medical Center, Rotterdam, the Netherlands.",
+    "Department of Anesthesiology, Academic Hospital Paramaribo, Paramaribo, Suriname."
+  ]
+}

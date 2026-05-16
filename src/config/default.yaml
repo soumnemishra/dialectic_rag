@@ -26,6 +26,14 @@ nli:
   refine_upper: 0.8
   temporal_min_reproducibility: 0.5
 
+# --- Claim-to-Evidence Stance Projection ---
+# Converts Eq. (5) signed NLI support scores into per-study stance labels
+# before Eq. (6)-(10) Dempster-Shafer fusion.
+conflict_analysis:
+  support_threshold: 0.25
+  oppose_threshold: -0.25
+  refine_threshold: 0.10
+
 # --- Dempster-Shafer ---
 ds:
   gamma: 0.9

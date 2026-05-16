@@ -1,0 +1,49 @@
+{
+  "pmid": "25921687",
+  "title": "ALDH1 Expression and the Prognosis of Lung Cancer: A Systematic Review and Meta-Analysis.",
+  "abstract": "PURPOSE: Aldehyde dehydrogenase 1 (ALDH1) has been identified as a putative cancer stem cell (CSC) marker in lung cancer. However, the clinicopathological and prognostic value of this protein in lung cancer patients remains controversial. Thus, we performed a systematic review and meta-analysis of studies assessing the clinical and prognostic significance of ALDH1 expression in lung cancer. METHODS: An identification and review of publications assessing clinical or prognostic significance of ALDH1 expression in lung cancer until September 1, 2014 was undertaken. A meta-analysis was performed to clarify the association between ALDH1 expression and clinical outcomes. RESULTS: A total of 14 publications met the criteria and comprised 1926 cases. Analysis of these data showed that ALDH1 expression was not significantly associated with the patient age (OR = 0.82, 95% confidence interval [CI]: 0.45-1.50, P=0.52), tumour size (OR=0.68, 95% CI: 0.22-2.06, P=0.49), smoking status (OR=1.37, 95% CI: 0.85-2.22, P=0.19), or tumour grade (OR=1.65, 95% CI: 0.83-3.26, P=0.15). However, in the identified studies, ALDH1 expression was highly correlated with lymph node metastasis (OR=1.97, 95% CI: 1.16-3.34, P=0.01), tumour TNM staging (OR=1.68, 95% CI 1.28-2.22, P=0.0002), decreased overall survival (relative risk [RR]: 1.97,95% CI: 1.16-3.34, P =0.01) and decreased disease free survival (RR: 1.63, 95% CI: 1.01-2.64, P=0.05). CONCLUSIONS: This meta-analysis shows ALDH1 expression in lung cancer is connected with decreased overall and disease free survival and thus marks a worse prognosis.",
+  "year": 2015,
+  "journal": "Heart, lung & circulation",
+  "authors": [
+    "Dong Wei",
+    "Jing-Jing Peng",
+    "Hui Gao",
+    "Tao Zhang",
+    "Yong Tan",
+    "Yong-He Hu"
+  ],
+  "doi": "10.1016/j.hlc.2015.03.021",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Aldehyde Dehydrogenase 1 Family",
+    "Disease-Free Survival",
+    "Gene Expression Regulation, Enzymologic",
+    "Gene Expression Regulation, Neoplastic",
+    "Humans",
+    "Isoenzymes",
+    "Lung Neoplasms",
+    "Neoplasm Proteins",
+    "Neoplastic Stem Cells",
+    "Retinal Dehydrogenase",
+    "Survival Rate"
+  ],
+  "keywords": [
+    "Cancer stem cell",
+    "Disease-free survival",
+    "Meta-analysis",
+    "Overall survival",
+    "Prognosis"
+  ],
+  "affiliations": [
+    "Department of Oncology, Chengdu Military General Hospital, Chengdu, Sichuan, 610083, P.R. China.",
+    "Department of Oncology, Chengdu Military General Hospital, Chengdu, Sichuan, 610083, P.R. China.",
+    "Department of Oncology, Chengdu Military General Hospital, Chengdu, Sichuan, 610083, P.R. China.",
+    "Department of Oncology, Chengdu Military General Hospital, Chengdu, Sichuan, 610083, P.R. China.",
+    "Department of Oncology, Chengdu Military General Hospital, Chengdu, Sichuan, 610083, P.R. China.",
+    "Department of Traditional Chinese Medicine, Chengdu Military General Hospital, Chengdu, Sichuan, 610083, P.R. China. Electronic address: weizheng72@163.com."
+  ]
+}

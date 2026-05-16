@@ -148,6 +148,9 @@ async def conflict_analysis_node(state: GraphState) -> Dict[str, Any]:
     candidate_totals: Dict[str, float] = {candidate: 0.0 for candidate in candidates}
     candidate_weights: Dict[str, float] = {candidate: 0.0 for candidate in candidates}
     cluster_trace: List[Dict[str, Any]] = []
+    # Per-PMID NLI aggregation containers (for propagating stances to EvidenceItem)
+    per_pmid_signed_sum: Dict[str, float] = defaultdict(float)
+    per_pmid_weight_sum: Dict[str, float] = defaultdict(float)
 
     for cluster in raw_clusters:
         cluster_id = str(cluster.get("cluster_id", len(cluster_stances)))
@@ -206,6 +209,15 @@ async def conflict_analysis_node(state: GraphState) -> Dict[str, Any]:
                     "weighted_support": round(signed * weight, 4),
                 })
 
+                # Aggregate per-PMID signed support for downstream propagation
+                try:
+                    pmid_key = str(claim.get("pmid", ""))
+                    if pmid_key:
+                        per_pmid_signed_sum[pmid_key] += signed * weight
+                        per_pmid_weight_sum[pmid_key] += weight
+                except Exception:
+                    pass
+
             support_score = _normalize_support(candidate_score_sum, candidate_weight_sum)
             avg_claim_conf = sum(float(c.get("confidence", 1.0) or 1.0) for c in cluster_claims) / max(1, len(cluster_claims))
             cluster_stances[cluster_id][candidate] = {
@@ -235,6 +247,38 @@ async def conflict_analysis_node(state: GraphState) -> Dict[str, Any]:
         candidate: round(_normalize_support(candidate_totals[candidate], candidate_weights[candidate]), 4)
         for candidate in candidates
     }
+
+    # Propagate aggregated per-PMID NLI stance back to EvidenceItem objects
+    pmid_stance_summary: Dict[str, Dict[str, Any]] = {}
+    for pmid, evidence in evidence_by_pmid.items():
+        pmid_str = str(pmid)
+        signed_sum = per_pmid_signed_sum.get(pmid_str, 0.0)
+        weight_sum = per_pmid_weight_sum.get(pmid_str, 0.0)
+        norm = 0.0
+        if weight_sum > 0:
+            norm = signed_sum / weight_sum
+
+        # Map normalized score to EvidenceStance
+        from src.models.enums import EvidenceStance
+        stance = EvidenceStance.NEUTRAL
+        if norm >= 0.2:
+            stance = EvidenceStance.SUPPORT
+        elif norm <= -0.2:
+            stance = EvidenceStance.OPPOSE
+
+        # Update EvidenceItem in-place
+        try:
+            evidence.stance = stance
+            evidence.nli_contradiction_prob = abs(norm)
+        except Exception:
+            # If evidence is a dict-like fallback, set keys
+            try:
+                evidence["stance"] = stance
+                evidence["nli_contradiction_prob"] = abs(norm)
+            except Exception:
+                pass
+
+        pmid_stance_summary[pmid_str] = {"normalized": round(norm, 3), "stance": str(stance)}
 
     temporal_details: Dict[str, Any] = {}
     temporal_shift_detected = False

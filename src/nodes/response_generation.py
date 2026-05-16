@@ -12,6 +12,8 @@ You are a senior clinical research lead. Synthesize a clinical answer based on t
 Strictly follow the structure below.
 
 Question: {question}
+Multiple-Choice Options:
+{mcq_options}
 Epistemic Result: {epistemic_result}
 
 Structured Evidence Balance:
@@ -49,7 +51,7 @@ Structure:
 [Specific limitations and what would change this assessment]
 
 **Final Answer: [X]**
-(Replace X with the predicted letter A, B, C, or D, or "UNKNOWN" if no conclusion is supported)
+(Replace X with the predicted letter A, B, C, or D using the options above, or "UNKNOWN" if no conclusion is supported)
 """
 
 async def response_generation_node(state: GraphState) -> Dict[str, Any]:
@@ -58,6 +60,15 @@ async def response_generation_node(state: GraphState) -> Dict[str, Any]:
     
     if not ep_result:
         return {"candidate_answer": "Unable to generate response due to missing epistemic analysis."}
+
+    # HARD-STOP ABSTENTION: Enforce pignistic_belief < 0.10 threshold
+    pignistic_belief = getattr(ep_result, 'belief', None) or 0.5
+    if pignistic_belief < 0.10:
+        logger.info(f"Hard-stop abstention triggered: pignistic_belief={pignistic_belief:.3f} < 0.10 threshold")
+        return {
+            "candidate_answer": "**Final Answer: ABSTAIN**",
+            "final_reasoning": f"Pignistic belief {pignistic_belief:.3f} is below abstention threshold (0.10). System is prohibited from guessing A/B/C/D."
+        }
 
     # Handle Abstention
     if ep_result.response_tier == ResponseTier.ABSTAIN:
@@ -110,6 +121,7 @@ async def response_generation_node(state: GraphState) -> Dict[str, Any]:
     try:
         response = await safe_ainvoke(prompt | llm, {
             "question": state["original_question"],
+            "mcq_options": state.get("mcq_options") or "Not provided.",
             "epistemic_result": ep_result.model_dump_json(),
             "support_summary": support_str,
             "oppose_summary": oppose_str,

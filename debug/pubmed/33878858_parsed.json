@@ -1,0 +1,48 @@
+{
+  "pmid": "33878858",
+  "title": "Pulse steroid treatment for hospitalized adults with COVID-19.",
+  "abstract": "BACKGROUND/AIM: High-dose steroid has been shown to reduce the mortality rate in Corona virus disease 2019 (COVID-19) patients who need oxygen support. Here, we evaluated the effectiveness of pulse-steroid in case of unresponsiveness to treatment with high dose steroid. MATERIALS AND METHODS: The study is a retrospective controlled trial. We divided the patients in 3 groups: standard-care therapy alone, high-dose steroid treatment (6 mg/day dexamethasone equivalent), and pulse-steroid treatment (250 mg/day methyl-prednisolone). One hundred and fifty patients were enrolled in each group. All patients were hospitalized and needed oxygen support. We matched the patients according to disease severity at the onset of hypoxia, weight of co-morbidities, age, and sex. We then compared 3 groups in terms of mortality, length of hospitalization, need for intensive care unit (ICU) admission and mechanical ventilation (MV), length of stay in ICU, and duration of MV. RESULTS: The pulse-steroid group had shorter ICU stay. The median ICU stay was 9.0 (CI 95% 6.0–12.0) days in standard-care group, 8.0 (CI 95% 5.0–13.0) days in high-dose steroid group and 4.5(CI %95 3.0–8.0) days in pulse-steroid group. Moreover, although patients in pulse-steroid group were initially unresponsive to high dose steroid therapy, they achieved similar results compared to the high-dose steroid group in other outcomes except for length of hospital stay. CONCLUSION: Pulse-steroid treatment would be an option for COVID-19 patients who do not respond to the initial high-dose steroid treatment.",
+  "year": 2021,
+  "journal": "Turkish journal of medical sciences",
+  "authors": [
+    "Ayşe Batırel",
+    "Recep Demirhan",
+    "Nurullah Eser",
+    "Ezgi Körlü",
+    "Mehmet Engin Tezcan"
+  ],
+  "doi": "10.3906/sag-2101-243",
+  "publication_types": [
+    "Comparative Study",
+    "Controlled Clinical Trial",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Dexamethasone",
+    "Female",
+    "Glucocorticoids",
+    "Hospitalization",
+    "Humans",
+    "Male",
+    "Methylprednisolone",
+    "Middle Aged",
+    "Pulse Therapy, Drug",
+    "Retrospective Studies",
+    "Treatment Outcome",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "intensive care unit stay",
+    "mortality rate",
+    "Coronavirus disease 2019",
+    "steroid treatment"
+  ],
+  "affiliations": [
+    "Department of Infectious Diseases and Clinical Microbiology, University of Health Sciences, Kartal Dr. Lutfi Kırdar City Hospital, İstanbul, Turkey.",
+    "Department of Thoracic Surgery, University of Health Sciences, Kartal Dr. Lutfi Kırdar City Hospital, İstanbul, Turkey.",
+    "Department of Infectious Diseases and Clinical Microbiology, University of Health Sciences, Kartal Dr. Lutfi Kırdar City Hospital, İstanbul, Turkey.",
+    "Department of Infectious Diseases and Clinical Microbiology, University of Health Sciences, Kartal Dr. Lutfi Kırdar City Hospital, İstanbul, Turkey.",
+    "Division of Rheumatology, Department of Internal Medicine, University of Health Sciences, Kartal Dr. Lutfi Kırdar City Hospital, İstanbul, Turkey."
+  ]
+}

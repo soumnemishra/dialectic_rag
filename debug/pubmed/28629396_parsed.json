@@ -1,0 +1,58 @@
+{
+  "pmid": "28629396",
+  "title": "Identifying approaches for assessing methodological and reporting quality of systematic reviews: a descriptive study.",
+  "abstract": "BACKGROUND: The methodological quality and completeness of reporting of the systematic reviews (SRs) is fundamental to optimal implementation of evidence-based health care and the reduction of research waste. Methods exist to appraise SRs yet little is known about how they are used in SRs or where there are potential gaps in research best-practice guidance materials. The aims of this study are to identify reports assessing the methodological quality (MQ) and/or reporting quality (RQ) of a cohort of SRs and to assess their number, general characteristics, and approaches to 'quality' assessment over time. METHODS: The Cochrane Library, MEDLINE®, and EMBASE® were searched from January 1990 to October 16, 2014, for reports assessing MQ and/or RQ of SRs. Title, abstract, and full-text screening of all reports were conducted independently by two reviewers. Reports assessing the MQ and/or RQ of a cohort of ten or more SRs of interventions were included. All results are reported as frequencies and percentages of reports. RESULTS: Of 20,765 unique records retrieved, 1189 of them were reviewed for full-text review, of which 76 reports were included. Eight previously published approaches to assessing MQ or reporting guidelines used as proxy to assess RQ were used in 80% (61/76) of identified reports. These included two reporting guidelines (PRISMA and QUOROM) and five quality assessment tools (AMSTAR, R-AMSTAR, OQAQ, Mulrow, Sacks) and GRADE criteria. The remaining 24% (18/76) of reports developed their own criteria. PRISMA, OQAQ, and AMSTAR were the most commonly used published tools to assess MQ or RQ. In conjunction with other approaches, published tools were used in 29% (22/76) of reports, with 36% (8/22) assessing adherence to both PRISMA and AMSTAR criteria and 26% (6/22) using QUOROM and OQAQ. CONCLUSIONS: The methods used to assess quality of SRs are diverse, and none has become universally accepted. The most commonly used quality assessment tools are AMSTAR, OQAQ, and PRISMA. As new tools and guidelines are developed to improve both the MQ and RQ of SRs, authors of methodological studies are encouraged to put thoughtful consideration into the use of appropriate tools to assess quality and reporting.",
+  "year": 2017,
+  "journal": "Systematic reviews",
+  "authors": [
+    "Kusala Pussegoda",
+    "Lucy Turner",
+    "Chantelle Garritty",
+    "Alain Mayhew",
+    "Becky Skidmore",
+    "Adrienne Stevens",
+    "Isabelle Boutron",
+    "Rafael Sarkis-Onofre",
+    "Lise M Bjerre",
+    "Asbjørn Hróbjartsson",
+    "Douglas G Altman",
+    "David Moher"
+  ],
+  "doi": "10.1186/s13643-017-0507-6",
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Guideline Adherence",
+    "Humans",
+    "Research Design",
+    "Research Report",
+    "Review Literature as Topic"
+  ],
+  "keywords": [
+    "Guideline adherence",
+    "Methodological quality",
+    "Reporting quality",
+    "Systematic reviews"
+  ],
+  "affiliations": [
+    "Ottawa Methods Centre, Clinical Epidemiology Program, Centre for Practice-Changing Research, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada.",
+    "Ottawa Methods Centre, Clinical Epidemiology Program, Centre for Practice-Changing Research, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada.",
+    "Ottawa Methods Centre, Clinical Epidemiology Program, Centre for Practice-Changing Research, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada.",
+    "Translational Research in Biomedicine (TRIBE) Program, University of Split School of Medicine, Split, Croatia.",
+    "Ottawa Methods Centre, Clinical Epidemiology Program, Centre for Practice-Changing Research, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada.",
+    "Ottawa Methods Centre, Clinical Epidemiology Program, Centre for Practice-Changing Research, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada.",
+    "Ottawa Methods Centre, Clinical Epidemiology Program, Centre for Practice-Changing Research, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada.",
+    "Translational Research in Biomedicine (TRIBE) Program, University of Split School of Medicine, Split, Croatia.",
+    "INSERM, UMR 1153, Centre of Research in Epidemiology and Statistics Sorbonne Paris Cité, University Paris Descartes, Paris, France.",
+    "Graduate Program in Dentistry, Federal University of Pelotas, Pelotas, RS, Brazil.",
+    "Department of Family Medicine, University of Ottawa, Ottawa, Ontario, Canada.",
+    "Bruyère Research Institute, Ottawa, Ontario, Canada.",
+    "School of Epidemiology, Public Health and Preventive Medicine, University of Ottawa, Ottawa, Ontario, Canada.",
+    "Center for Evidence-Based Medicine, University of Southern Denmark & Odense University Hospital, Odense, Denmark.",
+    "Centre for Statistics in Medicine, Nuffield Department of Orthopaedics, Rheumatology & Musculoskeletal Sciences, University of Oxford, Oxford, UK.",
+    "Centre for Journalology, Canadian EQUATOR Centre, Clinical Epidemiology Program, Centre for Practice-Changing Research, Ottawa Hospital Research Institute, Ottawa, Ontario, Canada. dmoher@ohri.ca."
+  ]
+}

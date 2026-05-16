@@ -1,0 +1,38 @@
+{
+  "pmid": "35264475",
+  "title": "Effect of corticosteroids in patients with COVID-19 early stage pneumonia and risk of disease progression: An uncharted territory.",
+  "abstract": "Corticosteroids are one of the few drugs that have shown a reduction in mortality in coronavirus disease 2019 (COVID-19). In the RECOVERY trial, the use of dexamethasone reduced 28-day mortality compared to standard care in hospitalized patients with suspected or confirmed COVID-19 requiring supplemental oxygen or invasive mechanical ventilation. No benefit in patients not requiring respiratory support at randomization was observed. However, we believe that the use of corticosteroids in patients with COVID-19 pneumonia might not be subject to a decision based solely on oxygen needs. Evidence has shown that 30% of COVID-19 patients in its initial phases will progress to acute respiratory distress syndrome, particularly patients in whom laboratory inflammatory biomarkers associated with COVID-19 disease progression are detected. We postulated that corticosteroids in patients with COVID-19 in its initial phases and risk of progressing to severe disease might lead to a decrease in the development of acute respiratory distress syndrome, and thereby reduce death.",
+  "year": 2022,
+  "journal": "Drug discoveries & therapeutics",
+  "authors": [
+    "Anabel Franco-Moreno",
+    "María Soledad Acedo-Gutiérrez",
+    "Rodolfo Romero-Pareja",
+    "Juan Torres-Macho"
+  ],
+  "doi": "10.5582/ddt.2022.01008",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adrenal Cortex Hormones",
+    "Disease Progression",
+    "Humans",
+    "Respiration, Artificial",
+    "Risk",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19 pneumonia",
+    "adult respiratory distress syndrome",
+    "corticosteroids",
+    "hypoxia",
+    "inflammatory biological markers"
+  ],
+  "affiliations": [
+    "Department of Internal Medicine, Hospital Universitario Infanta Leonor - Hospital Virgen de la Torre, Madrid, Spain.",
+    "Department of Internal Medicine, Hospital Universitario Infanta Leonor - Hospital Virgen de la Torre, Madrid, Spain.",
+    "Hospital de Emergencias Enfermera Isabel Zendal, Madrid, Spain.",
+    "Department of Internal Medicine, Hospital Universitario Infanta Leonor - Hospital Virgen de la Torre, Madrid, Spain."
+  ]
+}

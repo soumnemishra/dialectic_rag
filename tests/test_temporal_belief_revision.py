@@ -112,3 +112,35 @@ async def test_conservative_consensus(tbr, mock_nli_engine):
     # State should remain SETTLED because only 1 contradiction was found (min_confirming=2)
     assert result.state == EpistemicState.SETTLED
     assert result.temporal_shift_detected is False
+
+@pytest.mark.asyncio
+async def test_undated_evidence_does_not_become_historical_baseline(tbr, mock_nli_engine):
+    """Undated evidence sorts last so it cannot corrupt the baseline claim."""
+    evidences = [
+        EvidenceItem(
+            pmid="undated",
+            title="Undated low quality",
+            abstract="",
+            metadata=StudyMetadata(year=None),
+            claim="X fails",
+            stance=EvidenceStance.OPPOSE,
+            reproducibility_score=0.1,
+            applicability_score=0.8
+        ),
+        EvidenceItem(
+            pmid="dated",
+            title="Dated baseline",
+            abstract="",
+            metadata=StudyMetadata(year=2020),
+            claim="X works",
+            stance=EvidenceStance.SUPPORT,
+            reproducibility_score=0.8,
+            applicability_score=0.8
+        )
+    ]
+
+    mock_nli_engine.classify.return_value = {"label": "NEUTRAL", "confidence": 0.5}
+
+    result = await tbr.detect_consensus_shift(evidences)
+
+    assert result.baseline_claim == "X works"

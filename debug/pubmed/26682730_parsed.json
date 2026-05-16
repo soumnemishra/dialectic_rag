@@ -1,0 +1,52 @@
+{
+  "pmid": "26682730",
+  "title": "Prognostic Value of Cancer Stem Cell Marker ALDH1 Expression in Colorectal Cancer: A Systematic Review and Meta-Analysis.",
+  "abstract": "OBJECTIVE: Many studies have indicated the prognostic and clinicopathological value of aldehyde dehydrogenase 1 (ALDH1) in colorectal cancer (CRC) patients still remains controversial. Thus we performed this study to clarify the relationship between high ALDH1 expression in CRC and its impact on survival and clinicopathological features. METHODS: Publications for relevant studies in Pubmed, the Cochrane Library, Embase, and China National Knowledge Infrastructure (CNKI) through April 2015 were identified. Only articles describing ALDH1 antigen with immunohistochemistry in CRC were included. The software RevMan 5.1 was used to analyze the outcomes, including 5-year overall survival (OS), disease-free survival (DFS) and clinicopathological features. RESULTS: 9 studies with 1203 patients satisfying the criteria were included. The overall rate of high ALDH1 expression was 46.5% by immunohistochemical staining. High ALDH1 expression as an independent prognostic factor was significantly associated with the 5-year OS and DFS (OR = 0.42, 95%CI: 0.26-0.68, P = 0.0004; OR = 0.38, 95%CI: 0.24-0.59, P < 0.0001, respectively). High ALDH1 expression was highly correlated with the tumor (T) stage (T3 + T4 vs. T1 + T2; OR = 2.16, 95%CI: 1.09-4.28, P = 0.03), lymph node (N) stage (N1 + N2 vs. N0; OR = 1.8; 95%CI: 1.17-2.79, P = 0.008), and tumor differentiation (G3 vs. G1 + G2; OR = 1.88; 95%CI: 1.07-3.30, P = 0.03). However, high ALDH1 expression was not significantly correlated with the patient age (>60 years old vs. <60 years old; OR = 1.11, 95%CI: 0.63-1.94, P = 0.72). CONCLUSIONS: High ALDH1 expression indicates a poor prognosis in CRC patients. Moreover, high ALDH1 expression correlates with the T stage, N stage, and tumor differentiation, but not with age.",
+  "year": 2015,
+  "journal": "PloS one",
+  "authors": [
+    "Jinhuang Chen",
+    "Qinghua Xia",
+    "Bin Jiang",
+    "Weilong Chang",
+    "Wenzheng Yuan",
+    "Zhijun Ma",
+    "Zhengyi Liu",
+    "Xiaogang Shu"
+  ],
+  "doi": "10.1371/journal.pone.0145164",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Aldehyde Dehydrogenase",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Biomarkers, Tumor",
+    "Colorectal Neoplasms",
+    "Gene Expression Regulation, Neoplastic",
+    "Humans",
+    "Middle Aged",
+    "Neoplasm Grading",
+    "Neoplasm Staging",
+    "Neoplastic Stem Cells",
+    "Prognosis",
+    "Retinal Dehydrogenase",
+    "Survival Analysis",
+    "Up-Regulation"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+    "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+    "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+    "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+    "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+    "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+    "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+    "Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+  ]
+}

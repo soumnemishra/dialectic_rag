@@ -1,0 +1,51 @@
+{
+  "pmid": "38673453",
+  "title": "Diagnosis, Treatment and Long-Term Management of Vitamin B12 Deficiency in Adults: A Delphi Expert Consensus.",
+  "abstract": "Background/Objectives: Vitamin B12 deficiency can cause variable symptoms, which may be irreversible if not diagnosed and treated in a timely manner. We aimed to develop a widely accepted expert consensus to guide the practice of diagnosing and treating B12 deficiency. Methods: We conducted a scoping review of the literature published in PubMed since January 2003. Data were used to design a two-round Delphi survey to study the level of consensus among 42 experts. Results: The panelists agreed on the need for educational and organizational changes in the current medical practices for diagnosing and treating B12 deficiency. Recognition of clinical symptoms should receive the highest priority in establishing the diagnosis. There is agreement that the serum B12 concentration is useful as a screening marker and methylmalonic acid or homocysteine can support the diagnosis. Patient lifestyle, disease history, and medications can provide clues to the cause of B12 deficiency. Regardless of the cause of the deficiency, initial treatment with parenteral B12 was regarded as the first choice for patients with acute and severe manifestations of B12 deficiency. The use of high-dose oral B12 at different frequencies may be considered for long-term treatment. Prophylactic B12 supplementation should be considered for specific high-risk groups. Conclusions: There is a consensus that clinical symptoms need to receive more attention in establishing the diagnosis of B12 deficiency. B12 laboratory markers can support the diagnosis. The severity of clinical symptoms, the causes of B12 deficiency, and the treatment goals govern decisions regarding the route and dose of B12 therapy.",
+  "year": 2024,
+  "journal": "Journal of clinical medicine",
+  "authors": [
+    "Rima Obeid",
+    "Emmanuel Andrès",
+    "Richard Češka",
+    "Babak Hooshmand",
+    "Rosa-Maria Guéant-Rodriguez",
+    "Gabriel Ioan Prada",
+    "Jarosław Sławek",
+    "Latchezar Traykov",
+    "Binh Ta Van",
+    "Tamás Várkonyi",
+    "Karlheinz Reiners",
+    "The Vitamin B Consensus Panelists Group"
+  ],
+  "doi": "10.3390/jcm13082176",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "anemia",
+    "cognitive decline",
+    "diagnosis",
+    "neuropathy",
+    "treatment",
+    "vitamin B12 deficiency"
+  ],
+  "affiliations": [
+    "Department of Clinical Chemistry and Laboratory Medicine, Saarland University Hospital, 66421 Homburg, Germany.",
+    "Department of Internal Medicine, Diabetes and Metabolic Diseases, Hôpitaux Universitaires de Strasbourg, 67091 Strasbourg, France.",
+    "IIIrd Department of Internal Medicine, Center of Preventive Cardiology, University General Hospital, Charles University in Prague, 110 00 Prague, Czech Republic.",
+    "Aging Research Center, Karolinska Institute, 171 65 Stockholm, Sweden.",
+    "Department of Neurology, Benedictus Klinikum Tutzing, 82327 Tutzing, Germany.",
+    "Department of Psychiatry and Psychotherapy, Ludwig Maximillian University Hospital, 80539 Munich, Germany.",
+    "INSERM, UMR_S1256, NGERE-Nutrition, Genetics, and Environmental Risk Exposure, Faculty of Medicine of Nancy, University of Lorraine, 54500 Vandoeuvre-lès-Nancy, France.",
+    "Department of Biochemistry, Molecular Biology, Nutrition, and Metabolism, University Hospital of Nancy, 54000 Vandoeuvre-lès-Nancy, France.",
+    "Clinical Department of the National Institute of Gerontology and Geriatrics \"Ana Aslan\", University of Medicine and Pharmacy \"Carol Davila\", 011241 Bucharest, Romania.",
+    "Department of Neurology & Stroke, St. Adalbert Hospital, 80-462 Gdańsk, Poland.",
+    "Department of Neurological-Psychiatric Nursing, Faculty of Health Sciences, Medical University of Gdańsk, 80-210 Gdańsk, Poland.",
+    "Department of Neurology, University Hospital \"Alexandrovska\", Medical University, 1431 Sofia, Bulgaria.",
+    "Vietnam Institute of Diabetes and Metabolic Disorders, Hanoi Medical University, Hanoi 116001, Vietnam.",
+    "Department of Internal Medicine, University of Szeged, 6720 Szeged, Hungary.",
+    "Consultant in Neurology and Clinical Neurophysiology, 41844 Wegberg, Germany."
+  ]
+}

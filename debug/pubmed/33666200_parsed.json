@@ -1,0 +1,61 @@
+{
+  "pmid": "33666200",
+  "title": "Efficacy and safety of steroid therapy in COVID-19: A rapid systematic review and Meta-analysis.",
+  "abstract": "PURPOSE: Although the use of steroids in the management of COVID-19 has been addressed by a few systematic review and meta-analysis, however, they also used data from \"SARS-CoV\" and \"MERS-CoV.\" Again, most of these studies addressed only one severity category of patients or addressed only one efficacy endpoint (mortality). In this context, we conducted this meta-analysis to evaluate the efficacy and safety of steroid therapy among all severity categories of patients with COVID-19 (mild to moderate and severe to critical category) in terms of \"mortality,\" \"requirement of mechanical ventilation,\" \"requirement of ICU\" and clinical cure parameters. METHODS: 11 databases were screened. Only randomized controlled trials (RCTs) or high quality (on the basis of risk of bias analysis) comparative-observational studies were included in the analysis. RevMan5.3 was used for the meta-analysis. RESULTS: A total of 15 studies (3 RCT and 12 comparative-observational studies) were included. In the mechanically-ventilated COVID-19 population, treatment with dexamethasone showed significant protection against mortality (single study). Among severe and critically ill combined population, steroid administration was significantly associated with lowered mortality (risk ratio [RR] 0.83 [0.76-0.910]), lowered requirement of mechanical ventilation (RR 0.59 [0.51-0.69]), decreased requirement of intensive care unit (ICU) (RR 0.62 [0.45-0.86]), lowered length of ICU stay (single-study) and decreased duration of mechanical ventilation (two-studies). In mild to moderate population, steroid treatment was associated with a higher \"duration of hospital stay,\" while no difference was seen in other domains. In patients at risk of progression to \"acute respiratory distress syndrome,\" steroid administration was associated with \"reduced requirement of mechanical ventilation\" (single-study). CONCLUSION: This study guides the use of steroid across patients with different severity categories of COVID-19. Among mechanically ventilated patients, steroid therapy may be beneficial in terms of reduced mortality. Among \"severe and critical\" patients; steroid therapy was associated with lowered mortality, decreased requirement of mechanical ventilation, and ICU. However, no benefit was observed in \"mild to moderate\" population. To conclude, among properly selected patient populations (based-upon clinical severity and biomarker status), steroid administration may prove beneficial in patients with COVID-19.",
+  "year": 2020,
+  "journal": "Indian journal of pharmacology",
+  "authors": [
+    "Phulen Sarma",
+    "Anusuya Bhattacharyya",
+    "Hardeep Kaur",
+    "Manisha Prajapat",
+    "Ajay Prakash",
+    "Subodh Kumar",
+    "Seema Bansal",
+    "Richard Kirubakaran",
+    "Dibbanti Harikrishna Reddy",
+    "Gaurav Muktesh",
+    "Karanvir Kaushal",
+    "Saurabh Sharma",
+    "Nishant Shekhar",
+    "Pramod Avti",
+    "Prasad Thota",
+    "Bikash Medhi"
+  ],
+  "doi": "10.4103/ijp.ijp_1146_20",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Dexamethasone",
+    "Humans",
+    "Steroids",
+    "Treatment Outcome",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "meta-analysis",
+    "steroid"
+  ],
+  "affiliations": [
+    "Department of Pharmacology, PGIMER, Chandigarh, India.",
+    "Department of Ophthalmology, GMCH-32, Chandigarh, India.",
+    "Department of Pharmacology, PGIMER, Chandigarh, India.",
+    "Department of Pharmacology, PGIMER, Chandigarh, India.",
+    "Department of Pharmacology, PGIMER, Chandigarh, India.",
+    "Department of Pharmacology, PGIMER, Chandigarh, India.",
+    "Department of Pharmacology, PGIMER, Chandigarh, India.",
+    "BVMC, CMC, Vellore, Tamil Nadu, India.",
+    "Department of Pharmacology, Central University of Punjab, Bathinda, Punjab, India.",
+    "Department of Gastroenterology PGIMER Chandigarh, India.",
+    "Department of Clinical Biochemistry, AIIMS, Rishikesh, Uttarakhand, India.",
+    "Department of Pharmacology, PGIMER, Chandigarh, India.",
+    "Department of Pharmacology, PGIMER, Chandigarh, India.",
+    "Department of Biophysics, PGIMER, Chandigarh, India.",
+    "Department of pharmacology, Indian Pharmacopoeia Commission, Ghaziabad, UP, India.",
+    "Department of Pharmacology, PGIMER, Chandigarh, India."
+  ]
+}

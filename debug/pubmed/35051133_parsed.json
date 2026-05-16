@@ -1,0 +1,44 @@
+{
+  "pmid": "35051133",
+  "title": "Racial and Ethnic Disparities in Receipt of Medications for Treatment of COVID-19 - United States, March 2020-August 2021.",
+  "abstract": "The COVID-19 pandemic has magnified longstanding health care and social inequities, resulting in disproportionately high COVID-19-associated illness and death among members of racial and ethnic minority groups (1). Equitable use of effective medications (2) could reduce disparities in these severe outcomes (3). Monoclonal antibody (mAb) therapies against SARS-CoV-2, the virus that causes COVID-19, initially received Emergency Use Authorization (EUA) from the Food and Drug Administration (FDA) in November 2020. mAbs are typically administered in an outpatient setting via intravenous infusion or subcutaneous injection and can prevent progression of COVID-19 if given after a positive SARS-CoV-2 test result or for postexposure prophylaxis in patients at high risk for severe illness.† Dexamethasone, a commonly used steroid, and remdesivir, an antiviral drug that received EUA from FDA in May 2020, are used in inpatient settings and help prevent COVID-19 progression§ (2). No large-scale studies have yet examined the use of mAb by race and ethnicity. Using COVID-19 patient electronic health record data from 41 U.S. health care systems that participated in the PCORnet, the National Patient-Centered Clinical Research Network,¶ this study assessed receipt of medications for COVID-19 treatment by race (White, Black, Asian, and Other races [including American Indian or Alaska Native, Native Hawaiian or Other Pacific Islander, and multiple or Other races]) and ethnicity (Hispanic or non-Hispanic). Relative disparities in mAb** treatment among all patients†† (805,276) with a positive SARS-CoV-2 test result and in dexamethasone and remdesivir treatment among inpatients§§ (120,204) with a positive SARS-CoV-2 test result were calculated. Among all patients with positive SARS-CoV-2 test results, the overall use of mAb was infrequent, with mean monthly use at 4% or less for all racial and ethnic groups. Hispanic patients received mAb 58% less often than did non-Hispanic patients, and Black, Asian, or Other race patients received mAb 22%, 48%, and 47% less often, respectively, than did White patients during November 2020-August 2021. Among inpatients, disparities were different and of lesser magnitude: Hispanic inpatients received dexamethasone 6% less often than did non-Hispanic inpatients, and Black inpatients received remdesivir 9% more often than did White inpatients. Vaccines and preventive measures are the best defense against infection; use of COVID-19 medications postexposure or postinfection can reduce morbidity and mortality and relieve strain on hospitals but are not a substitute for COVID-19 vaccination. Public health policies and programs centered around the specific needs of communities can promote health equity (4). Equitable receipt of outpatient treatments, such as mAb and antiviral medications, and implementation of prevention practices are essential to reducing existing racial and ethnic inequities in severe COVID-19-associated illness and death.",
+  "year": 2022,
+  "journal": "MMWR. Morbidity and mortality weekly report",
+  "authors": [
+    "Jennifer L Wiltz",
+    "Amy K Feehan",
+    "NoelleAngelique M Molinari",
+    "Chandresh N Ladva",
+    "Benedict I Truman",
+    "Jeffrey Hall",
+    "Jason P Block",
+    "Sonja A Rasmussen",
+    "Joshua L Denson",
+    "William E Trick",
+    "Mark G Weiner",
+    "Emily Koumans",
+    "Adi Gundlapalli",
+    "Thomas W Carton",
+    "Tegan K Boehmer"
+  ],
+  "doi": "10.15585/mmwr.mm7103e1",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adenosine Monophosphate",
+    "Alanine",
+    "Antibodies, Monoclonal",
+    "Dexamethasone",
+    "Ethnic and Racial Minorities",
+    "Ethnicity",
+    "Health Services Accessibility",
+    "Healthcare Disparities",
+    "Humans",
+    "Social Determinants of Health",
+    "United States",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": []
+}

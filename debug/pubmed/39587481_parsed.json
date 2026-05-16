@@ -1,0 +1,56 @@
+{
+  "pmid": "39587481",
+  "title": "The impact of dexamethasone on short- and long-term mortality in hospitalized COVID-19 patients: a retrospective study.",
+  "abstract": "BACKGROUND: Dexamethasone has been widely used in treating severe COVID-19 patients due to its anti-inflammatory properties. However, its long-term impact on mortality remain unclear. OBJECTIVE: To evaluate the effect of dexamethasone on short-term (28-day) and long-term (1-year) mortality in hospitalized COVID-19 patients and to explore its efficacy across different respiratory support. METHODS: A retrospective cohort study was conducted using the MIMIC-IV (v3.0) database. A total of 576 confirmed COVID-19 patients were included, with 288 patients receiving dexamethasone and 288 not receiving it, matched by propensity scores. Survival analyses assessed the impact of dexamethasone on mortality, and subgroup analyses were performed based on the type of respiratory support received. RESULTS: After propensity score matching, dexamethasone treatment was associated with reduced mortality at both 28 days (adjusted HR 0.67, 95% CI 0.46-0.99, P = 0.045) and 1 year (adjusted HR 0.66, 95% CI 0.47-0.92, P = 0.014). Subgroup analysis revealed differential treatment effects by respiratory support type (P for interaction = 0.001 at 28 days and 0.004 at 1 year). The survival benefit was most pronounced in patients receiving NIV (28-day adjusted HR 0.15, 95% CI 0.05-0.42, P < 0.001) and significant in those receiving IMV (28-day adjusted HR 0.62, 95% CI 0.39-0.99, P = 0.045), while no significant benefit was observed in patients receiving oxygen therapy alone. CONCLUSION: This retrospective study suggests that dexamethasone treatment was associated with reduced mortality in hospitalized COVID-19 patients, particularly in those receiving NIV or IMV. These findings add to the evidence supporting dexamethasone use in severe COVID-19 patients requiring respiratory support.",
+  "year": 2024,
+  "journal": "BMC infectious diseases",
+  "authors": [
+    "Jian Zhao",
+    "Hui Hua Jiang",
+    "Hong Hong Wan",
+    "Dan Liu",
+    "Yi Zhao",
+    "Yan Qing Chen",
+    "Yuan Zhuo Chen"
+  ],
+  "doi": "10.1186/s12879-024-10216-3",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Dexamethasone",
+    "Retrospective Studies",
+    "Male",
+    "Female",
+    "Middle Aged",
+    "COVID-19 Drug Treatment",
+    "Aged",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Hospitalization",
+    "Anti-Inflammatory Agents",
+    "Propensity Score",
+    "Adult",
+    "Aged, 80 and over",
+    "Respiration, Artificial",
+    "Survival Analysis"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Dexamethasone",
+    "MIMIC-IV",
+    "Mortality",
+    "Respiratory support",
+    "Retrospective study"
+  ],
+  "affiliations": [
+    "Department of Emergency, Shanghai 10th People's Hospital, Tongji University School of Medicine, Shanghai, 200072, China.",
+    "Department of Emergency, Shanghai 10th People's Hospital, Tongji University School of Medicine, Shanghai, 200072, China.",
+    "Department of Emergency, Shanghai 10th People's Hospital, Tongji University School of Medicine, Shanghai, 200072, China.",
+    "Department of Emergency, Shanghai 10th People's Hospital, Tongji University School of Medicine, Shanghai, 200072, China.",
+    "Department of Emergency, Shanghai 10th People's Hospital, Tongji University School of Medicine, Shanghai, 200072, China.",
+    "Department of Emergency, Shanghai 10th People's Hospital, Tongji University School of Medicine, Shanghai, 200072, China. 18917683768@189.cn.",
+    "Department of Emergency, Shanghai 10th People's Hospital, Tongji University School of Medicine, Shanghai, 200072, China. chenyuanzhuo@tongji.edu.cn."
+  ]
+}

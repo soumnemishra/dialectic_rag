@@ -1,0 +1,62 @@
+{
+  "pmid": "30885551",
+  "title": "Cancer Stem Cell Biomarkers in EGFR-Mutation-Positive Non-Small-Cell Lung Cancer.",
+  "abstract": "INTRODUCTION: Epidermal growth factor receptor (EGFR) pathway deregulation promotes the acquisition of stemlike properties in non-small-cell lung cancer. EGFR inhibition through NOTCH enriches lung cancer stem cells (CSCs). Src through Yes-associated protein 1 (YAP1) activates NOTCH. Signal transduction and activator of transcription 3 (STAT3) activation occurs upon EGFR blockade and regulates the generation of CSCs. PATIENTS AND METHODS: Using the Aldefluor assay kit, we investigated the enrichment of aldehyde dehydrogenase (ALDH)-positive cells in EGFR-mutation-positive cells treated with gefitinib, afatinib, and osimertinib. Western blot analysis was performed to evaluate changes in CSC marker expression upon EGFR blockade. We performed gene expression analysis in a cohort of EGFR-mutation-positive non-small-cell lung cancer patients. We evaluated the association of gene expression with treatment outcomes. RESULTS: The cell subpopulation surviving EGFR inhibition had high ALDH activity and elevated CSC marker expression. Concurrent inhibition of EGFR, STAT3, and Src diminished the CSC subpopulation in an EGFR-mutation-positive cellular model. In a cohort of 64 EGFR-mutation-positive patients, 2 ALDH1 isoforms and the NOTCH target hairy and enhancer of split 1 (HES1), when highly expressed, were predictive of worse outcome to EGFR blockade. The gene expression of B-cell-specific Moloney murine leukemia virus integration site 1 (Bmi-1) that maintains the self-renewal of stem cells was also related to treatment outcome. CONCLUSION: Single EGFR inhibitors increase the population of CSCs. Combinatory therapy targeting STAT3 and Src may be of potential benefit. ALDH1, HES1, and Bmi-1 are essential biomarkers in the initial assessment of EGFR-mutation-positive patients.",
+  "year": 2019,
+  "journal": "Clinical lung cancer",
+  "authors": [
+    "Jordi Codony-Servat",
+    "Carles Codony-Servat",
+    "Andrés Felipe Cardona",
+    "Ana Giménez-Capitán",
+    "Ana Drozdowskyj",
+    "Jordi Berenguer",
+    "Jillian Wilhelmina Paulina Bracht",
+    "Masaoki Ito",
+    "Niki Karachaliou",
+    "Rafael Rosell"
+  ],
+  "doi": "10.1016/j.cllc.2019.02.005",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Aldehyde Dehydrogenase 1 Family",
+    "Antineoplastic Agents",
+    "Biomarkers, Tumor",
+    "Carcinoma, Non-Small-Cell Lung",
+    "Cell Line, Tumor",
+    "Drug Therapy, Combination",
+    "ErbB Receptors",
+    "Gene Expression Regulation, Neoplastic",
+    "Humans",
+    "Lung Neoplasms",
+    "Mutation",
+    "Neoplastic Stem Cells",
+    "Polycomb Repressive Complex 1",
+    "Protein Kinase Inhibitors",
+    "STAT3 Transcription Factor",
+    "Transcription Factor HES-1",
+    "src-Family Kinases"
+  ],
+  "keywords": [
+    "ALDH",
+    "Bmi-1",
+    "HES1",
+    "NSCLC",
+    "Resistance"
+  ],
+  "affiliations": [
+    "Pangaea Oncology, Laboratory of Molecular Biology, Quirón-Dexeus University Institute, Barcelona, Spain. Electronic address: jcodony@panoncology.com.",
+    "Pangaea Oncology, Laboratory of Molecular Biology, Quirón-Dexeus University Institute, Barcelona, Spain.",
+    "Clinical and Translational Oncology Group, Thoracic Oncology Unit, Institute of Oncology, Clínica del Country, Bogotá, Colombia; Foundation for Clinical and Applied Cancer Research (FICMAC), Bogotá, Colombia.",
+    "Pangaea Oncology, Laboratory of Molecular Biology, Quirón-Dexeus University Institute, Barcelona, Spain.",
+    "Institut d'Investigació en Ciències Germans Trias i Pujol, Badalona, Spain.",
+    "Pangaea Oncology, Laboratory of Molecular Biology, Quirón-Dexeus University Institute, Barcelona, Spain.",
+    "Pangaea Oncology, Laboratory of Molecular Biology, Quirón-Dexeus University Institute, Barcelona, Spain.",
+    "Pangaea Oncology, Laboratory of Molecular Biology, Quirón-Dexeus University Institute, Barcelona, Spain; Department of Surgical Oncology, Research Institute for Radiation Biology and Medicine, Hiroshima University, Hiroshima, Japan.",
+    "Pangaea Oncology, Laboratory of Molecular Biology, Quirón-Dexeus University Institute, Barcelona, Spain; Instituto Oncológico Dr Rosell (IOR), University Hospital Sagrat Cor, Quiron Salud Group Barcelona, Barcelona, Spain.",
+    "Pangaea Oncology, Laboratory of Molecular Biology, Quirón-Dexeus University Institute, Barcelona, Spain; Instituto Oncológico Dr Rosell (IOR), Quirón-Dexeus University Institute, Barcelona, Spain; Institut d'Investigació en Ciències Germans Trias i Pujol, Badalona, Spain; Institut Català d'Oncologia, Hospital Germans Trias i Pujol, Badalona, Spain. Electronic address: rrosell@iconcologia.net."
+  ]
+}

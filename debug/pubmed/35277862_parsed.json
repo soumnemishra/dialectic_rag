@@ -1,0 +1,59 @@
+{
+  "pmid": "35277862",
+  "title": "Factors associated with dexamethasone efficacy in COVID-19. A retrospective investigative cohort study.",
+  "abstract": "Dexamethasone has demonstrated efficacy in reducing mortality in COVID-19. However, its practical use is badly defined. We aimed to investigate factors associated with dexamethasone efficacy in real life. Our retrospective study was conducted in two university hospitals between September and November 2020 and included all the consecutive hospitalized patients with a laboratory-confirmed SARS-CoV-2 infection assessed by RT-PCR, treated with intravenous dexamethasone (6 mg/day). Among 111 patients, 10.6% necessitated a transfer into the intensive care unit (ICU) and the 28-day mortality rate was 17.1%. The 28-day mortality rate was significantly lower in patients who demonstrated improvement at 48 h (hazard ratio [HR]: 0.17, 95% confidence interval [CI]: 0.04-0.78, p = 0.02) and 96 h (HR: 0.07, 95% CI: 0.02-0.31, p = 0.0005) after dexamethasone initiation. Apart from well-known risk factors (age, hypertension, active cancer, severe lesions on chest computed tomography [CT] scan), we found that a high viral load in nasopharyngeal swab (Cycle threshold <30) at dexamethasone initiation was associated with higher 28-day mortality (66.6% vs. 36.7%, p = 0.03). Patients who did not receive antibiotics at dexamethasone initiation had a higher rate of transfer into the ICU (55.6% vs. 23.5%, p = 0.045) with a trend towards higher mortality in case of severe or critical lesions on CT scan (75.0% vs. 25.0%, p = 0.053). Patients who did not improve within 2-4 days after steroid initiation have a bad prognosis and should receive additional anti-inflammatory drugs. Our data suggest better efficacy of dexamethasone in patients with a low or negative viral load, receiving broad-spectrum antibiotics.",
+  "year": 2022,
+  "journal": "Journal of medical virology",
+  "authors": [
+    "Robin Arcani",
+    "Raphaël Cauchois",
+    "Pierre Suchon",
+    "Rodolphe Jean",
+    "Pierre-André Jarrot",
+    "Quentin Gomes De Pinho",
+    "Jean-Baptiste Dalmas",
+    "Estelle Jean",
+    "Baptiste Andre",
+    "Véronique Veit",
+    "Marie Koubi",
+    "Gilles Kaplanski"
+  ],
+  "doi": "10.1002/jmv.27712",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Anti-Bacterial Agents",
+    "Cohort Studies",
+    "Dexamethasone",
+    "Humans",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "antibiotics",
+    "dexamethasone",
+    "intensive care unit",
+    "mortality"
+  ],
+  "affiliations": [
+    "Department of Internal Medicine and Clinical Immunology, CHU La Conception, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Center for Cardiovascular and Nutrition Research (C2VN), INRA 1260, INSERM UMR_S 1263, Aix-Marseille University, Marseille, France.",
+    "Department of Internal Medicine and Clinical Immunology, CHU La Conception, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Center for Cardiovascular and Nutrition Research (C2VN), INRA 1260, INSERM UMR_S 1263, Aix-Marseille University, Marseille, France.",
+    "Hematology Laboratory, CHU La Timone, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Department of Internal Medicine and Clinical Immunology, CHU La Conception, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Department of Internal Medicine and Clinical Immunology, CHU La Conception, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Center for Cardiovascular and Nutrition Research (C2VN), INRA 1260, INSERM UMR_S 1263, Aix-Marseille University, Marseille, France.",
+    "Department of Internal Medicine and Clinical Immunology, CHU La Conception, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Department of Internal Medicine and Clinical Immunology, CHU La Conception, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Department of Internal Medicine, CHU La Timone, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Department of Internal Medicine, CHU La Timone, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Department of Internal Medicine, CHU La Timone, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Department of Internal Medicine and Clinical Immunology, CHU La Conception, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Department of Internal Medicine and Clinical Immunology, CHU La Conception, Assistance Publique-Hôpitaux de Marseille (AP-HM), Marseille, France.",
+    "Center for Cardiovascular and Nutrition Research (C2VN), INRA 1260, INSERM UMR_S 1263, Aix-Marseille University, Marseille, France."
+  ]
+}

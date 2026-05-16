@@ -1,0 +1,45 @@
+{
+  "pmid": "33555845",
+  "title": "Comparison of Associations Between Glucocorticoids Treatment and Mortality in COVID-19 Patients and SARS Patients: A Systematic Review and Meta-Analysis.",
+  "abstract": "BACKGROUND: The response to glucocorticoids treatment may be different between coronavirus disease 2019 (Covid-19) and severe acute respiratory syndrome (SARS). METHODS: In this systematic review and meta-analysis, we searched studies on Medline, Embase, EBSCO, ScienceDirect, Web of Science, Cochrane Library, ClinicalTrials.gov, International Clinical Trials Registry Platform from 2002 to October 7, 2020. We used fixed-effects and random-effects models to compute the risk ratio of death in the group receiving glucocorticoids treatment and the control group for COVID-19 and SARS, respectively. RESULTS: Ten trials and 71 observational studies, with a total of 45,935 patients, were identified. Glucocorticoids treatment was associated with decreased all-cause mortality both in COVID-19 (risk ratio, 0.88; 95% confidence interval, 0.82-0.94; I2 = 26%) and SARS (0.48; 0.29-0.79; 10%), based on high-quality evidence, as well as decreased all-cause mortality-including composite outcome of COVID-19 (0.89; 0.82-0.98; 0%). In subgroup analyses, all-cause mortality was significantly lower among COVID-19 patients being accompanied by severe ARDS but not mild ARDS, taking low-dose or pulse glucocorticoids, being critically severe but not only severe, being of critical severity and old but not young, being of critical severity and men but not women, non-early taking glucocorticoids, taking dexamethasone or methylprednisolone, and with the increased inflammatory state; but for SARS, lower mortality was observed among those who were taking medium-high dose glucocorticoids, being severe or critically severe, early taking glucocorticoids, and taking methylprednisolone or prednisolone. CONCLUSIONS: Glucocorticoids treatment reduced mortality in COVID-19 and SARS patients of critical severity; however, different curative effects existed between the two diseases among subpopulations, mainly regarding sex- and age-specific effects, optimal doses, and use timing of glucocorticoids.",
+  "year": 2021,
+  "journal": "Shock (Augusta, Ga.)",
+  "authors": [
+    "Jianbo Li",
+    "Xuelian Liao",
+    "Yue Zhou",
+    "Luping Wang",
+    "Hang Yang",
+    "Wei Zhang",
+    "Zhongwei Zhang",
+    "Yan Kang"
+  ],
+  "doi": "10.1097/SHK.0000000000001738",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Global Health",
+    "Glucocorticoids",
+    "Humans",
+    "Pandemics",
+    "SARS-CoV-2",
+    "Survival Rate",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Critical Care Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+    "Department of Critical Care Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+    "Department of Critical Care Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+    "Department of Critical Care Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+    "Department of Critical Care Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+    "Molecular Medicine Research Center, State Key Laboratory of Biotherapy/Collaborative Innovation Center for Biotherapy, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+    "Department of Critical Care Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China.",
+    "Department of Critical Care Medicine, West China Hospital, Sichuan University, Chengdu, Sichuan, China."
+  ]
+}

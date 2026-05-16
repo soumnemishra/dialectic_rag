@@ -1,0 +1,49 @@
+{
+  "pmid": "36738136",
+  "title": "Safety and efficacy of glucocorticoids in the treatment of COVID-19: A meta-analysis of randomized control trials.",
+  "abstract": "BACKGROUND: It is unclear the efficacy and safety of glucocorticoids compared with placebo or usual care for treatment of COVID-19. RESEARCH DESIGN AND METHODS: Randomized controlled trials (RCTs) of corticosteroids in COVID-19 patients from 1 December 2019, to 30 June 2022, were assessed using Cochrane bias risk assessment method and improved Jadad score scale. GRADEpro was used to rate the quality of evidence for outcomes. RESULTS: Fifteen RCTs were included, including 10,620 patients. Glucocorticoid treatment for severe and critical COVID-19 showed lesser all-cause mortality (OR = 0.85, 95% CI [0.76, 0.94], P = 0.002) than conventional treatment. However, for mildly ill patients, neither inhaled drugs nor intravenous drugs reduced mortality (OR = 0.64, 95% CI [0.24, 1.76], P = 0.39). Glucocorticoids had no significant effect on the adverse reactions of patients (OR = 1.18, 95% CI [0.77, 1.80], P = 0.44) compared with usual care/placebo. Subgroup analysis demonstrated that dexamethasone significantly reduced the mortality of COVID-19 patients. Low-dose glucocorticoids were also associated with lower all-cause mortality. CONCLUSION: Glucocorticoids (especially dexamethasone) reduce mortality of patients with severe and critical COVID-19 with no significant effect on the incidence of adverse reactions (moderate quality). In contrast, glucocorticoids do not benefit patients with mild symptoms (low quality).",
+  "year": 2023,
+  "journal": "Expert review of respiratory medicine",
+  "authors": [
+    "Wenxiao Qiao",
+    "Lihong Meng",
+    "Ye Zhang",
+    "Dian Li",
+    "Jingjing Chen",
+    "Jinyun Wang",
+    "Di Xie",
+    "Xiaoming Xue"
+  ],
+  "doi": "10.1080/17476348.2023.2177155",
+  "publication_types": [
+    "Meta-Analysis",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Glucocorticoids",
+    "COVID-19",
+    "Adrenal Cortex Hormones",
+    "Dexamethasone"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Glucocorticoid",
+    "adverse reaction",
+    "dexamethasone",
+    "meta-analysis",
+    "severe type"
+  ],
+  "affiliations": [
+    "Institute of Shanxi Traditional Chinese Medicine, Taiyuan, Shanxi, China.",
+    "Department of Respiration, Shanxi Traditional Chinese Medicine Hospital, Taiyuan, Shanxi, China.",
+    "Department of Respiration, Shanxi Traditional Chinese Medicine Hospital, Taiyuan, Shanxi, China.",
+    "Shanxi University of Traditional Chinese Medicine, Taiyuan, Shanxi, China.",
+    "Shanxi University of Traditional Chinese Medicine, Taiyuan, Shanxi, China.",
+    "Department of Respiration, Shanxi Traditional Chinese Medicine Hospital, Taiyuan, Shanxi, China.",
+    "Shanxi University of Traditional Chinese Medicine, Taiyuan, Shanxi, China.",
+    "Institute of Shanxi Traditional Chinese Medicine, Taiyuan, Shanxi, China.",
+    "Department of Respiration, Shanxi Traditional Chinese Medicine Hospital, Taiyuan, Shanxi, China."
+  ]
+}

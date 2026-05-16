@@ -1,0 +1,46 @@
+{
+  "pmid": "33189891",
+  "title": "Randomised controlled trials for COVID-19: evaluation of optimal randomisation methodologies-need for data validation of the completed trials and to improve ongoing and future randomised trial designs.",
+  "abstract": "During the emerging COVID-19 (coronavirus disease 2019) pandemic, initially there were no proven treatment options. With the release of randomised controlled trial (RCT) results, we are beginning to see possible treatment options for COVID-19. The RECOVERY trial showed an absolute risk reduction in mortality by 2.8% with dexamethasone, and the ACTT-1 trial showed that treatment with remdesivir reduced the time to recovery by 4 days. Treatment with hydroxychloroquine (HCQ) and lopinavir/ritonavir did not show any mortality benefit in either the RECOVERY or World Health Organization (WHO) Solidarity trials. The National Institutes of Health (NIH) and Brazilian HCQ trials did not show any benefit for HCQ based on the seven-point ordinal scale outcomes. The randomisation methodologies utilised in these controlled trials and the quality of published data were reviewed to examine their adaptability to treat patients. We found that the randomisation methodologies of these trials were suboptimal for matching the studied groups based on disease severity among critically-ill hospitalised COVID-19 patients with high mortality rates. The published literature is very limited regarding the disease severity metrics among the compared groups and failed to show that the data are without fatal sampling errors and sampling biases. We also found that there is a definite need for the validation of data in these trials along with additional important disease severity metrics to ensure that the trials' conclusions are accurate. We also propose proper randomisation methodologies for the design of RCTs for COVID-19 as well as guidance for the publication of COVID-19 trial results.",
+  "year": 2021,
+  "journal": "International journal of antimicrobial agents",
+  "authors": [
+    "Venkata R Emani",
+    "Sanjeev Goswami",
+    "Dheeraj Nandanoor",
+    "Shaila R Emani",
+    "Nidhi K Reddy",
+    "Raghunath Reddy"
+  ],
+  "doi": "10.1016/j.ijantimicag.2020.106222",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Critical Illness",
+    "Hospitalization",
+    "Humans",
+    "Hydroxychloroquine",
+    "Lopinavir",
+    "Mortality",
+    "Randomized Controlled Trials as Topic",
+    "Ritonavir",
+    "Selection Bias",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Methodology",
+    "Randomised controlled trial"
+  ],
+  "affiliations": [
+    "Central Valley Cardiovascular Associates, Inc., 1148 Norman Drive, Suite #2, Manteca, CA 95336, USA. Electronic address: vemani@yahoo.com.",
+    "San Joaquin Critical Care Medical Group, 1801 E March Ln c300, Stockton, CA 95210, USA.",
+    "Synergy Med, 1801 E March Ln STE D460, Stockton, CA 95210, USA.",
+    "Central Valley Cardiovascular Associates, Inc., 1148 Norman Drive, Suite #2, Manteca, CA 95336, USA.",
+    "Stockton Primary Care, 805 N California St #102, Stockton, CA 95204, USA.",
+    "Stockton Primary Care, 805 N California St #102, Stockton, CA 95204, USA."
+  ]
+}

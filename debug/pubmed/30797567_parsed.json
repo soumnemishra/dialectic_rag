@@ -1,0 +1,32 @@
+{
+  "pmid": "30797567",
+  "title": "Peer Review Bias: A Critical Review.",
+  "abstract": "Various types of bias and confounding have been described in the biomedical literature that can affect a study before, during, or after the intervention has been delivered. The peer review process can also introduce bias. A compelling ethical and moral rationale necessitates improving the peer review process. A double-blind peer review system is supported on equipoise and fair-play principles. Triple- and quadruple-blind systems have also been described but are not commonly used. The open peer review system introduces \"Skin in the Game\" heuristic principles for both authors and reviewers and has a small favorable effect on the quality of published reports. In this exposition, we present, on the basis of a comprehensive literature search of PubMed from its inception until October 20, 2017, various possible mechanisms by which the peer review process can distort research results, and we discuss the evidence supporting different strategies that may mitigate this bias. It is time to improve the quality, transparency, and accountability of the peer review system.",
+  "year": 2019,
+  "journal": "Mayo Clinic proceedings",
+  "authors": [
+    "Samir Haffar",
+    "Fateh Bazerbachi",
+    "M Hassan Murad"
+  ],
+  "doi": "10.1016/j.mayocp.2018.09.004",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Biomedical Research",
+    "Double-Blind Method",
+    "Humans",
+    "Peer Review, Research",
+    "Periodicals as Topic",
+    "Publishing",
+    "Research Report"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Digestive Center for Diagnosis and Treatment, Damascus, Syrian Arab Republic.",
+    "Division of Gastroenterology and Hepatology, Mayo Clinic, Rochester, MN.",
+    "Division of Preventive Medicine, Mayo Clinic, Rochester, MN. Electronic address: Murad.Mohammad@mayo.edu."
+  ]
+}

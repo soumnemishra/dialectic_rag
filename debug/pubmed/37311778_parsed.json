@@ -1,0 +1,40 @@
+{
+  "pmid": "37311778",
+  "title": "Diagnosis of α-thalassaemia by colorimetric gap loop mediated isothermal amplification.",
+  "abstract": "α-Thalassaemia is an inherited haemoglobin disorder that results from the defective synthesis of α-globin protein. Couples whom both carry the α-thalassaemia 1 gene are at risk of having a foetus with the most severe thalassaemia, Hb Bart's hydrops fetalis, with a risk of maternal mortality. However, haematological parameters alone cannot distinguish between a α-thalassaemia 1 carrier and a homozygous α-thalassaemia 2, in which one α-globin gene has been deleted on each chromosome. A rapid and accurate molecular detection assay is essential for prevention of the disease in populations where α-thalassaemia 1 is common. Multiplex Gap-PCR analysis is widely used for diagnosis of α-thalassaemia. However, the technique requires a thermocycler and post-amplification processing, which limits its application in primary care or in rural areas in developing countries. Loop mediated isothermal amplification (LAMP) amplifies target DNA at a constant temperature and does not require a thermocycler. This study developed a colorimetric Gap-LAMP using malachite green to allow naked eye visualization of two deletional α-thalassaemia 1 commonly found in Asian populations, the Southeast Asian type (--SEA) and the Thai type (--THAI) deletions. The Gap-LAMP was performed on DNA samples from 410 individuals carrying various α-thalassaemia gene defects with 100% concordance with conventional Gap-PCR analysis. This method eliminates post-amplification processing or the use of expensive sophisticated equipment and allows screening large populations for the prevention and control of α-thalassaemia.",
+  "year": 2023,
+  "journal": "Scientific reports",
+  "authors": [
+    "Worakawee Chumworathayee",
+    "Thongperm Munkongdee",
+    "Nattrika Buasuwan",
+    "Pornthip Chaichompoo",
+    "Saovaros Svasti"
+  ],
+  "doi": "10.1038/s41598-023-36676-2",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Nucleic Acid Amplification Techniques",
+    "alpha-Thalassemia",
+    "Hydrops Fetalis",
+    "Female",
+    "Colorimetry",
+    "Humans",
+    "Hemoglobinopathies",
+    "Molecular Diagnostic Techniques"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Graduate Program in Molecular Medicine, Faculty of Science, Mahidol University, Bangkok, Thailand.",
+    "Thalassemia Research Center, Institute of Molecular Biosciences, Mahidol University, Salaya, Nakhon Pathom, Thailand.",
+    "Division of Biology, Faculty of Science and Technology, Rajamangala University of Technology, Thanyaburi, Pathumthani, Thailand.",
+    "Thalassemia Research Center, Institute of Molecular Biosciences, Mahidol University, Salaya, Nakhon Pathom, Thailand.",
+    "Thalassemia Research Center, Institute of Molecular Biosciences, Mahidol University, Salaya, Nakhon Pathom, Thailand.",
+    "Department of Pathobiology, Faculty of Science, Mahidol University, Bangkok, Thailand.",
+    "Thalassemia Research Center, Institute of Molecular Biosciences, Mahidol University, Salaya, Nakhon Pathom, Thailand. saovaros.sva@mahidol.ac.th.",
+    "Department of Biochemistry, Faculty of Science, Mahidol University, Bangkok, Thailand. saovaros.sva@mahidol.ac.th."
+  ]
+}

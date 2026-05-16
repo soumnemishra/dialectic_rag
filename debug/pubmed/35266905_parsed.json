@@ -1,0 +1,30 @@
+{
+  "pmid": "35266905",
+  "title": "Advances in the epidemiology, clinical features, diagnosis, clinical management and prevention of coronavirus disease 2019.",
+  "abstract": "PURPOSE OF REVIEW: The current article reviews the latest information on the epidemiology, clinical features, diagnostics, clinical management and prevention of coronavirus disease 2019 (COVID-19). RECENT FINDINGS: Atypical pneumonia due to severe acute respiratory syndrome coronavirus-2 emerged in December 2019 in a market in Wuhan, China and rapidly evolved into a pandemic in March 2020. Viral loads of patients with COVID-19 peak in the first week of illness around day 2-4 and hence there is very high-transmission potential causing community outbreaks. Asymptomatic and presymptomatic transmission is a hallmark of COVID-19. Several variants of concern (VOC) have emerged over the last 2 years and Omicron is the predominant variant in many countries. PCR is the standard diagnostic test while rapid antigen test is a useful supplementary test. Serology tests provide indirect evidence of infection 1 -2 weeks after the onset of symptoms. Molnupiravir and nirmatrelvir are oral antiviral agents that may reduce the risk of hospitalization and deaths if administered early to high-risk subjects. Remdesivir, baricitinib, anti-IL-6 tocilizumab and dexamethasone are frequently used for treatment of patients with respiratory failure. SUMMARY: COVID-19 pandemic progresses relentlessly with substantial morbidity and mortality especially in unvaccinated subjects. Mass COVID-19 vaccinations are the most important measure for control of the COVID-19 pandemic.",
+  "year": 2022,
+  "journal": "Current opinion in pulmonary medicine",
+  "authors": [
+    "David S C Hui",
+    "Alimuddin Zumla"
+  ],
+  "doi": "10.1097/MCP.0000000000000875",
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Disease Outbreaks",
+    "Humans",
+    "Pandemics",
+    "Respiratory Insufficiency",
+    "SARS-CoV-2"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Medicine & Therapeutics and Stanley Ho Centre for Emerging Infectious Diseases, The Chinese University of Hong Kong, Hong Kong, Hong Kong Special Administrative Region, China.",
+    "Division of Infection and Immunity, Department of Infection, Centre for Clinical Microbiology, University College London, and NIHR Biomedical Research Centre, University College London Hospitals, London, UK."
+  ]
+}

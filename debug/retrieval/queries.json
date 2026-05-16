@@ -1,0 +1,4 @@
+{
+  "supportive": "(\"COVID-19\"[Mesh] OR COVID-19[tiab] OR SARS-CoV-2[tiab]) AND (dexamethasone[tiab] OR corticosteroids[tiab]) AND (mortality[tiab] OR survival[tiab]) AND (hospitalized[tiab] OR severe[tiab])",
+  "contradictory": "((\"COVID-19\"[Mesh] OR COVID-19[tiab] OR SARS-CoV-2[tiab]) AND (dexamethasone[tiab] OR corticosteroids[tiab]) AND (mortality[tiab] OR survival[tiab]) AND (hospitalized[tiab] OR severe[tiab])) AND (\"no benefit\"[tiab] OR \"ineffective\"[tiab] OR \"failed trial\"[tiab] OR \"contradictory\"[tiab] OR \"versus placebo\"[tiab] OR \"negative study\"[tiab] OR \"did not improve\"[tiab] OR \"associated with harm\"[tiab])"
+}

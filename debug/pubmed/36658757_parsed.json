@@ -1,0 +1,55 @@
+{
+  "pmid": "36658757",
+  "title": "Dengue fever ophthalmic manifestations: A review and update.",
+  "abstract": "Dengue fever, the most common arbovirus disease, affects an estimated 390 million people annually. Dengue virus (DENV) is an RNA virus of the Flaviviridae family with four different serotypes. Dengue haemorrhagic fever is the deadliest form of dengue infection and is characterised by thrombocytopaenia, hypotension, and the possibility of multi-system organ failure. The mechanism hypothesised for DENV viral replication is intrinsic antibody-dependent enhancement, which refers to Fcγ receptor-mediated viral amplification. This hypothesis suggests that the internalisation of DENV through the Fcγ receptor inhibits antiviral genes by suppressing type-1 interferon-mediated antiviral responses. DENV NS1 antibodies can promote the release of various inflammatory mediators in the nuclear transcription factor pathway (NF-κB-dependent), including monocyte chemoattractant protein (MCP)-1, interleukin (IL)-6, and IL-8. As a result, MCP-1 increases ICAM-1 expression and facilitates leukocyte transmigration. In addition, anti-DENV NS1 antibodies induce endothelial cell apoptosis via a nitric oxide-regulated pathway. A chain reaction involving pre-existing DENV heterotypic antibodies and innate immune cells causes dysfunction in complement system activity and contributes to the action of autoantibodies and anti-endothelial cells, resulting in endothelial cell dysfunction, blood-retinal barrier breakdown, haemorrhage, and plasma leakage. A spectrum of ocular diseases associated with DENV infection, ranging from haemorrhagic to inflammatory manifestations, has been reported in the literature. Although rare, ophthalmic manifestations can occur in both the anterior and posterior segments and are usually associated with thrombocytopenia. The most common ocular complication is haemorrhage. However, ophthalmic complications, such as anterior uveitis and vasculitis, suggest an immune-mediated pathogenesis.",
+  "year": 2023,
+  "journal": "Reviews in medical virology",
+  "authors": [
+    "Francisco Dias Lucena-Neto",
+    "Luiz Fabio Magno Falcão",
+    "Evelly Christinne da Silva Moraes",
+    "Joacy Pedro Franco David",
+    "Adolfo de Souza Vieira-Junior",
+    "Camilla Costa Silva",
+    "Jorge Rodrigues de Sousa",
+    "Maria Irma Seixas Duarte",
+    "Pedro Fernando da Costa Vasconcelos",
+    "Juarez Antônio Simões Quaresma"
+  ],
+  "doi": "10.1002/rmv.2422",
+  "publication_types": [
+    "Journal Article",
+    "Review",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Dengue Virus",
+    "Receptors, IgG",
+    "Hemorrhage",
+    "Interleukin-6",
+    "Thrombocytopenia",
+    "Dengue",
+    "Antiviral Agents"
+  ],
+  "keywords": [
+    "dengue fever",
+    "immune pathogenesis",
+    "ocular disease"
+  ],
+  "affiliations": [
+    "State University of Pará, Belém, Pará, Brazil.",
+    "State University of Pará, Belém, Pará, Brazil.",
+    "Federal University of Pará, Belém, Pará, Brazil.",
+    "Federal University of Pará, Belém, Pará, Brazil.",
+    "State University of Pará, Belém, Pará, Brazil.",
+    "State University of Pará, Belém, Pará, Brazil.",
+    "State University of Pará, Belém, Pará, Brazil.",
+    "School of Medicine, São Paulo University, São Paulo, São Paulo, Brazil.",
+    "State University of Pará, Belém, Pará, Brazil.",
+    "State University of Pará, Belém, Pará, Brazil.",
+    "Federal University of Pará, Belém, Pará, Brazil.",
+    "School of Medicine, São Paulo University, São Paulo, São Paulo, Brazil.",
+    "Virology Section, Evandro Chagas Institute, Ananindeua, Pará, Brazil."
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "pmid": "41305587",
+  "title": "Vitamin B12 Deficiency, Hyperhomocysteinemia, and Diabetes as Metabolic Determinants of Cardiovascular Risk in Mexican Women.",
+  "abstract": "BACKGROUND: Vitamin B12 deficiency, hyperhomocysteinemia, and diabetes are emerging determinants of cardiovascular risk, particularly among women. Early detection and treatment represent an important public health opportunity to reduce the burden of disease and promote health equity. OBJECTIVE: We aimed to quantify the prevalence of vitamin B12 deficiency, hyperhomocysteinemia, and diabetes, and to evaluate the potential impact of detecting and addressing these conditions on reducing CVD risk in adult Mexican women. METHODS: We analyzed data from 1197 women aged 20-49 years from Mexico's 2022-2023 National Health and Nutrition Survey (ENSANUT). Serum vitamin B12, folate, and homocysteine were quantified, and 10-year CVD risk was estimated using Framingham and Globorisk models. Population-attributable fractions and cost-benefit analyses were used to assess preventable CVD cases and the economic feasibility of nationwide vitamin B12 supplementation. RESULTS: Nationwide, 37.2% of women have vitamin B12 deficiency, and 30.6% have borderline levels. In Southern Mexico, the prevalence of vitamin B12 deficiency is higher, reaching 52.4%. Elevated homocysteine levels were detected in 12.3% of women. The predicted number of preventable CVD cases ranged from 10,000 to 14,000, and the benefit-cost ratio exceeded 1, supporting economic feasibility. CONCLUSIONS: Vitamin B12 deficiency and hyperhomocysteinemia are very common among Mexican women and are associated with an increased cardiovascular risk, especially in those aged 40 to 49. The analysis showed that implementing a national vitamin B12 supplementation strategy could be a cost-effective preventive measure, with a benefit-cost ratio ranging from 1.93 in the base case to 2.98 when broader societal savings are taken into account. These findings highlight the potential of targeted nutritional interventions to reduce the burden of cardiovascular disease in women.",
+  "year": 2025,
+  "journal": "Nutrients",
+  "authors": [
+    "Maria D Ramirez-Villalobos",
+    "Eric Monterrubio-Flores",
+    "Manlio Marquez-Murillo",
+    "Jacqueline Alcalde-Rabanal",
+    "Teresa Shamah-Levy",
+    "Otilia Perichart-Perera",
+    "Nayeli Macias-Morales",
+    "Ismael Campos-Nonato"
+  ],
+  "doi": "10.3390/nu17223535",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Mexico",
+    "Hyperhomocysteinemia",
+    "Vitamin B 12 Deficiency",
+    "Adult",
+    "Middle Aged",
+    "Cardiovascular Diseases",
+    "Prevalence",
+    "Young Adult",
+    "Vitamin B 12",
+    "Diabetes Mellitus",
+    "Nutrition Surveys",
+    "Heart Disease Risk Factors",
+    "Homocysteine",
+    "Folic Acid",
+    "Cost-Benefit Analysis"
+  ],
+  "keywords": [
+    "Mexico",
+    "Women’s health",
+    "cardiovascular risk",
+    "hyperhomocysteinemia",
+    "national health and nutrition survey",
+    "public health",
+    "risk prediction models",
+    "scales",
+    "type 2 diabetes",
+    "vitamin B12 deficiency"
+  ],
+  "affiliations": [
+    "Center for Health Systems Research, National Institute of Public Health, Mexico City C.P. 62100, Mexico.",
+    "Center for Nutrition and Health Research, National Institute of Public Health, Mexico City C.P. 62100, Mexico.",
+    "Deputy Directorate of Diagnostic and Treatment Services, National Institute of Cardiology Ignacio Chávez, Mexico City C.P. 14080, Mexico.",
+    "Center for Health Systems Research, National Institute of Public Health, Mexico City C.P. 62100, Mexico.",
+    "Center for Survey Research, National Institute of Public Health, Mexico City C.P. 62100, Mexico.",
+    "Nutrition and Bioprogramming Coordination, National Institute of Perinatology, Mexico City C.P. 11000, Mexico.",
+    "Center for Nutrition and Health Research, National Institute of Public Health, Mexico City C.P. 62100, Mexico.",
+    "Center for Nutrition and Health Research, National Institute of Public Health, Mexico City C.P. 62100, Mexico."
+  ]
+}

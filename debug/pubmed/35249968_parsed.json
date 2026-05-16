@@ -1,0 +1,32 @@
+{
+  "pmid": "35249968",
+  "title": "Secondary Infection Risk in Patients With Severe COVID-19 Pneumonia Treated With Tocilizumab.",
+  "abstract": "BACKGROUND: Severe SARS-CoV-2 (COVID) pneumonia is characterized by marked inflammation. Current guidelines recommend the addition of the tocilizumab to dexamethasone in critically ill patients. In randomized trials, the use of tocilizumab was not associated with a statistically significant increased risk of secondary infections but concerns remain. STUDY QUESTION: Do patients with severe COVID pneumonia treated with tocilizumab experienced high rates of secondary infection. STUDY DESIGN: We performed a retrospective electronic chart review of patients with COVID pneumonia who received tocilizumab and dexamethasone (n = 62) from January 2021 to October 2021 and compared them with a cohort of patients (n = 49) who received only dexamethasone and admitted from July 2020 to December 2020 (before institutional use of tocilizumab). Patients received tocilizumab only if they had acute hypoxic respiratory failure and were felt to be clinically worsening. Patients were deemed to have a secondary infection only if a diagnosis of infection was confirmed via positive cultures. RESULTS: Sixty-six patients received tocilizumab; of which, 30 (45.5%) subsequently had culture-positive secondary infections compared with 24.5% of controls. Thirty-one patients (47.0%) who received tocilizumab died by the time of analysis, 14 (45.2%) of whom had a secondary infection. Gram-negative bacterial infections predominated, followed by fungal infections. Patients who received tocilizumab had over twice as many gram-negative pneumonias (30.3% vs. 14.3%). CONCLUSIONS: Patients with severe COVID pneumonia treated with tocilizumab experienced high rates of secondary infection. Although the benefit of tocilizumab in reducing mortality is well-established and almost certainly outweighs secondary infection risks, we question if the \"real-world\" infection rates are much higher than those reported in trials or if the infection risk could be mitigated with dose reductions in tocilizumab without losing the mortality benefit. Further study into the infection risk, and risk-benefit analysis of dose adjustments, of tocilizumab in the critical care setting is warranted.",
+  "year": 2022,
+  "journal": "American journal of therapeutics",
+  "authors": [
+    "Gagangeet Sandhu",
+    "Samuel T Piraino",
+    "Joshua Piticaru"
+  ],
+  "doi": "10.1097/MJT.0000000000001487",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Antibodies, Monoclonal, Humanized",
+    "COVID-19",
+    "Coinfection",
+    "Dexamethasone",
+    "Humans",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Division of Critical Care, Department of Medicine, St Joseph's Hospital, Syracuse, NY; and.",
+    "Department of Pharmacy, St Joseph's Hospital, Syracuse, NY.",
+    "Division of Critical Care, Department of Medicine, St Joseph's Hospital, Syracuse, NY; and."
+  ]
+}

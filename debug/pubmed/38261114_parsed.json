@@ -1,0 +1,48 @@
+{
+  "pmid": "38261114",
+  "title": "Substrate promiscuity of Dicer toward precursors of the let-7 family and their 3'-end modifications.",
+  "abstract": "The human let-7 miRNA family consists of thirteen members that play critical roles in many biological processes, including development timing and tumor suppression, and their levels are disrupted in several diseases. Dicer is the endoribonuclease responsible for processing the precursor miRNA (pre-miRNA) to yield the mature miRNA, and thereby plays a crucial role in controlling the cellular levels of let-7 miRNAs. It is well established that the sequence and structural features of pre-miRNA hairpins such as the 5'-phosphate, the apical loop, and the 2-nt 3'-overhang are important for the processing activity of Dicer. Exceptionally, nine precursors of the let-7 family (pre-let-7) contain a 1-nt 3'-overhang and get mono-uridylated in vivo, presumably to allow efficient processing by Dicer. Pre-let-7 are also oligo-uridylated in vivo to promote their degradation and likely prevent their efficient processing by Dicer. In this study, we systematically investigated the impact of sequence and structural features of all human let-7 pre-miRNAs, including their 3'-end modifications, on Dicer binding and processing. Through the combination of SHAPE structural probing, in vitro binding and kinetic studies using purified human Dicer, we show that despite structural discrepancies among pre-let-7 RNAs, Dicer exhibits remarkable promiscuity in binding and cleaving these substrates. Moreover, the 1- or 2-nt 3'-overhang, 3'-mono-uridylation, and 3'-oligo-uridylation of pre-let-7 substrates appear to have little effect on Dicer binding and cleavage rates. Thus, this study extends current knowledge regarding the broad substrate specificity of Dicer and provides novel insight regarding the effect of 3'-modifications on binding and cleavage by Dicer.",
+  "year": 2024,
+  "journal": "Cellular and molecular life sciences : CMLS",
+  "authors": [
+    "Gunjan Dadhwal",
+    "Hebatallah Samy Saad",
+    "Jonathan Bouvette",
+    "Fatima El-Azzouzi",
+    "Pierre Dagenais",
+    "Pascale Legault"
+  ],
+  "doi": "10.1007/s00018-023-05090-2",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Kinetics",
+    "MicroRNAs",
+    "Phosphates",
+    "Substrate Specificity",
+    "DEAD-box RNA Helicases",
+    "Ribonuclease III"
+  ],
+  "keywords": [
+    "3′-End processing",
+    "Dicer binding",
+    "Dicer cleavage",
+    "Let-7 microRNA",
+    "RNA structural probing",
+    "RNAse III enzyme",
+    "TRBP",
+    "miRNA precursors"
+  ],
+  "affiliations": [
+    "Département de biochimie et médecine moléculaire, Université de Montréal, Downtown Station, Box 6128, Montreal, QC, H3C 3J7, Canada.",
+    "Département de biochimie et médecine moléculaire, Université de Montréal, Downtown Station, Box 6128, Montreal, QC, H3C 3J7, Canada.",
+    "Département de biochimie et médecine moléculaire, Université de Montréal, Downtown Station, Box 6128, Montreal, QC, H3C 3J7, Canada.",
+    "Molecular Biology Department, Guyot Hall, Princeton University, Princeton, NJ, 08544, USA.",
+    "Département de biochimie et médecine moléculaire, Université de Montréal, Downtown Station, Box 6128, Montreal, QC, H3C 3J7, Canada.",
+    "Biochemistry Department, Wake Forest Biotech Place, 575 Patterson Avenue, Winston-Salem, NC, 27101, USA.",
+    "Département de biochimie et médecine moléculaire, Université de Montréal, Downtown Station, Box 6128, Montreal, QC, H3C 3J7, Canada.",
+    "Département de biochimie et médecine moléculaire, Université de Montréal, Downtown Station, Box 6128, Montreal, QC, H3C 3J7, Canada. pascale.legault@umontreal.ca."
+  ]
+}

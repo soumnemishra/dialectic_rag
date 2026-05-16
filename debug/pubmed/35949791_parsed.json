@@ -1,0 +1,46 @@
+{
+  "pmid": "35949791",
+  "title": "Clinical Characteristics and Symptomatology Associated With Dengue Fever.",
+  "abstract": "Background Early diagnosis and prompt treatment are critical to reducing overall morbidity and mortality associated with dengue fever. Thus, to better understand the condition, the present study was conducted to assess the clinical signs and symptomatology associated with dengue fever in patients in a tertiary care hospital. Methods This prospective observational study was conducted at a tertiary care hospital in Karachi, Pakistan between July and December 2021. All patients who tested positive for the dengue virus either based on antigen or antibodies were included in the study. Convenient sampling was used. A structured proforma was used for data collection. Microsoft Excel (Microsoft Corporation, Redmond, WA) and Statistical Package for the Social Sciences (SPSS, IBM Corp., Armonk, NY) were used for the entry and analysis of data, respectively. Results More than half of the patients were suffering from fever (82.5%), headache/body ache/joint pain (80.5%), and vomiting (55%). Bleeding was observed in 16 (8%) patients and was directly related to platelet count (OR: 0.981; 95% CI: 0.971-0.992), and more than half of the patients (56%) required platelet transfusion. Laboratory values included a mean platelet count of 145.22 ± 90.36 thousand, a mean total leukocyte count (TLC) of 6.87 ± 5.76 thousand, and a mean hemoglobin level of 13.71 ± 2.11 g/dl. Of the patients, 171 (85.5%) individuals tested positive for antigen nonstructural protein 1 (Ns1Ag), and 68 (34%) tested positive for either immunoglobulin G (IgG) or immunoglobulin M (IgM), or both dengue-specific antibodies. Those with dengue-specific antibodies were less likely to bleed as 6.2% were IgG and IgM positive and 31.2% were positive for both antibodies. The regression model showed a significant relationship between bleeding and platelet transfusion (p < 0.001), hospital stay (p < 0.005), and diarrhea (p < 0.001). Conclusion In conclusion, the study revealed that males were more frequently infected with the virus as compared to females. Furthermore, fever, headache/joint pain/body aches, diarrhea, and low platelet count are the major clinical and laboratory outcomes. Patients with a low level of platelets are more prone to bleeding, and platelet transfusion increased survival chances in such patients.",
+  "year": 2022,
+  "journal": "Cureus",
+  "authors": [
+    "Hareem Arshad",
+    "Mahvish Bashir",
+    "Uzema S Mushtaq",
+    "Hafsa Imtiaz",
+    "Rahimeen Rajpar",
+    "Muhammad Fiyaz Alam",
+    "Saher Fatima",
+    "Anjum Rehman",
+    "Kiran Abbas",
+    "Abdul Subhan Talpur"
+  ],
+  "doi": "10.7759/cureus.26677",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "complication",
+    "dengue",
+    "dengue serotypes",
+    "fever",
+    "immunoglobulin g",
+    "immunoglobulin m",
+    "infection"
+  ],
+  "affiliations": [
+    "Department of Medicine, Jinnah Sindh Medical University, Karachi, PAK.",
+    "Department of Medicine, Jinnah Postgraduate Medical Centre, Karachi, PAK.",
+    "Department of Medicine, Jinnah Postgraduate Medical Centre, Karachi, PAK.",
+    "Department of Medicine, Jinnah Postgraduate Medical Centre, Karachi, PAK.",
+    "Department of Medicine, Jinnah Postgraduate Medical Centre, Karachi, PAK.",
+    "Department of Nephrology, Urology, Dialysis & Renal Transplantation, Bahawal Victoria Hospital, Bahawalpur, PAK.",
+    "Department of Nephrology, Quaid-e-Azam Medical College, Bahawalpur, PAK.",
+    "Department of Obstetrics and Gynecology, Shaheed Mohtarma Benazir Bhutto Medical College, Karachi, PAK.",
+    "Department of Obstetrics and Gynecology, Shaheed Mohtarma Benazir Bhutto Medical College, Karachi, PAK.",
+    "Department of Medicine, Jinnah Postgraduate Medical Centre, Karachi, PAK.",
+    "Department of Medicine, Liaquat University of Medical and Health Sciences, Jamshoro, PAK."
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "pmid": "35337628",
+  "title": "Vitamin B12 deficiency.",
+  "abstract": "Of the water-soluble vitamins, vitamin B12 (B12) has the lowest daily requirement. It also has several unique properties including a complex pathway for its absorption and assimilation requiring intact gastric and terminal small intestinal function, an enterohepatic pathway, and several dedicated binding proteins and chaperons. The many causes of B12 deficiency include malabsorption and defects in cellular delivery and uptake, as well as limited dietary intake. B12 is required as a cofactor for only two reactions in humans, the cytosolic methionine synthase reaction and the mitochondrial methymalonyl CoA mutase reaction. Disruption of either of these reactions gives rise to B12 deficiency. Although more common with advancing age, because of the higher prevalence of malabsorptive disorders in the elderly, B12 deficiency is widely distributed across all age groups particularly where food insecurity occurs. The consequences and severity of B12 deficiency are variable depending on the degree of deficiency and its duration. Major organ systems affected include the blood, bone marrow and nervous system. Megaloblastic anemia results from a defect in thymidine and therefore DNA synthesis in rapidly dividing cells. Nervous system involvement is varied, some of which results from defective myelin synthesis and repair. Cognitive impairment and psychosis may also occur. Diagnosis of B12 deficiency rests on clinical suspicion followed by laboratory testing, which consists of a panel of tests, that together provide clinically reliable predictive indices. B12 metabolism and deficiency is closely intertwined with folate, another B-vitamin. This chapter explores the various aspects of a unique and fascinating micronutrient.",
+  "year": 2022,
+  "journal": "Vitamins and hormones",
+  "authors": [
+    "Ralph Green",
+    "Joshua W Miller"
+  ],
+  "doi": "10.1016/bs.vh.2022.02.003",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Biological Transport",
+    "Cognitive Dysfunction",
+    "Folic Acid",
+    "Humans",
+    "Vitamin B 12",
+    "Vitamin B 12 Deficiency"
+  ],
+  "keywords": [
+    "Cobalamin",
+    "Haptocorrin",
+    "Homocysteine",
+    "Intrinsic factor",
+    "Megaloblastic anemia",
+    "Methylmalonic acid",
+    "Neurodegeneration",
+    "Pernicious anemia",
+    "Transcobalamin",
+    "Vitamin B12"
+  ],
+  "affiliations": [
+    "Department of Pathology and Laboratory Medicine, University of California Davis Medical Center, Sacramento, CA, United States. Electronic address: rgreen@ucdavis.edu.",
+    "Department of Nutritional Sciences, Rutgers University, New Brunswick, NJ, United States."
+  ]
+}

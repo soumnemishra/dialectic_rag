@@ -1,0 +1,51 @@
+{
+  "pmid": "33666250",
+  "title": "Efficacy of corticosteroid in patients with COVID-19: A multi-center retrospective study and meta-analysis.",
+  "abstract": "To evaluate the efficacy of corticosteroids on coronavirus disease 2019 (COVID-19) patients with different levels of disease severity. In our multicenter study, 543 patients with confirmed COVID-19 were classified as non-severe group and severe group, and then were compared respectively for all-cause mortality and length of hospital stay between those who received corticosteroids and not. By searching in PubMed, Web of Science, Embase, and CNKI, we identified 13 retrospective studies and 6 random control trials eligible for criteria of inclusion, and conducted comprehensive meta-analyses assessing the impacts of corticosteroids on mortality, length of stay, duration of RNA clearance and duration of fever. Our multicenter study demonstrated that low-dose corticosteroids can reduce mortality in the multivariable Cox regression analysis for severe patients (p = .03), while presented no influence in univariable analysis for non-severe patients (p = .14). From multivariable analyses, patients with corticosteroids in non-severe group had longer duration of hospitalization (p = .003), but did not in severe group (p = .18). Moreover, for severe patients, corticosteroids can evidently shorten duration of fever. The same results were summarized in the meta-analyses supplemented with the result that corticosteroids delayed viral clearing in non-severe patients. Corticosteroids should be considered based on patient's condition. For patients with non-severe COVID-19, corticosteroid was not recommended as a routine therapeutic initiative as that presented prolonged duration of hospitalization and delayed viral clearing, as well as no positive impact on prognosis. While low-dose corticosteroids may benefit patients with severe COVID-19 for it can manifestly lower risk of death and improve the clinical status to some extent.",
+  "year": 2021,
+  "journal": "Journal of medical virology",
+  "authors": [
+    "Yuan Zhan",
+    "Jin Shang",
+    "Yiya Gu",
+    "Qian Huang",
+    "Jungang Xie"
+  ],
+  "doi": "10.1002/jmv.26914",
+  "publication_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Adrenal Cortex Hormones",
+    "Adult",
+    "COVID-19",
+    "Dexamethasone",
+    "Female",
+    "Hospitalization",
+    "Humans",
+    "Hydrocortisone",
+    "Length of Stay",
+    "Male",
+    "Methylprednisolone",
+    "Middle Aged",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "Treatment Outcome",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "corticosteroid",
+    "meta-analysis",
+    "multi-center retrospective study"
+  ],
+  "affiliations": [
+    "Department of Respiratory and Critical Care Medicine, National Clinical Research Center of Respiratory Disease, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+    "Department of Respiratory and Critical Care Medicine, National Clinical Research Center of Respiratory Disease, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+    "Department of Respiratory and Critical Care Medicine, National Clinical Research Center of Respiratory Disease, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+    "Department of Respiratory and Critical Care Medicine, National Clinical Research Center of Respiratory Disease, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.",
+    "Department of Respiratory and Critical Care Medicine, National Clinical Research Center of Respiratory Disease, Tongji Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China."
+  ]
+}

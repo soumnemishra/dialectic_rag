@@ -87,7 +87,7 @@ class TemporalBeliefRevision:
         # 1. Sort evidence chronologically
         sorted_evidences = sorted(
             evidences,
-            key=lambda x: (x.metadata.year or 0, -x.reproducibility_score),
+            key=lambda x: (x.metadata.year or 9999, -x.reproducibility_score),
         )
 
         if len(sorted_evidences) < 2:

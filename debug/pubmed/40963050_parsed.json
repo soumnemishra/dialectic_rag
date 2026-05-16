@@ -1,0 +1,66 @@
+{
+  "pmid": "40963050",
+  "title": "Pathological complete response and survival outcomes in single hormone receptor-positive/HER2-negative breast cancer after neoadjuvant chemotherapy and its intrinsic biological features and immune landscape.",
+  "abstract": "BACKGROUND: Previous studies often combined double hormone receptor-positive (dHR +) and single HR-positive (sHR +) tumors, thus not accounting for the distinct characteristics of sHR + , particularly in the neoadjuvant setting. Moreover, adding immunotherapy to cytotoxic chemotherapy has shown encouraging efficacy in certain HR-positive early breast cancers. This study sought to assess pathological complete response (pCR) and survival outcomes in sHR + /HER2- breast cancer after neoadjuvant chemotherapy, while also investigating its specific biological traits and immune profile. METHODS: Clinical data were sourced from the Cancer Hospital, Chinese Academy of Medical Sciences (CHCAMS, n = 1049), and the Surveillance, Epidemiology, and End Results (SEER, n = 21,092) database to examine neoadjuvant chemosensitivity and survival outcomes. Additionally, clinicopathological and subtype data from CHCAMS, SEER, the Molecular Taxonomy of Breast Cancer International Consortium (METABRIC, n = 1052), and Fudan University Shanghai Cancer Center (FUSCC, n = 570) were analyzed to identify biological features that correlate with pCR rates and prognosis in sHR + /HER2- breast cancer. Further genomic and transcriptomic data from METABRIC, The Cancer Genome Atlas (TCGA, n = 741), and MSK-IMPCAT (n = 1535) were reviewed to uncover their potential links with endocrine and immunotherapy responses. RESULTS: In comparison to dHR + (ER + and PR +)/HER2- breast cancer, sHR + (ER + /PR- or ER-/PR +)/HER2- breast cancer displayed a higher pCR rate (20.2% vs. 3.2%, P < 0.001), but considerably worse survival (hazard ratio, 2.97; 95% confidence interval, 1.62-5.43, P < 0.001) within the CHCAMS neoadjuvant cohort. Clinically, sHR + /HER2- tumors were associated with higher histological grades and proliferation rates compared to dHR + /HER2- tumors, along with a greater rate of HR-low positivity (50.9% vs. 3.0%, P < 0.001) in primary tumors and a tendency to transition to triple-negative tumors in residual disease (42.7% vs. 1.8%, P < 0.001). Furthermore, sHR + /HER2- breast cancers demonstrated lower endocrine sensitivity scores, with about 20% classified as PAM50-defined basal-like subtype. Immunologically, sHR + /HER2- tumors had elevated tumor mutation burden (TMB), higher expression of immune checkpoint genes (e.g., PD-1, PD-L1, CTLA4), and greater infiltration by tumor-infiltrating lymphocytes (TILs), particularly CD8 + T cells, than dHR + /HER2- tumors. CONCLUSION: Compared to dHR + /HER2- breast cancer, sHR + /HER2- cases showed a relative sensitivity to neoadjuvant chemotherapy but poorer prognosis. The immune-activated phenotype of sHR + /HER2- breast cancer indicates that it may benefit from immunotherapy approaches, but these findings warrant validation in prospective studies.",
+  "year": 2025,
+  "journal": "Breast cancer research and treatment",
+  "authors": [
+    "Lei Ji",
+    "Xi Chen",
+    "Hongwei Lyu",
+    "Ge Song",
+    "Min Xiao",
+    "Qing Li",
+    "Jiayu Wang",
+    "Ying Fan",
+    "Yang Luo",
+    "Qiao Li",
+    "Shanshan Chen",
+    "Fei Ma",
+    "Binghe Xu",
+    "Pin Zhang"
+  ],
+  "doi": "10.1007/s10549-025-07822-3",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Neoadjuvant Therapy",
+    "Erb-b2 Receptor Tyrosine Kinases",
+    "Breast Neoplasms",
+    "Receptors, Estrogen",
+    "Receptors, Progesterone",
+    "Middle Aged",
+    "Prognosis",
+    "Biomarkers, Tumor",
+    "Antineoplastic Combined Chemotherapy Protocols",
+    "Adult",
+    "Treatment Outcome",
+    "Aged"
+  ],
+  "keywords": [
+    "Early breast cancer",
+    "Hormone receptor-positive breast cancer",
+    "Immunotherapy",
+    "Neoadjuvant treatment"
+  ],
+  "affiliations": [
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Oncology, The Affiliated Suzhou Hospital of Nanjing Medical University, Suzhou Municipal Hospital, Gusu School, Nanjing Medical University, Suzhou, Jiangsu, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China.",
+    "Department of Medical Oncology, National Cancer Center, National Clinical Research Center for Cancer, Cancer Hospital, Chinese Academy of Medical Sciences and Peking Union Medical College, Beijing, China. zppumc@163.com."
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "pmid": "35000311",
+  "title": "[Clinical update in critical care of pulmonary medicine 2021].",
+  "abstract": "In this review, we outlined the clinical studies in critical care field of pulmonary medicine from November 1, 2020 to September 30, 2021. A Chinese retrospective study for critically ill patients with COVID-19 showed that corticosteroid therapy was associated with a reduced 28-day mortality in patients with the hyperinflammatory phenotype. In hospitalized patients with COVID-19, the use of dexamethasone resulted in lower 28-day mortality among those who were receiving either invasive mechanical ventilation or oxygen alone at randomization, and early sedation with dexmedetomidine exhibited a high probability of reduced 90-day mortality in older patients regardless of operative or non-operative cluster status. High-flow nasal cannula (HFNC) improved the prognosis compared with conventional oxygen therapy in acute exacerbation of chronic obstructive pulmonary disease (AECOPD) patients with acute compensated hypercapnic respiratory failure. For COVID-19 patients suffering from acute respiratory failure with HFNC therapy, awake prone positioning reduces the incidence of treatment failure and the need for intubation. Compared with pressure-volume curve guiding positive end-expiratory pressure (PEEP) titration for acute respiratory distress syndrome (ARDS) patients, PEEP titration guided with EIT (Electrical impedance tomography) might be associated with improved driving pressure and survival rate. Extracorporeal membrane oxygenation (ECMO) is a life-saving therapy for severe ARDS patients, but the survival among ECMO-assisted patients with COVID-19 is strongly associated with a centre's experience in ECMO during the previous year and early ECMO management. Compared to conventional lung-protective mechanical ventilation (MV), neurally adjusted ventilatory assist (NAVA) decreased duration of MV. These findings also provide evidence for improving the clinical management in critical care of pulmonary medicine. 呼吸危重症领域在2021年度（2020年10月1日到2021年9月30日）有了一些临床进展，重症肺炎发病早期、高炎性反应和病情较重的患者应用糖皮质激素有效；右美托咪定对年龄>65岁和外科术后有创机械通气患者能够获益；在呼吸支持领域，经鼻高流量湿化氧疗用于慢性阻塞性肺疾病急性发作、经鼻高流量湿化氧疗联合清醒俯卧位通气、有创机械通气患者采用电阻抗交点法指导滴定呼气末正压、早期应用体外膜氧合、结合神经调节辅助通气指导尽快撤机等相关研究，说明在动态评估的基础上采取个体化呼吸支持的重要性，这些研究成果相信也会对呼吸危重症患者临床救治提供证据支持。.",
+  "year": 2022,
+  "journal": "Zhonghua jie he he hu xi za zhi = Zhonghua jiehe he huxi zazhi = Chinese journal of tuberculosis and respiratory diseases",
+  "authors": [
+    "L C Song",
+    "L X Xie"
+  ],
+  "doi": "10.3760/cma.j.cn112147-20211028-00745",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "COVID-19",
+    "Critical Care",
+    "Humans",
+    "Pulmonary Medicine",
+    "Respiration, Artificial",
+    "Retrospective Studies",
+    "SARS-CoV-2"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "College of Pulmonary & Critical Care Medicine, Chinese PLA General Hospital,Beijing 100710, China.",
+    "College of Pulmonary & Critical Care Medicine, Chinese PLA General Hospital,Beijing 100710, China."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "pmid": "34775578",
+  "title": "A Randomized Controlled Trial to Evaluate the Safety and Efficacy of a Novel Inhaled Biologic Therapeutic in Adults with Respiratory Distress Secondary to COVID-19 Infection.",
+  "abstract": "INTRODUCTION: Inhaled therapeutics may act to directly target and attenuate lung inflammation due to COVID-19. An inhalation form of a novel biologic drug, AMP5A, is being developed as an immunomodulatory agent to treat dysregulated immune responses and is being studied in hospitalized patients to treat respiratory complications due to COVID-19. METHODS: A randomized, controlled, phase I trial was conducted to evaluate hospitalized adults with respiratory distress secondary to COVID-19. Patients received the standard care (SOC) for COVID-19, including respiratory therapy, corticosteroids, and antiviral therapies such as remdesivir. Patients were randomized 1:1 to inhalation treatment with AMP5A as an adjunct to SOC or to SOC alone (control). AMP5A was administered via inhalation daily for 5 days via hand-held nebulizer, non-invasive ventilator, or mechanical ventilation. Safety and clinical efficacy endpoints were evaluated. RESULTS: Forty subjects were enrolled and randomized (n = 19 AMP5A, n = 21 control). Remdesivir was used in fewer AMP5A subjects (26%) than control (52%), and dexamethasone was administered for most subjects (84% AMP5A, 71% control). The study met its primary endpoint with no AMP5A treatment-related adverse events (AEs), and the incidence and severity of AEs were comparable between groups: 18 AEs for control (8 mild, 1 moderate, 9 severe) and 19 AEs for AMP5A (7 mild, 7 moderate, 5 severe). Notably, subjects treated with AMP5A had fewer deaths (5% vs. 24%), shorter hospital stay (8 days vs. 12 days), fewer ICU admissions (21% vs. 33%), and a greater proportion with improved clinical outcomes than control. CONCLUSION: The phase I clinical results indicate inhaled AMP5A is safe, is well tolerated, and could lead to fewer patients experiencing deterioration or death. Based on the treatment effect (i.e., reduced mortality), a phase II trial has been initiated. TRIAL REGISTRATION: Clinicaltrials.gov identifier: NCT04606784.",
+  "year": 2022,
+  "journal": "Infectious diseases and therapy",
+  "authors": [
+    "Michael Roshon",
+    "Luciano Lemos-Filho",
+    "Holli Cherevka",
+    "Laura Goldberg",
+    "Kristin Salottolo",
+    "David Bar-Or"
+  ],
+  "doi": "10.1007/s40121-021-00562-z",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "Efficacy",
+    "Inhalation treatment",
+    "Safety"
+  ],
+  "affiliations": [
+    "Physician Residencies and Research Operations, Centura Hospital, Colorado Springs, CO, USA.",
+    "National Jewish Division of Pulmonary at Swedish Medical Center, Englewood, CO, USA.",
+    "Ampio Pharmaceuticals, Inc., Englewood, CO, USA.",
+    "Ampio Pharmaceuticals, Inc., Englewood, CO, USA.",
+    "Trauma Research Department, Penrose Hospital, Colorado Springs, CO, USA.",
+    "Trauma Research Department, Swedish Medical Center, Englewood, CO, USA.",
+    "Ampio Pharmaceuticals, Inc., Englewood, CO, USA. davidbme49@gmail.com.",
+    "Trauma Research Department, Penrose Hospital, Colorado Springs, CO, USA. davidbme49@gmail.com.",
+    "Trauma Research Department, Swedish Medical Center, Englewood, CO, USA. davidbme49@gmail.com."
+  ]
+}

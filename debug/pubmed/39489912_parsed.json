@@ -1,0 +1,53 @@
+{
+  "pmid": "39489912",
+  "title": "Dexamethasone in COVID-19 treatment: Analyzing monotherapy and combination therapy approaches.",
+  "abstract": "The COVID-19 pandemic has prompted the exploration of effective treatment options, with dexamethasone emerging as a key corticosteroid for severe cases. This review evaluates the efficacy and safety of dexamethasone, highlighting its ability to reduce mortality rates, alleviate acute respiratory distress syndrome (ARDS), and mitigate hyperinflammation. While dexamethasone shows therapeutic promise, potential adverse effects-including cardiovascular issues, neuropsychiatric complications, lung infections, and liver damage-necessitate careful monitoring and individualized treatment strategies. The review also addresses the debate over using dexamethasone alone versus in combination with other therapies targeting SARS-CoV-2, examining potential synergistic effects and drug resistance. In summary, dexamethasone is a valuable treatment option for COVID-19 but its risks highlight the need for tailored surveillance approaches. Further research is essential to establish clear guidelines for optimizing treatment and improving patient outcomes.",
+  "year": 2024,
+  "journal": "Cytokine",
+  "authors": [
+    "Seyed Mohammadmahdi Meybodi",
+    "Venus Shahabi Rabori",
+    "Darya Salkhorde",
+    "Negar Jafari",
+    "Mahsa Zeinaly",
+    "Elham Mojodi",
+    "Prashant Kesharwani",
+    "Mohammadreza Saberiyan",
+    "Amirhossein Sahebkar"
+  ],
+  "doi": "10.1016/j.cyto.2024.156794",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Dexamethasone",
+    "COVID-19 Drug Treatment",
+    "SARS-CoV-2",
+    "COVID-19",
+    "Drug Therapy, Combination",
+    "Respiratory Distress Syndrome",
+    "Antiviral Agents"
+  ],
+  "keywords": [
+    "Acute respiratory distress syndrome",
+    "COVID-19",
+    "Combination therapy",
+    "Corticosteroids",
+    "Hyperinflammation",
+    "Monotherapy",
+    "Treatment efficacy"
+  ],
+  "affiliations": [
+    "Young Researchers and Elite Club, Tabriz Branch, Islamic Azad University, Tabriz, Iran.",
+    "Department of Cardiology, Urmia University of Medical Sciences, Urmia, Iran.",
+    "Student Research Committee, Kermanshah University of Medical Sciences, Kermanshah, Iran.",
+    "Department of Cardiology, Urmia University of Medical Sciences, Urmia, Iran.",
+    "Department of Biology, Faculty of Science, University of Guilan.",
+    "Depatment of Biology, Faculty of Science, Yazd University, Yazd, Iran.",
+    "Department of Pharmaceutics, School of Pharmaceutical Education and Research, Jamia Hamdard, New Delhi 110062, India. Electronic address: prashantdops@gmail.com.",
+    "Department of Medical Genetics, Faculty of Medicine, Hormozgan University of Medical Sciences, Bandar Abbas, Iran; Cellular and Molecular Research Center, Basic Health Sciences Institute, Shahrekord University of Medical Sciences, Shahrekord, Iran. Electronic address: saberiyanmr@gmail.com.",
+    "Center for Global Health Research, Saveetha Medical College and Hospitals, Saveetha Institute of Medical and Technical Sciences, Saveetha University, Chennai, India; Biotechnology Research Center, Pharmaceutical Technology Institute, Mashhad University of Medical Sciences, Mashhad, Iran; Applied Biomedical Research Center, Mashhad University of Medical Sciences, Mashhad, Iran. Electronic address: amir_saheb2000@yahoo.com."
+  ]
+}

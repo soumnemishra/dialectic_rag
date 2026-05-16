@@ -34,3 +34,29 @@ async def test_metadata_extractor_prefers_xml_and_regex(monkeypatch):
     assert metadata.year == 2024
     assert metadata.publication_types == ["Journal Article", "Randomized Controlled Trial"]
     assert metadata.mesh_terms == ["Humans"]
+
+
+@pytest.mark.asyncio
+async def test_metadata_extractor_skips_llm_when_xml_design_is_known(monkeypatch):
+    monkeypatch.setattr(
+        "src.epistemic.metadata_extractor.ModelRegistry.get_flash_llm",
+        lambda *args, **kwargs: object(),
+    )
+    extractor = MetadataExtractor()
+
+    async def fail_if_called(*args, **kwargs):
+        raise AssertionError("LLM fallback should not run when XML gives study design")
+
+    monkeypatch.setattr(extractor, "_infer_design_with_llm", fail_if_called)
+
+    metadata = await extractor.extract(
+        article_dict={
+            "pmid": "123",
+            "abstract": "A randomized trial enrolled 200 participants.",
+            "year": 2024,
+            "publication_types": ["Randomized Controlled Trial"],
+        },
+        pmid="123",
+    )
+
+    assert metadata.study_design == StudyDesign.RCT

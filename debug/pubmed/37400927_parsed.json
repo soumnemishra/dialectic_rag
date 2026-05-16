@@ -1,0 +1,52 @@
+{
+  "pmid": "37400927",
+  "title": "Different COVID-19 treatments' impact on hospital length of stay.",
+  "abstract": "IMPORTANCE: COVID-19 has adversely affected global healthcare infrastructure since 2019. Currently, there are no large-scale published reports on the efficacy of combination therapy of dexamethasone, remdesivir, and tocilizumab on COVID-19 patients. OBJECTIVES: Is the combination therapy of dexamethasone, remdesivir, and tocilizumab superior to other treatments on hospitalized COVID-19 patients? DESIGN: This is a retrospective, comparative effectiveness study. SETTING: Single-center study PARTICIPANTS/INTERVENTIONS: We analyzed different inpatient COVID-19 treatment options available in the United States and their impact on hospital length of stay (LOS) and mortality. Hospitalized COVID-19 were categorized as \"mild,\" \"moderate\" and \"severe'' based on the highest level of oxygen required; room air, nasal cannula, or high flow/PAP/intubation, respectively. Patients were treated in accordance with the availability of medications and the latest treatment guidelines. MAIN OUTCOMES: The endpoints of the study are hospital discharges and death during hospitalization. RESULTS: 1233 COVID-19 patients were admitted from 2020 to 2021. No treatment combinations showed a statistically significant decrease in hospital LOS in mild COVID-19 patients (p = 0.186). In moderate patients, the combination of remdesivir and dexamethasone slightly decreased LOS by 1 day (p = 0.007). In severe patients, the three-drug combination of remdesivir, dexamethasone, and tocilizumab decreased LOS by 8 days (p = 0.0034) when compared to nonviable treatments, such as hydroxychloroquine and convalescent plasma transfusion. However, it did not show any statistically significant benefit when compared to two-drug regimens (dexamethasone plus remdesivir) in severe COVID-19 (p = 0.116). No treatment arm appeared to show a statistically significant decrease in mortality for severe COVID-19 patients. CONCLUSIONS: Our findings suggest that three-drug combination may decrease LOS in severe COVID-19 patients when compared to two-drug therapy. However, the trend was not supported by statistical analysis. Remdesivir may not be clinically beneficial for mild hospitalized COVID-19 patients; considering its cost, one could reserve it for moderate and severe patients. Triple drug therapies, while potentially reducing LOS for severe patients, do not affect overall mortality. Additional patient data may increase statistical power and solidify these findings.",
+  "year": 2023,
+  "journal": "European journal of medical research",
+  "authors": [
+    "Satori Iwamoto",
+    "Bahaar Kaur Muhar",
+    "Hao Chen",
+    "Harrison Chu",
+    "Mason Johnstone",
+    "Ashwin Sidhu",
+    "Hillary Chu",
+    "Joseph Fischer",
+    "Gary Chu"
+  ],
+  "doi": "10.1186/s40001-023-01201-8",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Length of Stay",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment",
+    "Retrospective Studies",
+    "Blood Component Transfusion",
+    "Treatment Outcome",
+    "COVID-19 Serotherapy",
+    "Plasma",
+    "Dexamethasone",
+    "Hospitals"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Length of stay",
+    "Mortality"
+  ],
+  "affiliations": [
+    "California Northstate University College of Medicine, Elk Grove, USA.",
+    "California Northstate University College of Medicine, Elk Grove, USA.",
+    "Department of Respiratory Internal Medicine, Yokohama City University, Yokohama, Japan.",
+    "California Northstate University College of Medicine, Elk Grove, USA.",
+    "California Northstate University College of Medicine, Elk Grove, USA.",
+    "California Northstate University College of Medicine, Elk Grove, USA.",
+    "California Northstate University College of Medicine, Elk Grove, USA.",
+    "California Northstate University College of Medicine, Elk Grove, USA.",
+    "California Northstate University College of Medicine, Elk Grove, USA. Gary.Chu@CNSU.edu."
+  ]
+}

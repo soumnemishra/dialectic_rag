@@ -1,0 +1,50 @@
+{
+  "pmid": "33956386",
+  "title": "Reporting guidelines for artificial intelligence in healthcare research.",
+  "abstract": "Reporting guidelines are structured tools developed using explicit methodology that specify the minimum information required by researchers when reporting a study. The use of artificial intelligence (AI) reporting guidelines that address potential sources of bias specific to studies involving AI interventions has the potential to improve the quality of AI studies, through improvements in their design and delivery, and the completeness and transparency of their reporting. With a number of guidance documents relating to AI studies emerging from different specialist societies, this Review article provides researchers with some key principles for selecting the most appropriate reporting guidelines for a study involving an AI intervention. As the main determinants of a high-quality study are contained within the methodology of the study design rather than the intervention, researchers are recommended to use reporting guidelines that are specific to the study design, and then supplement them with AI-specific guidance contained within available AI reporting guidelines.",
+  "year": 2021,
+  "journal": "Clinical & experimental ophthalmology",
+  "authors": [
+    "Hussein Ibrahim",
+    "Xiaoxuan Liu",
+    "Alastair K Denniston"
+  ],
+  "doi": "10.1111/ceo.13943",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Health Services Research",
+    "Humans",
+    "Qualitative Research",
+    "Research Design",
+    "Research Report"
+  ],
+  "keywords": [
+    "artificial intelligence",
+    "checklist",
+    "guidelines",
+    "machine learning",
+    "research design",
+    "research report"
+  ],
+  "affiliations": [
+    "Academic Unit of Ophthalmology, Institute of Inflammation and Ageing, College of Medical and Dental Sciences, University of Birmingham, Birmingham, UK.",
+    "Department of Ophthalmology, University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK.",
+    "Centre for Regulatory Science and Innovation, Birmingham Health Partners, Birmingham, UK.",
+    "Academic Unit of Ophthalmology, Institute of Inflammation and Ageing, College of Medical and Dental Sciences, University of Birmingham, Birmingham, UK.",
+    "Department of Ophthalmology, University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK.",
+    "Centre for Regulatory Science and Innovation, Birmingham Health Partners, Birmingham, UK.",
+    "NIHR Biomedical Research Centre, Moorfields Eye Hospital NHS Foundation Trust and University College London, London, UK.",
+    "Health Data Research UK, London, UK.",
+    "Academic Unit of Ophthalmology, Institute of Inflammation and Ageing, College of Medical and Dental Sciences, University of Birmingham, Birmingham, UK.",
+    "Department of Ophthalmology, University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK.",
+    "Centre for Regulatory Science and Innovation, Birmingham Health Partners, Birmingham, UK.",
+    "NIHR Biomedical Research Centre, Moorfields Eye Hospital NHS Foundation Trust and University College London, London, UK.",
+    "Health Data Research UK, London, UK.",
+    "Centre for Patient Reported Outcomes Research, Institute of Applied Health Research, University of Birmingham, Birmingham, UK.",
+    "National Institute for Health Research Biomedical Research Centre at Moorfields Eye Hospital NHS Foundation Trust, University College London Institute of Ophthalmology, London, UK."
+  ]
+}

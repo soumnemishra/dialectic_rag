@@ -1,0 +1,35 @@
+{
+  "pmid": "38910682",
+  "title": "Dengue Fever Accompanied by Neurological Manifestations: Challenges and Treatment.",
+  "abstract": "Dengue, commonly referred to as 'breakbone fever,' is a mosquito-borne arboviral infection transmitted by Aedes aegypti, featuring an average incubation period of approximately seven days. Key cytokines such as interferon-gamma (IFN-γ), tumor necrosis factor (TNF)-α, and interleukin (IL)-10 are pivotal in the pathogenesis of dengue. Travelers are particularly susceptible to contracting dengue fever, with disease severity often associated with CD8+ T cell response. Without proper hospitalization during severe cases like dengue hemorrhagic fever (DHF)/dengue shock syndrome (DSS), mortality rates can escalate to 50%. Dengue fever can lead to various complications, including neurological manifestations such as encephalopathy, encephalitis, cerebral venous thrombosis, myelitis, posterior reversible encephalopathy syndrome, strokes (both ischemic and hemorrhagic), immune-mediated neurological syndromes (such as mononeuropathy, acute transverse myelitis, Guillain-Barre syndrome, and acute disseminated encephalomyelitis), and neuromuscular complications. Treatment protocols typically involve assessing disease activity using composite indices, pursuing treatment objectives, and administering intravenous fluids according to symptomatology. Given the absence of specific antiviral treatment for dengue, supportive care, particularly hydration, remains paramount during the early stages. It is crucial to recognize that dengue viruses may contribute to the development of neurological disorders, particularly in regions where dengue is endemic. Furthermore, there is a necessity for well-defined criteria for specific neurological complications. Primary prevention strategies primarily revolve around vector control measures, which play a critical role in curtailing the spread of dengue.",
+  "year": 2024,
+  "journal": "Cureus",
+  "authors": [
+    "Jay P Patel",
+    "Faizanali Saiyed",
+    "Daksh Hardaswani"
+  ],
+  "doi": "10.7759/cureus.60961",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "dengue complication",
+    "dengue encephalitis",
+    "dengue fever (df)",
+    "dengue fever/complications",
+    "dengue viruses",
+    "dengue with warning signs",
+    "dengue-related hospitalization",
+    "evolution of dengue",
+    "expanded dengue synrome",
+    "neurological manifestations of dengue"
+  ],
+  "affiliations": [
+    "Research, Chirayu Medical College and Hospital, Bhopal, IND.",
+    "Internal Medicine, Odessa National Medical University, Odessa, UKR.",
+    "Research, Jawaharlal Nehru Medical College, Wardha, IND."
+  ]
+}

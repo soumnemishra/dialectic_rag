@@ -1,0 +1,56 @@
+{
+  "pmid": "40759805",
+  "title": "ALDH1A1 promotes colorectal cancer metastasis through activating the notch signaling pathway.",
+  "abstract": "Aldehyde dehydrogenase 1 family member A1 (ALDH1A1) gene is a member of aldehyde dehydrogenase (ALDH) family, and it is closely associated with cancer metastasis. However, the exact mechanism remains to be clarified. In the present study, we aimed to explore the specific mechanism and role of ALDH1A1 in colorectal cancer (CRC) metastasis. The data obtained from GSE41657 dataset and 24 surgical resected CRC samples was analyzed to explore the expression of ALDH1A1 in CRC and its clinical importance. ALDH1Al expression was increased in CRC tissues and correlated to poor prognosis. ALDH1A1 was highly expressed in CRC cells and ALDH1Al knocking down led to reduced proliferation, migration, and invasion of CRC cells. In terms of the mechanisms, ALDH1Al knockdown or inhibiter caused the significantly reduced gene expression of Notch1, JAG1, and HES1. ALDH1A1 activates Notch signaling pathway to promote CRC growth and development. Our study demonstrated that ALDH1Al could promote CRC cell proliferation, migration, and invasion via activating the Notch signaling pathway. Targeting ALDH1Al might be promising for inhibition of CRC metastasis.",
+  "year": 2025,
+  "journal": "Medical oncology (Northwood, London, England)",
+  "authors": [
+    "Xiaoran Wang",
+    "Xiaoduo Wen",
+    "Xvhua Hu",
+    "Wenbo Niu",
+    "Ganlin Guo",
+    "Fei Yang",
+    "Bin Yu",
+    "Sujun Fan"
+  ],
+  "doi": "10.1007/s12032-025-02958-0",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Colorectal Neoplasms",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Signal Transduction",
+    "Cell Movement",
+    "Retinal Dehydrogenase",
+    "Cell Proliferation",
+    "Female",
+    "Receptors, Notch",
+    "Cell Line, Tumor",
+    "Male",
+    "Prognosis",
+    "Gene Expression Regulation, Neoplastic",
+    "Neoplasm Metastasis",
+    "Middle Aged",
+    "Receptor, Notch1",
+    "Neoplasm Invasiveness"
+  ],
+  "keywords": [
+    "ALDH1A1",
+    "Colorectal cancer",
+    "Metastasis",
+    "Notch"
+  ],
+  "affiliations": [
+    "Department of Second General Surgery, The Fourth Hospital of Hebei Medical University, No.12 of Jiankang Road, Shijiazhuang, 050010, Hebei, China. 48701660@hebmu.edu.cn.",
+    "Department of Ultrasound in Obstetrics and Gynecology, The Fourth Hospital of Hebei Medical University, Shijiazhuang, China.",
+    "Department of Second General Surgery, The Fourth Hospital of Hebei Medical University, No.12 of Jiankang Road, Shijiazhuang, 050010, Hebei, China.",
+    "Department of Second General Surgery, The Fourth Hospital of Hebei Medical University, No.12 of Jiankang Road, Shijiazhuang, 050010, Hebei, China.",
+    "Department of Second General Surgery, The Fourth Hospital of Hebei Medical University, No.12 of Jiankang Road, Shijiazhuang, 050010, Hebei, China.",
+    "Department of Otolaryngology Head and Neck Surgery, The Fourth Hospital of Hebei Medical University, Shijiazhuang, China.",
+    "Department of Second General Surgery, The Fourth Hospital of Hebei Medical University, No.12 of Jiankang Road, Shijiazhuang, 050010, Hebei, China.",
+    "Department of Mathematics, School of Medical Imaging, Hebei Medical University, Shijiazhuang, China."
+  ]
+}

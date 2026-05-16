@@ -1,0 +1,32 @@
+{
+  "pmid": "39420173",
+  "title": "Determinants of selectivity in the dicing mechanism.",
+  "abstract": "Our research elucidates the cleavage processes of the RNase III enzyme, DICER, which plays a crucial role in the production of small RNAs, such as microRNAs (miRNAs) and small interfering RNAs (siRNAs). Utilizing high-throughput dicing assays, we expose the bipartite pairing rule that dictates the cleavage sites of DICER. Furthermore, we decode the intricate recognition mechanism of the primary YCR motif and identify an analogous secondary YCR motif that influences DICER's cleavage choices. Collectively, our findings clarify the bipartite pairing rule and enhance our understanding of the role of RNA motifs in modulating DICER's cleavage activity, laying the groundwork for future research on their roles in miRNA biogenesis and gene regulation.",
+  "year": 2024,
+  "journal": "Nature communications",
+  "authors": [
+    "Thi Nhu-Y Le",
+    "Cong Truc Le",
+    "Tuan Anh Nguyen"
+  ],
+  "doi": "10.1038/s41467-024-53322-1",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Ribonuclease III",
+    "MicroRNAs",
+    "Humans",
+    "RNA, Small Interfering",
+    "Nucleotide Motifs",
+    "DEAD-box RNA Helicases",
+    "HEK293 Cells"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Division of Life Science, The Hong Kong University of Science & Technology, Hong Kong, China.",
+    "Division of Life Science, The Hong Kong University of Science & Technology, Hong Kong, China.",
+    "Division of Life Science, The Hong Kong University of Science & Technology, Hong Kong, China. tuananh@ust.hk."
+  ]
+}

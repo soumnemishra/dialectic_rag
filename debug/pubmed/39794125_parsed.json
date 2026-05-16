@@ -1,0 +1,72 @@
+{
+  "pmid": "39794125",
+  "title": "ESRP2-microRNA-122 axis promotes the postnatal onset of liver polyploidization and maturation.",
+  "abstract": "Hepatocyte polyploidy and maturity are critical to acquiring specialized liver functions. Multiple intracellular and extracellular factors influence ploidy, but how they cooperate temporally to steer liver polyploidization and maturation or how post-transcriptional mechanisms integrate into these paradigms is unknown. Here, we identified an important regulatory hierarchy in which postnatal activation of epithelial splicing regulatory protein 2 (ESRP2) stimulates processing of liver-specific microRNA (miR-122) to facilitate polyploidization, maturation, and functional competence of hepatocytes. By determining transcriptome-wide protein-RNA interactions in vivo and integrating them with single-cell and bulk hepatocyte RNA-seq data sets, we delineated an ESRP2-driven RNA processing program that drives sequential replacement of fetal-to-adult transcript isoforms. Specifically, ESRP2 binds the primary miR-122 host gene transcript to promote its processing/biogenesis. Combining constitutive and inducible ESRP2 gain- and loss-of-function mouse models with miR-122 rescue experiments, we demonstrated that timed activation of ESRP2 augments the miR-122-driven program of cytokinesis failure, ensuring the proper onset and extent of hepatocyte polyploidization.",
+  "year": 2025,
+  "journal": "Genes & development",
+  "authors": [
+    "Sushant Bangru",
+    "Jackie Chen",
+    "Nicholas Baker",
+    "Diptatanu Das",
+    "Ullas V Chembazhi",
+    "Jessica M Derham",
+    "Sandip Chorghade",
+    "Waqar Arif",
+    "Frances Alencastro",
+    "Andrew W Duncan",
+    "Russ P Carstens",
+    "Auinash Kalsotra"
+  ],
+  "doi": "10.1101/gad.352129.124",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "MicroRNAs",
+    "Animals",
+    "Polyploidy",
+    "Mice",
+    "Liver",
+    "Hepatocytes",
+    "RNA-Binding Proteins",
+    "Cytokinesis"
+  ],
+  "keywords": [
+    "ESRP2",
+    "RNA processing",
+    "eCLIP",
+    "genome editing",
+    "hepatocyte maturation",
+    "microRNA",
+    "polyploidy",
+    "protein–RNA interactions",
+    "single-cell transcriptomics"
+  ],
+  "affiliations": [
+    "Department of Biochemistry, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Cancer Center at Illinois, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Department of Biochemistry, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Department of Biochemistry, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Carl R. Woese Institute of Genomic Biology, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Department of Biochemistry, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Division of Nutritional Sciences, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Chan Zuckerberg Biohub, Chicago, Illinois 60642, USA.",
+    "Department of Biochemistry, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA.",
+    "Department of Biochemistry, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Chan Zuckerberg Biohub, Chicago, Illinois 60642, USA.",
+    "Department of Biochemistry, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Department of Biochemistry, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Department of Pathology, Pittsburgh Liver Research Center, University of Pittsburgh, Pittsburgh, Pennsylvania 15261, USA.",
+    "Department of Pathology, Pittsburgh Liver Research Center, University of Pittsburgh, Pittsburgh, Pennsylvania 15261, USA.",
+    "Department of Medicine, Perelman School of Medicine, University of Pennsylvania, Philadelphia, Pennsylvania 19104, USA.",
+    "Department of Biochemistry, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA; kalsotra@illinois.edu.",
+    "Cancer Center at Illinois, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Carl R. Woese Institute of Genomic Biology, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Division of Nutritional Sciences, University of Illinois, Urbana-Champaign, Urbana, Illinois 61801, USA.",
+    "Chan Zuckerberg Biohub, Chicago, Illinois 60642, USA."
+  ]
+}

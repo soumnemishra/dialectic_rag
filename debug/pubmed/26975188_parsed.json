@@ -1,0 +1,64 @@
+{
+  "pmid": "26975188",
+  "title": "Effect of ALDH1 on prognosis and chemoresistance by breast cancer subtype.",
+  "abstract": "Aldehyde dehydrogenase 1 (ALDH1) has been identified as a breast cancer stem cell marker, but its value as a predictor of prognosis and chemoresistance is controversial. This study investigated the effect of ALDH1 on prognosis and chemoresponse by breast cancer subtype. We immunohistochemically analyzed 653 invasive breast cancer specimens and evaluated correlations among clinicopathological factors, survival status, response to neoadjuvant chemotherapy, and ALDH1 expression. Of 653 specimens, 139 (21.3 %) expressed ALDH1 in tumor cells. ALDH1 expression was correlated significantly with larger tumor size, node metastasis, higher nuclear grade, and with HER2(+) and progesterone/estrogen receptor (HR)(-) subtypes. ALDH1 expression was significantly observed in HER2 type and triple-negative breast cancer (TNBC). Patients with ALDH1(+) cancers had significantly shorter disease-free survival (P < 0001) and overall survival (P = 0.044). ALDH1 expression significantly affected prognosis of luminal types, but not TNBC and HER2-enriched types. For the 234 patients treated with neoadjuvant chemotherapy, pathological complete response (pCR) rate was significantly lower in ALDH1(+) cases (13.5 vs. 30.3 %, P = 0.003). pCR and ALDH1 expression were significantly correlated in TNBC patients (P = 0.003). ALDH1(+) breast cancers tended to be aggressive, with poor prognoses. Although ALDH1(+) TNBC showed higher chemoresistance, ALDH1 had significant impact on prognosis in the luminal type but not in TNBC.",
+  "year": 2016,
+  "journal": "Breast cancer research and treatment",
+  "authors": [
+    "Kumiko Kida",
+    "Takashi Ishikawa",
+    "Akimitsu Yamada",
+    "Kazuhiro Shimada",
+    "Kazutaka Narui",
+    "Sadatoshi Sugae",
+    "Daisuke Shimizu",
+    "Mikiko Tanabe",
+    "Takeshi Sasaki",
+    "Yasushi Ichikawa",
+    "Itaru Endo"
+  ],
+  "doi": "10.1007/s10549-016-3738-7",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Chemotherapy, Adjuvant",
+    "Drug Resistance, Neoplasm",
+    "Female",
+    "Gene Expression Regulation, Neoplastic",
+    "Humans",
+    "Isoenzymes",
+    "Lymphatic Metastasis",
+    "Middle Aged",
+    "Neoadjuvant Therapy",
+    "Prognosis",
+    "Retinal Dehydrogenase",
+    "Survival Analysis",
+    "Triple Negative Breast Neoplasms"
+  ],
+  "keywords": [
+    "ALDH1",
+    "Breast cancer",
+    "Chemoresistance",
+    "Prognosis",
+    "Stem cell",
+    "Subtype"
+  ],
+  "affiliations": [
+    "Department of Gastroenterological Surgery and Surgical Oncology, Yokohama City University Graduate School of Medicine, Yokohama, Japan.",
+    "Department of Breast Surgery, Tokyo Medical University, 6-1-1 Shinjuku, Shinjuku-ku, Tokyo, Japan. tishik55@gmail.com.",
+    "Department of Breast and Thyroid Surgery, Yokohama City University Medical Center, Yokohama, Japan.",
+    "Department of Gastroenterological Surgery and Surgical Oncology, Yokohama City University Graduate School of Medicine, Yokohama, Japan.",
+    "Department of Breast and Thyroid Surgery, Yokohama City University Medical Center, Yokohama, Japan.",
+    "Department of Gastroenterological Surgery and Surgical Oncology, Yokohama City University Graduate School of Medicine, Yokohama, Japan.",
+    "Department of Gastroenterological Surgery and Surgical Oncology, Yokohama City University Graduate School of Medicine, Yokohama, Japan.",
+    "Department of Pathology, Yokohama City University Medical Center, Yokohama, Japan.",
+    "Department of Pathology, Yokohama City University Medical Center, Yokohama, Japan.",
+    "Department of Gastroenterological Surgery and Surgical Oncology, Yokohama City University Graduate School of Medicine, Yokohama, Japan.",
+    "Department of Gastroenterological Surgery and Surgical Oncology, Yokohama City University Graduate School of Medicine, Yokohama, Japan."
+  ]
+}

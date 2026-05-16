@@ -1,0 +1,46 @@
+{
+  "pmid": "11773300",
+  "title": "Preoperative chemotherapy in patients with operable breast cancer: nine-year results from National Surgical Adjuvant Breast and Bowel Project B-18.",
+  "abstract": "National Surgical Adjuvant Breast and Bowel Project (NSABP) Protocol B-18 was initiated in 1988 to determine whether four cycles of doxorubicin/cyclophosphamide given preoperatively improve survival and disease-free survival (DFS) when compared with the same chemotherapy given postoperatively. Secondary aims included the evaluation of preoperative chemotherapy in downstaging the primary breast tumor and involved axillary lymph nodes, the comparison of lumpectomy rates and rates of ipsilateral breast tumor recurrence (IBTR) in the two treatment groups, and the assessment of the correlation between primary tumor response and outcome. Initially published findings were based on a follow-up of 5 years; this report updates results through 9 years of follow-up. There continue to be no statistically significant overall differences in survival or DFS between the two treatment groups. Survival at 9 years is 70% in the postoperative group and 69% in the preoperative group (P =.80). DFS is 53% in postoperative patients and 55% in preoperative patients (P =.50). A statistically significant correlation persists between primary tumor response and outcome, and this correlation has become statistically stronger with longer follow-up. Patients assigned to preoperative chemotherapy received notably more lumpectomies than postoperative patients, especially among patients with tumors greater than 5 cm at study entry. Although the rate of IBTR was slightly higher in the preoperative group (10.7% versus 7.6%), this difference was not statistically significant. Marginally statistically significant treatment-by-age interactions appear to be emerging for survival and DFS, suggesting that younger patients may benefit from preoperative therapy, whereas the reverse may be true for older patients.",
+  "year": 2001,
+  "journal": "Journal of the National Cancer Institute. Monographs",
+  "authors": [
+    "N Wolmark",
+    "J Wang",
+    "E Mamounas",
+    "J Bryant",
+    "B Fisher"
+  ],
+  "doi": "10.1093/oxfordjournals.jncimonographs.a003469",
+  "publication_types": [
+    "Clinical Trial",
+    "Journal Article",
+    "Randomized Controlled Trial",
+    "Research Support, U.S. Gov't, P.H.S."
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Antineoplastic Agents",
+    "Breast Neoplasms",
+    "Chemotherapy, Adjuvant",
+    "Cyclophosphamide",
+    "Disease-Free Survival",
+    "Doxorubicin",
+    "Female",
+    "Follow-Up Studies",
+    "Humans",
+    "Lymphatic Metastasis",
+    "Middle Aged",
+    "Multicenter Studies as Topic",
+    "Preoperative Care",
+    "Prognosis",
+    "Recurrence",
+    "Survival Analysis",
+    "Treatment Failure",
+    "Treatment Outcome"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "National Surgical Adjuvant Breast and Bowel Project (NSABP), 320 E. North Ave., Pittsburgh, PA 15212, USA. nwolmark@wpahs.org"
+  ]
+}

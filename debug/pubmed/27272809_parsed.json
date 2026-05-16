@@ -1,0 +1,59 @@
+{
+  "pmid": "27272809",
+  "title": "SOX2 and ALDH1 as Predictors of Operable Breast Cancer.",
+  "abstract": "AIM: Sex-determining region Y-box binding protein-2 (SOX2) and aldehyde dehydrogenase-1 (ALDH1) are known cancer stem-cell markers, and represent candidate predictors for breast cancer prognosis. In this study we investigated the relationships between SOX2/ALDH1 expression and prognosis. MATERIALS AND METHODS: One hunred and two breast cancer surgical specimens were immunohistochemically analyzed for SOX2 and ALDH1 expression. RESULTS: Disease-free survival (DFS) and overall survival (OS) were significantly poorer for SOX2-positive patients than SOX2-negative (p=0.0024 and p=0.0021, respectively), and for ALDH1-positive patients than ALDH1-negative (p=0.0049 and p=0.0083). DFS and OS were worse for SOX2- or ALDH1-positive patients than double-negative (p=0.0053 and p=0.0166). While an obvious tendency toward worse DFS was seen for estrogen receptor (ER)-negative patients, and attenuated for ER-positive, only SOX2/ALDH1 any-positive patients showed significantly poorer DFS (p=0.0258). CONCLUSION: SOX2 and ALDH1 can be considered markers of poor prognosis, particularly in ER-negative patients. SOX2/ALDH1 any-positivity might also offer a reliable predictor of poor prognosis.",
+  "year": 2016,
+  "journal": "Anticancer research",
+  "authors": [
+    "Hiroaki Shima",
+    "Goro Kutomi",
+    "Fukino Satomi",
+    "Hideki Maeda",
+    "Yoshihiko Hirohashi",
+    "Tadashi Hasegawa",
+    "Mitsuru Mori",
+    "Toshihiko Torigoe",
+    "Ichiro Takemasa"
+  ],
+  "doi": null,
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Breast Neoplasms",
+    "Disease-Free Survival",
+    "Female",
+    "Humans",
+    "Immunohistochemistry",
+    "Isoenzymes",
+    "Lymphatic Metastasis",
+    "Middle Aged",
+    "Prognosis",
+    "Receptors, Estrogen",
+    "Retinal Dehydrogenase",
+    "Retrospective Studies",
+    "SOXB1 Transcription Factors"
+  ],
+  "keywords": [
+    "ALDH1",
+    "SOX2",
+    "breast cancer",
+    "cancer stem cells",
+    "predictive marker"
+  ],
+  "affiliations": [
+    "Department of Surgery, Surgical Oncology and Science, Sapporo Medical University, Sapporo, Japan simahiro@sapmed.ac.jp.",
+    "Department of Surgery, Surgical Oncology and Science, Sapporo Medical University, Sapporo, Japan.",
+    "Department of Surgery, Surgical Oncology and Science, Sapporo Medical University, Sapporo, Japan.",
+    "Department of Surgery, Surgical Oncology and Science, Sapporo Medical University, Sapporo, Japan.",
+    "Department of Pathology, Sapporo Medical University School of Medicine, Sapporo, Japan.",
+    "Department of Surgical Pathology, Sapporo Medical University, Sapporo, Japan.",
+    "Department of Public Health, Sapporo Medical University, Sapporo, Japan.",
+    "Department of Pathology, Sapporo Medical University School of Medicine, Sapporo, Japan.",
+    "Department of Surgery, Surgical Oncology and Science, Sapporo Medical University, Sapporo, Japan."
+  ]
+}

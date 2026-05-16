@@ -1,0 +1,48 @@
+{
+  "pmid": "34816924",
+  "title": "The effectiveness of dexamethasone on the prognosis of dialysis patients with severe COVID-19.",
+  "abstract": "OBJECTIVE: This study aimed to investigate the effectiveness of dexamethasone in dialysis patients with COVID-19 and whether it predicts mortality. METHODS: This is a comparative cross-sectional study of 113 consecutive patients with COVID-19 with severe pneumonia signs. The patients were divided into two groups according to the use of dexamethasone treatment: group 1 (n=45) included patients who were treated with dexamethasone and group 2 (n=68) who did not receive dexamethasone. RESULTS: The mean age of both groups was 67.0±10.6 and 67.2±13.0 years, respectively (p=0.947). With respect to demographic and laboratory findings, there were no significant differences between the two groups (p>0.05). The hospitalization time of patients in group 1 was longer than that in group 2 (11 [7-17] days vs. 8 [5.3-14] days, p=0.093]. The 28-day survival rate was 54.2% in the group receiving dexamethasone treatment and 79.5% in the group not receiving dexamethasone treatment (p=0.440). CONCLUSION: Dexamethasone did not reduce mortality rates and the requirement for intensive care unit in dialysis patients with COVID-19. Larger prospective randomized clinical trials are required to associate personalized medicine with the corticosteroid treatment to select suitable patients who are more likely to show a benefit.",
+  "year": 2021,
+  "journal": "Revista da Associacao Medica Brasileira (1992)",
+  "authors": [
+    "Aysel Toçoglu",
+    "Hamad Dheir",
+    "Taner Demirci",
+    "Rumeysa Kurt",
+    "Salih Salihi",
+    "Selçuk Yaylaci",
+    "Gözde Çakırsoy Çakar",
+    "Hande Toptan",
+    "Oguz Karabay",
+    "Savas Sipahi"
+  ],
+  "doi": "10.1590/1806-9282.20210600",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "Cross-Sectional Studies",
+    "Dexamethasone",
+    "Humans",
+    "Middle Aged",
+    "Prognosis",
+    "Prospective Studies",
+    "Renal Dialysis",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Sakarya University Faculty of Medicine, Department of Internal Medicine - Sakarya, Turkey.",
+    "Sakarya University Faculty of Medicine, Division of Nephrology - Sakarya, Turkey.",
+    "Sakarya University Faculty of Medicine, Division of Endocrinology - Sakarya, Turkey.",
+    "Sakarya University Faculty of Medicine, Department of Internal Medicine - Sakarya, Turkey.",
+    "Sakarya University Faculty of Medicine, Department of Cardiovascular Surgery - Sakarya, Turkey.",
+    "Sakarya University Faculty of Medicine, Department of Internal Medicine - Sakarya, Turkey.",
+    "Sakarya University Faculty of Medicine, Department of Clinic Pathology - Sakarya, Turkey.",
+    "Sakarya University Faculty of Medicine, Department of Microbiology - Sakarya, Turkey.",
+    "Sakarya University Faculty of Medicine, Department of Infection Diseases and Microbiology - Sakarya, Turkey.",
+    "Sakarya University Faculty of Medicine, Division of Nephrology - Sakarya, Turkey."
+  ]
+}

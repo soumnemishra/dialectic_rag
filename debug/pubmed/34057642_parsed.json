@@ -1,0 +1,54 @@
+{
+  "pmid": "34057642",
+  "title": "Impact of dexamethasone on the incidence of ventilator-associated pneumonia and blood stream infections in COVID-19 patients requiring invasive mechanical ventilation: a multicenter retrospective study.",
+  "abstract": "BACKGROUND: Dexamethasone decreases mortality in patients with severe coronavirus disease 2019 (COVID-19) and has become the standard of care during the second wave of pandemic. Dexamethasone is an immunosuppressive treatment potentially increasing the risk of secondary hospital acquired infections in critically ill patients. We conducted an observational retrospective study in three French intensive care units (ICUs) comparing the first and second waves of pandemic to investigate the role of dexamethasone in the occurrence of ventilator-associated pneumonia (VAP) and blood stream infections (BSI). Patients admitted from March to November 2020 with a documented COVID-19 and requiring mechanical ventilation (MV) for ≥ 48 h were included. The main study outcomes were the incidence of VAP and BSI according to the use of dexamethasone. Secondary outcomes were the ventilator-free days (VFD) at day-28 and day-60, ICU and hospital length of stay and mortality. RESULTS: Among the 151 patients included, 84 received dexamethasone, all but one during the second wave. VAP occurred in 63% of patients treated with dexamethasone (DEXA+) and 57% in those not receiving dexamethasone (DEXA-) (p = 0.43). The cumulative incidence of VAP, considering death, duration of MV and late immunosuppression as competing factors was not different between groups (p = 0.59). A multivariate analysis did not identify dexamethasone as an independent risk factor for VAP occurrence. The occurrence of BSI was not different between groups (29 vs. 30%; p = 0.86). DEXA+ patients had more VFD at day-28 (9 (0-21) vs. 0 (0-11) days; p = 0.009) and a reduced ICU length of stay (20 (11-44) vs. 32 (17-46) days; p = 0.01). Mortality did not differ between groups. CONCLUSIONS: In this cohort of COVID-19 patients requiring invasive MV, dexamethasone was not associated with an increased incidence of VAP or BSI. Dexamethasone might not explain the high rates of VAP and BSI observed in critically ill COVID-19 patients.",
+  "year": 2021,
+  "journal": "Annals of intensive care",
+  "authors": [
+    "Ines Gragueb-Chatti",
+    "Alexandre Lopez",
+    "Dany Hamidi",
+    "Christophe Guervilly",
+    "Anderson Loundou",
+    "Florence Daviet",
+    "Nadim Cassir",
+    "Laurent Papazian",
+    "Jean-Marie Forel",
+    "Marc Leone",
+    "Jean Dellamonica",
+    "Sami Hraiech"
+  ],
+  "doi": "10.1186/s13613-021-00876-8",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "Bloodstream infection",
+    "COVID-19",
+    "Dexamethasone",
+    "Mechanical ventilation",
+    "Ventilator-associated pneumonia"
+  ],
+  "affiliations": [
+    "Assistance Publique - Hôpitaux de Marseille, Hôpital Nord, Médecine Intensive Réanimation, 13015, Marseille, France.",
+    "Centre d'Études et de Recherches sur les Services de Santé et qualite de vie EA 3279, 13005, Marseille, France.",
+    "Service d'Anesthésie et de Réanimation, Aix Marseille Université, Assistance Publique Hôpitaux de Marseille, Marseille, France.",
+    "Service de Médecine Intensive Réanimation CHU de Nice et UR2CA, Université Cote d'Azur, Nice, France.",
+    "Assistance Publique - Hôpitaux de Marseille, Hôpital Nord, Médecine Intensive Réanimation, 13015, Marseille, France.",
+    "Centre d'Études et de Recherches sur les Services de Santé et qualite de vie EA 3279, 13005, Marseille, France.",
+    "Centre d'Études et de Recherches sur les Services de Santé et qualite de vie EA 3279, 13005, Marseille, France.",
+    "Assistance Publique - Hôpitaux de Marseille, Hôpital Nord, Médecine Intensive Réanimation, 13015, Marseille, France.",
+    "Centre d'Études et de Recherches sur les Services de Santé et qualite de vie EA 3279, 13005, Marseille, France.",
+    "Institut Hospitalo-Universitaire Méditerranée Infection, Marseille, France.",
+    "Assistance Publique - Hôpitaux de Marseille, Hôpital Nord, Médecine Intensive Réanimation, 13015, Marseille, France.",
+    "Centre d'Études et de Recherches sur les Services de Santé et qualite de vie EA 3279, 13005, Marseille, France.",
+    "Assistance Publique - Hôpitaux de Marseille, Hôpital Nord, Médecine Intensive Réanimation, 13015, Marseille, France.",
+    "Centre d'Études et de Recherches sur les Services de Santé et qualite de vie EA 3279, 13005, Marseille, France.",
+    "Service d'Anesthésie et de Réanimation, Aix Marseille Université, Assistance Publique Hôpitaux de Marseille, Marseille, France.",
+    "Service de Médecine Intensive Réanimation CHU de Nice et UR2CA, Université Cote d'Azur, Nice, France.",
+    "Assistance Publique - Hôpitaux de Marseille, Hôpital Nord, Médecine Intensive Réanimation, 13015, Marseille, France. sami.hraiech@ap-hm.fr.",
+    "Centre d'Études et de Recherches sur les Services de Santé et qualite de vie EA 3279, 13005, Marseille, France. sami.hraiech@ap-hm.fr.",
+    "Service de Médecine Intensive Réanimation, APHM, CHU Nord, 13015, Marseille, France. sami.hraiech@ap-hm.fr."
+  ]
+}

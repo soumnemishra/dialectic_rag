@@ -1,0 +1,27 @@
+{
+  "pmid": "41029956",
+  "title": "Encephalopathy and central nervous system symptoms of coronavirus disease 2019: a case series from northern India.",
+  "abstract": "The coronavirus disease 2019 (COVID-19) pandemic caused by the severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) results in multi-organ involvement, with increasing evidence of neurological manifestations such as encephalopathy, encephalitis, stroke, and Guillain-Barré syndrome. This case series reports nine patients admitted between November 2020 and May 2021 with COVID-19-related encephalitis, primarily presenting with altered sensorium and other neurological symptoms. Clinical, laboratory, and cerebrospinal fluid (CSF) analysis as well as neuroimaging findings were reviewed. The patients, aged 30 to 88 years (mean age, 64 years), presented with fever, cough, shortness of breath, and altered sensorium. Neurological examination revealed abnormalities such as altered muscle tone, upgoing plantars, and neck rigidity. Laboratory results showed elevated levels of D-dimer, lactate dehydrogenase, and interleukin-6, indicating systemic inflammation and hypercoagulability. CSF was acellular with normal protein and glucose levels, and SARS-CoV-2 reverse transcription polymerase chain reaction was negative. Neuroimaging varied, with some patients showing normal computed tomography and others demonstrating mild meningeal enhancement or lacunar infarcts. The patients received supportive care, including oxygen therapy, remdesivir, dexamethasone, and ceftriaxone. Outcomes ranged from complete recovery to death, with those over 60 years of age or with significant comorbidities facing a higher mortality risk. Neurological manifestations, particularly encephalopathy, are common in COVID-19, with potential mechanisms involving systemic inflammation and microvascular damage rather than direct viral invasion of the central nervous system. Early recognition and management are crucial, especially in older patients or those with comorbidities, in order to reduce the risk of severe complications and mortality.",
+  "year": 2025,
+  "journal": "Encephalitis (Seoul, Korea)",
+  "authors": [
+    "Abhishek Verma",
+    "Deepak Kumar"
+  ],
+  "doi": "10.47936/encephalitis.2024.00164",
+  "publication_types": [
+    "Case Reports",
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "Complications",
+    "Encephalitis",
+    "Encephalopathy",
+    "COVID-19"
+  ],
+  "affiliations": [
+    "Department of Anesthesia and Intensive Care, Vardhman Mahavir Medical College and Safdarjang Hospital, New Delhi, India.",
+    "Department of Pediatrics, Lok Nayak and Associated Hospitals, Maulana Azad Medical College, University of Delhi, New Delhi, India."
+  ]
+}

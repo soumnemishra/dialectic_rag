@@ -1,0 +1,63 @@
+{
+  "pmid": "34839785",
+  "title": "Outcomes of patients with severe and critical COVID-19 treated with dexamethasone: a prospective cohort study.",
+  "abstract": "Dexamethasone implementation for COVID-19 management represented a milestone but data regarding its impact and safety have not been consistently reproduced. We aimed to evaluate in-hospital mortality before and after the implementation of corticosteroid treatment (CS-T) for severe and critical COVID-19. We conducted a cohort study that included patients admitted with severe and critical COVID-19. The primary outcome was death during hospitalization. Secondary outcomes included the length of stay (LOS), need for invasive mechanical ventilation (IMV), time to IMV initiation, IMV duration, and development of hospital-acquired infections (HAIs). Bivariate, multivariate, and propensity-score matching analysis were performed. Among 1540 patients, 688 (45%) received CS-T. Death was less frequent in the CS-T group (18 vs 31%, p < .01). Among patients on IMV, death was also less frequent in the CS-T group (25 vs 55%, p < .01). The median time to IMV was longer in the CS-T group (5 vs 3 days, p < .01). HAIs occurred more frequently in the CS-T group (20 vs 10%, p < .01). LOS, IMV, and IMV duration were similar between groups. Multivariate analysis revealed an independent association between CS-T and lower mortality (aOR 0.26, 95% CI 0.19-0.36, p < .001). Propensity-score matching analysis revealed that CS-T was independently associated with lower mortality (aOR 0.33, 95% CI 0.22-0.50, p < .01). Treatment with corticosteroids was associated with reduced in-hospital mortality among patients with severe and critical COVID-19, including those on IMV.",
+  "year": 2022,
+  "journal": "Emerging microbes & infections",
+  "authors": [
+    "Bernardo A Martinez-Guerra",
+    "Maria F Gonzalez-Lara",
+    "Carla M Roman-Montes",
+    "Karla M Tamez-Torres",
+    "Francisco E Dardón-Fierro",
+    "Sandra Rajme-Lopez",
+    "Carla Medrano-Borromeo",
+    "Alejandra Martínez-Valenzuela",
+    "Edgar Ortiz-Brizuela",
+    "Jose Sifuentes-Osornio",
+    "Alfredo Ponce-de-Leon"
+  ],
+  "doi": "10.1080/22221751.2021.2011619",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Aged",
+    "COVID-19",
+    "Clinical Decision-Making",
+    "Comorbidity",
+    "Critical Illness",
+    "Dexamethasone",
+    "Disease Management",
+    "Female",
+    "Hospital Mortality",
+    "Hospitalization",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "SARS-CoV-2",
+    "Severity of Illness Index",
+    "Treatment Outcome",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Dexamethasone",
+    "Mexico",
+    "SARS-CoV-2",
+    "corticosteroids"
+  ],
+  "affiliations": [
+    "Department of Infectious Diseases, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.",
+    "Clinical Microbiology Laboratory, Department of Infectious Diseases, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.",
+    "Department of Infectious Diseases, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.",
+    "Clinical Microbiology Laboratory, Department of Infectious Diseases, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.",
+    "Department of Medicine, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.",
+    "Department of Infectious Diseases, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.",
+    "Department of Medicine, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.",
+    "Department of Medicine, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.",
+    "Department of Infectious Diseases, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.",
+    "Department of Medicine, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico.",
+    "Department of Infectious Diseases, Instituto Nacional de Ciencias Médicas y Nutrición Salvador Zubirán, Mexico City, Mexico."
+  ]
+}

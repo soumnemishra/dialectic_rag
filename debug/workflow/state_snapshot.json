@@ -1,0 +1,1043 @@
+{
+  "timestamp": "2026-05-16T04:51:28.222113",
+  "node": "contrastive_retrieval",
+  "input_state": {
+    "original_question": "ALDH1 expression is associated with better breast cancer outcomes.",
+    "mcq_options": null,
+    "intent": "informational",
+    "risk_level": "medium",
+    "pico": {
+      "population": "patients with breast cancer",
+      "intervention": "ALDH1 expression",
+      "comparator": null,
+      "outcome": "better breast cancer outcomes",
+      "risk_level": "medium"
+    },
+    "evidence_pool": [],
+    "retrieved_docs": {},
+    "step_notes": [],
+    "claim_clusters": [],
+    "temporal_result": null,
+    "consensus_state": null,
+    "epistemic_result": null,
+    "abstention_rationale": null,
+    "candidate_answers": [
+      "Intervention is supported",
+      "Intervention is not supported"
+    ],
+    "candidate_answer": "",
+    "final_reasoning": "",
+    "abstention_triggered": false,
+    "extracted_claims": [],
+    "candidate_stances": {},
+    "fused_beliefs": {},
+    "temporal_shift": {},
+    "epistemic_state": null,
+    "safety_flags": [],
+    "trace_events": [
+      {
+        "node": "pico_extraction",
+        "section": "intention_classification",
+        "input": {
+          "vignette_length": 66
+        },
+        "output": {
+          "intent": null,
+          "pico": {
+            "population": "patients with breast cancer",
+            "intervention": "ALDH1 expression",
+            "comparator": null,
+            "outcome": "better breast cancer outcomes",
+            "risk_level": "medium"
+          },
+          "candidate_answers": [
+            "Intervention is supported",
+            "Intervention is not supported"
+          ]
+        },
+        "evaluation_policy": {
+          "zero_shot": true,
+          "question_only_retrieval": true,
+          "options_visible_to_retrieval": false,
+          "mcq_options_present_but_hidden": false
+        },
+        "risk_level": "medium"
+      }
+    ],
+    "trace_id": "d7ac5bb2-94be-4eca-83f8-c3dcbf52b2c1",
+    "trace_created_at": "2026-05-16T04:51:28.222113"
+  },
+  "output_state": {
+    "retrieved_docs": {
+      "Intervention is supported": [
+        {
+          "pmid": "39746162",
+          "title": "Adjuvant Dose-Dense Chemotherapy in Hormone Receptor-Positive Breast Cancer.",
+          "abstract": "PURPOSE: In light of evolving evidence that some patients with node-positive estrogen receptor-positive (ER+) disease may receive less benefit from chemotherapy, this study reports 12-year outcomes of the C9741 trial overall, and by the sensitivity to endocrine therapy (SET2,3) test index, a biomarker measuring endocrine transcriptional activity, to identify patients most likely to benefit from dose-dense chemotherapy. METHODS: In all, 1,973 patients were randomly assigned to dose-dense versus conventional chemotherapy. Hazard ratios (HRs) for prognosis and for predictive interaction with chemotherapy schedule were estimated from Cox models of long-term disease-free survival (DFS) and overall survival (OS). SET2,3 was tested on the 682 banked RNA samples from ER+ cancers. RESULTS: Dose-dense chemotherapy improved DFS in the overall study population by 23% (HR, 0.77 [95% CI, 0.66 to 0.90]) and OS by 20% (HR, 0.80 [95% CI, 0.67 to 0.95]); the benefits of dose-dense therapy were seen for ER+ and ER-negative subsets, without significant interaction between treatment arm and ER status. Low SET2,3 status was highly prognostic, but also predicted improved outcomes from dose-dense chemotherapy (interaction P = .0998 for DFS; 0.027 for OS), independent of menopausal status. Specifically, low endocrine transcriptional activity predicted benefit from dose-dense chemotherapy, whereas tumor burden and proliferation-driven signatures for molecular subtype classification did not. CONCLUSION: At 12-year follow-up, C9741 confirmed the sustained long-term benefit of adjuvant dose-dense chemotherapy for node-positive breast cancer. SET2,3 identified patients with ER+ breast cancer who benefited from dose-dense chemotherapy, and specifically, this benefit was predicted by low endocrine activity in the cancer, rather than tumor burden, molecular subtype, or menopausal status.",
+          "year": 2025,
+          "authors": [
+            "Otto Metzger Filho",
+            "Karla Ballman",
+            "Jordan Campbell",
+            "Minetta Liu",
+            "Jennifer Ligibel",
+            "Mark Watson",
+            "Eveline Chen",
+            "Lili Du",
+            "Daniel Stover",
+            "Lisa Carey",
+            "Ann Partridge",
+            "Jeffrey Kirshner",
+            "Hyman Muss",
+            "Clifford Hudis",
+            "Eric P Winer",
+            "Larry Norton",
+            "W Fraser Symmans"
+          ],
+          "journal": "Journal of clinical oncology : official journal of the American Society of Clinical Oncology",
+          "doi": "10.1200/JCO-24-01875",
+          "study_types": [
+            "Journal Article",
+            "Randomized Controlled Trial"
+          ],
+          "mesh_terms": [
+            "Humans",
+            "Female",
+            "Breast Neoplasms",
+            "Receptors, Estrogen",
+            "Chemotherapy, Adjuvant",
+            "Middle Aged",
+            "Antineoplastic Combined Chemotherapy Protocols",
+            "Adult",
+            "Disease-Free Survival",
+            "Aged",
+            "Biomarkers, Tumor",
+            "Proportional Hazards Models"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article",
+            "Randomized Controlled Trial"
+          ],
+          "original_pmid": "39746162",
+          "retrieval_method": "efetch",
+          "original_rank": 0,
+          "retrieval_score": null,
+          "canonical_id": "39746162",
+          "candidate": "Intervention is supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "33328048",
+          "title": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension.",
+          "abstract": "The CONSORT 2010 statement provides minimum guidelines for reporting randomised trials. Its widespread use has been instrumental in ensuring transparency in the evaluation of new interventions. More recently, there has been a growing recognition that interventions involving artificial intelligence (AI) need to undergo rigorous, prospective evaluation to demonstrate impact on health outcomes. The CONSORT-AI (Consolidated Standards of Reporting Trials-Artificial Intelligence) extension is a new reporting guideline for clinical trials evaluating interventions with an AI component. It was developed in parallel with its companion statement for clinical trial protocols: SPIRIT-AI (Standard Protocol Items: Recommendations for Interventional Trials-Artificial Intelligence). Both guidelines were developed through a staged consensus process involving literature review and expert consultation to generate 29 candidate items, which were assessed by an international multi-stakeholder group in a two-stage Delphi survey (103 stakeholders), agreed upon in a two-day consensus meeting (31 stakeholders), and refined through a checklist pilot (34 participants). The CONSORT-AI extension includes 14 new items that were considered sufficiently important for AI interventions that they should be routinely reported in addition to the core CONSORT 2010 items. CONSORT-AI recommends that investigators provide clear descriptions of the AI intervention, including instructions and skills required for use, the setting in which the AI intervention is integrated, the handling of inputs and outputs of the AI intervention, the human-AI interaction and provision of an analysis of error cases. CONSORT-AI will help promote transparency and completeness in reporting clinical trials for AI interventions. It will assist editors and peer reviewers, as well as the general readership, to understand, interpret, and critically appraise the quality of clinical trial design and risk of bias in the reported outcomes.",
+          "year": 2020,
+          "authors": [
+            "Xiaoxuan Liu",
+            "Samantha Cruz Rivera",
+            "David Moher",
+            "Melanie J Calvert",
+            "Alastair K Denniston"
+          ],
+          "journal": "The Lancet. Digital health",
+          "doi": "10.1016/S2589-7500(20)30218-1",
+          "study_types": [
+            "Journal Article",
+            "Research Support, N.I.H., Extramural",
+            "Research Support, Non-U.S. Gov't",
+            "Review"
+          ],
+          "mesh_terms": [
+            "Artificial Intelligence",
+            "Checklist",
+            "Clinical Trials as Topic",
+            "Consensus",
+            "Delphi Technique",
+            "Disclosure",
+            "Guidelines as Topic",
+            "Humans",
+            "Publishing",
+            "Research Design",
+            "Research Report"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article",
+            "Research Support, N.I.H., Extramural",
+            "Research Support, Non-U.S. Gov't",
+            "Review"
+          ],
+          "original_pmid": "33328048",
+          "retrieval_method": "efetch",
+          "original_rank": 1,
+          "retrieval_score": null,
+          "canonical_id": "33328048",
+          "candidate": "Intervention is supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "32675396",
+          "title": "Expression of cancer stem cell markers in breast phyllodes tumor.",
+          "abstract": "BACKGROUND: Phyllodes tumor (PT) is a rare tumor showing various malignant potential. The histological grade of PT is related to clinical outcome, but its relationship between gaining of malignant potential and underlying mechanism including cancer stem cell factor was not understood yet. OBJECTIVE: The main purpose of this study was to determine the expression pattern of cancer stem cell marker in PT and to understand its clinical and pathological implications. METHODS: CD44, CD166, ALDH1, and Ki-67 immunohistochemistry were performed on a tissue microarray from 185 cases of PT specimens (138 benign, 32 borderline, 15 malignant). The immunohistochemistry result and clinicopathological parameter of each cases were compared to analyze the implications of cancer stem cell markers on PT. RESULTS: Borderline/malignant PT showed higher CD44 expression of the stromal component than benign PT (p< 0.001). In lower histologic grade PT, CD166 showed increased expression in the epithelial component (p= 0.019), but decreased in the stromal component (p< 0.001). Stromal overgrowth was rarely observed as the number of positive cancer stem cell markers increased in the epithelial component (p< 0.001). In the stromal component, the number of positive cancer stem cell markers was related to higher histologic grade (p< 0.001), and increased stromal cellularity (p< 0.001), stromal atypia (p= 0.003), and stromal mitosis (p= 0.002). In benign PT, CD44 negativity (p= 0.013) and a decreased number of positive cancer stem cell markers (p= 0.012) in the epithelial component were related to poor prognosis. CONCLUSIONS: The cancer stem cell markers, CD44 and CD166, are expressed in both the epithelial and stromal components of phyllodes tumor. Besides, ALDH1 is only expressed in stromal component. In the stromal component, expression of cancer stem cell markers increases with higher PT histologic grade. In the epithelial component, the absence of cancer stem cell marker expression is related to poor clinical prognosis.",
+          "year": 2020,
+          "authors": [
+            "Sun Il Kim",
+            "Ja Seung Koo"
+          ],
+          "journal": "Cancer biomarkers : section A of Disease markers",
+          "doi": "10.3233/CBM-191276",
+          "study_types": [
+            "Journal Article"
+          ],
+          "mesh_terms": [
+            "Adult",
+            "Aldehyde Dehydrogenase 1 Family",
+            "Antigens, CD",
+            "Biomarkers, Tumor",
+            "Breast",
+            "Breast Neoplasms",
+            "Cell Adhesion Molecules, Neuronal",
+            "Disease-Free Survival",
+            "Female",
+            "Fetal Proteins",
+            "Follow-Up Studies",
+            "Humans",
+            "Hyaluronan Receptors",
+            "Mastectomy",
+            "Middle Aged",
+            "Neoplasm Grading",
+            "Neoplasm Recurrence, Local",
+            "Neoplastic Stem Cells",
+            "Phyllodes Tumor",
+            "Prognosis",
+            "Retinal Dehydrogenase",
+            "Tissue Array Analysis",
+            "Activated-Leukocyte Cell Adhesion Molecule"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article"
+          ],
+          "original_pmid": "32675396",
+          "retrieval_method": "efetch",
+          "original_rank": 2,
+          "retrieval_score": null,
+          "canonical_id": "32675396",
+          "candidate": "Intervention is supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "30885551",
+          "title": "Cancer Stem Cell Biomarkers in EGFR-Mutation-Positive Non-Small-Cell Lung Cancer.",
+          "abstract": "INTRODUCTION: Epidermal growth factor receptor (EGFR) pathway deregulation promotes the acquisition of stemlike properties in non-small-cell lung cancer. EGFR inhibition through NOTCH enriches lung cancer stem cells (CSCs). Src through Yes-associated protein 1 (YAP1) activates NOTCH. Signal transduction and activator of transcription 3 (STAT3) activation occurs upon EGFR blockade and regulates the generation of CSCs. PATIENTS AND METHODS: Using the Aldefluor assay kit, we investigated the enrichment of aldehyde dehydrogenase (ALDH)-positive cells in EGFR-mutation-positive cells treated with gefitinib, afatinib, and osimertinib. Western blot analysis was performed to evaluate changes in CSC marker expression upon EGFR blockade. We performed gene expression analysis in a cohort of EGFR-mutation-positive non-small-cell lung cancer patients. We evaluated the association of gene expression with treatment outcomes. RESULTS: The cell subpopulation surviving EGFR inhibition had high ALDH activity and elevated CSC marker expression. Concurrent inhibition of EGFR, STAT3, and Src diminished the CSC subpopulation in an EGFR-mutation-positive cellular model. In a cohort of 64 EGFR-mutation-positive patients, 2 ALDH1 isoforms and the NOTCH target hairy and enhancer of split 1 (HES1), when highly expressed, were predictive of worse outcome to EGFR blockade. The gene expression of B-cell-specific Moloney murine leukemia virus integration site 1 (Bmi-1) that maintains the self-renewal of stem cells was also related to treatment outcome. CONCLUSION: Single EGFR inhibitors increase the population of CSCs. Combinatory therapy targeting STAT3 and Src may be of potential benefit. ALDH1, HES1, and Bmi-1 are essential biomarkers in the initial assessment of EGFR-mutation-positive patients.",
+          "year": 2019,
+          "authors": [
+            "Jordi Codony-Servat",
+            "Carles Codony-Servat",
+            "Andrés Felipe Cardona",
+            "Ana Giménez-Capitán",
+            "Ana Drozdowskyj",
+            "Jordi Berenguer",
+            "Jillian Wilhelmina Paulina Bracht",
+            "Masaoki Ito",
+            "Niki Karachaliou",
+            "Rafael Rosell"
+          ],
+          "journal": "Clinical lung cancer",
+          "doi": "10.1016/j.cllc.2019.02.005",
+          "study_types": [
+            "Journal Article",
+            "Research Support, Non-U.S. Gov't"
+          ],
+          "mesh_terms": [
+            "Aldehyde Dehydrogenase 1 Family",
+            "Antineoplastic Agents",
+            "Biomarkers, Tumor",
+            "Carcinoma, Non-Small-Cell Lung",
+            "Cell Line, Tumor",
+            "Drug Therapy, Combination",
+            "ErbB Receptors",
+            "Gene Expression Regulation, Neoplastic",
+            "Humans",
+            "Lung Neoplasms",
+            "Mutation",
+            "Neoplastic Stem Cells",
+            "Polycomb Repressive Complex 1",
+            "Protein Kinase Inhibitors",
+            "STAT3 Transcription Factor",
+            "Transcription Factor HES-1",
+            "src-Family Kinases"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article",
+            "Research Support, Non-U.S. Gov't"
+          ],
+          "original_pmid": "30885551",
+          "retrieval_method": "efetch",
+          "original_rank": 3,
+          "retrieval_score": null,
+          "canonical_id": "30885551",
+          "candidate": "Intervention is supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "34848450",
+          "title": "GLO 1 and PKCλ Regulate ALDH1-positive Breast Cancer Stem Cell Survival.",
+          "abstract": "BACKGROUND/AIM: We examined the inhibitory effects of both glyoxalase 1 (GLO 1) and protein kinase C (PKC)λ in aldehyde dehydrogenase 1 (ALDH1)-positive breast cancer stem cells (CSCs). MATERIALS AND METHODS: Breast cancer genomics datasets (TCGA, n=593; METABRIC, n=1904) were downloaded and statistically analyzed. The effects of GLO 1 and PKCλ on trypan blue staining and tumor-sphere formation by ALDH1high cells derived from triple negative breast cancer (TNBC) and basal-like breast cancer were examined. RESULTS: GLO 1high, PKCλhigh, and ALDH1A3high tumors were enriched in stage I/II/III/IV samples, associated with the HER2 and TNBC subtypes according to receptor status, and associated with the HER2-enriched and basal-like subtypes according to PAM50. Inhibition of either GLO 1 (TLSC702) or PKCλ (ANF) suppressed tumor-sphere formation and enhanced death in ALDH1high cells. TLSC702 also effectively inhibited tumor-sphere formation and induced death in PKCλ knockout ALDH1high cells. CONCLUSION: GLO 1 and PKCλ are important for the survival of ALDH1-positive breast CSCs, and may represent potential therapeutic targets for the treatment of ALDH1-positive breast CSCs.",
+          "year": 2021,
+          "authors": [
+            "Hitomi Motomura",
+            "Shoma Tamori",
+            "Masa-Aki Yatani",
+            "Ayano Namiki",
+            "Chotaro Onaga",
+            "Ayaka Ozaki",
+            "Ryoko Takasawa",
+            "Yasunari Mano",
+            "Tsugumichi Sato",
+            "Yasushi Hara",
+            "Keiko Sato",
+            "Yuyun Xiong",
+            "Yohsuke Harada",
+            "Takehisa Hanawa",
+            "Sei-Ichi Tanuma",
+            "Kazunori Sasaki",
+            "Shigeo Ohno",
+            "Kazunori Akimoto"
+          ],
+          "journal": "Anticancer research",
+          "doi": "10.21873/anticanres.15415",
+          "study_types": [
+            "Journal Article"
+          ],
+          "mesh_terms": [
+            "Aldehyde Dehydrogenase 1 Family",
+            "Biomarkers, Tumor",
+            "Breast Neoplasms",
+            "Cell Line, Tumor",
+            "Cell Survival",
+            "Female",
+            "Flow Cytometry",
+            "Gene Expression Profiling",
+            "Humans",
+            "Isoenzymes",
+            "Lactoylglutathione Lyase",
+            "Neoplasm Staging",
+            "Neoplastic Stem Cells",
+            "Protein Kinase C",
+            "Transcriptome",
+            "Protein Kinase C-lambda"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article"
+          ],
+          "original_pmid": "34848450",
+          "retrieval_method": "efetch",
+          "original_rank": 4,
+          "retrieval_score": null,
+          "canonical_id": "34848450",
+          "candidate": "Intervention is supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "40963050",
+          "title": "Pathological complete response and survival outcomes in single hormone receptor-positive/HER2-negative breast cancer after neoadjuvant chemotherapy and its intrinsic biological features and immune landscape.",
+          "abstract": "BACKGROUND: Previous studies often combined double hormone receptor-positive (dHR +) and single HR-positive (sHR +) tumors, thus not accounting for the distinct characteristics of sHR + , particularly in the neoadjuvant setting. Moreover, adding immunotherapy to cytotoxic chemotherapy has shown encouraging efficacy in certain HR-positive early breast cancers. This study sought to assess pathological complete response (pCR) and survival outcomes in sHR + /HER2- breast cancer after neoadjuvant chemotherapy, while also investigating its specific biological traits and immune profile. METHODS: Clinical data were sourced from the Cancer Hospital, Chinese Academy of Medical Sciences (CHCAMS, n = 1049), and the Surveillance, Epidemiology, and End Results (SEER, n = 21,092) database to examine neoadjuvant chemosensitivity and survival outcomes. Additionally, clinicopathological and subtype data from CHCAMS, SEER, the Molecular Taxonomy of Breast Cancer International Consortium (METABRIC, n = 1052), and Fudan University Shanghai Cancer Center (FUSCC, n = 570) were analyzed to identify biological features that correlate with pCR rates and prognosis in sHR + /HER2- breast cancer. Further genomic and transcriptomic data from METABRIC, The Cancer Genome Atlas (TCGA, n = 741), and MSK-IMPCAT (n = 1535) were reviewed to uncover their potential links with endocrine and immunotherapy responses. RESULTS: In comparison to dHR + (ER + and PR +)/HER2- breast cancer, sHR + (ER + /PR- or ER-/PR +)/HER2- breast cancer displayed a higher pCR rate (20.2% vs. 3.2%, P < 0.001), but considerably worse survival (hazard ratio, 2.97; 95% confidence interval, 1.62-5.43, P < 0.001) within the CHCAMS neoadjuvant cohort. Clinically, sHR + /HER2- tumors were associated with higher histological grades and proliferation rates compared to dHR + /HER2- tumors, along with a greater rate of HR-low positivity (50.9% vs. 3.0%, P < 0.001) in primary tumors and a tendency to transition to triple-negative tumors in residual disease (42.7% vs. 1.8%, P < 0.001). Furthermore, sHR + /HER2- breast cancers demonstrated lower endocrine sensitivity scores, with about 20% classified as PAM50-defined basal-like subtype. Immunologically, sHR + /HER2- tumors had elevated tumor mutation burden (TMB), higher expression of immune checkpoint genes (e.g., PD-1, PD-L1, CTLA4), and greater infiltration by tumor-infiltrating lymphocytes (TILs), particularly CD8 + T cells, than dHR + /HER2- tumors. CONCLUSION: Compared to dHR + /HER2- breast cancer, sHR + /HER2- cases showed a relative sensitivity to neoadjuvant chemotherapy but poorer prognosis. The immune-activated phenotype of sHR + /HER2- breast cancer indicates that it may benefit from immunotherapy approaches, but these findings warrant validation in prospective studies.",
+          "year": 2025,
+          "authors": [
+            "Lei Ji",
+            "Xi Chen",
+            "Hongwei Lyu",
+            "Ge Song",
+            "Min Xiao",
+            "Qing Li",
+            "Jiayu Wang",
+            "Ying Fan",
+            "Yang Luo",
+            "Qiao Li",
+            "Shanshan Chen",
+            "Fei Ma",
+            "Binghe Xu",
+            "Pin Zhang"
+          ],
+          "journal": "Breast cancer research and treatment",
+          "doi": "10.1007/s10549-025-07822-3",
+          "study_types": [
+            "Journal Article"
+          ],
+          "mesh_terms": [
+            "Humans",
+            "Female",
+            "Neoadjuvant Therapy",
+            "Erb-b2 Receptor Tyrosine Kinases",
+            "Breast Neoplasms",
+            "Receptors, Estrogen",
+            "Receptors, Progesterone",
+            "Middle Aged",
+            "Prognosis",
+            "Biomarkers, Tumor",
+            "Antineoplastic Combined Chemotherapy Protocols",
+            "Adult",
+            "Treatment Outcome",
+            "Aged"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article"
+          ],
+          "original_pmid": "40963050",
+          "retrieval_method": "efetch",
+          "original_rank": 5,
+          "retrieval_score": null,
+          "canonical_id": "40963050",
+          "candidate": "Intervention is supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "35549854",
+          "title": "Automated medical chart review for breast cancer outcomes research: a novel natural language processing extraction system.",
+          "abstract": "BACKGROUND: Manually extracted data points from health records are collated on an institutional, provincial, and national level to facilitate clinical research. However, the labour-intensive clinical chart review process puts an increasing burden on healthcare system budgets. Therefore, an automated information extraction system is needed to ensure the timeliness and scalability of research data. METHODS: We used a dataset of 100 synoptic operative and 100 pathology reports, evenly split into 50 reports in training and test sets for each report type. The training set guided our development of a Natural Language Processing (NLP) extraction pipeline system, which accepts scanned images of operative and pathology reports. The system uses a combination of rule-based and transfer learning methods to extract numeric encodings from text. We also developed visualization tools to compare the manual and automated extractions. The code for this paper was made available on GitHub. RESULTS: A test set of 50 operative and 50 pathology reports were used to evaluate the extraction accuracies of the NLP pipeline. Gold standard, defined as manual extraction by expert reviewers, yielded accuracies of 90.5% for operative reports and 96.0% for pathology reports, while the NLP system achieved overall 91.9% (operative) and 95.4% (pathology) accuracy. The pipeline successfully extracted outcomes data pertinent to breast cancer tumor characteristics (e.g. presence of invasive carcinoma, size, histologic type), prognostic factors (e.g. number of lymph nodes with micro-metastases and macro-metastases, pathologic stage), and treatment-related variables (e.g. margins, neo-adjuvant treatment, surgical indication) with high accuracy. Out of the 48 variables across operative and pathology codebooks, NLP yielded 43 variables with F-scores of at least 0.90; in comparison, a trained human annotator yielded 44 variables with F-scores of at least 0.90. CONCLUSIONS: The NLP system achieves near-human-level accuracy in both operative and pathology reports using a minimal curated dataset. This system uniquely provides a robust solution for transparent, adaptable, and scalable automation of data extraction from patient health records. It may serve to advance breast cancer clinical research by facilitating collection of vast amounts of valuable health data at a population level.",
+          "year": 2022,
+          "authors": [
+            "Yifu Chen",
+            "Lucy Hao",
+            "Vito Z Zou",
+            "Zsuzsanna Hollander",
+            "Raymond T Ng",
+            "Kathryn V Isaac"
+          ],
+          "journal": "BMC medical research methodology",
+          "doi": "10.1186/s12874-022-01583-z",
+          "study_types": [
+            "Journal Article",
+            "Research Support, Non-U.S. Gov't"
+          ],
+          "mesh_terms": [
+            "Breast Neoplasms",
+            "Electronic Health Records",
+            "Female",
+            "Humans",
+            "Information Storage and Retrieval",
+            "Natural Language Processing",
+            "Outcome Assessment, Health Care",
+            "Research Report"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article",
+            "Research Support, Non-U.S. Gov't"
+          ],
+          "original_pmid": "35549854",
+          "retrieval_method": "efetch",
+          "original_rank": 6,
+          "retrieval_score": null,
+          "canonical_id": "35549854",
+          "candidate": "Intervention is supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "34384536",
+          "title": "Epistemic injustice in academic global health.",
+          "abstract": "This Viewpoint calls attention to the pervasive wrongs related to knowledge production, use, and circulation in global health, many of which are taken for granted. We argue that common practices in academic global health (eg, authorship practices, research partnerships, academic writing, editorial practices, sensemaking practices, and the choice of audience or research framing, questions, and methods) are peppered with epistemic wrongs that lead to or exacerbate epistemic injustice. We describe two forms of epistemic wrongs, credibility deficit and interpretive marginalisation, which stem from structural exclusion of marginalised producers and recipients of knowledge. We then illustrate these forms of epistemic wrongs using examples of common practices in academic global health, and show how these wrongs are linked to the pose (or positionality) and the gaze (or audience) of producers of knowledge. The epistemic injustice framework shown in this Viewpoint can help to surface, detect, communicate, make sense of, avoid, and potentially undo unfair knowledge practices in global health that are inflicted upon people in their capacity as knowers, and as producers and recipients of knowledge, owing to structural prejudices in the processes involved in knowledge production, use, and circulation in global health.",
+          "year": 2021,
+          "authors": [
+            "Himani Bhakuni",
+            "Seye Abimbola"
+          ],
+          "journal": "The Lancet. Global health",
+          "doi": "10.1016/S2214-109X(21)00301-6",
+          "study_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "mesh_terms": [
+            "Biomedical Research",
+            "Delivery of Health Care",
+            "Global Health",
+            "Guidelines as Topic",
+            "Humans",
+            "Research Design",
+            "Research Report",
+            "Social Justice"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "original_pmid": "34384536",
+          "retrieval_method": "efetch",
+          "original_rank": 7,
+          "retrieval_score": null,
+          "canonical_id": "34384536",
+          "candidate": "Intervention is supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "38160009",
+          "title": "Luminal B Breast Cancer Coexpressing p62 and ALDH1A3 Is Less Susceptible to Radiotherapy.",
+          "abstract": "BACKGROUND/AIM: We have reported that p62 (also known as sequestosome 1) is needed for survival/proliferation and tumor formation by aldehyde dehydrogenase 1 (ALDH1) -positive cancer stem cells (CSCs) and that p62high ALDH1A3high expression is associated with a poor prognosis in luminal B breast cancer. However, the association between p62high ALDH1A3high and the benefit from radiotherapy in patients with luminal B breast cancer remains unclear. MATERIALS AND METHODS: Datasets from the Molecular Taxonomy of Breast Cancer International Consortium (METABRIC) and The Cancer Genome Atlas (TCGA) were downloaded, and data from p62high ALDH1A3high luminal B patients treated without or with radiotherapy were analyzed by Kaplan-Meier and multivariate Cox regression analyses. We also performed an in vitro tumor sphere formation assay after X-ray irradiation using p62-knockdown ALDH1high luminal B BT-474 cells. RESULTS: p62high ALDH1A3high patients had poorer clinical outcomes than other luminal B breast cancer patients treated with radiotherapy. The combination of p62 DsiRNA KD and X-ray irradiation suppressed in vitro tumor sphere formation by ALDH1high BT-474 cells. These results suggest that p62 is involved in the reduced effect of X-ray irradiation on ALDH1-positive luminal B breast CSCs. CONCLUSION: p62 and ALDH1A3 may serve as prognostic biomarkers for luminal B breast cancer patients treated with radiotherapy. Additionally, the combination of p62 inhibition and radiotherapy could be useful for targeted strategies against ALDH1-positive luminal B breast CSCs.",
+          "year": 2024,
+          "authors": [
+            "Ayaka Ozaki",
+            "Akari Matsuda",
+            "Yuki Maemura",
+            "Yuna Tada",
+            "Takahiro Kasai",
+            "Yuka Nagashima",
+            "Chotaro Onaga",
+            "Yasushi Hara",
+            "Kazuki Kitabatake",
+            "Mitsutoshi Tsukimoto",
+            "Shoma Tamori",
+            "Kazunori Sasaki",
+            "Shigeo Ohno",
+            "Kazunori Akimoto"
+          ],
+          "journal": "Anticancer research",
+          "doi": "10.21873/anticanres.16786",
+          "study_types": [
+            "Journal Article"
+          ],
+          "mesh_terms": [
+            "Humans",
+            "Female",
+            "Breast Neoplasms",
+            "Biomarkers, Tumor",
+            "Breast",
+            "Aldehyde Dehydrogenase 1 Family",
+            "Cell Line, Tumor",
+            "Neoplastic Stem Cells",
+            "Retinal Dehydrogenase",
+            "Prognosis"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article"
+          ],
+          "original_pmid": "38160009",
+          "retrieval_method": "efetch",
+          "original_rank": 8,
+          "retrieval_score": null,
+          "canonical_id": "38160009",
+          "candidate": "Intervention is supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "36566391",
+          "title": "Expression of ALDH1 plays the important role during generation and progression in human cervical cancer.",
+          "abstract": "Cervical cancer which is caused by persistent infection with oncogenic human papillomavirus (HPV), is the third most common cancer. HPV infection causes the progression of the normal cervix to cervical intraepithelial neoplasia (CIN) because it often occurs at the function conversion of the cervical squamous epithelium and columnar epithelium zone, further to invasive carcinoma. The difference in the ALDH1 expression was very significant. With the progression of cervical cancer, reports explained obviously increased nuclear and cytoplasm ALDH1 staining in comparisons of cervical carcinomas and normal cervix (P < 0.0001), cervical carcinomas compared with CIN (P = 0.0002). Therefore, ALDH1 as a stem marker, not only resists cervical cancer but also resists in normal cervix and CIN tissues. Developing an experimental method to discover cervical cancer earlier is feasible. Furthermore, the ALDH1 was expressed in human cervical cancer cell lines (Hela, SiHa, CaSki, HT-3, and C33A) together with western blot and immunocytochemical analysis. ALDH1 plays a significant role in nuclear and cytoplasm staining by immunochemistry in single or clustered HT-3 and C33A cells. However, western blot and immunochemical analysis did not detect ALDH1 in HeLa or CaSki, SiHa cells. We also discovered that there were no remarkable differences in age, tumor size, clinical TNM staging, multiple pelvic lymph node metastasis, or histological staging (p > 0.05) between the ALDH1-positive groups in 100 cervical cancer tissues. But after the control variable age, different ALDH rating survival function contrasted, it can be concluded that the higher ALDH1 scores with the survival of patients with the worse condition.",
+          "year": 2024,
+          "authors": [
+            "Li Zhang",
+            "Bingying Dong",
+            "Xiaoli Yuan"
+          ],
+          "journal": "Biotechnology & genetic engineering reviews",
+          "doi": "10.1080/02648725.2022.2161211",
+          "study_types": [
+            "Journal Article"
+          ],
+          "mesh_terms": [
+            "Adult",
+            "Female",
+            "Humans",
+            "Middle Aged",
+            "Aldehyde Dehydrogenase 1 Family",
+            "Biomarkers, Tumor",
+            "Cell Line, Tumor",
+            "Disease Progression",
+            "Gene Expression Regulation, Neoplastic",
+            "HeLa Cells",
+            "Isoenzymes",
+            "Retinal Dehydrogenase",
+            "Uterine Cervical Dysplasia",
+            "Uterine Cervical Neoplasms"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article"
+          ],
+          "original_pmid": "36566391",
+          "retrieval_method": "efetch",
+          "original_rank": 9,
+          "retrieval_score": null,
+          "canonical_id": "36566391",
+          "candidate": "Intervention is supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "36288878",
+          "title": "High Expression of CD58 and ALDH1A3 Predicts a Poor Prognosis in Basal-like Breast Cancer.",
+          "abstract": "BACKGROUND/AIM: CD58 is an immune adhesion molecule on the cellular surface. It was previously found that a high expression of CD58 predicted a poor prognosis of patients with lower-grade gliomas. Therefore, the aim of this paper was to investigate the association between CD58 and breast cancer. MATERIALS AND METHODS: CD58 gene expression data downloaded from cBioPortal was compared between the different subtypes of breast cancer. Clinical prognosis was examined using Kaplan-Meier analysis and multivariable Cox regression analysis. The association between CD58 expression and immune cell infiltration was estimated using the TIMER 2.0 web platform. Finally, the tumour sphere formation of aldehyde dehydrogenase 1 (ALDH1)high basal-like breast cancer stem cells in which CD58 was knocked down using siRNA was measured. RESULTS: CD58 mRNA was mainly enriched in claudin-low and basal-like subtypes. The high expression of CD58 predicted a good prognosis in patients with luminal A and luminal B breast cancer. This prediction may be due to the association of immune cell infiltration with CD58. Notably, patients with luminal A breast cancer with a high expression of CD58 in association with ALDH1A3 exhibited a good prognosis; however, this did not apply to patients with basal-like breast cancer. The in vitro experiments revealed that knockdown of CD58 inhibited the tumour sphere formation ability of ALDH1high basal-like cancer cells. CONCLUSION: CD58 may function as a potential prognostic biomarker and therapeutic target in ALDH-positive basal-like cancer stem cells.",
+          "year": 2022,
+          "authors": [
+            "Yuyun Xiong",
+            "Hitomi Motomura",
+            "Shoma Tamori",
+            "Ayaka Ozaki",
+            "Chotaro Onaga",
+            "Yasushi Hara",
+            "Keiko Sato",
+            "Kouji Tahata",
+            "Yohsuke Harada",
+            "Kazunori Sasaki",
+            "Yun-Wen Zheng",
+            "Shigeo Ohno",
+            "Kazunori Akimoto"
+          ],
+          "journal": "Anticancer research",
+          "doi": "10.21873/anticanres.16029",
+          "study_types": [
+            "Journal Article"
+          ],
+          "mesh_terms": [
+            "Female",
+            "Humans",
+            "Aldehyde Dehydrogenase 1 Family",
+            "Biomarkers, Tumor",
+            "Breast Neoplasms",
+            "Claudins",
+            "Prognosis",
+            "Retinal Dehydrogenase",
+            "RNA, Messenger",
+            "RNA, Small Interfering",
+            "CD58 Antigens",
+            "Aldehyde Oxidoreductases"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article"
+          ],
+          "original_pmid": "36288878",
+          "retrieval_method": "efetch",
+          "original_rank": 10,
+          "retrieval_score": null,
+          "canonical_id": "36288878",
+          "candidate": "Intervention is supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "41102839",
+          "title": "Clinical significance and expression of ALDH1 in triple-negative breast cancer.",
+          "abstract": "BACKGROUND: Triple-negative breast cancer (TNBC) is aggressive and has limited therapeutic options due to the absence of targeted therapies, highlighting the urgent need for prognostic biomarkers linked to cancer stemness and chemoresistance. Aldehyde dehydrogenase 1 (ALDH1), a key regulator of stem cell properties, remains incompletely characterized in TNBC clinical cohorts. METHODS: ALDH1 mRNA expression levels were analyzed using the GEO2R online database, and its prognostic significance was assessed via the Kaplan‒Meier plotter tool. Immunohistochemical (IHC) staining was performed on a tissue microarray comprising 96 TNBC samples and paired adjacent normal tissues from patients treated at Binzhou People's Hospital between 2016 and 2022. The associations between ALDH1 expression and clinicopathological parameters were evaluated using the chi-square test. RESULTS: Bioinformatics analysis revealed significantly higher ALDH1 mRNA expression in TNBC tissues compared to adjacent benign tissues. Kaplan‒Meier survival analysis demonstrated that elevated ALDH1 mRNA expression was associated with poor prognosis in TNBC patients. IHC staining further confirmed elevated ALDH1 protein expression in TNBC tissues compared with normal adjacent tissues. However, there was no significant correlation between ALDH1 expression and conventional clinicopathological parameters, including age, menopausal status, tumor size, TNM stage, histological grade, histological subtype, axillary lymph node metastasis and the Ki-67 index (p > 0.05). High ALDH1 expression was significantly associated with poorer overall survival ( χ2 = 16.836, p < 0.001). CONCLUSION: Our data demonstrate that ALDH1 expression is not significantly associated with conventional clinicopathological parameters (such as age, TNM stage, or histological grade). Instead, it is associated with poorer survival on univariate analysis in TNBC patients. Its lack of association with clinicopathological factors suggests its potential utility as a supplementary prognostic indicator.",
+          "year": 2025,
+          "authors": [
+            "Yaoyao Yang",
+            "Zhuoran Li",
+            "Yangyang Zhu",
+            "Chongyong Guo",
+            "Li Yang",
+            "Jian Zhang"
+          ],
+          "journal": "Diagnostic pathology",
+          "doi": "10.1186/s13000-025-01726-y",
+          "study_types": [
+            "Journal Article"
+          ],
+          "mesh_terms": [
+            "Humans",
+            "Triple Negative Breast Neoplasms",
+            "Female",
+            "Aldehyde Dehydrogenase 1 Family",
+            "Middle Aged",
+            "Biomarkers, Tumor",
+            "Prognosis",
+            "Adult",
+            "Kaplan-Meier Estimate",
+            "Aged",
+            "Immunohistochemistry",
+            "Isoenzymes",
+            "Clinical Relevance",
+            "Retinal Dehydrogenase"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article"
+          ],
+          "original_pmid": "41102839",
+          "retrieval_method": "efetch",
+          "original_rank": 4,
+          "retrieval_score": null,
+          "canonical_id": "41102839",
+          "candidate": "Intervention is supported",
+          "perspective": "challenging",
+          "query_fallback": true
+        },
+        {
+          "pmid": "40759805",
+          "title": "ALDH1A1 promotes colorectal cancer metastasis through activating the notch signaling pathway.",
+          "abstract": "Aldehyde dehydrogenase 1 family member A1 (ALDH1A1) gene is a member of aldehyde dehydrogenase (ALDH) family, and it is closely associated with cancer metastasis. However, the exact mechanism remains to be clarified. In the present study, we aimed to explore the specific mechanism and role of ALDH1A1 in colorectal cancer (CRC) metastasis. The data obtained from GSE41657 dataset and 24 surgical resected CRC samples was analyzed to explore the expression of ALDH1A1 in CRC and its clinical importance. ALDH1Al expression was increased in CRC tissues and correlated to poor prognosis. ALDH1A1 was highly expressed in CRC cells and ALDH1Al knocking down led to reduced proliferation, migration, and invasion of CRC cells. In terms of the mechanisms, ALDH1Al knockdown or inhibiter caused the significantly reduced gene expression of Notch1, JAG1, and HES1. ALDH1A1 activates Notch signaling pathway to promote CRC growth and development. Our study demonstrated that ALDH1Al could promote CRC cell proliferation, migration, and invasion via activating the Notch signaling pathway. Targeting ALDH1Al might be promising for inhibition of CRC metastasis.",
+          "year": 2025,
+          "authors": [
+            "Xiaoran Wang",
+            "Xiaoduo Wen",
+            "Xvhua Hu",
+            "Wenbo Niu",
+            "Ganlin Guo",
+            "Fei Yang",
+            "Bin Yu",
+            "Sujun Fan"
+          ],
+          "journal": "Medical oncology (Northwood, London, England)",
+          "doi": "10.1007/s12032-025-02958-0",
+          "study_types": [
+            "Journal Article"
+          ],
+          "mesh_terms": [
+            "Humans",
+            "Colorectal Neoplasms",
+            "Aldehyde Dehydrogenase 1 Family",
+            "Signal Transduction",
+            "Cell Movement",
+            "Retinal Dehydrogenase",
+            "Cell Proliferation",
+            "Female",
+            "Receptors, Notch",
+            "Cell Line, Tumor",
+            "Male",
+            "Prognosis",
+            "Gene Expression Regulation, Neoplastic",
+            "Neoplasm Metastasis",
+            "Middle Aged",
+            "Receptor, Notch1",
+            "Neoplasm Invasiveness"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article"
+          ],
+          "original_pmid": "40759805",
+          "retrieval_method": "efetch",
+          "original_rank": 9,
+          "retrieval_score": null,
+          "canonical_id": "40759805",
+          "candidate": "Intervention is supported",
+          "perspective": "challenging",
+          "query_fallback": true
+        }
+      ],
+      "Intervention is not supported": [
+        {
+          "pmid": "39796106",
+          "title": "The Significance of Aldehyde Dehydrogenase 1 in Cancers.",
+          "abstract": "The goal of this paper is to discuss the role of ALDH isozymes in different cancers, review advances in ALDH1-targeting cancer therapies, and explore a mechanism that explains how ALDH expression becomes elevated during cancer development. ALDH is often overexpressed in cancer, and each isoform has a unique expression pattern and a distinct role in different cancers. The abnormal expression of ALDHs in different cancer types (breast, colorectal, lung, gastric, cervical, melanoma, prostate, and renal) is presented and correlated with patient prognosis. ALDH plays a significant role in various cellular functions, such as metabolism, oxidative stress response, detoxification, and cellular differentiation. Among the ALDH families, ALDH1 has gained considerable attention as a cancer stem cell (CSC) marker due to its significant role in the maintenance of stemness and the differentiation of stem cells (SCs), along with its involvement in tumorigenesis. A description of the cellular mechanisms and physiology of ALDH1 that underlies cancer development is provided. Moreover, current advances in ALDH1-targeting cancer therapies are discussed.",
+          "year": 2024,
+          "authors": [
+            "Anh L Nguyen",
+            "Caroline O B Facey",
+            "Bruce M Boman"
+          ],
+          "journal": "International journal of molecular sciences",
+          "doi": "10.3390/ijms26010251",
+          "study_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "mesh_terms": [
+            "Humans",
+            "Neoplasms",
+            "Aldehyde Dehydrogenase 1 Family",
+            "Neoplastic Stem Cells",
+            "Isoenzymes",
+            "Animals",
+            "Biomarkers, Tumor",
+            "Retinal Dehydrogenase",
+            "Gene Expression Regulation, Neoplastic",
+            "Cell Differentiation"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article",
+            "Review"
+          ],
+          "original_pmid": "39796106",
+          "retrieval_method": "efetch",
+          "original_rank": 0,
+          "retrieval_score": null,
+          "canonical_id": "39796106",
+          "candidate": "Intervention is not supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "32888170",
+          "title": "Patterns of Failure in Triple Negative Breast Cancer Patients in an Urban, Predominately Black Population.",
+          "abstract": "Triple negative breast cancers (TNBC) behave more aggressively than hormone-receptor positive breast cancers. They are also known preferentially to affect young black women, often leading to poorer outcomes compared with those for white women. We sought to evaluate the comprehensive patterns of failure associated with treatment for TNBC at an urban institution with a predominantly black population and to assess the impact of social determinants of health on treatment failure. A retrospective review of TNBC patients treated from 2005 to 2015 was conducted. Detailed patient, tumor, and treatment characteristics and information on patterns of failure were included. With a median follow-up of 46 months, 32 (16%) documented failures occurred. Locoregional failures comprised 84% of failure patterns whether isolated or in combination with distant failure. Treatment failure was associated with insurance type and smoking status, as well as several tumor characteristics. On multivariate analysis, pathologic nodal staging was the most significant predictor of treatment failure. In contrast to previous studies, we found that black women had higher overall survival than white women, but race was not associated with differences in recurrence patterns or with likelihood of treatment failure. Regardless of race, of the patients who recurred, 53% failed in distant and locoregional sites simultaneously, with an additional 34% failing locally only. These results highlight the need for aggressive local therapies in high-risk patients and suggest a need for improved follow-up focusing on detecting locoregional failures. Multidisciplinary care is essential in the management of these patients at time of failure.",
+          "year": 2021,
+          "authors": [
+            "Hua-Ren Cherng",
+            "Stephanie R Rice",
+            "Muhammad Hamza",
+            "Shruti Murali",
+            "Paula Rosenblatt",
+            "Katherine H R Tkaczuk",
+            "Emily Bellavance",
+            "Sally Cheston",
+            "Neha Amin",
+            "Elizabeth Nichols"
+          ],
+          "journal": "Journal of racial and ethnic health disparities",
+          "doi": "10.1007/s40615-020-00860-1",
+          "study_types": [
+            "Journal Article"
+          ],
+          "mesh_terms": [
+            "Adult",
+            "Black or African American",
+            "Aged",
+            "Aged, 80 and over",
+            "Female",
+            "Health Status Disparities",
+            "Humans",
+            "Middle Aged",
+            "Retrospective Studies",
+            "Treatment Failure",
+            "Triple Negative Breast Neoplasms",
+            "Urban Population",
+            "Young Adult"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article"
+          ],
+          "original_pmid": "32888170",
+          "retrieval_method": "efetch",
+          "original_rank": 8,
+          "retrieval_score": null,
+          "canonical_id": "32888170",
+          "candidate": "Intervention is not supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "36308925",
+          "title": "The impact of standardized structured reporting of pathology reports for breast cancer care.",
+          "abstract": "PURPOSE: With the increasing complexity of modern oncological patient management and the growing amount of information needed from the pathologist, traditional narrative pathology reports (NR) do not suffice. Standardized synoptic reporting (SR) increases both completeness and readability. In the Netherlands SR for breast cancer was introduced in 2009. We explore the impact of synoptic reporting on breast cancer care. METHODS: Using data from the Netherlands Cancer Registry and Dutch Nationwide Pathology Databank, a retrospective population-based cohort study was performed. Data of breast cancer resections from 2007 to 2014 were collected to compare NR and SR for all outcome measures. Kaplan-Meier analyses and log-rank testing were used to estimate overall survival. RESULTS: Over time there was an increase from 12% to 78.9% in the use of SR. SR resulted in higher completeness of pathology reports, particularly for hormone and HER2/neu receptor status. Although there was no difference in the administration of antihormonal therapy, anti-HER2 treatment was more frequently administered to eligible patients in the SR group. An effect on overall survival could not yet be confirmed on multivariate analysis. CONCLUSIONS: We demonstrate that SR has led to more complete pathology reports, which meets the needs for precision of information in breast cancer care. This is expected to improve communication and discussions between specialists regarding parameters important for adjuvant breast cancer treatment decisions. SR thereby improves breast cancer care and leads to improved allocation of treatment based on pathologic parameters and more personalized treatment regimens.",
+          "year": 2022,
+          "authors": [
+            "J A A Snoek",
+            "I D Nagtegaal",
+            "S Siesling",
+            "E van den Broek",
+            "H J van Slooten",
+            "N Hugen"
+          ],
+          "journal": "Breast (Edinburgh, Scotland)",
+          "doi": "10.1016/j.breast.2022.10.011",
+          "study_types": [
+            "Journal Article"
+          ],
+          "mesh_terms": [
+            "Humans",
+            "Female",
+            "Breast Neoplasms",
+            "Cohort Studies",
+            "Retrospective Studies",
+            "Research Report",
+            "Netherlands"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article"
+          ],
+          "original_pmid": "36308925",
+          "retrieval_method": "efetch",
+          "original_rank": 9,
+          "retrieval_score": null,
+          "canonical_id": "36308925",
+          "candidate": "Intervention is not supported",
+          "perspective": "supportive",
+          "query_fallback": true
+        },
+        {
+          "pmid": "31930680",
+          "title": "miRNAs as radio-response biomarkers for breast cancer stem cells.",
+          "abstract": "In breast cancer (BC), the presence of cancer stem cells (CSCs) has been related to relapse, metastasis, and radioresistance. Radiotherapy (RT) is an extended BC treatment, but is not always effective. CSCs have several mechanisms of radioresistance in place, and some miRNAs are involved in the cellular response to ionizing radiation (IR). Here, we studied how IR affects the expression of miRNAs related to stemness in different molecular BC subtypes. Exposition of BC cells to radiation doses of 2, 4, or 6 Gy affected their phenotype, functional characteristics, pluripotency gene expression, and in vivo tumorigenic capacity. This held true for various molecular subtypes of BC cells (classified by ER, PR and HER-2 status), and for BC cells either plated in monolayer, or being in suspension as mammospheres. However, the effect of IR on the expression of eight stemness- and radioresistance-related miRNAs (miR-210, miR-10b, miR-182, miR-142, miR-221, miR-21, miR-93, miR-15b) varied, depending on cell line subpopulation and clinicopathological features of BC patients. Therefore, clinicopathological features and, potentially also, chemotherapy regimen should be both taken into consideration, for determining a potential miRNA signature by liquid biopsy in BC patients treated with RT. Personalized and precision RT dosage regimes could improve the prognosis, treatment, and survival of BC patients.",
+          "year": 2020,
+          "authors": [
+            "Carmen Griñán-Lisón",
+            "María Auxiliadora Olivares-Urbano",
+            "Gema Jiménez",
+            "Elena López-Ruiz",
+            "Coral Del Val",
+            "Cynthia Morata-Tarifa",
+            "José Manuel Entrena",
+            "Amanda Rocío González-Ramírez",
+            "Houria Boulaiz",
+            "Mercedes Zurita Herrera",
+            "María Isabel Núñez",
+            "Juan Antonio Marchal"
+          ],
+          "journal": "Molecular oncology",
+          "doi": "10.1002/1878-0261.12635",
+          "study_types": [
+            "Journal Article",
+            "Research Support, Non-U.S. Gov't"
+          ],
+          "mesh_terms": [
+            "Aldehyde Dehydrogenase 1 Family",
+            "Animals",
+            "Biomarkers, Tumor",
+            "Breast Neoplasms",
+            "Cell Line, Tumor",
+            "Female",
+            "Gene Expression Regulation, Neoplastic",
+            "Humans",
+            "Mice, Inbred NOD",
+            "Mice, SCID",
+            "MicroRNAs",
+            "Neoplastic Stem Cells",
+            "Precision Medicine",
+            "Radiation, Ionizing",
+            "Erb-b2 Receptor Tyrosine Kinases",
+            "Receptors, Estrogen",
+            "Receptors, Progesterone",
+            "Statistics, Nonparametric",
+            "Xenograft Model Antitumor Assays"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article",
+            "Research Support, Non-U.S. Gov't"
+          ],
+          "original_pmid": "31930680",
+          "retrieval_method": "efetch",
+          "original_rank": 3,
+          "retrieval_score": null,
+          "canonical_id": "31930680",
+          "candidate": "Intervention is not supported",
+          "perspective": "challenging",
+          "query_fallback": true
+        },
+        {
+          "pmid": "34099751",
+          "title": "ALDH1 expression predicts progression of premalignant lesions to cancer in Type I endometrial carcinomas.",
+          "abstract": "In type 1 endometrial cancer, unopposed estrogen stimulation is thought to lead to endometrial hyperplasia which precedes malignant progression. Recent data from our group and others suggest that ALDH activity mediates stemness in endometrial cancer, but while aldehyde dehydrogenase 1 (ALDH1) has been suggested as a putative cancer stem cell marker in several cancer types, its clinical and prognostic value in endometrial cancer remains debated. The aim of this study was to investigate the clinical value of ALDH1 expression in endometrial hyperplasia and to determine its ability to predict progression to endometrial cancer. Interrogation of the TCGA database revealed upregulation of several isoforms in endometrial cancer, of which the ALDH1 isoforms collectively constituted the largest group. To translate its expression, a tissue microarray was previously constructed which contained a wide sampling of benign and malignant endometrial samples. The array contained a metachronous cohort of samples from individuals who either developed or did not develop endometrial cancer. Immunohistochemical staining was used to determine the intensity and frequency of ALDH1 expression. While benign proliferative and secretory endometrium showed very low levels of ALDH1, slightly higher expression was observed within the stratum basalis. In disease progression, cytoplasmic ALDH1 expression showed a step-wise increase between endometrial hyperplasia, atypical hyperplasia, and endometrial cancer. ALDH1 was also shown to be an early predictor of EC development, suggesting that it can serve as an independent prognostic indicator of patients with endometrial hyperplasia with or without atypia who would progress to cancer (p = 0.012).",
+          "year": 2021,
+          "authors": [
+            "Vei Mah",
+            "Yahya Elshimali",
+            "Alison Chu",
+            "Neda A Moatamed",
+            "Jamar P Uzzell",
+            "Jessica Tsui",
+            "Stephen Schettler",
+            "Hania Shakeri",
+            "Madhuri Wadehra"
+          ],
+          "journal": "Scientific reports",
+          "doi": "10.1038/s41598-021-90570-3",
+          "study_types": [
+            "Journal Article",
+            "Research Support, N.I.H., Extramural",
+            "Research Support, Non-U.S. Gov't"
+          ],
+          "mesh_terms": [
+            "Adult",
+            "Aged",
+            "Aged, 80 and over",
+            "Aldehyde Dehydrogenase 1 Family",
+            "Biomarkers, Tumor",
+            "Cell Line, Tumor",
+            "Disease Progression",
+            "Endometrial Hyperplasia",
+            "Endometrial Neoplasms",
+            "Female",
+            "Gene Expression Regulation, Neoplastic",
+            "Humans",
+            "Kaplan-Meier Estimate",
+            "Middle Aged",
+            "Precancerous Conditions",
+            "Prognosis"
+          ],
+          "is_retracted": false,
+          "source": "PubMed",
+          "publication_types": [
+            "Journal Article",
+            "Research Support, N.I.H., Extramural",
+            "Research Support, Non-U.S. Gov't"
+          ],
+          "original_pmid": "34099751",
+          "retrieval_method": "efetch",
+          "original_rank": 6,
+          "retrieval_score": null,
+          "canonical_id": "34099751",
+          "candidate": "Intervention is not supported",
+          "perspective": "challenging",
+          "query_fallback": true
+        }
+      ]
+    },
+    "trace_event": {
+      "node": "contrastive_retrieval",
+      "section": "retrieval",
+      "input": {
+        "candidates": [
+          "Intervention is supported",
+          "Intervention is not supported"
+        ]
+      },
+      "evaluation_policy": {
+        "zero_shot": true,
+        "question_only_retrieval": true,
+        "options_visible_to_retrieval": false,
+        "mcq_options_present_but_hidden": false
+      },
+      "output": {
+        "queries_generated": {
+          "Intervention is supported": {
+            "supportive": "\"ALDH1 expression\" AND \"breast cancer outcomes\" AND \"positive prognosis\" AND \"treatment benefit\"",
+            "challenging": "\"ALDH1 expression\" AND \"breast cancer outcomes\" AND \"treatment resistance\" AND \"poor prognosis\""
+          },
+          "Intervention is not supported": {
+            "supportive": "\"ALDH1 expression\" AND \"breast cancer outcomes\" AND \"treatment failure\" AND \"adverse events\"",
+            "challenging": "\"ALDH1 expression\" AND \"breast cancer outcomes\" AND \"treatment response\" AND \"favorable outcome\""
+          }
+        },
+        "results_per_candidate": {
+          "Intervention is supported": 13,
+          "Intervention is not supported": 5
+        },
+        "total_unique": 18,
+        "fallback_used": true,
+        "fallback_queries": {
+          "Intervention is supported_supportive": "ALDH1 expression OR breast cancer outcomes OR positive prognosis OR treatment benefit OR ethics OR disclosure OR \"medical error\" OR \"operative report\" OR reporting",
+          "Intervention is supported_challenging": "ALDH1 expression OR breast cancer outcomes OR treatment resistance OR poor prognosis OR ethics OR disclosure OR \"medical error\" OR \"operative report\" OR reporting",
+          "Intervention is not supported_supportive": "ALDH1 expression OR breast cancer outcomes OR treatment failure OR adverse events OR ethics OR disclosure OR \"medical error\" OR \"operative report\" OR reporting",
+          "Intervention is not supported_challenging": "ALDH1 expression OR breast cancer outcomes OR treatment response OR favorable outcome OR ethics OR disclosure OR \"medical error\" OR \"operative report\" OR reporting"
+        }
+      }
+    }
+  }
+}

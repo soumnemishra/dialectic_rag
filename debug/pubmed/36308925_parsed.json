@@ -1,0 +1,42 @@
+{
+  "pmid": "36308925",
+  "title": "The impact of standardized structured reporting of pathology reports for breast cancer care.",
+  "abstract": "PURPOSE: With the increasing complexity of modern oncological patient management and the growing amount of information needed from the pathologist, traditional narrative pathology reports (NR) do not suffice. Standardized synoptic reporting (SR) increases both completeness and readability. In the Netherlands SR for breast cancer was introduced in 2009. We explore the impact of synoptic reporting on breast cancer care. METHODS: Using data from the Netherlands Cancer Registry and Dutch Nationwide Pathology Databank, a retrospective population-based cohort study was performed. Data of breast cancer resections from 2007 to 2014 were collected to compare NR and SR for all outcome measures. Kaplan-Meier analyses and log-rank testing were used to estimate overall survival. RESULTS: Over time there was an increase from 12% to 78.9% in the use of SR. SR resulted in higher completeness of pathology reports, particularly for hormone and HER2/neu receptor status. Although there was no difference in the administration of antihormonal therapy, anti-HER2 treatment was more frequently administered to eligible patients in the SR group. An effect on overall survival could not yet be confirmed on multivariate analysis. CONCLUSIONS: We demonstrate that SR has led to more complete pathology reports, which meets the needs for precision of information in breast cancer care. This is expected to improve communication and discussions between specialists regarding parameters important for adjuvant breast cancer treatment decisions. SR thereby improves breast cancer care and leads to improved allocation of treatment based on pathologic parameters and more personalized treatment regimens.",
+  "year": 2022,
+  "journal": "Breast (Edinburgh, Scotland)",
+  "authors": [
+    "J A A Snoek",
+    "I D Nagtegaal",
+    "S Siesling",
+    "E van den Broek",
+    "H J van Slooten",
+    "N Hugen"
+  ],
+  "doi": "10.1016/j.breast.2022.10.011",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Female",
+    "Breast Neoplasms",
+    "Cohort Studies",
+    "Retrospective Studies",
+    "Research Report",
+    "Netherlands"
+  ],
+  "keywords": [
+    "Breast cancer",
+    "Pathology",
+    "Reporting",
+    "Treatment"
+  ],
+  "affiliations": [
+    "Radboud University Medical Center, Department of Pathology, Nijmegen, the Netherlands.",
+    "Radboud University Medical Center, Department of Pathology, Nijmegen, the Netherlands. Electronic address: iris.nagtegaal@radboudumc.nl.",
+    "Department of Research and Development, Netherlands Comprehensive Cancer Organisation (IKNL), Utrecht, the Netherlands; Department of Health Technology and Services Research, Technical Medical Centre, University of Twente, Enschede, the Netherlands.",
+    "PALGA Foundation, Houten, the Netherlands.",
+    "DNA Pathology, Nieuwegein, the Netherlands.",
+    "Radboud University Medical Center, Department of Surgery, Nijmegen, the Netherlands; Rijnstate Hospital, Department of Surgery, Arnhem, the Netherlands."
+  ]
+}

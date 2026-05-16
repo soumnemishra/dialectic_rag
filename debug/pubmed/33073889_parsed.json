@@ -1,0 +1,57 @@
+{
+  "pmid": "33073889",
+  "title": "Customized birth-weight centiles and placenta-related fetal growth restriction.",
+  "abstract": "OBJECTIVE: The value of using customized birth-weight centiles to improve the diagnostic accuracy for fetal growth restriction (FGR), in comparison with using population-based charts, remains a matter of debate. One potential explanation for the conflicting data is that most studies used measures of perinatal mortality and morbidity as proxies for placenta-mediated FGR, many of which are not specific and may be confounded by other factors such as prematurity. The aim of this study was to compare the diagnostic accuracy of small-for-gestational age (SGA) at birth, defined according to customized vs population-based charts, for associated abnormal placental pathology. METHODS: This was a secondary analysis of data from a prospective cohort study on risk factors for placenta-mediated complications and abnormal placental pathology in low-risk nulliparous women. All placentae were sent for detailed histopathological examination by two perinatal pathologists. The primary exposure was SGA, defined as birth weight < 10th centile for gestational age using either a customized (SGAcust ) or a population-based (SGApop ) birth-weight reference. The outcomes of interest were one of three types of abnormal placental pathology associated with FGR: maternal vascular malperfusion (MVM), chronic villitis and fetal vascular malperfusion (FVM). Adjusted relative risks (aRR) with 95% CIs were estimated using modified Poisson regression analysis, with adjustment for smoking, body mass index and aspirin treatment. RESULTS: A total of 857 nulliparous women met the study criteria. The proportions of infants identified as SGA based on the customized and population-based charts were 12.6% (108/857) and 11.4% (98/857), respectively. A diagnosis of SGA using either customized or population-based charts was associated with an increased risk of any placental pathology (aRR, 3.04 (95% CI, 2.29-4.04) and 1.60 (95% CI, 1.10-2.31), respectively) and MVM pathology (aRR, 12.33 (95% CI, 6.60-23.03) and 5.29 (95% CI, 2.87-9.76), respectively). SGAcust , but not SGApop , was also associated with an increased risk for chronic villitis (aRR, 1.85 (95% CI, 1.07-3.18)) and FVM pathology (aRR, 2.48 (95% CI, 1.25-4.93)). SGAcust had a higher detection rate for any placental pathology (30.3% vs 17.1%; P < 0.001), MVM pathology (63.2% vs 39.5%; P = 0.003) and chronic villitis (20.8% vs 8.3%; P = 0.007) than did SGApop , for a similar false-positive rate. This was mainly the result of a higher detection rate for abnormal pathology in the white and East-Asian subgroups and a lower false-positive rate for abnormal pathology in the South-Asian subgroup by SGAcust than by SGApop . In addition, pregnancies in the SGAcust group, but not those in the SGApop group, were more likely to be complicated by preterm birth and a low 5-min Apgar score than were the corresponding non-SGA group. CONCLUSION: These findings suggest that customized birth-weight centiles may be superior to population-based birth-weight centiles in detecting FGR that is due to underlying placental disease. © 2020 International Society of Ultrasound in Obstetrics and Gynecology.",
+  "year": 2021,
+  "journal": "Ultrasound in obstetrics & gynecology : the official journal of the International Society of Ultrasound in Obstetrics and Gynecology",
+  "authors": [
+    "N Melamed",
+    "L Hiersch",
+    "A Aviram",
+    "S Keating",
+    "J C Kingdom"
+  ],
+  "doi": "10.1002/uog.23516",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Apgar Score",
+    "Birth Weight",
+    "Female",
+    "Fetal Development",
+    "Fetal Growth Retardation",
+    "Gestational Age",
+    "Growth Charts",
+    "Humans",
+    "Infant, Low Birth Weight",
+    "Infant, Newborn",
+    "Infant, Small for Gestational Age",
+    "Placenta Diseases",
+    "Pregnancy",
+    "Prenatal Diagnosis",
+    "Prospective Studies"
+  ],
+  "keywords": [
+    "customized centiles",
+    "diagnosis",
+    "fetal growth restriction",
+    "placental dysfunction",
+    "placental insufficiency",
+    "placental pathology",
+    "prediction"
+  ],
+  "affiliations": [
+    "Department of Obstetrics and Gynecology, University of Toronto, Toronto, Ontario, Canada.",
+    "Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.",
+    "Department of Obstetrics and Gynecology, University of Toronto, Toronto, Ontario, Canada.",
+    "Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.",
+    "Department of Obstetrics and Gynecology, University of Toronto, Toronto, Ontario, Canada.",
+    "Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, Sunnybrook Health Sciences Centre, Toronto, Ontario, Canada.",
+    "Department of Laboratory Medicine and Pathobiology, Mount Sinai Hospital, Toronto, Ontario, Canada.",
+    "Department of Obstetrics and Gynecology, University of Toronto, Toronto, Ontario, Canada.",
+    "Division of Maternal-Fetal Medicine, Department of Obstetrics and Gynecology, Mount Sinai Hospital, Toronto, Ontario, Canada."
+  ]
+}

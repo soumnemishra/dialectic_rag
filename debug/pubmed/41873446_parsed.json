@@ -1,0 +1,40 @@
+{
+  "pmid": "41873446",
+  "title": "Severe COVID-19 in the Republic of Korea: Epidemiology, Risk Factors, Therapeutics, and Prognostic Models From Nationwide Data.",
+  "abstract": "Severe coronavirus disease 2019 (COVID-19) has posed ongoing clinical and public health challenges worldwide, with Korea providing a unique perspective due to its comprehensive surveillance system and extensive real-world data. This review summarizes evidence from nationwide registries, cohort studies, and clinical trials in Korea, alongside global findings, to describe the epidemiology, risk factors, therapeutic interventions, and prognostic models for severe COVID-19. Between January 2020 and August 2023, Korea reported more than 34 million confirmed cases, with 38,112 classified as severe and 35,608 deaths, yielding one of the lowest case fatality rates among member countries comprising the Organisation for Economic Co-operation and Development. Severity was strongly associated with advanced age and comorbidities such as cardiovascular disease, diabetes mellitus, cancer, psychiatric disorders, and immunocompromised states, including solid organ transplantation and hematologic malignancies. Other risk modifiers included obesity, chronic kidney disease, asthma, and prolonged glucocorticoid therapy. Protective factors included vaccination, regular physical activity, and, in some studies, specific pharmacologic agents. The effectiveness of vaccines was consistently demonstrated, with booster doses markedly reducing hospitalization and mortality, including in high-risk groups such as pregnant women, patients with cancer, and transplant recipients. Antiviral therapies, notably nirmatrelvir/ritonavir and molnupiravir, significantly reduced severe outcomes, while immunomodulators such as dexamethasone and tocilizumab improved recovery in patients with severe disease. Advanced interventions, including extracorporeal membrane oxygenation and lung transplantation, were used for refractory respiratory failure, with favorable survival observed in selected patients. Prognostic models integrating clinical, radiological, and machine learning approaches have been developed to predict disease progression, supporting early risk stratification and resource allocation. The rapid generation of evidence on predicting, preventing, and treating severe disease is a critical element of pandemic preparedness. Although COVID-19 has transitioned to an endemic disease, sustaining and advancing the research expertise and infrastructure developed during the pandemic remains essential for responding to future emerging infectious disease outbreaks.",
+  "year": 2026,
+  "journal": "Journal of Korean medical science",
+  "authors": [
+    "Jun Yong Choi"
+  ],
+  "doi": "10.3346/jkms.2026.41.e96",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Republic of Korea",
+    "Risk Factors",
+    "Prognosis",
+    "SARS-CoV-2",
+    "Antiviral Agents",
+    "COVID-19 Vaccines",
+    "Severity of Illness Index",
+    "COVID-19 Drug Treatment",
+    "Comorbidity"
+  ],
+  "keywords": [
+    "Antiviral",
+    "COVID-19",
+    "Korea",
+    "Prognosis",
+    "Risk Factors",
+    "Severe Disease"
+  ],
+  "affiliations": [
+    "Division of Infectious Diseases, Department of Internal Medicine, Yonsei University College of Medicine, Seoul, Korea.",
+    "AIDS Research Institute, Yonsei University College of Medicine, Seoul, Korea. seran@yuhs.ac."
+  ]
+}

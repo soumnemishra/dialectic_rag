@@ -1,0 +1,33 @@
+{
+  "pmid": "36324806",
+  "title": "Comparative Effectiveness of Dexamethasone in Treatment of Hospitalized COVID-19 Patients during the First Year of the Pandemic: The N3C Data Repository.",
+  "abstract": "BACKGROUND: Dexamethasone, a widely available glucocorticoid, was approved for use in hospitalized COVID-19 patients early in the pandemic based on the RECOVERY trial; however, evidence is still needed to support its real-world effectiveness in patients with a wide range of comorbidities and in diverse care settings. OBJECTIVES: To conduct a comparative effectiveness analysis of dexamethasone use with and without remdesivir in hospitalized COVID-19 patients using electronic health record data. METHODS: We conducted a retrospective real-world effectiveness analysis using the harmonized, highly granular electronic health record data of the National COVID Cohort Collaborative (N3C) Data Enclave. Analysis was restricted to COVID-19 patients in an inpatient setting, prior to vaccine availability. Primary outcome was in-hospital death; secondary outcome was combined in-hospital death and severe outcome as defined by use of ECMO or mechanical ventilation during stay. Missing data were imputed with single imputation. Matching of dexamethasone-treated patients to non-dexamethasone-treated controls was accomplished using propensity score (PS) matching, stratified by remdesivir treatment and based on demographics, baseline laboratory values, and comorbidities. Treatment benefit was quantified using logistic regression. Further sensitivity analyses were performed using clinical adjusters in matched groups and in strata defined by quartiles of PS. RESULTS: Regression analysis revealed a statistically significant association between dexamethasone use and reduced risk of in-hospital mortality for those not receiving remdesivir (OR=0.77, 95% CI:0.62 to 0.95, p=0.017), and a borderline statistically significant risk for those receiving remdesivir (OR=0.74, 95% CI: 0.53 to 1.02, p=0.054). Treatment also showed secondary outcome benefit. In sensitivity analyses, treatment effect size generally remained similar with some heterogeneity of benefit across strata of PS. CONCLUSIONS: We add evidence that dexamethasone provides benefit with respect to mortality and severe outcomes in a diverse, national hospitalized sample, prior to vaccine availability.",
+  "year": 2022,
+  "journal": "medRxiv : the preprint server for health sciences",
+  "authors": [
+    "Richard Zhou",
+    "Kaitlyn E Johnson",
+    "Justin F Rousseau",
+    "Paul J Rathouz"
+  ],
+  "doi": "10.1101/2022.10.22.22281373",
+  "publication_types": [
+    "Preprint",
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "Dexamethasone",
+    "Electronic Health Records",
+    "Propensity Score",
+    "Remdesivir"
+  ],
+  "affiliations": [
+    "Department of Biomedical Engineering, University of Texas at Austin.",
+    "Department of Integrative Biology, The University of Texas at Austin.",
+    "The Pandemic Prevention Institute, The Rockefeller Foundation.",
+    "Dell Medical School at the University of Texas at Austin.",
+    "Dell Medical School at the University of Texas at Austin."
+  ]
+}

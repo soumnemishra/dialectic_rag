@@ -1,0 +1,54 @@
+{
+  "pmid": "36403818",
+  "title": "Anakinra or high-dose corticosteroids in COVID-19 pneumonia patients who deteriorate on low-dose dexamethasone: an observational study of comparative effectiveness.",
+  "abstract": "OBJECTIVES: To assess whether escalating to high-dose corticosteroids or anakinra compared with continuing low-dose corticosteroids reduced mortality in patients with severe COVID-19 whose respiratory function deteriorated while receiving dexamethasone 6 mg daily. METHODS: We conducted a retrospective cohort study between March 1 to December 31, 2020, of hospitalized patients with confirmed COVID-19 pneumonia. In-hospital death was analyzed using logistic regression with inverse probability of treatment weighting of receiving anakinra, high-dose corticosteroid (dexamethasone >10 mg daily), or remaining on low-dose corticosteroids on the day of first respiratory deterioration. RESULTS: We analyzed 6671 patients whose respiratory status deteriorated while receiving dexamethasone 6 mg daily for COVID-19 pneumonia, of whom 6265 stayed on low-dose corticosteroids, 232 were escalated to high-dose corticosteroids, and 174 to anakinra in addition to corticosteroids. The propensity score-adjusted odds of death were higher in the anakinra (odds ratio [OR] 1.76; 95% CI 1.13-2.72) and high-dose corticosteroid groups (OR 1.53; 95% CI 1.14-2.07) compared with those who continued low-dose corticosteroids on the day of respiratory deterioration. The odds of hospital-acquired infections were also higher in the anakinra (OR 2.00; 95% CI 1.28-3.11) and high-dose corticosteroid groups (OR 1.43; 95% CI 1.00-2.04) compared with low-dose corticosteroid group. CONCLUSION: Our findings do not support escalating patients with COVID-19 pneumonia who deteriorate on low-dose corticosteroids to high-dose corticosteroids or anakinra.",
+  "year": 2023,
+  "journal": "International journal of infectious diseases : IJID : official publication of the International Society for Infectious Diseases",
+  "authors": [
+    "Annette Langer-Gould",
+    "Stanley Xu",
+    "Laura C Myers",
+    "Aiyu Chen",
+    "John D Greene",
+    "Beth Creekmur",
+    "Katia Bruxvoort",
+    "John L Adams",
+    "Vincent Liu",
+    "Michael K Gould"
+  ],
+  "doi": "10.1016/j.ijid.2022.11.017",
+  "publication_types": [
+    "Observational Study",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Interleukin 1 Receptor Antagonist Protein",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "Hospital Mortality",
+    "COVID-19 Drug Treatment",
+    "Adrenal Cortex Hormones",
+    "Dexamethasone"
+  ],
+  "keywords": [
+    "Anakinra",
+    "COVID-19",
+    "Corticosteroids",
+    "Infections",
+    "Mortality"
+  ],
+  "affiliations": [
+    "Department of Neurology, Southern California Permanente Medical Group, Los Angeles, USA; Department of Clinical Science, Kaiser Permanente Bernard J. Tyson School of Medicine, Pasadena, USA. Electronic address: Annette.M.Langer-Gould@kp.org.",
+    "Department of Research and Evaluation, Kaiser Permanente Southern California, Pasadena, USA.",
+    "Division of Research and The Permanente Medical Group, Kaiser Permanente Northern California, Oakland, USA.",
+    "Department of Research and Evaluation, Kaiser Permanente Southern California, Pasadena, USA.",
+    "Division of Research and The Permanente Medical Group, Kaiser Permanente Northern California, Oakland, USA.",
+    "Department of Research and Evaluation, Kaiser Permanente Southern California, Pasadena, USA.",
+    "Department of Research and Evaluation, Kaiser Permanente Southern California, Pasadena, USA.",
+    "Kaiser Permanente Center for Effectiveness and Safety Research, Pasadena, USA; Department of Health Systems Science, Kaiser Permanente Bernard J. Tyson School of Medicine, Pasadena, USA.",
+    "Division of Research and The Permanente Medical Group, Kaiser Permanente Northern California, Oakland, USA.",
+    "Department of Health Systems Science, Kaiser Permanente Bernard J. Tyson School of Medicine, Pasadena, USA."
+  ]
+}

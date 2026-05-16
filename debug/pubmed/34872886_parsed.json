@@ -1,0 +1,49 @@
+{
+  "pmid": "34872886",
+  "title": "Clinical outcomes of corticosteroids for COVID-19 patients at the National Center for Global Health and Medicine during the first wave of infections.",
+  "abstract": "BACKGROUND: Coronavirus disease 2019 (COVID-19), which is caused by severe acute respiratory syndrome coronavirus 2, has been a significant concern worldwide since its outbreak in December 2019. Various treatments are being researched and developed, and there are reports that dexamethasone has reduced the mortality rate and improved the clinical course of critically ill patients with COVID-19. In this study, we examined the clinical efficacy of corticosteroid therapy for patients with COVID-19 in our hospital during the first wave of infections. METHODS: We retrospectively reviewed the medical records of patients with COVID-19 who were treated with or without corticosteroid therapy at the National Center for Global Health and Medicine in Japan between February and April 2020. The primary outcome was improvement in the patients' clinical course using a seven-category ordinal scale. We collected data on patient characteristics, treatment, and clinical course, and compared them between two groups: the steroid-using group and the non-steroid-using group. RESULTS: Between February and April 2020, 110 patients were diagnosed with COVID-19. Despite poor conditions during admission into the steroid group, there were no statistical differences in clinical course between both groups, as measured using the scale. There were no statistical differences between the two groups in the number of days to fever resolution or negative polymerase chain reaction results. CONCLUSIONS: There was no difference in the clinical course between both groups. Because of the difference in background, corticosteroids may potentially make the clinical course of severely ill patients similar to that of mildly ill patients.",
+  "year": 2022,
+  "journal": "Respiratory investigation",
+  "authors": [
+    "Chie Morita",
+    "Manabu Suzuki",
+    "Shinyu Izumi",
+    "Akinari Tsukada",
+    "Yoshie Tsujimoto",
+    "Keita Sakamoto",
+    "Masao Hashimoto",
+    "Jin Takasaki",
+    "Norio Ohmagari",
+    "Masayuki Hojo"
+  ],
+  "doi": "10.1016/j.resinv.2021.11.001",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adrenal Cortex Hormones",
+    "COVID-19",
+    "Global Health",
+    "Humans",
+    "Retrospective Studies",
+    "SARS-CoV-2"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Corticosteroids",
+    "Japan",
+    "SARS-CoV 2"
+  ],
+  "affiliations": [
+    "Department of Respiratory Medicine, National Center for Global Health and Medicine, Tokyo, Japan.",
+    "Department of Respiratory Medicine, National Center for Global Health and Medicine, Tokyo, Japan. Electronic address: manabu@nms.ac.jp.",
+    "Department of Respiratory Medicine, National Center for Global Health and Medicine, Tokyo, Japan.",
+    "Department of Respiratory Medicine, National Center for Global Health and Medicine, Tokyo, Japan.",
+    "Department of Respiratory Medicine, National Center for Global Health and Medicine, Tokyo, Japan.",
+    "Department of Respiratory Medicine, National Center for Global Health and Medicine, Tokyo, Japan.",
+    "Department of Respiratory Medicine, National Center for Global Health and Medicine, Tokyo, Japan.",
+    "Department of Respiratory Medicine, National Center for Global Health and Medicine, Tokyo, Japan.",
+    "Department of Disease Control and Prevention Center, National Center for Global Health and Medicine, Tokyo, Japan.",
+    "Department of Respiratory Medicine, National Center for Global Health and Medicine, Tokyo, Japan."
+  ]
+}

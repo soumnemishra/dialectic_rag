@@ -1,0 +1,44 @@
+{
+  "pmid": "36566391",
+  "title": "Expression of ALDH1 plays the important role during generation and progression in human cervical cancer.",
+  "abstract": "Cervical cancer which is caused by persistent infection with oncogenic human papillomavirus (HPV), is the third most common cancer. HPV infection causes the progression of the normal cervix to cervical intraepithelial neoplasia (CIN) because it often occurs at the function conversion of the cervical squamous epithelium and columnar epithelium zone, further to invasive carcinoma. The difference in the ALDH1 expression was very significant. With the progression of cervical cancer, reports explained obviously increased nuclear and cytoplasm ALDH1 staining in comparisons of cervical carcinomas and normal cervix (P < 0.0001), cervical carcinomas compared with CIN (P = 0.0002). Therefore, ALDH1 as a stem marker, not only resists cervical cancer but also resists in normal cervix and CIN tissues. Developing an experimental method to discover cervical cancer earlier is feasible. Furthermore, the ALDH1 was expressed in human cervical cancer cell lines (Hela, SiHa, CaSki, HT-3, and C33A) together with western blot and immunocytochemical analysis. ALDH1 plays a significant role in nuclear and cytoplasm staining by immunochemistry in single or clustered HT-3 and C33A cells. However, western blot and immunochemical analysis did not detect ALDH1 in HeLa or CaSki, SiHa cells. We also discovered that there were no remarkable differences in age, tumor size, clinical TNM staging, multiple pelvic lymph node metastasis, or histological staging (p > 0.05) between the ALDH1-positive groups in 100 cervical cancer tissues. But after the control variable age, different ALDH rating survival function contrasted, it can be concluded that the higher ALDH1 scores with the survival of patients with the worse condition.",
+  "year": 2024,
+  "journal": "Biotechnology & genetic engineering reviews",
+  "authors": [
+    "Li Zhang",
+    "Bingying Dong",
+    "Xiaoli Yuan"
+  ],
+  "doi": "10.1080/02648725.2022.2161211",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Female",
+    "Humans",
+    "Middle Aged",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Biomarkers, Tumor",
+    "Cell Line, Tumor",
+    "Disease Progression",
+    "Gene Expression Regulation, Neoplastic",
+    "HeLa Cells",
+    "Isoenzymes",
+    "Retinal Dehydrogenase",
+    "Uterine Cervical Dysplasia",
+    "Uterine Cervical Neoplasms"
+  ],
+  "keywords": [
+    "ALDH1",
+    "Cervical cancer",
+    "cancer stem cells",
+    "cervical intraepithelial neoplasia (CIN)",
+    "oncogenic human papillomavirus (HPV)"
+  ],
+  "affiliations": [
+    "Department of Obstetrics and Gynecology, 3201 Hospital of Xi'an Jiaotong University Health Science Center, 723000, Shaanxi, China.",
+    "Department of Obstetrics and Gynecology, 3201 Hospital of Xi'an Jiaotong University Health Science Center, 723000, Shaanxi, China.",
+    "Department of Obstetrics and Gynecology, 3201 Hospital of Xi'an Jiaotong University Health Science Center, 723000, Shaanxi, China."
+  ]
+}

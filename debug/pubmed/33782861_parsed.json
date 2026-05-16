@@ -1,0 +1,40 @@
+{
+  "pmid": "33782861",
+  "title": "Characteristics of viral pneumonia in the COVID-19 era: an update.",
+  "abstract": "Influenza virus, rhinovirus, and adenovirus frequently cause viral pneumonia, an important cause of morbidity and mortality especially in the extreme ages of life. During the last two decades, three outbreaks of coronavirus-associated pneumonia, namely Severe Acute Respiratory Syndrome, Middle-East Respiratory Syndrome, and the ongoing Coronavirus Infectious Disease-2019 (COVID-19) were reported. The rate of diagnosis of viral pneumonia is increasingly approaching 60% among children identified as having community-acquired pneumonia (CAP). Clinical presentation ranges from mild to severe pneumonitis complicated by respiratory failure in severe cases. The most vulnerable patients, the elderly and those living with cancer, report a relevant mortality rate. No clinical characteristics can be useful to conclusively distinguish the different etiology of viral pneumonia. However, accessory symptoms, such as anosmia or ageusia together with respiratory symptoms suggest COVID-19. An etiologic-based treatment of viral pneumonia is possible in a small percentage of cases only. Neuraminidase inhibitors have been proven to reduce the need for ventilatory support and mortality rate while only a few data support the large-scale use of other antivirals. A low-middle dose of dexamethasone and heparin seems to be effective in COVID-19 patients, but data regarding their possible efficacy in viral pneumonia caused by other viruses are conflicting. In conclusion, viral pneumonia is a relevant cause of CAP, whose interest is increasing due to the current COVID-19 outbreak. To set up a therapeutic approach is difficult because of the low number of active molecules and the conflicting data bearing supportive treatments such as steroids.",
+  "year": 2021,
+  "journal": "Infection",
+  "authors": [
+    "P Pagliano",
+    "C Sellitto",
+    "V Conti",
+    "T Ascione",
+    "Silvano Esposito"
+  ],
+  "doi": "10.1007/s15010-021-01603-y",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Age Factors",
+    "COVID-19",
+    "Humans",
+    "Pneumonia, Viral"
+  ],
+  "keywords": [
+    "Heparin",
+    "Neuraminidase inhibitor",
+    "Remdesivir",
+    "SARS-CoV-2",
+    "Steroids",
+    "Viral pneumonia"
+  ],
+  "affiliations": [
+    "Department of Medicine, Surgery and Dentistry, \"Scuola Medica Salernitana\", Unit of Infectious Diseases, University of Salerno, Baronissi, Italy.",
+    "Department of Medicine, Surgery and Dentistry, \"Scuola Medica Salernitana\", Unit of Pharmacology, University of Salerno, Baronissi, Italy.",
+    "Department of Medicine, Surgery and Dentistry, \"Scuola Medica Salernitana\", Unit of Pharmacology, University of Salerno, Baronissi, Italy.",
+    "Department of Medicine, Service of Infectious Diseases, Cardarelli Hospital, Naples, Italy.",
+    "Department of Medicine, Surgery and Dentistry, \"Scuola Medica Salernitana\", Unit of Infectious Diseases, University of Salerno, Baronissi, Italy. silvanoesposito@libero.it."
+  ]
+}

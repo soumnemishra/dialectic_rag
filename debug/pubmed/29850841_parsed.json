@@ -1,0 +1,46 @@
+{
+  "pmid": "29850841",
+  "title": "Oversight and Ethical Regulation of Conflicts of Interest in Neurosurgery in the United States.",
+  "abstract": "BACKGROUND: Developmental incentives are fundamental to surgical progress, yet financial and professional incentives inherently create conflicts of interest (COI). Understanding how to manage COI held by neurosurgeons, industry, hospitals, and journal editors, without thwarting progress and innovation is critical. OBJECTIVE: To present an overview of COI associated with innovation in neurosurgery, and review ways to manage these in an ethically sound manner. METHODS: A review of the literature was performed to assess conflicts of interest that affect neurosurgical innovation, and review ways to manage COI of various parties while adhering to ethical standards. RESULTS: COI are inherent to collaboration and innovation, and are therefore an unavoidable component of neurosurgery. The lack of a clear distinction between clinical practice and innovation, ability to use devices off-label, and unstandardized disclosure requirements create inconsistencies in the way that conflicts of interest are handled. Additionally, lack of requirements to compare innovation to the standard of care and inherent bias that affects study design and interpretation can have profound effects on the medical literature. Conflicts of interest can have both direct and downstream effects on neurosurgical practice, and it is possible to manage them while improving the quality of research and innovation. CONCLUSION: Conflicts of interest are inherent to surgical innovation, and can be handled in an ethically sound manner. Neurosurgeons, device companies, hospitals, and medical journals can take steps to proactively confront bias and ensure patient autonomy and safety. These steps can preserve public trust and ultimately improve evidence-based neurosurgical practice.",
+  "year": 2019,
+  "journal": "Neurosurgery",
+  "authors": [
+    "Aislyn C DiRisio",
+    "Ivo S Muskens",
+    "David J Cote",
+    "Maya Babu",
+    "William B Gormley",
+    "Timothy R Smith",
+    "Wouter A Moojen",
+    "Marike L Broekman"
+  ],
+  "doi": "10.1093/neuros/nyy227",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Conflict of Interest",
+    "Disclosure",
+    "Humans",
+    "Neurosurgeons",
+    "Neurosurgical Procedures",
+    "United States"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Computational Neurosciences Out-comes Center, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.",
+    "Icahn School of Medicine at Mount Sinai, New York, New York.",
+    "Computational Neurosciences Out-comes Center, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.",
+    "Department of Neurosurgery, Brain Center Rudolf Magnus, University Medical Center Utrecht, Utrecht, The Netherlands.",
+    "Department of Neurosurgery, Medical Center Haaglanden, The Hague, The Netherlands.",
+    "Computational Neurosciences Out-comes Center, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.",
+    "Department of Neuro-surgery, Mayo Clinic, Rochester, Minnesota.",
+    "Computational Neurosciences Out-comes Center, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.",
+    "Computational Neurosciences Out-comes Center, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.",
+    "Department of Neurosurgery, Medical Center Haaglanden, The Hague, The Netherlands.",
+    "Department of Neuro-surgery, Leiden University Medical Center, Leiden, The Netherlands.",
+    "Computational Neurosciences Out-comes Center, Brigham and Women's Hospital, Harvard Medical School, Boston, Massachusetts.",
+    "Department of Neurosurgery, Brain Center Rudolf Magnus, University Medical Center Utrecht, Utrecht, The Netherlands."
+  ]
+}

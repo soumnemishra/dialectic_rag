@@ -1,0 +1,46 @@
+{
+  "pmid": "33817665",
+  "title": "The role of antirheumatics in patients with COVID-19.",
+  "abstract": "The COVID-19 pandemic has resulted in more than 2 million deaths globally. Two interconnected stages of disease are generally recognised; an initial viral stage and a subsequent immune response phase with the clinical characteristics of hyperinflammation associated with acute respiratory distress syndrome. Therefore, many immune modulators and immunosuppressive drugs, which are widely used in rheumatological practice, have been proposed as treatments for patients with moderate or severe COVID-19. In this Review, we provide an overview of what is currently known about the efficacy and safety of antirheumatic therapies for the treatment of patients with COVID-19. Dexamethasone has been shown to reduce COVID-19 related mortality, interleukin-6 inhibitors to reduce risk of cardiovascular or respiratory organ support, and baricitinib to reduce time to recovery in hospitalised patients requiring oxygen support. Further studies are needed to identify whether there is any role for glucocorticoids in patients with less severe COVID-19. Although evidence on the use of other antirheumatic drugs has suggested some benefits, results from adequately powered clinical trials are urgently needed. The heterogeneity in dosing and the absence of uniform inclusion criteria and defined stage of disease studied in many clinical trials have affected the conclusions and comparability of trial results. However, after the success of dexamethasone in proving the anti-inflammatory hypothesis, the next 12 months will undoubtedly bring further clarity about the clinical utility and optimal dose and timing of other anti-rheumatic drugs in the management of COVID-19.",
+  "year": 2021,
+  "journal": "The Lancet. Rheumatology",
+  "authors": [
+    "Christoffer B Nissen",
+    "Savino Sciascia",
+    "Danieli de Andrade",
+    "Tatsuya Atsumi",
+    "Ian N Bruce",
+    "Randy Q Cron",
+    "Oliver Hendricks",
+    "Dario Roccatello",
+    "Ksenija Stach",
+    "Mattia Trunfio",
+    "Évelyne Vinet",
+    "Karen Schreiber"
+  ],
+  "doi": "10.1016/S2665-9913(21)00062-X",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "keywords": [],
+  "affiliations": [
+    "Danish Hospital for Rheumatic Diseases, University of Southern Denmark, Sønderborg, Danmark.",
+    "Center of Research of Immunopathology and Rare Diseases, Coordinating Center of Piemonte and Aosta Valley Network for Rare Diseases, Nephrology and Dialysis, Department of Clinical and Biological Sciences, University of Turin, Italy.",
+    "Department of Rheumatology, Hospital das Clínicas da Faculdade de Medicina da Universidade de São Paulo, São Paulo, Brazil.",
+    "Department of Rheumatology, Endocrinology and Nephrology, Hokkaido University, Kita-ku, Sapporo, Japan.",
+    "Centre for Epidemiology Versus Arthritis, Medicine and Health, NIHR Manchester Biomedical Research Centre, Manchester University NHS Foundation Trust, Manchester Academic Health Science Centre Manchester, Manchester, UK.",
+    "Division of Rheumatology, Children's of Alabama and Department of Pediatrics, University of Alabama at Birmingham, Birmingham, AL, USA.",
+    "Danish Hospital for Rheumatic Diseases, University of Southern Denmark, Sønderborg, Danmark.",
+    "Department of Regional Health Research, University of Southern Denmark, Odense, Denmark.",
+    "Center of Research of Immunopathology and Rare Diseases, Coordinating Center of Piemonte and Aosta Valley Network for Rare Diseases, Nephrology and Dialysis, Department of Clinical and Biological Sciences, University of Turin, Italy.",
+    "Fifth Department of Medicine and European Center for Angioscience, University Medical Centre Mannheim, University of Heidelberg, Mannheim, Germany.",
+    "Department of Medical Sciences, University of Torino at Infectious Diseases Unit, Amedeo di Savoia Hospital, Torino, Italy.",
+    "Division of Rheumatology, McGill University Health Centre, Montreal, QC, Canada.",
+    "Centre for Outcomes Research and Evaluation, Research Institute of the McGill University Health Centre, Montreal, QC, Canada.",
+    "Danish Hospital for Rheumatic Diseases, University of Southern Denmark, Sønderborg, Danmark.",
+    "Department of Regional Health Research, University of Southern Denmark, Odense, Denmark.",
+    "Thrombosis and Haemostasis, Guy's and St Thomas' NHS Foundation Trust, London, UK."
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "pmid": "34448958",
+  "title": "Immunotherapy for Non-melanoma Skin Cancer.",
+  "abstract": "PURPOSE OF REVIEW: The therapeutic landscape for non-melanoma skin cancer (NMSC) has recently expanded with the development of effective and targeted immunotherapy. Here, we provide an overview of the role of immunotherapy in the management of advanced cutaneous carcinomas. RECENT FINDINGS: Several agents were recently U.S. Food and Drug Administration (FDA)-approved for the treatment of locally advanced and metastatic cutaneous squamous cell carcinoma, Merkel cell carcinoma, and basal cell carcinoma. However, recent approvals in tissue-agnostic indications may also benefit other NMSCs including cutaneous adnexal solid tumors with high tumor mutation burdens or microsatellite instability. Furthermore, while FDA-approved indications will likely continue to expand, continued studies are needed to support the role of immunotherapy in the neoadjuvant, adjuvant, and refractory settings. Immunotherapy is emerging as the standard of care for several advanced NMSCs not amenable to surgery and radiation. Ongoing evaluation of the clinical trial landscape is needed to optimize enrollment and ensure continued innovation.",
+  "year": 2021,
+  "journal": "Current oncology reports",
+  "authors": [
+    "Sophia Z Shalhout",
+    "Kevin S Emerick",
+    "Howard L Kaufman",
+    "David M Miller"
+  ],
+  "doi": "10.1007/s11912-021-01120-z",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Antineoplastic Agents, Immunological",
+    "Carcinoma, Merkel Cell",
+    "Contraindications",
+    "Drug Approval",
+    "Humans",
+    "Immunotherapy",
+    "Neoadjuvant Therapy",
+    "Neoplasms, Basal Cell",
+    "Neoplasms, Squamous Cell",
+    "Skin Neoplasms",
+    "United States",
+    "United States Food and Drug Administration"
+  ],
+  "keywords": [
+    "Accelerated approvals",
+    "Adjuvant trials",
+    "Anti-CTLA-4",
+    "Anti-PD-1",
+    "Anti-PD-L1",
+    "Avelumab",
+    "BCC",
+    "Basal cell carcinoma",
+    "CSCC",
+    "Cemiplimab",
+    "Clinical trials",
+    "Cutaneous adnexal carcinomas",
+    "Cutaneous squamous cell carcinoma",
+    "FDA",
+    "Hedgehog inhibitors",
+    "Immune checkpoint blockade",
+    "Immune checkpoint inhibitors",
+    "Immunotherapy",
+    "Ipilimumab",
+    "MCC",
+    "Merkel cell carcinoma",
+    "NMSC",
+    "Neoadjuvant trials",
+    "Nivolumab",
+    "Non-melanoma skin cancer",
+    "Pembrolizumab",
+    "Real-world evidence",
+    "Regulatory approvals"
+  ],
+  "affiliations": [
+    "Department of Medicine, Division of Hematology/Oncology, Massachusetts General Hospital, Harvard Medical School, Bartlett Hall, Room 132, 15 Parkman St, Boston, MA, 02114, USA.",
+    "Department of Otolaryngology, Massachusetts Eye and Ear Infirmary, Harvard Medical School, Boston, MA, USA.",
+    "Department of Surgery, Massachusetts General Hospital, Harvard Medical School, Boston, MA, USA.",
+    "Department of Medicine, Division of Hematology/Oncology, Massachusetts General Hospital, Harvard Medical School, Bartlett Hall, Room 132, 15 Parkman St, Boston, MA, 02114, USA. dmiller4@mgh.harvard.edu.",
+    "Department of Dermatology, Massachusetts General Hospital, Harvard Medical School, Bartlett Hall, Room 132, 15 Parkman St, Boston, MA, 02114, USA. dmiller4@mgh.harvard.edu."
+  ]
+}

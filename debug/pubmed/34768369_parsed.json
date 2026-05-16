@@ -1,0 +1,34 @@
+{
+  "pmid": "34768369",
+  "title": "Effect of Different Corticosteroid Regimens on the Outcome of Severe COVID-19-Related Acute Respiratory Failure. A Retrospective Analysis.",
+  "abstract": "BACKGROUND: Systemic corticosteroids are associated with reduced mortality in COVID-19-related acute respiratory failure; however, the type and dose has not yet been established. OBJECTIVES: To compare the outcomes of dexamethasone vs. methylprednisolone, along with the effects of rescue, short-term, high-dose boluses of corticosteroids. METHODS: Before/after and case/control retrospective analysis of consecutive critically ill COVID-19 subjects. Subjects were initially given dexamethasone; however, after review of the local protocol, methylprednisolone was suggested. A three-day course of 1000 mg/day of methylprednisolone was administered in the case of refractory hypoxemia within the first 10 days of treatment. Propensity score-adjusted comparisons were performed. RESULTS: A total of 81 consecutive subjects were included (85% males, 60 ± 10 years, SAPS II 27 ± 7, SOFA 4 [IQR 3, 6] points) and 51 of these subjects (62.9%) received dexamethasone and 29 (35.8%) had methylprednisolone. The groups were well matched for age, comorbidities, and severity at admission. No differences were found in the duration of ICU stay, hospital mortality, or infectious complications between the groups. A total of 22 subjects (27.2%) received a rescue bolus; these subjects had a significantly lower oxygenation, a higher driving pressure, and an increased ventilatory ratio during the first ten days. Short-term/high-dose boluses were associated with higher hospital mortality, longer mechanical ventilation and ICU and hospital stay, and more infectious complications. A subgroup of subjects who received the boluses had significantly improved oxygenation and lower hospital mortality. CONCLUSIONS: We were unable to find any difference between dexamethasone or methylprednisolone on the explored outcomes; high-dose boluses of corticosteroids were associated with a worse outcome. However, a subgroup of subjects was identified in whom the high-dose boluses seemed beneficial.",
+  "year": 2021,
+  "journal": "Journal of clinical medicine",
+  "authors": [
+    "Michele Umbrello",
+    "Paolo Formenti",
+    "Stefano Nespoli",
+    "Eleonora Pisano",
+    "Cecilia Bonino",
+    "Stefano Muttini"
+  ],
+  "doi": "10.3390/jcm10214847",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "acute respiratory distress syndrome (ARDS)",
+    "corticosteroids",
+    "critically ill patients"
+  ],
+  "affiliations": [
+    "SC Anestesia e Rianimazione II, Ospedale San Carlo Borromeo, ASST Santi Paolo e Carlo, 20153 Milan, Italy.",
+    "SC Anestesia e Rianimazione, Ospedale San Paolo-Polo Universitario, ASST Santi Paolo e Carlo, 20153 Milan, Italy.",
+    "SC Anestesia e Rianimazione II, Ospedale San Carlo Borromeo, ASST Santi Paolo e Carlo, 20153 Milan, Italy.",
+    "Scuola di Specializzazione in Medicina D'emergenza-Urgenza, Università degli Studi di Milan, 20153 Milan, Italy.",
+    "Scuola di Specializzazione in Medicina D'emergenza-Urgenza, Università degli Studi di Milan, 20153 Milan, Italy.",
+    "SC Anestesia e Rianimazione II, Ospedale San Carlo Borromeo, ASST Santi Paolo e Carlo, 20153 Milan, Italy."
+  ]
+}

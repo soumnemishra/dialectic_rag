@@ -1,0 +1,51 @@
+{
+  "pmid": "37315302",
+  "title": "Dengue Uveitis - A Major Review.",
+  "abstract": "Dengue fever is a significant global public health concern with increasing incidence over the past two decades. The symptoms range from mild to severe, including fever, headache, rash, and joint pain. Ocular complications are prevalent among hospitalized patients, estimated to be between 10% and 40.3%, with varying incidences based on the serotype and severity of dengue. These complications can be hemorrhagic or inflammatory and typically occur after the onset of fever. Modern diagnostic tools such as Optical Coherence Tomography (OCT) and Fundus Fluorescein Angiography (FFA) have enabled physicians to better understand the extent of ocular involvement and guide treatment. This article provides an updated overview of the various manifestations of dengue uveitis, including their diagnosis and treatment.",
+  "year": 2023,
+  "journal": "Ocular immunology and inflammation",
+  "authors": [
+    "Amy Xie Cen",
+    "Aaron Wei Wen Ng",
+    "William Rojas-Carabali",
+    "Carlos Cifuentes-González",
+    "Alejandra de-la-Torre",
+    "Padmamalini Mahendradas",
+    "Rupesh Agrawal"
+  ],
+  "doi": "10.1080/09273948.2023.2220020",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Uveitis",
+    "Tomography, Optical Coherence",
+    "Eye",
+    "Dengue",
+    "Fluorescein Angiography"
+  ],
+  "keywords": [
+    "Dengue fever",
+    "diagnosis",
+    "treatment",
+    "tropical medicine",
+    "uveitis"
+  ],
+  "affiliations": [
+    "Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore.",
+    "National Healthcare Group Eye Institute, Tan Tock Seng Hospital, Singapore.",
+    "Neuroscience Research Group (NEUROS), Neurovitae Center for Neuroscience, Institute of Translational Medicine (IMT), Escuela de Medicina y Ciencias de la Salud, Universidad del Rosario, Bogotá, Colombia.",
+    "Advanced Ophthalmic Imaging Laboratory, Department of Ophthalmology, New York University School of Medicine, New York, New York, USA.",
+    "Neuroscience Research Group (NEUROS), Neurovitae Center for Neuroscience, Institute of Translational Medicine (IMT), Escuela de Medicina y Ciencias de la Salud, Universidad del Rosario, Bogotá, Colombia.",
+    "Neuroscience Research Group (NEUROS), Neurovitae Center for Neuroscience, Institute of Translational Medicine (IMT), Escuela de Medicina y Ciencias de la Salud, Universidad del Rosario, Bogotá, Colombia.",
+    "Department of Ophthalmology, Narayana Nethralaya, Bangalore, India.",
+    "Lee Kong Chian School of Medicine, Nanyang Technological University, Singapore.",
+    "National Healthcare Group Eye Institute, Tan Tock Seng Hospital, Singapore.",
+    "Duke-NUS Medical School, Singapore.",
+    "Yong Loo Lin School of Medicine, National University of Singapore, Singapore.",
+    "Singapore Eye Research Institute, Singapore.",
+    "National Institute for Health Research Biomedical Research Centre, Moorfields Eye Hospital, London, UK."
+  ]
+}

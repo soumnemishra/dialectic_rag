@@ -30,7 +30,7 @@ import aiohttp
 from dataclasses import dataclass, field
 from datetime import datetime
 from enum import Enum
-from typing import List, Optional, Set
+from typing import Any, List, Optional, Set
 
 from bs4 import BeautifulSoup
 from pydantic import BaseModel, Field, field_validator
@@ -45,6 +45,7 @@ from tenacity import (
 from src.config import settings
 from src.exceptions import PubMedAPIError, TransientError
 from src.core.registry import ModelRegistry
+from src.utils.debug_utils import get_debug_manager
 
 logger = logging.getLogger(__name__)
 
@@ -210,6 +211,8 @@ class RawArticle:
     doi: Optional[str] = None
     study_types: List[str] = field(default_factory=list)
     mesh_terms: List[str] = field(default_factory=list)
+    keywords: List[str] = field(default_factory=list)
+    affiliations: List[str] = field(default_factory=list)
     is_human_study: bool = False
     publication_types: List[str] = field(default_factory=list)
     is_retracted: bool = False
@@ -268,6 +271,9 @@ class PubMedClient:
             self.esearch_delay_seconds = 1.0 / max(self.requests_per_second, 1)
         self._esearch_delay_lock = asyncio.Lock()
         self._esearch_last_call = 0.0
+        self.debug_manager = get_debug_manager()
+        self.debug_pubmed = os.getenv("DEBUG_PUBMED", "false").strip().lower() in {"1", "true", "yes", "on"}
+        self.debug_retrieval = os.getenv("DEBUG_RETRIEVAL", "false").strip().lower() in {"1", "true", "yes", "on"}
         
         logger.info(
             "PubMed client initialized (Async)",
@@ -277,6 +283,24 @@ class PubMedClient:
                 "filter_recent_years": filter_recent_years,
             }
         )
+
+    def _debug_enabled(self, flag: bool) -> bool:
+        return bool(flag and self.debug_manager.is_enabled())
+
+    def _article_debug_payload(self, article: RawArticle) -> dict[str, Any]:
+        return {
+            "pmid": article.pmid,
+            "title": article.title,
+            "abstract": article.abstract,
+            "year": article.year,
+            "journal": article.journal,
+            "authors": article.authors,
+            "doi": article.doi,
+            "publication_types": article.publication_types,
+            "mesh_terms": article.mesh_terms,
+            "keywords": article.keywords,
+            "affiliations": article.affiliations,
+        }
     
     def _get_base_params(self) -> dict:
         """Get base parameters including API key."""
@@ -501,6 +525,11 @@ class PubMedClient:
                         response.raise_for_status()
                         content = await response.read()
 
+            if self._debug_enabled(self.debug_pubmed):
+                xml_text = content.decode("utf-8", errors="replace")
+                for pmid in pmids:
+                    self.debug_manager.save_xml(f"pubmed/{pmid}_raw.xml", xml_text)
+
             # Parse XML
             articles = await self._parse_xml(content)
 
@@ -510,10 +539,16 @@ class PubMedClient:
         except asyncio.TimeoutError as e:
             # Allow tenacity to catch and retry on timeouts
             logger.warning("eFetch timed out, raising to trigger retry: %s", str(e))
+            if self._debug_enabled(self.debug_pubmed):
+                timestamp = datetime.utcnow().isoformat(timespec="seconds").replace(":", "-")
+                self.debug_manager.save_exception(f"exceptions/traceback_{timestamp}.txt", e)
             raise
         except aiohttp.ClientError as e:
             # Treat client errors as transient to permit retry attempts
             logger.warning("eFetch client error, raising TransientError to trigger retry: %s", str(e))
+            if self._debug_enabled(self.debug_pubmed):
+                timestamp = datetime.utcnow().isoformat(timespec="seconds").replace(":", "-")
+                self.debug_manager.save_exception(f"exceptions/traceback_{timestamp}.txt", e)
             raise TransientError(f"eFetch failed: {e}") from e
     
     # =========================================================================
@@ -532,6 +567,11 @@ class PubMedClient:
                     article = self._parse_single_article(article_elem)
                     if article:
                         articles.append(article)
+                        if self._debug_enabled(self.debug_pubmed) and article.pmid:
+                            self.debug_manager.save_json(
+                                f"pubmed/{article.pmid}_parsed.json",
+                                self._article_debug_payload(article),
+                            )
                 except Exception as e:
                     logger.warning(
                         "Failed to parse article",
@@ -648,6 +688,18 @@ class PubMedClient:
         for mesh in article_elem.find_all("DescriptorName"):
             if mesh.text:
                 mesh_terms.append(mesh.text.strip())
+
+        # Keywords
+        keywords = []
+        for keyword in article_elem.find_all("Keyword"):
+            if keyword.text:
+                keywords.append(keyword.text.strip())
+
+        # Affiliations
+        affiliations = []
+        for aff in article_elem.find_all("Affiliation"):
+            if aff.text:
+                affiliations.append(aff.text.strip())
         
         # Check if human study
         is_human = "Humans" in mesh_terms
@@ -674,6 +726,8 @@ class PubMedClient:
             doi=doi,
             study_types=study_types,
             mesh_terms=mesh_terms,
+            keywords=keywords,
+            affiliations=affiliations,
             is_human_study=is_human,
             publication_types=pub_types,
             is_retracted=is_retracted
@@ -951,6 +1005,20 @@ class PubMedClient:
                 "validated": len(validated_docs),
             }
         )
+
+        if self._debug_enabled(self.debug_retrieval):
+            self.debug_manager.save_query_snapshot(
+                query=query,
+                payload={
+                    "pmids": pmids,
+                    "retrieved_articles": [d.model_dump() for d in validated_docs],
+                    "search_metadata": metadata.model_dump(),
+                    "evidence_scores": {},
+                    "calibration_metrics": {},
+                    "final_answer": None,
+                    "epistemic_state": None,
+                },
+            )
         
         return validated_docs
     

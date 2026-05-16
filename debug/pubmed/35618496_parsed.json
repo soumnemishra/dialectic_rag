@@ -1,0 +1,40 @@
+{
+  "pmid": "35618496",
+  "title": "Effectiveness of corticosteroids to treat coronavirus disease 2019 symptoms: A meta-analysis.",
+  "abstract": "OBJECTIVE: Currently, corticosteroids are widely used to treat coronavirus disease 2019 (COVID-19) symptoms. However, the therapeutic role of corticosteroids remains highly controversial. To that end, we aimed to assess the efficacy of corticosteroids in treating COVID-19 patients. METHOD: We searched PubMed, Embase, and Cochrane Library to select suitable studies. Our primary study endpoint was all-cause mortality. The secondary study endpoint was the length of hospital stay. RESULTS: A total of 9 randomized controlled trials (RCTs) with 7907 patients were assessed. The pooled result indicated that corticosteroids treatment could significantly reduce all-cause mortality in patients with COVID-19 (RR=0.88, 95% CI [0.82, 0.95], P=0.002). When subgroup analyses were performed, we found that corticosteroids were associated with decreased all-cause mortality in severe COVID-19 patients (RR=0.77, 95% CI [0.68, 0.88], P<0.0001), however no obvious difference was observed in all-cause mortality of non-severe COVID-19 patients between the corticosteroid and control group (RR=0.96, 95% CI [0.86, 1.06], P=0.41), meanwhile, a low dose (RR=0.89, 95% CI [0.82, 0.97], P=0.007) of dexamethasone (RR=0.9, 95% CI [0.83, 0.98], P=0.01) with a long treatment course (RR=0.89, 95% CI [0.82, 0.98], P=0.02) was beneficial for all-cause mortality in COVID-19 patients. Additionally, we found that corticosteroids might be associated with a longer length of hospital stay in non-severe COVID-19 patients (MD=3.83, 95% CI [1.11, 6.56], P=0.006). CONCLUSION: Our results showed that corticosteroid therapy was related to a reduction in all-cause mortality in severe COVID-19 patients. However, in patients with non-severe COVID-19, the use of corticosteroids did not decrease all-cause mortality and may prolong the duration of hospital stay. In addition, we revealed that a low dose of dexamethasone with a long treatment course could reduce all-cause mortality in COVID-19 patients. OBJETIVO: Actualmente, los glucocorticoides se utilizan ampliamente para tratar los síntomas de la enfermedad por coronavirus 2019 (COVID-19). Sin embargo, el papel terapéutico de los glucocorticoides sigue siendo muy controvertido, por ello, nos propusimos evaluar su eficacia en el tratamiento de los pacientes con COVID-19. MÉTODO: Se realizaron búsquedas en PubMed, Embase y Cochrane Library para seleccionar los estudios adecuados. El criterio de valoración principal del estudio fue la mortalidad por todas las causas. El criterio de valoración secundario del estudio fue la duración de la estancia en el hospital. RESULTADOS: Se evaluó un total de 9 ensayos controlados aleatorizados con 7.907 pacientes. En general, el tratamiento con glucocorticoides redujo la mortalidad por todas las causas en los pacientes con COVID-19 (RR = 0,88, IC 95% [0,82; 0,95], p = 0,002). Al realizar análisis de subgrupos, se observó que los glucocorticoides se asociaban a una disminución de la mortalidad por todas las causas en los pacientes con COVID-19 grave (RR = 0,77, IC 95% [0,68; 0,88], p < 0,0001), sin embargo no se observaron diferencias evidentes en la mortalidad por todas las causas de los pacientes con COVID-19 no grave entre el grupo de glucocorticoides y el de control (RR = 0,96, IC 95% [0,86; 1,06], p = 0,41), mientras que una dosis baja (RR = 0,89, IC 95% [0,82; 0,97], p = 0,007) de dexametasona (RR = 0,9, IC 95% [0,83; 0,98], p = 0,01) con un curso de tratamiento largo (RR = 0,89, IC 95% [0,82; 0,98], p = 0,02) fue beneficiosa para la mortalidad por todas las causas en los pacientes con COVID-19. Además, encontramos que los glucocorticoides podrían estar asociados con una mayor duración de la estancia hospitalaria en los pacientes con COVID-19 no grave (DM = 3,83, IC 95% [1,11; 6,56], p = 0,006). CONCLUSIÓN: Nuestros resultados mostraron que el tratamiento con glucocorticoides estaba relacionado con una reducción de la mortalidad por todas las causas en los pacientes con COVID-19 grave. Sin embargo, en los pacientes con COVID-19 no grave, el uso de glucocorticoides no disminuyó la mortalidad por todas las causas y puede prolongar la duración de la estancia hospitalaria. Además, descubrimos que una dosis baja de dexametasona con un curso de tratamiento largo podría reducir la mortalidad por todas las causas en los pacientes con COVID-19.",
+  "year": 2022,
+  "journal": "Medicina clinica",
+  "authors": [
+    "Yiqian Zeng",
+    "Weizhong Zeng",
+    "Bihui Yang",
+    "Zhao Liu"
+  ],
+  "doi": "10.1016/j.medcli.2022.03.013",
+  "publication_types": [
+    "Meta-Analysis",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Adrenal Cortex Hormones",
+    "Length of Stay",
+    "Dexamethasone",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [
+    "Coronavirus disease 2019",
+    "Corticosteroids",
+    "Enfermedad por coronavirus 2019",
+    "Glucocorticoides",
+    "Meta-analysis",
+    "Metaanálisis"
+  ],
+  "affiliations": [
+    "Department of Critical Care Medicine, Zhuzhou Central Hospital, Zhuzhou, Hunan, China.",
+    "Department of Critical Care Medicine, Zhuzhou Central Hospital, Zhuzhou, Hunan, China.",
+    "Department of Hematology, Zhuzhou Central Hospital, Zhuzhou, Hunan, China.",
+    "Department of Critical Care Medicine, Zhuzhou Central Hospital, Zhuzhou, Hunan, China. Electronic address: 372289013@qq.com."
+  ]
+}

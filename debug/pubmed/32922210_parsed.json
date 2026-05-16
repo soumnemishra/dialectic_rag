@@ -1,0 +1,32 @@
+{
+  "pmid": "32922210",
+  "title": "Hydroxychloroquine and dexamethasone in COVID-19: who won and who lost?",
+  "abstract": "BACKGROUND: On June 30, 2020, the WHO reported over 10 millions of COVID-19 cases worldwide with over half a million deaths. In severe cases the disease progresses into an Acute Respiratory Distress Syndrome (ARDS), which in turn depends on an overproduction of cytokines (IL-6, TNFα, IL-12, IL-8, CCL-2 and IL1) that causes alveolar and vascular lung damage. Clearly, it is essential to find an immunological treatment that controls the \"cytokine storm\". In the meantime, however, it is essential to have effective antiviral and anti-inflammatory drugs available immediately. PHARMACOLOGIC THERAPY FOR COVID-19: Hydroxychloroquine or chloroquine have been widely adopted worldwide for the treatment of SARS-CoV-2 pneumonia. However, the choice of this treatment was based on low quality of evidence, i.e. retrospective, non-randomized controlled studies. Recently, four large Randomized Controlled Trials (RCTs) have been performed in record time delivering reliable data: (1) the National Institutes of Health (NIH) RCT included 60 hospitals participating all over the world and showed the efficacy of remdesivir in reducing the recovery time in hospitalized adults with COVID-19 pneumonia; (2) three large RCTs already completed, for hydroxychloroquine, dexamethasone and Lopinavir and Ritonavir respectively. These trials were done under the umbrella of the 'Recovery' project, headed by the University of Oxford. The project includes 176 participating hospitals in the UK and was set up to verify the efficacy of some of the treatments used for COVID-19. These three 'Recovery' RCTs concluded definitely: (a) that treatment with hydroxychloroquine provides no benefits in patients hospitalized with COVID-19; (b) that treatment with dexamethasone reduced deaths by one-third in COVID-19 patients that were mechanically ventilated, and by one-fifth in patients receiving oxygen only; (c) that the combination of Lopinavir and Ritonavir is not effective in reducing mortality in COVID-19 hospitalized patients. CONCLUSIONS: The results of these four large RCTs have provided sound indications to doctors for the treatment of patients with COVID-19 and prompted the correction of many institutional provisions and guidelines on COVID-19 treatments (i.e. FDA, NIH, UK Health Service, etc.). Even though a definitive treatment for COVID-19 has not yet been found, large RCTs stand as the Gold Standards for COVID-19 therapy and offer a solid scientific base on which to base treatment decisions.",
+  "year": 2020,
+  "journal": "Clinical and molecular allergy : CMA",
+  "authors": [
+    "Claudio Ortolani",
+    "Elide A Pastorello"
+  ],
+  "doi": "10.1186/s12948-020-00132-7",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "ARDS",
+    "COVID-19",
+    "Cytokine storm syndrome",
+    "Dexamethasone",
+    "Evidence based medicine",
+    "Hydroxychloroquine",
+    "Lopinavir—ritonavir",
+    "Remdesivir",
+    "SARS-CoV-2"
+  ],
+  "affiliations": [
+    "Istituto Allergologico Lombardo. Casa Di Cura Ambrosiana, Cesano Boscone, Milano, Italy.",
+    "Unit of Allergy and Immunology, Università Degli Studi Di Milano, ASST Grande Ospedale Metropolitano Niguarda, Milano, Italy."
+  ]
+}

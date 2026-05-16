@@ -1,0 +1,61 @@
+{
+  "pmid": "33108622",
+  "title": "Design and Rationale of a Randomized, Double-Blind, Placebo-Controlled, Phase 2/3 Study Evaluating Dociparstat in Acute Lung Injury Associated with Severe COVID-19.",
+  "abstract": "INTRODUCTION: The COVID-19 global pandemic caused by the novel coronavirus, SARS-CoV-2, and the consequent morbidity and mortality attributable to progressive hypoxemia and subsequent respiratory failure threaten to overrun hospital critical care units globally. New agents that address the hyperinflammatory \"cytokine storm\" and hypercoagulable pathology seen in these patients may be a promising approach to treat patients, minimize hospital stays, and ensure hospital wards and critical care units are able to operate effectively. Dociparstat sodium (DSTAT) is a glycosaminoglycan derivative of heparin with robust anti-inflammatory properties, with the potential to address underlying causes of coagulation disorders with substantially reduced risk of bleeding compared to commercially available heparin. METHODS: This study is a randomized, double-blind, placebo-controlled, phase 2/3 trial to determine the safety and efficacy of DSTAT added to standard of care in hospitalized adults with COVID-19 who require supplemental oxygen. Phase 2 will enroll 12 participants in each of two dose-escalating cohorts to confirm the safety of DSTAT in this population. Following review of the data, an additional 50 participants will be enrolled. Contingent upon positive results, phase 3 will enroll approximately 450 participants randomized to DSTAT or placebo. The primary endpoint is the proportion of participants who survive and do not require mechanical ventilation through day 28. DISCUSSION: Advances in standard of care, recent emergency use authorizations, and positive data with dexamethasone have likely contributed to an increasing proportion of patients who are surviving without the need for mechanical ventilation. Therefore, examining the time to improvement in the NIAID score will be essential to provide a measure of drug effect on recovery. Analysis of additional endpoints, including supportive biomarkers (e.g., IL-6, HMGB1, soluble-RAGE, D-dimer), will be performed to further define the effect of DSTAT in patients with COVID-19 infection. TRIAL REGISTRATION: ClinicalTrials.gov identifier; NCT04389840, Registered 13 May 2020.",
+  "year": 2021,
+  "journal": "Advances in therapy",
+  "authors": [
+    "Joseph A Lasky",
+    "Jyotsna Fuloria",
+    "Marion E Morrison",
+    "Randall Lanier",
+    "Odin Naderer",
+    "Tom Brundage",
+    "Allen Melemed"
+  ],
+  "doi": "10.1007/s12325-020-01539-z",
+  "publication_types": [
+    "Journal Article",
+    "Clinical Trial Protocol"
+  ],
+  "mesh_terms": [
+    "Acute Lung Injury",
+    "Adult",
+    "Aged",
+    "Aged, 80 and over",
+    "Anti-Inflammatory Agents",
+    "COVID-19",
+    "Double-Blind Method",
+    "Female",
+    "Heparin",
+    "Humans",
+    "Male",
+    "Middle Aged",
+    "Respiratory Insufficiency",
+    "SARS-CoV-2",
+    "Treatment Outcome",
+    "COVID-19 Drug Treatment",
+    "Clinical Trials, Phase II as Topic",
+    "Clinical Trials, Phase III as Topic",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [
+    "Acute lung injury",
+    "COVID-19",
+    "Dociparstat",
+    "HMGB1",
+    "NETs",
+    "Neutrophil extracellular traps",
+    "P-selectin",
+    "Platelet factor 4"
+  ],
+  "affiliations": [
+    "Tulane University Medical Center, New Orleans, LA, USA.",
+    "University Medical Center New Orleans, New Orleans, LA, USA.",
+    "Chimerix, Inc, Durham, NC, USA. mmorrison@chimerix.com.",
+    "Chimerix, Inc, Durham, NC, USA.",
+    "Chimerix, Inc, Durham, NC, USA.",
+    "Chimerix, Inc, Durham, NC, USA.",
+    "Chimerix, Inc, Durham, NC, USA."
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "pmid": "21923328",
+  "title": "Higher glycemic variability in very low birth weight newborns is associated with greater early neonatal mortality.",
+  "abstract": "OBJECTIVE: To determine the association between mean glycemia and its variability with perinatal mortality in preterm newborns hospitalized in an intensive care unit (ICU). METHODS: Patients admitted to the ICU within the first 12 hours of life, with birth weight <1500 g, at least three blood glucose measurements/day and lack of insulin treatment were evaluated. Association of mean glycemia and its standard deviation (SD) with death during initial 7 days of life was evaluated. Multivariate logistic regression analysis was performed twice, using continuous glucose concentrations and by means of a quintile-based approach correcting for nonnormal distribution and nonlinear effects. RESULTS: A total of 95 newborns were enrolled. Eleven patients (11.5%) died during the initial 7 days of life, overall mortality equaled 22%. Multivariate analysis showed that 5 minute Apgar score and SD of glucose concentrations were significantly associated with increased mortality in both models. Odds ratios (ORs) equaled 0.44; 95% confidence interval (95% CI) 0.27-0.74 and OR 1.34; 95% CI 1.03-2.03 for the continuous model and 0.50 95% CI 0.34-0.75 and OR 1.82 95% CI 1.07-3.11 for the quintile-based model. In both cases, mean glycemia was removed during the stepwise model-building procedure. CONCLUSIONS: Higher glycemic variability may be associated with greater odds of perinatal mortality.",
+  "year": 2012,
+  "journal": "The journal of maternal-fetal & neonatal medicine : the official journal of the European Association of Perinatal Medicine, the Federation of Asia and Oceania Perinatal Societies, the International Society of Perinatal Obstetricians",
+  "authors": [
+    "Wojciech Fendler",
+    "Justyna Walenciak",
+    "Wojciech Mlynarski",
+    "Andrzej Piotrowski"
+  ],
+  "doi": "10.3109/14767058.2011.624220",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Blood Glucose",
+    "Female",
+    "Humans",
+    "Hyperglycemia",
+    "Hypoglycemia",
+    "Infant Mortality",
+    "Infant, Newborn",
+    "Infant, Very Low Birth Weight",
+    "Male",
+    "Poland"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Pediatrics, Oncology, Hematology and Diabetology, Lodz, Poland."
+  ]
+}

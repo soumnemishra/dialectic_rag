@@ -1,0 +1,54 @@
+{
+  "pmid": "39086948",
+  "title": "Effect of early administration of dexamethasone in patients with COVID-19 pneumonia without acute hypoxemic respiratory failure and risk of development of acute respiratory distress syndrome: EARLY-DEX COVID-19 trial.",
+  "abstract": "INTRODUCTION AND OBJECTIVES: Corticosteroids are among the drugs demonstrating a mortality benefit for coronavirus disease 2019 (COVID-19). The RECOVERY trial highlighted that dexamethasone reduced 28-day mortality for hospitalized COVID-19 patients requiring either supplemental oxygen or mechanical ventilation. It is noted that approximately 30% of COVID-19 patients, initially presenting with mild symptoms, will advance to acute respiratory distress syndrome (ARDS), especially those with detectable laboratory markers of inflammation indicative of disease progression. Our research aimed to explore the efficacy of dexamethasone in preventing the progression to ARDS in patients hospitalized with COVID-19 pneumonia who do not yet require additional oxygen but are at high risk of developing ARDS, potentially leading to a reduction in morbimortality. METHODS: In this multicenter, randomized, controlled trial, we evaluated the impact of dexamethasone on adult patients diagnosed with COVID-19 pneumonia who did not need supplementary oxygen at admission but were identified as having risk factors for ARDS. The risk of ARDS was determined based on specific criteria: elevated lactate dehydrogenase levels over 245 U/L, C-reactive protein levels exceeding 100 mg/L, and a lymphocyte count below 0.80 × 109/L. Participants were randomly allocated to either receive dexamethasone or the standard care. The primary endpoints included the incidence of moderate or severe ARDS and all-cause mortality within 30 days post-enrollment. RESULTS: One hundred twenty-six patients were randomized. Among them, 41 were female (30.8%), with a mean age of 48.8 ± 14.4 years. Ten patients in the dexamethasone group (17.2%) and ten patients in the control group (14.7%) developed moderate ARDS with no significant differences. Mechanical ventilation was required in six patients (4.7%), with four in the treatment group and two in the control group. There were no deaths during hospitalization or during follow-up. An intermediate analysis for futility showed some differences between the control and treatment groups (Z = 0.0284). However, these findings were within the margins close to the region where the null hypothesis would not be rejected. CONCLUSION: In patients with COVID-19 pneumonia without oxygen needs but at risk of progressing to severe disease, early dexamethasone administration did not lead to a decrease in ARDS development. CLINICAL TRIAL REGISTRATION: ClinicalTrials.gov, identifier NCT04836780.",
+  "year": 2024,
+  "journal": "Frontiers in medicine",
+  "authors": [
+    "Anabel Franco-Moreno",
+    "María Soledad Acedo-Gutiérrez",
+    "Miguel Ángel Casado-Suela",
+    "Nicolás Labrador-San Martín",
+    "María de Carranza-López",
+    "Fátima Ibáñez-Estéllez",
+    "Clara Hernández-Blanco",
+    "José Jiménez-Torres",
+    "Ignacio Vallejo-Maroto",
+    "Rodolfo Romero-Pareja",
+    "Gabriela Peña-Lillo",
+    "Ismael Escobar-Rodríguez",
+    "Juan Torres-Macho"
+  ],
+  "doi": "10.3389/fmed.2024.1385833",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19 management",
+    "acute respiratory distress syndrome",
+    "biomarkers",
+    "dexamethasone",
+    "inflammation",
+    "mortality",
+    "pneumonia",
+    "randomized controlled trial"
+  ],
+  "affiliations": [
+    "Internal Medicine Department, Hospital Universitario Infanta Leonor-Virgen de la Torre, Madrid, Spain.",
+    "Internal Medicine Department, Hospital Universitario Infanta Leonor-Virgen de la Torre, Madrid, Spain.",
+    "Internal Medicine Department, Hospital Universitario Infanta Leonor-Virgen de la Torre, Madrid, Spain.",
+    "Internal Medicine Department, Hospital Universitario Infanta Leonor-Virgen de la Torre, Madrid, Spain.",
+    "Internal Medicine Department, Hospital Universitario Infanta Leonor-Virgen de la Torre, Madrid, Spain.",
+    "Internal Medicine Department, Hospital Universitario Puerta de Hierro, Madrid, Spain.",
+    "Internal Medicine Department, Hospital Carlos III, Madrid, Spain.",
+    "Hospital Emergencia COVID-19, Sevilla, Spain.",
+    "Hospital Emergencia COVID-19, Sevilla, Spain.",
+    "Hospital de Emergencias Enfermera Isabel Zendal, Madrid, Spain.",
+    "European University, Madrid, Spain.",
+    "Emergency Department, Hospital Universitario Infanta Leonor-Virgen de la Torre, Madrid, Spain.",
+    "Pharmacology Department, Hospital Universitario Infanta Leonor-Virgen de la Torre, Madrid, Spain.",
+    "Internal Medicine Department, Hospital Universitario Infanta Leonor-Virgen de la Torre, Madrid, Spain.",
+    "Department of Medicine, Complutense University, Madrid, Spain."
+  ]
+}

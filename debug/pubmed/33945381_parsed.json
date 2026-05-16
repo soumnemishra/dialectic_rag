@@ -1,0 +1,41 @@
+{
+  "pmid": "33945381",
+  "title": "Does methylprednisolone reduce the mortality risk in hospitalized COVID-19 patients? A meta-analysis of randomized control trials.",
+  "abstract": "Objectives: The question remained if mortality benefits with dexamethasone seen in patients with coronavirus disease 2019 (COVID-19) also extend to other systemic corticosteroids such as methylprednisolone. This article presents a meta-analysis of randomized controlled trials (RCTs) to ascertain if methylprednisolone can be recommended for use in patients with COVID-19 to prevent deaths.Methods: Systematic literature search was performed in PubMed, Scopus, Cochrane Central Register of Controlled Trials, and preprint servers until 13 April 2021. The outcome of interest was all-cause mortality. The random-effects model for the meta-analysis was utilized to estimate the pooled odds ratio (OR) at 95% confidence intervals (CI).Results: Five RCTs were included in the meta-analysis. The pooled OR for all-cause mortality was 0.64 (95% CI: 0.29 - 1.43, n = 652) comparing methylprednisolone with the control, indicating no mortality benefits. A similar finding was noted with a sub-group analysis including four trials that used low-dose methylprednisolone. However, the only trial that administered high dose methylprednisolone indicated a statistically significant mortality benefit (OR 0.08, 95% CI: 0.02-0.42).Conclusions: In determining equipotent doses for an acute short-course pulse therapy of corticosteroids, the biological half-life of steroids should also be accounted for besides the potency factor. A short duration (3-5 days) pulse therapy of high-dose methylprednisolone can be a promising alternative to the low-dose dexamethasone therapy in severely ill patients with COVID-19 to prevent deaths.",
+  "year": 2021,
+  "journal": "Expert review of respiratory medicine",
+  "authors": [
+    "Syed Shahzad Hasan",
+    "Chia Siang Kow",
+    "Zia Ul Mustafa",
+    "Hamid A Merchant"
+  ],
+  "doi": "10.1080/17476348.2021.1925546",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Dexamethasone",
+    "Glucocorticoids",
+    "Humans",
+    "Methylprednisolone",
+    "SARS-CoV-2"
+  ],
+  "keywords": [
+    "Coronavirus",
+    "SARS-CoV-2",
+    "corticosteroids",
+    "deaths",
+    "dexamethasone",
+    "methylprednisolone",
+    "pandemic"
+  ],
+  "affiliations": [
+    "Department of Pharmacy, School of Applied Sciences, University of Huddersfield, Huddersfield, UK.",
+    "School of Postgraduate Studies, International Medical University, Kuala Lumpur, Malaysia.",
+    "Department of Pharmacy, District Headquarters Hospital, Pakpattan, Pakistan.",
+    "Department of Pharmacy, School of Applied Sciences, University of Huddersfield, Huddersfield, UK."
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "pmid": "34426417",
+  "title": "Review of study reporting guidelines for clinical studies using artificial intelligence in healthcare.",
+  "abstract": "High-quality research is essential in guiding evidence-based care, and should be reported in a way that is reproducible, transparent and where appropriate, provide sufficient detail for inclusion in future meta-analyses. Reporting guidelines for various study designs have been widely used for clinical (and preclinical) studies, consisting of checklists with a minimum set of points for inclusion. With the recent rise in volume of research using artificial intelligence (AI), additional factors need to be evaluated, which do not neatly conform to traditional reporting guidelines (eg, details relating to technical algorithm development). In this review, reporting guidelines are highlighted to promote awareness of essential content required for studies evaluating AI interventions in healthcare. These include published and in progress extensions to well-known reporting guidelines such as Standard Protocol Items: Recommendations for Interventional Trials-AI (study protocols), Consolidated Standards of Reporting Trials-AI (randomised controlled trials), Standards for Reporting of Diagnostic Accuracy Studies-AI (diagnostic accuracy studies) and Transparent Reporting of a multivariable prediction model for Individual Prognosis Or Diagnosis-AI (prediction model studies). Additionally there are a number of guidelines that consider AI for health interventions more generally (eg, Checklist for Artificial Intelligence in Medical Imaging (CLAIM), minimum information (MI)-CLAIM, MI for Medical AI Reporting) or address a specific element such as the 'learning curve' (Developmental and Exploratory Clinical Investigation of Decision-AI) . Economic evaluation of AI health interventions is not currently addressed, and may benefit from extension to an existing guideline. In the face of a rapid influx of studies of AI health interventions, reporting guidelines help ensure that investigators and those appraising studies consider both the well-recognised elements of good study design and reporting, while also adequately addressing new challenges posed by AI-specific elements.",
+  "year": 2021,
+  "journal": "BMJ health & care informatics",
+  "authors": [
+    "Susan Cheng Shelmerdine",
+    "Owen J Arthurs",
+    "Alastair Denniston",
+    "Neil J Sebire"
+  ],
+  "doi": "10.1136/bmjhci-2021-100385",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Checklist",
+    "Delivery of Health Care",
+    "Guidelines as Topic",
+    "Humans",
+    "Randomized Controlled Trials as Topic",
+    "Research Design",
+    "Research Report"
+  ],
+  "keywords": [
+    "BMJ health informatics",
+    "healthcare sector",
+    "medical informatics"
+  ],
+  "affiliations": [
+    "Radiology, Great Ormond Street Hospital NHS Foundation Trust, London, UK susie.shelmerdine@gmail.com.",
+    "Radiology, Great Ormond Street Hospital NHS Foundation Trust, London, UK.",
+    "Institute of Inflammation and Ageing, University of Birmingham, Birmingham, UK.",
+    "Digital Research, Informatics and Virtual Environments Unit (DRIVE), London, UK."
+  ]
+}

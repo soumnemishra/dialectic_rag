@@ -1,0 +1,56 @@
+{
+  "pmid": "29775476",
+  "title": "Maternal asthma is associated with increased risk of perinatal mortality.",
+  "abstract": "BACKGROUND: Asthma is the most common chronic disease during pregnancy and it may have influence on pregnancy outcome. OBJECTIVES: Our goal was to assess the association between maternal asthma and the perinatal risks as well as possible effects of asthma medication. METHODS: The study was based on a nationwide Finnish register-based cohort between the years 1996 and 2012 in the Drug and Pregnancy Database. The register data comprised 962 405 singleton live and stillbirths, 898 333 (93.3%) pregnancies in mothers with neither confirmed asthma nor use of asthma medication (controls), and 26 674 (2.8%) pregnancies with confirmed maternal asthma. 71% of mothers with asthma used asthma medication. The diagnosis of asthma was based on the mothers' right for subsidised medication which is carefully evaluated by strict criteria including pulmonary function testing. Odds ratio was used in comparison. Premature birth (PB), low birth weight, small for gestational age (SGA), neonatal death were the main outcome measures. RESULTS: Maternal asthma was associated with adjusted odds ratios (aORs) for perinatal mortality 1.24 (95% CI 1.05 to 1.46), preterm birth 1.18 (1.11 to 1.25), low birth weight 1.29 (1.21 to 1.37), fetal growth restriction (SGA) 1.32, (1.24 to 1.40), and asphyxia 1.09 (1.02 to 1.17). Asthma treatment reduced the increased risk of preterm birth aOR 0.85 (95% CI 0.76 to 0.96) but mothers with treated asthma had higher risks of fetal growth restriction (SGA) aOR 1.26 (1.10 to 1.45), and asphyxia aOR 1.37 (1.17 to 1.61) than mothers with untreated asthma. CONCLUSION: Asthma is associated with increased risks of perinatal mortality, preterm birth, low birth weight, fetal growth restriction (SGA), and asphyxia. Asthma treatment reduces the risk of preterm delivery, but it does not seem to reduce other complications such as perinatal mortality.",
+  "year": 2018,
+  "journal": "PloS one",
+  "authors": [
+    "Mari Kemppainen",
+    "Anna-Maria Lahesmaa-Korpinen",
+    "Paula Kauppi",
+    "Martti Virtanen",
+    "Suvi M Virtanen",
+    "Riitta Karikoski",
+    "Mika Gissler",
+    "Turkka Kirjavainen"
+  ],
+  "doi": "10.1371/journal.pone.0197593",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Asthma",
+    "Cohort Studies",
+    "Female",
+    "Finland",
+    "Humans",
+    "Infant, Low Birth Weight",
+    "Infant, Newborn",
+    "Infant, Small for Gestational Age",
+    "Odds Ratio",
+    "Perinatal Mortality",
+    "Pregnancy",
+    "Pregnancy Complications",
+    "Pregnancy Outcome",
+    "Premature Birth",
+    "Registries",
+    "Risk Factors"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Paediatrics, Children's Hospital Helsinki University Hospital, Helsinki, Finland.",
+    "National Institute for Health and Welfare, Information Services Department, Unit of Statistics and Registers, Helsinki, Finland.",
+    "Helsinki University, Respiratory Medicine and Allergology, Helsinki, Finland.",
+    "Helsinki University Central Hospital, Skin and Allergy Hospital, Helsinki, Finland.",
+    "Nordic Casemix Center, Helsinki, Finland.",
+    "Unit of Nutrition, National Institute for Health and Welfare, Helsinki, Finland.",
+    "Health Sciences Center, University of Tampere, Center for Child Health Research, University of Tampere, Tampere, Finland.",
+    "Tampere University Hospital, and the Science Center of Pirkanmaa Hospital District, Tampere, Finland.",
+    "Regional State Administrative Agencies, Tampere, Finland.",
+    "National Institute for Health and Welfare, Information Services Department, Unit of Statistics and Registers, Helsinki, Finland.",
+    "Karolinska Institute, Department of Neurobiology, Care Sciences and Society, Division of Family Medicine, Stockholm, Sweden.",
+    "Department of Paediatrics, Children's Hospital Helsinki University Hospital, Helsinki, Finland."
+  ]
+}

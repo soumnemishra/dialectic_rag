@@ -1,0 +1,33 @@
+{
+  "pmid": "36858444",
+  "title": "A patient-tailored approach for corticosteroid treatment in COVID-19: still not there yet.",
+  "abstract": "Other steroids are currently not superior to dexamethasone 6 mg in COVID-19 patients with acute respiratory failure https://bit.ly/3YUkc8G More than 3 years after its first appearance, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) is still among the most troublesome respiratory viruses and the coronavirus disease 2019 (COVID-19) pandemic is still not under control globally [1]. A clear association between dysregulated inflammation and adverse clinical outcomes has been demonstrated in COVID-19 since the very beginning of the pandemic with the so-called “cytokine storm” advocated as the key pathogenetic mechanism in severe disease [2, 3]. The scientific community theorised the use of immunomodulating agents to control this process and, among them, systemic corticosteroids have been extensively used during the pandemic since the first evidence that they reduced mortality was published in June 2020 [4]. International guidelines unanimously report moderate-to-strong recommendations in favour of corticosteroids for hospitalised COVID-19 patients with acute respiratory failure (ARF) based on moderate-to-high quality evidence [5–9].",
+  "year": 2023,
+  "journal": "The European respiratory journal",
+  "authors": [
+    "Mattia Nigro",
+    "James D Chalmers",
+    "Stefano Aliberti"
+  ],
+  "doi": "10.1183/13993003.00270-2023",
+  "publication_types": [
+    "Editorial",
+    "Comment"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Methylprednisolone",
+    "COVID-19 Drug Treatment",
+    "Adrenal Cortex Hormones",
+    "Dexamethasone"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Biomedical Sciences, Humanitas University, Pieve Emanuele, Milan, Italy.",
+    "IRCCS Humanitas Research Hospital, Respiratory Unit, Rozzano, Milan, Italy.",
+    "Division of Molecular and Clinical Medicine, University of Dundee, Ninewells Hospital and Medical School, Dundee, UK.",
+    "Department of Biomedical Sciences, Humanitas University, Pieve Emanuele, Milan, Italy stefano.aliberti@hunimed.eu.",
+    "IRCCS Humanitas Research Hospital, Respiratory Unit, Rozzano, Milan, Italy."
+  ]
+}

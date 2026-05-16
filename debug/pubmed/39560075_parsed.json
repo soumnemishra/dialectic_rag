@@ -1,0 +1,46 @@
+{
+  "pmid": "39560075",
+  "title": "Calcium supplementation (other than for preventing or treating hypertension) for improving pregnancy and infant outcomes.",
+  "abstract": "BACKGROUND: Maternal nutrition during pregnancy is known to have an effect on fetal growth and development. It is recommended that women increase their calcium intake during pregnancy and lactation, although the recommended dosage varies among professionals. Currently, there is no consensus on the role of routine calcium supplementation for pregnant women other than for preventing or treating hypertension. OBJECTIVES: To determine the effect of calcium supplementation on maternal, fetal and neonatal outcomes, excluding women with multiple gestation (other than for preventing or treating hypertension), including the occurrence of adverse effects. SEARCH METHODS: We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (which includes results of comprehensive searches of CENTRAL, MEDLINE, Embase, CINAHL, two trials registers and relevant conference proceedings) on 3 December 2022. We also searched the reference lists of retrieved studies. SELECTION CRITERIA: We considered all published, unpublished and ongoing randomised controlled trials (RCTs) comparing maternal, fetal and neonatal outcomes in pregnant women who received calcium supplementation versus placebo or no treatment. Cluster-RCTs were eligible for inclusion but none were identified. Quasi-RCTs and cross-over studies were not eligible for inclusion. DATA COLLECTION AND ANALYSIS: Two review authors independently assessed trials for inclusion. At least one review author assessed trials meeting the inclusion criteria for trustworthiness, consulting another review author in cases that were not immediately clear. Two review authors independently assessed the studies for risk of bias, extracted data, and checked trials for accuracy. We assessed the certainty of the evidence using GRADE. MAIN RESULTS: Twenty-one studies met the inclusion criteria, but only 19 studies contributed data to the review. These 19 trials recruited 17,370 women, with 16,625 women included in the final analyses. The trials were generally at low risk of bias for randomisation and allocation concealment. We chose three outcomes for GRADE assessment: preterm birth less than 37 weeks, preterm birth less than 34 weeks and low birthweight (less than 2500 g). All trials compared calcium supplementation with placebo or no treatment with 17 trials comparing high-dose calcium (greater than 1000 mg/day). Calcium supplementation probably slightly reduces the risk of preterm birth less than 37 weeks (average risk ratio (RR) 0.80, 95% confidence interval (CI) 0.65 to 0.99; 11 trials, 15,379 women; moderate-certainty evidence), but probably has little effect on the risk of preterm birth less than 34 weeks (average RR 1.03, 95% CI 0.79 to 1.35; 3 trials, 5569 women; moderate-certainty evidence), and may have little or no effect on low birthweight (less than 2500 g) (average RR 0.93, 95% CI 0.81 to 1.07; 6 trials, 14,162 women; low-certainty evidence; 1 study reported low birthweight (less than 2500 g) but recorded 0 events in both groups. Thus, the RR and CIs were calculated from 5 studies rather than 6). We downgraded the evidence for imprecision (wide CIs crossing the line of no effect) and inconsistency (high levels of heterogeneity between the studies). There was no evidence that calcium supplementation had any effect on maternal weight gain during pregnancy; increasing bone mineral density in pregnant women; rate of intrauterine growth restriction; perinatal mortality; stillbirth or fetal death rate; increase birth length or fetal head circumference; and adverse effects such as postpartum haemorrhage, gall stones, gastrointestinal symptoms, headache, urinary stones, urinary tract infection or impaired renal function. AUTHORS' CONCLUSIONS: This review indicates that calcium supplementation probably reduces preterm birth before 37 weeks. There are no clear additional benefits to calcium supplementation in preterm birth before 34 weeks or prevention of low birthweight. Large multicentre trials to detect the effect of calcium supplementation on fetal birthweight and preterm birth before 34 weeks as the primary outcomes are needed. Further research into the short- and long-term effects of calcium supplementation would also be beneficial.",
+  "year": 2024,
+  "journal": "The Cochrane database of systematic reviews",
+  "authors": [
+    "Kiattisak Kongwattanakul",
+    "Chatuporn Duangkum",
+    "Chetta Ngamjarus",
+    "Pisake Lumbiganon",
+    "Anna Cuthbert",
+    "Jo Weeks",
+    "Jen Sothornwit"
+  ],
+  "doi": "10.1002/14651858.CD007079.pub4",
+  "publication_types": [
+    "Systematic Review",
+    "Journal Article",
+    "Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Female",
+    "Humans",
+    "Infant, Newborn",
+    "Pregnancy",
+    "Bias",
+    "Calcium",
+    "Calcium, Dietary",
+    "Dietary Supplements",
+    "Infant, Low Birth Weight",
+    "Pregnancy Outcome",
+    "Premature Birth",
+    "Randomized Controlled Trials as Topic"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Obstetrics and Gynaecology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand.",
+    "Department of Obstetrics and Gynaecology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand.",
+    "Department of Epidemiology and Biostatistics, Faculty of Public Health, Khon Kaen University, Khon Kaen, Thailand.",
+    "Department of Obstetrics and Gynaecology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand.",
+    "Cochrane Pregnancy and Childbirth Group, Department of Women's and Children's Health, University of Liverpool, Liverpool, UK.",
+    "Cochrane Pregnancy and Childbirth Group, Department of Women's and Children's Health, University of Liverpool, Liverpool, UK.",
+    "Department of Obstetrics and Gynaecology, Faculty of Medicine, Khon Kaen University, Khon Kaen, Thailand."
+  ]
+}

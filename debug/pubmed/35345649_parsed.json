@@ -1,0 +1,56 @@
+{
+  "pmid": "35345649",
+  "title": "Reduced fixed dose tocilizumab 400 mg IV compared to weight-based dosing in critically ill patients with COVID-19: A before-after cohort study.",
+  "abstract": "BACKGROUND: Interleukin-6 inhibitors reduce mortality in severe COVID-19. British Columbia began using tocilizumab 8 mg/kg (maximum 800 mg) in January 2021 in critically ill patients with COVID-19, but due to drug shortages, decreased dosing to 400 mg IV fixed dose in April 2021. The aims of this study were twofold: to compare physiological responses and clinical outcomes of these two strategies, and examine the cost-effectiveness of treating all patients with 400 mg versus half the patients with 8 mg/kg and the other half without tocilizumab. METHODS: This was a single-centre, before-after cohort study of critically ill COVID-19 patients treated with tocilizumab, and a control cohort treated with dexamethasone only. Physiological responses and clinical outcomes were compared between patients receiving both doses of tocilizumab and those receiving dexamethasone only. We built a decision tree model to examine cost-effectiveness. FINDINGS: 152 patients were included; 40 received tocilizumab 8 mg/kg, 59 received 400 mg and 53 received dexamethasone only. Median CRP fell from 103 mg/L to 5.2 mg/L, 96 mg/L to 6.8 mg/L and from 81.3 mg/L to 48 mg/L in the 8 mg/kg, 400 mg tocilizumab, and dexamethasone only groups, respectively. 28-day mortality was 5% (n=2) vs 8% (n=5) vs 13% (n=7), with no significant difference in all pair-wise comparison. At an assumed willingness-to-pay threshold of $50,000 Canadian per life-year, utilizing 400 mg for all patients rather than 8 mg/kg for half the patients is cost-effective in 51.6% of 10,000 Monte Carlo simulations. INTERPRETATION: Both doses of tocilizumab demonstrated comparable reduction of inflammation with similar 28-day mortality. Without consideration of equity, the net monetary benefits of providing 400 mg tocilizumab to all patients are comparable to 8 mg/kg to half the patients. In the context of ongoing drug shortages, fixed-dose 400 mg tocilizumab may be a practical, feasible and economical option. FUNDING: This work was supported by a gift donation from Hsu & Taylor Family to the VGH Foundation, and the Yale Bernard G. Forget Scholarship.",
+  "year": 2022,
+  "journal": "Lancet regional health. Americas",
+  "authors": [
+    "Sophie Stukas",
+    "George Goshua",
+    "Angus Kinkade",
+    "Rebecca Grey",
+    "Gregory Mah",
+    "Catherine M Biggs",
+    "Shahin Jamal",
+    "Sonny Thiara",
+    "Tim T Y Lau",
+    "Jolanta Piszczek",
+    "Nilu Partovi",
+    "David D Sweet",
+    "Agnes Y Y Lee",
+    "Cheryl L Wellington",
+    "Mypinder S Sekhon",
+    "Luke Y C Chen"
+  ],
+  "doi": "10.1016/j.lana.2022.100228",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "Cost-effectiveness",
+    "Covid cytokine storm",
+    "Interleukin-6",
+    "Tocilizumab"
+  ],
+  "affiliations": [
+    "Djavad Mowafaghian Centre for Brain Health, Department of Pathology and Laboratory Medicine, Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada.",
+    "Section of Hematology, Yale University School of Medicine, New Haven, CT, USA.",
+    "Department of Health Policy and Management, Harvard T.H. Chan School of Public Health, Boston, MA, USA.",
+    "Lower Mainland Pharmacy Services, Vancouver, British Columbia.",
+    "Division of Critical Care Medicine, Department of Medicine, University of British Columbia, Vancouver, BC, Canada.",
+    "Department of Pharmacy, Vancouver General Hospital, Vancouver, BC, Canada.",
+    "Division of Allergy and Immunology, Department of Pediatrics, University of British Columbia, Vancouver, BC, Canada.",
+    "Division of Rheumatology, Department of Medicine, University of British Columbia, Canada.",
+    "Division of Critical Care Medicine, Department of Medicine, University of British Columbia, Vancouver, BC, Canada.",
+    "Faculty of Pharmaceutical Sciences, and Division of Infectious Diseases, Department of Medicine, Faculty of Medicine, University of British Columbia, Vancouver, BC, Canada.",
+    "British Columbia COVID Therapeutic Committee, Victoria, BC, Canada.",
+    "Department of Pharmacy, Vancouver General Hospital, Vancouver, BC, Canada.",
+    "Division of Critical Care Medicine and Department of Emergency Medicine, University of British Columbia, Vancouver, BC, Canada.",
+    "Division of Hematology, Department of Medicine, University of British Columbia, Vancouver, BC, Canada.",
+    "Department of Pathology and Laboratory Medicine, Djavad Mowafaghian Centre for Brain Health, International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada.",
+    "Division of Critical Care Medicine, Department of Medicine, University of British Columbia, Vancouver, BC, Canada.",
+    "Department of Pathology and Laboratory Medicine, Djavad Mowafaghian Centre for Brain Health, International Collaboration on Repair Discoveries, University of British Columbia, Vancouver, BC, Canada."
+  ]
+}

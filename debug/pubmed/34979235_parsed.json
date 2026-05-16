@@ -1,0 +1,57 @@
+{
+  "pmid": "34979235",
+  "title": "Systemic administration of glucocorticoids, cardiovascular complications and mortality in patients hospitalised with COVID-19, SARS, MERS or influenza: A systematic review and meta-analysis of randomised trials.",
+  "abstract": "BACKGROUND: Administration of glucocorticoids might reduce mortality in patients with severe COVID-19 but have adverse cardiometabolic effects. OBJECTIVES: to investigate the effect of systemic administration of glucocorticoids on cardiovascular complications and all-cause mortality in patients hospitalised with respiratory viral infections, including COVID-19, SARS, MERS and influenza. METHODS: We identified randomised trials published prior to July 28th, 2021. The Mantel-Haenszel random effects method and the Hartung and Knapp adjustment were used to obtain pooled estimates of treatment effect with 95% confidence intervals. RESULTS: No randomised trials of glucocorticoids for SARS, MERS or influenza reported relevant outcomes. We included eleven COVID-19 randomised trials (8109 patients). Overall, compared to placebo or standard care, glucocorticoids were not associated with a reduction of in-hospital mortality (p = 0.09). In a pre-specified sub-analysis, in-hospital mortality was reduced by 19% when follow-up was restricted to 14 days from randomisation (5/11 trials, 1329 patients, p = 0.02). With longer follow-up (9/11 trials, 7874 patients), administration of glucocorticoids was associated with a trend to benefit for those requiring mechanical ventilation (RR 0.86; 95% CI 0.57-1.27) but possible harm for those not receiving oxygen at randomisation (RR 1.27; 95% CI 1.00 - 1.61), an effect that was significantly different amongst subgroups (p = 0.0359). Glucocorticoids reduced the risk of worsening renal function by 37% (4/11 trials); reported rate of other cardiovascular complications was low. CONCLUSIONS: Administration of systemic glucocorticoids to patients hospitalised with COVID-19 does not lower mortality overall but may reduce it in those requiring respiratory support and increase it in those who do not.",
+  "year": 2022,
+  "journal": "Pharmacological research",
+  "authors": [
+    "Elisabetta Caiazzo",
+    "Asma O M Rezig",
+    "Dario Bruzzese",
+    "Armando Ialenti",
+    "Carla Cicala",
+    "John G F Cleland",
+    "Tomasz J Guzik",
+    "Pasquale Maffia",
+    "Pierpaolo Pellicori"
+  ],
+  "doi": "10.1016/j.phrs.2021.106053",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Cardiovascular Diseases",
+    "Coronavirus Infections",
+    "Glucocorticoids",
+    "Hospitalization",
+    "Humans",
+    "Influenza, Human",
+    "Randomized Controlled Trials as Topic",
+    "SARS-CoV-2",
+    "Severe Acute Respiratory Syndrome",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Dexamethasone",
+    "Glucocorticoids",
+    "Meta-analysis",
+    "Mortality",
+    "Steroids"
+  ],
+  "affiliations": [
+    "Centre for Immunobiology, Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary and Life Sciences, University of Glasgow, UK; Department of Pharmacy, School of Medicine and Surgery, University of Naples Federico II, Naples, Italy.",
+    "Centre for Immunobiology, Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary and Life Sciences, University of Glasgow, UK.",
+    "Department of Public health, University of Naples Federico II, Naples, Italy.",
+    "Department of Pharmacy, School of Medicine and Surgery, University of Naples Federico II, Naples, Italy.",
+    "Department of Pharmacy, School of Medicine and Surgery, University of Naples Federico II, Naples, Italy.",
+    "Robertson Centre for Biostatistics, and Glasgow Clinical Trials Unit, Institute of Health and Wellbeing, University of Glasgow, UK; National Heart & Lung Institute, Imperial College London, UK.",
+    "Institute of Cardiovascular and Medical Sciences, College of Medical, Veterinary and Life Sciences, University of Glasgow, UK; Department of Internal and Agricultural Medicine, Jagiellonian University Medical College, Krakow, Poland.",
+    "Centre for Immunobiology, Institute of Infection, Immunity and Inflammation, College of Medical, Veterinary and Life Sciences, University of Glasgow, UK; Department of Pharmacy, School of Medicine and Surgery, University of Naples Federico II, Naples, Italy; Institute of Cardiovascular and Medical Sciences, College of Medical, Veterinary and Life Sciences, University of Glasgow, UK. Electronic address: Pasquale.Maffia@glasgow.ac.uk.",
+    "Robertson Centre for Biostatistics, and Glasgow Clinical Trials Unit, Institute of Health and Wellbeing, University of Glasgow, UK. Electronic address: pierpaolo.pellicori@glasgow.ac.uk."
+  ]
+}

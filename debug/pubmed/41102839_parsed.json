@@ -1,0 +1,65 @@
+{
+  "pmid": "41102839",
+  "title": "Clinical significance and expression of ALDH1 in triple-negative breast cancer.",
+  "abstract": "BACKGROUND: Triple-negative breast cancer (TNBC) is aggressive and has limited therapeutic options due to the absence of targeted therapies, highlighting the urgent need for prognostic biomarkers linked to cancer stemness and chemoresistance. Aldehyde dehydrogenase 1 (ALDH1), a key regulator of stem cell properties, remains incompletely characterized in TNBC clinical cohorts. METHODS: ALDH1 mRNA expression levels were analyzed using the GEO2R online database, and its prognostic significance was assessed via the Kaplan‒Meier plotter tool. Immunohistochemical (IHC) staining was performed on a tissue microarray comprising 96 TNBC samples and paired adjacent normal tissues from patients treated at Binzhou People's Hospital between 2016 and 2022. The associations between ALDH1 expression and clinicopathological parameters were evaluated using the chi-square test. RESULTS: Bioinformatics analysis revealed significantly higher ALDH1 mRNA expression in TNBC tissues compared to adjacent benign tissues. Kaplan‒Meier survival analysis demonstrated that elevated ALDH1 mRNA expression was associated with poor prognosis in TNBC patients. IHC staining further confirmed elevated ALDH1 protein expression in TNBC tissues compared with normal adjacent tissues. However, there was no significant correlation between ALDH1 expression and conventional clinicopathological parameters, including age, menopausal status, tumor size, TNM stage, histological grade, histological subtype, axillary lymph node metastasis and the Ki-67 index (p > 0.05). High ALDH1 expression was significantly associated with poorer overall survival ( χ2 = 16.836, p < 0.001). CONCLUSION: Our data demonstrate that ALDH1 expression is not significantly associated with conventional clinicopathological parameters (such as age, TNM stage, or histological grade). Instead, it is associated with poorer survival on univariate analysis in TNBC patients. Its lack of association with clinicopathological factors suggests its potential utility as a supplementary prognostic indicator.",
+  "year": 2025,
+  "journal": "Diagnostic pathology",
+  "authors": [
+    "Yaoyao Yang",
+    "Zhuoran Li",
+    "Yangyang Zhu",
+    "Chongyong Guo",
+    "Li Yang",
+    "Jian Zhang"
+  ],
+  "doi": "10.1186/s13000-025-01726-y",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Triple Negative Breast Neoplasms",
+    "Female",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Middle Aged",
+    "Biomarkers, Tumor",
+    "Prognosis",
+    "Adult",
+    "Kaplan-Meier Estimate",
+    "Aged",
+    "Immunohistochemistry",
+    "Isoenzymes",
+    "Clinical Relevance",
+    "Retinal Dehydrogenase"
+  ],
+  "keywords": [
+    "ALDH1",
+    "IHC",
+    "TMA",
+    "TNBC"
+  ],
+  "affiliations": [
+    "Department of Central Laboratory, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Shandong Provincial Key Laboratory of Diagnosis and Treatment for Infectious Diseases and Medicine, Health of Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Binzhou Key Laboratory of Pathogenic Biology of Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Binzhou Engineering Research Center of Precision Medicine and Regenerative Medicine, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Binzhou Engineering Research Center of Zoonotic Diseases, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Department of Central Laboratory, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Shandong Provincial Key Laboratory of Diagnosis and Treatment for Infectious Diseases and Medicine, Health of Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Binzhou Key Laboratory of Pathogenic Biology of Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Binzhou Engineering Research Center of Precision Medicine and Regenerative Medicine, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Binzhou Engineering Research Center of Zoonotic Diseases, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Department of Central Laboratory, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Shandong Provincial Key Laboratory of Diagnosis and Treatment for Infectious Diseases and Medicine, Health of Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Binzhou Key Laboratory of Pathogenic Biology of Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Binzhou Engineering Research Center of Precision Medicine and Regenerative Medicine, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Binzhou Engineering Research Center of Zoonotic Diseases, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Department of Breast Center, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Department of Laboratory Medicine, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China.",
+    "Department of Central Laboratory, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China. 2269776489@qq.com.",
+    "Shandong Provincial Key Laboratory of Diagnosis and Treatment for Infectious Diseases and Medicine, Health of Binzhou People's Hospital, Binzhou, 256600, People's Republic of China. 2269776489@qq.com.",
+    "Binzhou Key Laboratory of Pathogenic Biology of Binzhou People's Hospital, Binzhou, 256600, People's Republic of China. 2269776489@qq.com.",
+    "Binzhou Engineering Research Center of Precision Medicine and Regenerative Medicine, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China. 2269776489@qq.com.",
+    "Binzhou Engineering Research Center of Zoonotic Diseases, Binzhou People's Hospital, Binzhou, 256600, People's Republic of China. 2269776489@qq.com."
+  ]
+}

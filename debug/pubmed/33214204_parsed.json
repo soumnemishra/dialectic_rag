@@ -1,0 +1,44 @@
+{
+  "pmid": "33214204",
+  "title": "Genetically proxied interleukin-6 receptor inhibition: opposing associations with COVID-19 and pneumonia.",
+  "abstract": "Respiratory disease is a main feature of severe COVID-19, and the potential of IL-6 receptor blockade to increase risk of pneumonia warrants vigilance and caution in its application to treat COVID-19 https://bit.ly/34Y8Ner The inflammatory cytokine interleukin-6 (IL-6) is central to orchestrating the immune system [1]. The pathophysiological process underlying severe coronavirus disease 2019 (COVID-19), caused by the severe acute respiratory syndrome coronavirus 2, consists of an exaggerated host immune response and elevated circulating levels of inflammatory cytokines, including IL-6 [2, 3]. As such, immunomodulatory agents are being investigated for the treatment of COVID-19. Glucocorticoids may limit inflammation-mediated lung injury in patients with severe COVID-19, and consequently reduce progression to respiratory failure and death. The RECOVERY trial found that administration of dexamethasone resulted in lower 28-day mortality among hospitalised COVID-19 patients who were receiving either invasive mechanical ventilation or oxygen alone at randomisation, but not among those who were not receiving any respiratory support [4]. IL-6 receptor (IL6R) inhibition may represent another potential immunomodulatory strategy for treating COVID-19 [5, 6], and a recent meta-analysis of mean IL-6 concentrations demonstrated 2.9-fold higher levels in patients with complicated COVID-19 compared with patients with non-complicated disease [7].",
+  "year": 2021,
+  "journal": "The European respiratory journal",
+  "authors": [
+    "Susanna C Larsson",
+    "Stephen Burgess",
+    "Dipender Gill"
+  ],
+  "doi": "10.1183/13993003.03545-2020",
+  "publication_types": [
+    "Letter",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "C-Reactive Protein",
+    "COVID-19",
+    "Genetic Predisposition to Disease",
+    "Hospitalization",
+    "Humans",
+    "Mendelian Randomization Analysis",
+    "Pneumonia",
+    "Polymorphism, Single Nucleotide",
+    "Receptors, Interleukin-6",
+    "Respiratory Insufficiency",
+    "SARS-CoV-2",
+    "Severity of Illness Index",
+    "White People",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Unit of Cardiovascular and Nutritional Epidemiology, Institute of Environmental Medicine, Karolinska Institutet, Stockholm, Sweden susanna.larsson@ki.",
+    "Dept of Surgical Sciences, Uppsala University, Uppsala, Sweden.",
+    "Dept of Public Health and Primary Care, University of Cambridge, Cambridge, UK.",
+    "MRC Biostatistics Unit, University of Cambridge, Cambridge, UK.",
+    "Dept of Epidemiology and Biostatistics, School of Public Health, St Mary's Hospital, Imperial College London, London, UK.",
+    "Clinical Pharmacology and Therapeutics Section, Institute of Medical and Biomedical Education and Institute for Infection and Immunity, St George's, University of London, London, UK.",
+    "Clinical Pharmacology Group, Pharmacy and Medicines Directorate, St George's University Hospitals NHS Foundation Trust, London, UK.",
+    "Novo Nordisk Research Centre Oxford, Old Road Campus, Oxford, UK."
+  ]
+}

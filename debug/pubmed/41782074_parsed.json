@@ -1,0 +1,22 @@
+{
+  "pmid": "41782074",
+  "title": "The role of corticosteroids in severe viral pneumonia: lessons from COVID-19 and influenza.",
+  "abstract": "BACKGROUND: Corticosteroids have long been used as immunomodulatory agents in viral respiratory infections, but their role in influenza and COVID-19 remains controversial. While both diseases share overlapping pathogenic mechanisms involving hyperinflammation and immune dysregulation, clinical evidence suggests divergent outcomes in response to corticosteroid therapy. OBJECTIVE: This review critically examines the evidence regarding corticosteroid use in influenza and COVID-19, focusing on their impact on mortality, disease progression, and secondary infections. METHODS: A narrative review was conducted including randomized controlled trials, meta-analyses, and major observational studies published between 2000 and 2025. Data were analyzed comparatively for influenza (seasonal and pandemic strains) and SARS-CoV-2 infection. RESULTS: In influenza, most studies associate corticosteroid administration—particularly at high doses or prolonged courses—with increased mortality, delayed viral clearance, and higher rates of secondary bacterial pneumonia. Conversely, in COVID-19, randomized trials such as RECOVERY demonstrated that low-to-moderate doses of dexamethasone significantly reduce mortality in patients requiring oxygen or mechanical ventilation, without clear benefit in mild disease. These opposing outcomes highlight the importance of timing, dosing, and patient selection, reflecting distinct immunopathological trajectories between the two infections. CONCLUSIONS: Corticosteroid therapy exerts context-dependent effects in viral pneumonia. While detrimental in most cases of influenza, it is beneficial in severe COVID-19 when guided by systemic inflammation. Future strategies should focus on personalized and real-time immune monitoring to tailor immunomodulatory interventions to each patient’s inflammatory and virological status.",
+  "year": 2026,
+  "journal": "Pneumonia (Nathan Qld.)",
+  "authors": [
+    "Monica Gordon",
+    "Paula Ramirez"
+  ],
+  "doi": "10.1186/s41479-025-00192-w",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [],
+  "keywords": [],
+  "affiliations": [
+    "Critical Care Department, Hospital Universitario y Politécnico la Fe, Valencia, Spain.",
+    "Critical Care Department, Hospital Universitario y Politécnico la Fe, Valencia, Spain. ramirez_pau@gva.es."
+  ]
+}

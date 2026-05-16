@@ -1,0 +1,65 @@
+{
+  "pmid": "36288878",
+  "title": "High Expression of CD58 and ALDH1A3 Predicts a Poor Prognosis in Basal-like Breast Cancer.",
+  "abstract": "BACKGROUND/AIM: CD58 is an immune adhesion molecule on the cellular surface. It was previously found that a high expression of CD58 predicted a poor prognosis of patients with lower-grade gliomas. Therefore, the aim of this paper was to investigate the association between CD58 and breast cancer. MATERIALS AND METHODS: CD58 gene expression data downloaded from cBioPortal was compared between the different subtypes of breast cancer. Clinical prognosis was examined using Kaplan-Meier analysis and multivariable Cox regression analysis. The association between CD58 expression and immune cell infiltration was estimated using the TIMER 2.0 web platform. Finally, the tumour sphere formation of aldehyde dehydrogenase 1 (ALDH1)high basal-like breast cancer stem cells in which CD58 was knocked down using siRNA was measured. RESULTS: CD58 mRNA was mainly enriched in claudin-low and basal-like subtypes. The high expression of CD58 predicted a good prognosis in patients with luminal A and luminal B breast cancer. This prediction may be due to the association of immune cell infiltration with CD58. Notably, patients with luminal A breast cancer with a high expression of CD58 in association with ALDH1A3 exhibited a good prognosis; however, this did not apply to patients with basal-like breast cancer. The in vitro experiments revealed that knockdown of CD58 inhibited the tumour sphere formation ability of ALDH1high basal-like cancer cells. CONCLUSION: CD58 may function as a potential prognostic biomarker and therapeutic target in ALDH-positive basal-like cancer stem cells.",
+  "year": 2022,
+  "journal": "Anticancer research",
+  "authors": [
+    "Yuyun Xiong",
+    "Hitomi Motomura",
+    "Shoma Tamori",
+    "Ayaka Ozaki",
+    "Chotaro Onaga",
+    "Yasushi Hara",
+    "Keiko Sato",
+    "Kouji Tahata",
+    "Yohsuke Harada",
+    "Kazunori Sasaki",
+    "Yun-Wen Zheng",
+    "Shigeo Ohno",
+    "Kazunori Akimoto"
+  ],
+  "doi": "10.21873/anticanres.16029",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Female",
+    "Humans",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Biomarkers, Tumor",
+    "Breast Neoplasms",
+    "Claudins",
+    "Prognosis",
+    "Retinal Dehydrogenase",
+    "RNA, Messenger",
+    "RNA, Small Interfering",
+    "CD58 Antigens",
+    "Aldehyde Oxidoreductases"
+  ],
+  "keywords": [
+    "ALDH1",
+    "Breast cancer",
+    "CD58",
+    "basal-like",
+    "cancer stem cell",
+    "luminal",
+    "prognostic marker"
+  ],
+  "affiliations": [
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Clinical Laboratory, Affiliated Hospital of Jiangsu University, Jiangsu, P.R. China.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Research Institute for Biomedical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Department of Information Sciences, Faculty of Science and Technology, Tokyo University of Science, Chiba, Japan.",
+    "Department of Information Sciences, Faculty of Science and Technology, Tokyo University of Science, Chiba, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Laboratory of Cancer Biology, Institute for Diseases of Old Age, Juntendo University School of Medicine, Tokyo, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan.",
+    "Laboratory of Cancer Biology, Institute for Diseases of Old Age, Juntendo University School of Medicine, Tokyo, Japan.",
+    "Department of Medicinal and Life Sciences, Faculty of Pharmaceutical Sciences, Tokyo University of Science, Chiba, Japan; akimoto@rs.tus.ac.jp."
+  ]
+}

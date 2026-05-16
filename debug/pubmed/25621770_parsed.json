@@ -1,0 +1,40 @@
+{
+  "pmid": "25621770",
+  "title": "Antibiotic prophylaxis during the second and third trimester to reduce adverse pregnancy outcomes and morbidity.",
+  "abstract": "BACKGROUND: Several studies have suggested that prophylactic antibiotics given during pregnancy improved maternal and perinatal outcomes, while others have shown no benefit and some have reported adverse effects. OBJECTIVES: To determine the effect of prophylactic antibiotics on maternal and perinatal outcomes during the second and third trimester of pregnancy for all women or women at risk of preterm delivery. SEARCH METHODS: We searched the Cochrane Pregnancy and Childbirth Group's Trials Register (31 July 2014) and reference lists of retrieved articles. SELECTION CRITERIA: Randomised controlled trials comparing prophylactic antibiotic treatment with placebo or no treatment for women in the second or third trimester of pregnancy before labour. DATA COLLECTION AND ANALYSIS: We assessed trial quality and extracted data. MAIN RESULTS: The review included seven randomised controlled trials. Approximately 2100 women were recruited to detect the effect of prophylactic antibiotic administration on pregnancy outcomes. Primary outcomesAntibiotic prophylaxis did not reduce the risk of preterm prelabour rupture of membranes (risk ratio (RR) 0.31; 95% confidence interval (CI) 0.06 to 1.49 (one trial, 229 women) low quality evidence) or preterm delivery (RR 0.85; 95% CI 0.64 to 1.14 (five trials, 1480 women) low quality evidence). However, preterm delivery was reduced in the subgroup of pregnant women with a previous preterm birth who had bacterial vaginosis (BV) during the current pregnancy (RR 0.64; 95% CI 0.47 to 0.88 (one trial, 258 women), but there was no reduction in the subgroup of pregnant women with previous preterm birth without BV during the pregnancy (RR 1.08; 95% CI 0.66 to 1.77 (two trials, 500 women)). A reduction in the risk of postpartum endometritis (RR 0.55; 95% CI 0.33 to 0.92 (one trial, 196 women)) was observed in high-risk pregnant women (women with a history of preterm birth, low birthweight, stillbirth or early perinatal death) and in all women (RR 0.53; 95% CI 0.35 to 0.82 (three trials, 627 women) moderate quality evidence). There was no difference in low birth weight (RR 0.86; 95% CI 0.53 to 1.39 (four trials; 978 women) or neonatal sepsis (RR 11.31; 95% CI 0.64 to 200.79); and blood culture confirming sepsis was not reported in any of the studies. Secondary outcomesAntibiotic prophylaxis reduced the risk of prelabour rupture of membranes (RR 0.34; 95% CI 0.15 to 0.78 (one trial, 229 women) low quality evidence) and gonococcal infection (RR 0.35; 95% CI 0.13 to 0.94 (one trial, 204 women)). There were no differences observed in other secondary outcomes (congenital abnormality; small-for-gestational age; perinatal mortality), whilst many other secondary outcomes (e.g. intrapartum fever needing treatment with antibiotics) were not reported in included trials.Regarding the route of antibiotic administration, vaginal antibiotic prophylaxis during pregnancy did not prevent infectious pregnancy outcomes. The overall risk of bias was low except that incomplete outcome data produced high risk of bias in some studies. The quality of the evidence using GRADE was assessed as low for preterm prelabour rupture of membranes, low for preterm delivery, moderate for postpartum endometritis, low for prelabour rupture of membranes, and very low for chorioamnionitis. Intrapartum fever needing treatment with antibiotics was not reported in any of the included studies. AUTHORS' CONCLUSIONS: Antibiotic prophylaxis did not reduce the risk of preterm prelabour rupture of membranes or preterm delivery (apart from in the subgroup of women with a previous preterm birth who had bacterial vaginosis). Antibiotic prophylaxis given during the second or third trimester of pregnancy reduced the risk of postpartum endometritis, preterm rupture of membranes and gonococcal infection when given routinely to all pregnant women. Substantial bias possibly exists in the review's results because of a high rate of loss to follow-up and the small numbers of studies included in each of our analyses. There is also insufficient evidence on possible harmful effects on the baby. Therefore, we conclude that there is not enough evidence to recommend the use of routine antibiotics during pregnancy to prevent infectious adverse effects on pregnancy outcomes.",
+  "year": 2015,
+  "journal": "The Cochrane database of systematic reviews",
+  "authors": [
+    "Jadsada Thinkhamrop",
+    "G Justus Hofmeyr",
+    "Olalekan Adetoro",
+    "Pisake Lumbiganon",
+    "Erika Ota"
+  ],
+  "doi": "10.1002/14651858.CD002250.pub2",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Antibiotic Prophylaxis",
+    "Endometritis",
+    "Female",
+    "Premature Rupture of Fetal Membranes",
+    "Fetal Weight",
+    "Humans",
+    "Pregnancy",
+    "Pregnancy Outcome",
+    "Pregnancy Trimester, Second",
+    "Pregnancy Trimester, Third",
+    "Pregnancy, High-Risk",
+    "Premature Birth",
+    "Vaginosis, Bacterial"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Obstetrics and Gynaecology, Faculty of Medicine, Khon Kaen University, Faculty of Medicine, 123 Mittraparb Highway, Khon Kaen, 40002, Thailand. jthinkhamrop888@gmail.com. jadsada@kku.ac.th."
+  ]
+}

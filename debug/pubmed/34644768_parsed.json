@@ -1,0 +1,39 @@
+{
+  "pmid": "34644768",
+  "title": "Dexamethasone for treating SARS-CoV-2 infection: a systematic review and meta-analysis.",
+  "abstract": "BACKGROUND: Considering the disruptions imposed by lockdowns and social distancing recommendations, coupled with overwhelmed healthcare systems, researchers worldwide have been exploring drug repositioning strategies for treating severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2). OBJECTIVE: To compile results from randomized clinical trials on the effect of dexamethasone, compared with standard treatment for management of SARS-CoV-2. DESIGN AND SETTING: We conducted a systematic review and meta-analysis in accordance with the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) guidelines in a Brazilian public university. METHODS: We sought to compile data from 6724 hospitalized patients with confirmed or suspected SARS-CoV-2 infection. RESULTS: Treatment with dexamethasone significantly reduced mortality within 28 days (risk ratio, RR: 0.89; 95% confidence interval, CI: 0.82-0.97). Dexamethasone use was linked with being discharged alive within 28 days (odds ratio, OR: 1.20; 95% CI: 1.07-1.33). CONCLUSIONS: This study suggests that dexamethasone may significantly improve the outcome among hospitalized patients with SARS-CoV-2 infection and associated severe respiratory complications. -Further studies need to consider both dose-dependent administration and outcomes in early and later stages of the disease. PROSPERO PLATFORM: CRD42021229825.",
+  "year": 2021,
+  "journal": "Sao Paulo medical journal = Revista paulista de medicina",
+  "authors": [
+    "Lirane Elize Defante Ferreto",
+    "Durcelina Schiavoni Bortoloti",
+    "Paulo Cezar Nunes Fortes",
+    "Franciele Follador",
+    "Gisele Arruda",
+    "João Paulo Ximenez",
+    "Guilherme Welter Wendt"
+  ],
+  "doi": "10.1590/1516-3180.2021.0120.R1.30062021",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Communicable Disease Control",
+    "Dexamethasone",
+    "Humans",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "PhD. Pharmacist and Associate Professor, Centro de Ciências da Saúde (CCS), Universidade Estadual do Oeste do Paraná (UNIOESTE), Francisco Beltrão (PR), Brazil.",
+    "PhD. Physical Education Professional and Adjunct Professor of Research Methods, Department of Biological Sciences, Medical and Health, Universidade Paranaense (UNIPAR), Umuarama (PR), Brazil.",
+    "MD, PhD. Intensive Care Unit Physician and Adjunct Professor, Centro de Ciências da Saúde (CCS), Universidade Estadual do Oeste do Paraná (UNIOESTE), Francisco Beltrão (PR), Brazil.",
+    "PhD. Chemist and Associate Professor, Centro de Ciências da Saúde (CCS), Universidade Estadual do Oeste do Paraná (UNIOESTE), Francisco Beltrão (PR), Brazil.",
+    "PhD. Biologist and Adjunct Professor, Centro de Ciências da Saúde (CCS), Universidade Estadual do Oeste do Paraná (UNIOESTE), Francisco Beltrão (PR), Brazil.",
+    "PhD. Pharmacist and Postdoctoral Researcher, Faculdade de Medicina de Ribeirão Preto (FMRP), Universidade de São Paulo (USP), Ribeirão Preto (SP), Brazil.",
+    "PhD. Psychologist and Adjunct Professor of Quantitative Research Methods, Centro de Ciências da Saúde (CCS), Universidade Estadual do Oeste do Paraná (UNIOESTE), Francisco Beltrão (PR), Brazil."
+  ]
+}

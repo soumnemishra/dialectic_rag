@@ -1,0 +1,62 @@
+{
+  "pmid": "37119744",
+  "title": "Combination therapy with predicted body weight-based dexamethasone, remdesivir, and baricitinib in patients with COVID-19 pneumonia: A single-center retrospective cohort study during 5th wave in Japan.",
+  "abstract": "BACKGROUND: Dexamethasone, remdesivir, and baricitinib reduce mortality in patients with coronavirus disease 2019 (COVID-19). A single-arm study using combination therapy with all three drugs reported low mortality in patients with severe COVID-19. In this clinical setting, whether dexamethasone administered as a fixed dose of 6 mg has sufficient inflammatory modulation effects of reducing lung injury has been debated. METHODS: This single-center retrospective study was conducted to compare the treatment strategies/management in different time periods. A total of 152 patients admitted with COVID-19 pneumonia who required oxygen therapy were included in this study. A predicted body weight (PBW)-based dose of dexamethasone with remdesivir and baricitinib was administered between May and June 2021. After this period, patients were administered a fixed dose of dexamethasone at 6.6 mg/day between July and August 2021. The additional respiratory support frequency of high-flow nasal cannula, noninvasive ventilation, and mechanical ventilation was analyzed. Moreover, the Kaplan-Meier method was used to analyze the duration of oxygen therapy and the 30-day discharge alive rate, and they were compared using the log-rank test. RESULTS: Intervention and prognostic comparisons were performed in 64 patients with PBW-based and 88 with fixed-dose groups. The frequency of infection or additional respiratory support did not differ statistically. The cumulative incidence of being discharged alive or oxygen-free rate within 30 days did not differ between the groups. CONCLUSIONS: In patients with COVID-19 pneumonia who required oxygen therapy, combination therapy with PBW-based dexamethasone, remdesivir, and baricitinib might not shorten the hospital stay's length or oxygen therapy's duration.",
+  "year": 2023,
+  "journal": "Respiratory investigation",
+  "authors": [
+    "Yasutaka Hirasawa",
+    "Jiro Terada",
+    "Yu Shionoya",
+    "Atsushi Fujikawa",
+    "Yuri Isaka",
+    "Yuichiro Takeshita",
+    "Toru Kinouchi",
+    "Ken Koshikawa",
+    "Hiroshi Tajima",
+    "Taku Kinoshita",
+    "Yuji Tada",
+    "Koichiro Tatsumi",
+    "Kenji Tsushima"
+  ],
+  "doi": "10.1016/j.resinv.2023.03.009",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "Retrospective Studies",
+    "SARS-CoV-2",
+    "Japan",
+    "COVID-19 Drug Treatment",
+    "Dexamethasone",
+    "Azetidines",
+    "Purines",
+    "Pyrazoles",
+    "Sulfonamides",
+    "Adenosine Monophosphate",
+    "Alanine"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Dexamethasone",
+    "Pneumonia",
+    "Predicted body weight"
+  ],
+  "affiliations": [
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan. Electronic address: yashirasaw@gmail.com.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan; Department of Respirology, Graduate School of Medicine, Chiba University, 1-8-1 Inohana, Chuo-ku, Chiba, 260-8670, Japan.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan; Department of Respirology, Graduate School of Medicine, Chiba University, 1-8-1 Inohana, Chuo-ku, Chiba, 260-8670, Japan.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan; Department of Respirology, Graduate School of Medicine, Chiba University, 1-8-1 Inohana, Chuo-ku, Chiba, 260-8670, Japan.",
+    "Department of Pulmonary Medicine, International University of Health and Welfare, Narita Hospital, Hatakeda 852, Narita, Chiba, 286-0124, Japan. Electronic address: tsushimakenji@yahoo.co.jp."
+  ]
+}

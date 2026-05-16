@@ -1,0 +1,61 @@
+{
+  "pmid": "38231320",
+  "title": "Efficacy of different routes of vitamin B12 supplementation for the treatment of patients with vitamin B12 deficiency: A systematic review and network meta-analysis.",
+  "abstract": "BACKGROUND: This systematic review and network meta-analysis aimed to evaluate the three different administration routes of vitamin B12: oral, intramuscular (IM), and sublingual (SL) routes. METHODS: We searched four electronic databases (PubMed, Scopus, Web of Science, and Cochrane CENTRAL Register of Controlled Trials). We included only comparative studies. We performed a frequentist network meta-analysis to measure network estimates for the relative outcomes. Moreover, we conducted a pairwise meta-analysis using a random effect model to obtain direct estimates for outcomes. All outcomes were continuous, and the relative treatment effects were pooled as mean difference (MD) with 95% confidence intervals. RESULTS: Thirteen studies were included in the meta-analysis, with a total of 4275 patients. Regarding increasing vitamin B12 levels, the IM route ranked first, followed by the SL route (MD = 94.09 and 43.31 pg/mL, respectively) compared to the oral route. However, these differences did not reach statistical significance owing to the limited number of studies. Regarding the hemoglobin level, the pooled effect sizes showed no difference between all routes of administration that could reach statistical significance. However, the top two ranked administration routes were the oral route (78.3) and the IM route (49.6). CONCLUSION: All IM, oral, and SL routes of administration of vitamin B12 can effectively increase the level of vitamin B12 without significant differences between them, as thought previously. However, the IM route was the top-ranked statistically but without clinical significance. We found no significant difference among studied administrated routes in all other CBC parameters and homocysteine levels.",
+  "year": 2024,
+  "journal": "Irish journal of medical science",
+  "authors": [
+    "Omar Ahmed Abdelwahab",
+    "Ahmed Abdelaziz",
+    "Sherein Diab",
+    "Ali Khazragy",
+    "Toka Elboraay",
+    "Taha Fayad",
+    "Rehab Adel Diab",
+    "Ahmed Negida"
+  ],
+  "doi": "10.1007/s11845-023-03602-4",
+  "publication_types": [
+    "Journal Article",
+    "Systematic Review",
+    "Network Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Administration, Oral",
+    "Administration, Sublingual",
+    "Dietary Supplements",
+    "Hemoglobins",
+    "Injections, Intramuscular",
+    "Treatment Outcome",
+    "Vitamin B 12",
+    "Vitamin B 12 Deficiency"
+  ],
+  "keywords": [
+    "Administration",
+    "Intramuscular",
+    "Oral",
+    "Sublingual",
+    "Vitamin B12"
+  ],
+  "affiliations": [
+    "Medical Research Group of Egypt, Cairo, Egypt. omarabdelwahab.216@azhar.edu.eg.",
+    "Faculty of Medicine, Al-Azhar University, Cairo, Egypt. omarabdelwahab.216@azhar.edu.eg.",
+    "Medical Research Group of Egypt, Cairo, Egypt.",
+    "Faculty of Medicine, Al-Azhar University, Cairo, Egypt.",
+    "Medical Research Group of Egypt, Cairo, Egypt.",
+    "Faculty of Medicine, Ain Shams University, Cairo, Egypt.",
+    "Medical Research Group of Egypt, Cairo, Egypt.",
+    "Faculty of Medicine, Alexandria University, Alexandria, Egypt.",
+    "Medical Research Group of Egypt, Cairo, Egypt.",
+    "Faculty of Medicine, Zagazig University, Zagazig, Egypt.",
+    "Medical Research Group of Egypt, Cairo, Egypt.",
+    "Faculty of Oral and Dental Medicine, Sinai University, Sinai, Egypt.",
+    "Medical Research Group of Egypt, Cairo, Egypt.",
+    "Faculty of Medicine, Al-Azhar University for Girls, Cairo, Egypt.",
+    "Medical Research Group of Egypt, Cairo, Egypt.",
+    "Faculty of Medicine, Zagazig University, Zagazig, Egypt.",
+    "School of Pharmacy and Biomedical Sciences, University of Portsmouth, Portsmount, UK.",
+    "Department of Global Health and Social Medicine, Harvard Medical School, Boston, MA, USA."
+  ]
+}

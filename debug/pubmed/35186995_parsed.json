@@ -1,0 +1,58 @@
+{
+  "pmid": "35186995",
+  "title": "Dexamethasone Improves Cardiovascular Outcomes in Critically Ill COVID-19, a Real World Scenario Multicenter Analysis.",
+  "abstract": "BACKGROUND: Severe COVID-19 pneumonia requiring intensive care treatment remains a clinical challenge to date. Dexamethasone was reported as a promising treatment option, leading to a reduction of mortality rates in severe COVID-19 disease. However, the effect of dexamethasone treatment on cardiac injury and pulmonary embolism remains largely elusive. METHODS: In total 178 critically ill COVID-19 patients requiring intensive care treatment and mechanical ventilation were recruited in three European medical centres and included in the present retrospective study. One hundred thirteen patients (63.5%) were treated with dexamethasone for a median duration of 10 days (IQR 9-10). Sixty five patients (36.5%) constituted the non-dexamethasone control group. RESULTS: While peak inflammatory markers were reduced by dexamethasone treatment, the therapy also led to a significant reduction in peak troponin levels (231 vs. 700% indicated as relative to cut off value, p = 0.001). Similar, dexamethasone resulted in significantly decreased peak D-Dimer levels (2.16 mg/l vs. 6.14 mg/l, p = 0.002) reflected by a significant reduction in pulmonary embolism rate (4.4 vs. 20.0%, p = 0.001). The antithrombotic effect of dexamethasone treatment was also evident in the presence of therapeutic anticoagulation (pulmonary embolism rate: 6 vs. 34.4%, p < 0.001). Of note, no significant changes in baseline characteristics were observed between the dexamethasone and non-dexamethasone group. CONCLUSION: In severe COVID-19, anti-inflammatory effects of dexamethasone treatment seem to be associated with a significant reduction in myocardial injury. Similar, a significant decrease in pulmonary embolism, independent of anticoagulation, was evident, emphasizing the beneficial effect of dexamethasone treatment in severe COVID-19.",
+  "year": 2022,
+  "journal": "Frontiers in medicine",
+  "authors": [
+    "Peter Jirak",
+    "Vincent van Almsick",
+    "Dimitrios Dimitroulis",
+    "Moritz Mirna",
+    "Clemens Seelmaier",
+    "Zornitsa Shomanova",
+    "Bernhard Wernly",
+    "Dilvin Semo",
+    "Daniel Dankl",
+    "Magdalena Mahringer",
+    "Michael Lichtenauer",
+    "Uta C Hoppe",
+    "Holger Reinecke",
+    "Rudin Pistulli",
+    "Robert Larbig",
+    "Lukas J Motloch"
+  ],
+  "doi": "10.3389/fmed.2022.808221",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "anticoagulation",
+    "cardiac injury",
+    "dexamethasone",
+    "pulmonary embolism"
+  ],
+  "affiliations": [
+    "Clinic II for Internal Medicine, University Hospital Salzburg, Paracelsus Medical University, Salzburg, Austria.",
+    "Department of Cardiology I - Coronary and Peripheral Vascular Disease, Heart Failure, University Hospital Münster, Münster, Germany.",
+    "Division of Cardiology, Hospital Maria Hilf Mönchengladbach, Mönchengladbach, Germany.",
+    "Clinic II for Internal Medicine, University Hospital Salzburg, Paracelsus Medical University, Salzburg, Austria.",
+    "Clinic II for Internal Medicine, University Hospital Salzburg, Paracelsus Medical University, Salzburg, Austria.",
+    "Department of Cardiology I - Coronary and Peripheral Vascular Disease, Heart Failure, University Hospital Münster, Münster, Germany.",
+    "Department of Anesthesiology, Perioperative Care, and Intensive Care Medicine, University Hospital Salzburg, Paracelsus Medical University, Salzburg, Austria.",
+    "Center for Public Health and Healthcare Research, Paracelsus Medical University, Salzburg, Austria.",
+    "Department of Internal Medicine, General Hospital Oberndorf, Teaching Hospital of the Paracelsus Medical University, Salzburg, Austria.",
+    "Department of Cardiology I - Coronary and Peripheral Vascular Disease, Heart Failure, University Hospital Münster, Münster, Germany.",
+    "Department of Anesthesiology, Perioperative Care, and Intensive Care Medicine, University Hospital Salzburg, Paracelsus Medical University, Salzburg, Austria.",
+    "Clinic II for Internal Medicine, University Hospital Salzburg, Paracelsus Medical University, Salzburg, Austria.",
+    "Clinic II for Internal Medicine, University Hospital Salzburg, Paracelsus Medical University, Salzburg, Austria.",
+    "Clinic II for Internal Medicine, University Hospital Salzburg, Paracelsus Medical University, Salzburg, Austria.",
+    "Department of Cardiology I - Coronary and Peripheral Vascular Disease, Heart Failure, University Hospital Münster, Münster, Germany.",
+    "Department of Cardiology I - Coronary and Peripheral Vascular Disease, Heart Failure, University Hospital Münster, Münster, Germany.",
+    "Division of Cardiology, Hospital Maria Hilf Mönchengladbach, Mönchengladbach, Germany.",
+    "Department of Cardiology II - Electrophysiology, University Hospital Münster, Münster, Germany.",
+    "Clinic II for Internal Medicine, University Hospital Salzburg, Paracelsus Medical University, Salzburg, Austria."
+  ]
+}

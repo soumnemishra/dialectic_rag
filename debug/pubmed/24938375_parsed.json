@@ -1,0 +1,46 @@
+{
+  "pmid": "24938375",
+  "title": "ALDH1A1 expression correlates with clinicopathologic features and poor prognosis of breast cancer patients: a systematic review and meta-analysis.",
+  "abstract": "BACKGROUND: Aldehyde dehydrogenase 1 family member A1 (ALDH1A1) has been identified as a putative cancer stem cell (CSC) marker in breast cancer. However, the clinicopathological and prognostic significance of this protein in breast cancer patients remains controversial. METHODS: This meta-analysis was conducted to address the above issues using 15 publications covering 921 ALDH1A1(+) cases and 2353 controls. The overall and subcategory analyses were performed to detect the association between ALDH1A1 expression and clinicopathological/prognostic parameters in breast cancer patients. RESULTS: The overall analysis showed that higher expression of ALDH1A1 is associated with larger tumor size, higher histological grade, greater possibility of lymph node metastasis (LNM), higher level expression of epidermal growth factor receptor 2 (HER2), and lower level expression of estrogen receptor (ER)/progesterone receptor (PR). The prognosis of breast cancer patients with ALDH1A1(+) tumors was poorer than that of the ALDH1A1(-) patients. Although the relationships between ALDH1A1 expression and some clinicopathological parameters (tumor size, LNM, and the expression of HER2) was not definitive to some degree when we performed a subcategory analysis, the predictive values of ALDH1A1 expression for histological grade and survival of breast cancer patients were significant regardless of the different cutoff values of ALDH1A1 expression, the different districts where the patients were located, the different clinical stages of the patients, the difference in antibodies used in the studies, and the surgery status. CONCLUSIONS: Our results indicate that ALDH1A1 is a biomarker to predict tumor progression and poor survival of breast cancer patients. This marker should be taken into consideration in the development of new diagnostic and therapeutic program for breast cancer.",
+  "year": 2014,
+  "journal": "BMC cancer",
+  "authors": [
+    "Ying Liu",
+    "Dong-lai Lv",
+    "Jiang-jie Duan",
+    "Sen-lin Xu",
+    "Jing-fang Zhang",
+    "Xiao-jun Yang",
+    "Xia Zhang",
+    "You-hong Cui",
+    "Xiu-wu Bian",
+    "Shi-Cang Yu"
+  ],
+  "doi": "10.1186/1471-2407-14-444",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Aldehyde Dehydrogenase",
+    "Aldehyde Dehydrogenase 1 Family",
+    "Biomarkers, Tumor",
+    "Breast Neoplasms",
+    "Female",
+    "Gene Expression",
+    "Humans",
+    "Neoplasm Grading",
+    "Neoplasm Staging",
+    "Odds Ratio",
+    "Prognosis",
+    "Publication Bias",
+    "Retinal Dehydrogenase",
+    "Tumor Burden"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Institute of Pathology and Southwest Cancer Center, Southwest Hospital, Third Military Medical University, Chongqing 400037, China. bianxiuwu@263.net."
+  ]
+}

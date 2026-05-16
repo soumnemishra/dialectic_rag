@@ -1,0 +1,52 @@
+{
+  "pmid": "34396514",
+  "title": "Systemic corticosteroids for the treatment of COVID-19.",
+  "abstract": "BACKGROUND: Systemic corticosteroids are used to treat people with COVID-19 because they counter hyper-inflammation. Existing evidence syntheses suggest a slight benefit on mortality. So far, systemic corticosteroids are one of the few treatment options for COVID-19. Nonetheless, size of effect, certainty of the evidence, optimal therapy regimen, and selection of patients who are likely to benefit most are factors that remain to be evaluated. OBJECTIVES: To assess whether systemic corticosteroids are effective and safe in the treatment of people with COVID-19, and to keep up to date with the evolving evidence base using a living systematic review approach. SEARCH METHODS: We searched the Cochrane COVID-19 Study Register (which includes PubMed, Embase, CENTRAL, ClinicalTrials.gov, WHO ICTRP, and medRxiv), Web of Science (Science Citation Index, Emerging Citation Index), and the WHO COVID-19 Global literature on coronavirus disease to identify completed and ongoing studies to 16 April 2021. SELECTION CRITERIA: We included randomised controlled trials (RCTs) that evaluated systemic corticosteroids for people with COVID-19, irrespective of disease severity, participant age, gender or ethnicity.  We included any type or dose of systemic corticosteroids. We included the following comparisons: systemic corticosteroids plus standard care versus standard care (plus/minus placebo), dose comparisons, timing comparisons (early versus late), different types of corticosteroids and systemic corticosteroids versus other active substances.  We excluded studies that included populations with other coronavirus diseases (severe acute respiratory syndrome or Middle East respiratory syndrome), corticosteroids in combination with other active substances versus standard care, topical or inhaled corticosteroids, and corticosteroids for long-COVID treatment. DATA COLLECTION AND ANALYSIS: We followed standard Cochrane methodology. To assess the risk of bias in included studies, we used the Cochrane 'Risk of bias' 2 tool for RCTs. We rated the certainty of evidence using the GRADE approach for the following outcomes: all-cause mortality, ventilator-free days, new need for invasive mechanical ventilation, quality of life, serious adverse events, adverse events, and hospital-acquired infections. MAIN RESULTS: We included 11 RCTs in 8075 participants, of whom 7041 (87%) originated from high-income countries. A total of 3072 participants were randomised to corticosteroid arms and the majority received dexamethasone (n = 2322). We also identified 42 ongoing studies and 16 studies reported as being completed or terminated in a study registry, but without results yet.  Hospitalised individuals with a confirmed or suspected diagnosis of symptomatic COVID-19 Systemic corticosteroids plus standard care versus standard care plus/minus placebo  We included 10 RCTs (7989 participants), one of which did not report any of our pre-specified outcomes and thus our analysis included outcome data from nine studies.  All-cause mortality (at longest follow-up available): systemic corticosteroids plus standard care probably reduce all-cause mortality slightly in people with COVID-19 compared to standard care alone (median 28 days: risk difference of 30 in 1000 participants fewer than the control group rate of 275 in 1000 participants; risk ratio (RR) 0.89, 95% confidence interval (CI) 0.80 to 1.00; 9 RCTs, 7930 participants; moderate-certainty evidence).  Ventilator-free days: corticosteroids may increase ventilator-free days (MD 2.6 days more than control group rate of 4 days, 95% CI 0.67 to 4.53; 1 RCT, 299 participants; low-certainty evidence). Ventilator-free days have inherent limitations as a composite endpoint and should be interpreted with caution.  New need for invasive ventilation: the evidence is of very low certainty. Because of high risk of bias arising from deaths that occurred before ventilation we are uncertain about the size and direction of the effects. Consequently, we did not perform analysis beyond the presentation of descriptive statistics.  Quality of life/neurological outcome: no data were available. Serious adverse events: we included data on two RCTs (678 participants) that evaluated systemic corticosteroids compared to standard care (plus/minus placebo); for adverse events and hospital-acquired infections, we included data on five RCTs (660 participants). Because of high risk of bias, heterogeneous definitions, and underreporting we are uncertain about the size and direction of the effects. Consequently, we did not perform analysis beyond the presentation of descriptive statistics (very low-certainty evidence).    Different types, dosages or timing of systemic corticosteroids  We identified one study that compared methylprednisolone with dexamethasone. The evidence for mortality and new need for invasive mechanical ventilation is very low certainty due to the small number of participants (n = 86). No data were available for the other outcomes. We did not identify comparisons of different dosages or timing. Outpatients with asymptomatic or mild disease Currently, there are no studies published in populations with asymptomatic infection or mild disease. AUTHORS' CONCLUSIONS: Moderate-certainty evidence shows that systemic corticosteroids probably slightly reduce all-cause mortality in people hospitalised because of symptomatic COVID-19. Low-certainty evidence suggests that there may also be a reduction in ventilator-free days. Since we are unable to  adjust for the impact of early death on subsequent endpoints, the findings for ventilation outcomes and harms have limited applicability to inform treatment decisions. Currently, there is no evidence for asymptomatic or mild disease (non-hospitalised participants).  There is an urgent need for good-quality evidence for specific subgroups of disease severity, for which we propose level of respiratory support at randomisation. This applies to the comparison or subgroups of different types and doses of corticosteroids, too. Outcomes apart from mortality should be measured and analysed appropriately taking into account confounding through death if applicable.  We identified 42 ongoing and 16 completed but not published RCTs in trials registries suggesting possible changes of effect estimates and certainty of the evidence in the future. Most ongoing studies target people who need respiratory support at baseline. With the living approach of this review, we will continue to update our search and include eligible trials and published data.",
+  "year": 2021,
+  "journal": "The Cochrane database of systematic reviews",
+  "authors": [
+    "Carina Wagner",
+    "Mirko Griesel",
+    "Agata Mikolajewska",
+    "Anika Mueller",
+    "Monika Nothacker",
+    "Karoline Kley",
+    "Maria-Inti Metzendorf",
+    "Anna-Lena Fischer",
+    "Marco Kopp",
+    "Miriam Stegemann",
+    "Nicole Skoetz",
+    "Falk Fichtner"
+  ],
+  "doi": "10.1002/14651858.CD014963",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Adrenal Cortex Hormones",
+    "COVID-19",
+    "Humans",
+    "Immunization, Passive",
+    "Randomized Controlled Trials as Topic",
+    "Respiration, Artificial",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Cochrane Haematology, Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn Cologne Duesseldorf, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany.",
+    "Department of Anaesthesiology and Intensive Care, University of Leipzig Medical Center, Leipzig, Germany.",
+    "Department of Infectious Diseases and Respiratory Medicine, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.",
+    "Department of Anesthesiology and Intensive Care Medicine, Campus Charité Mitte and Campus Virchow-Klinikum, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin, Humboldt-Universität zu Berlin, and Berlin Institute of Health, Berlin, Germany.",
+    "AWMF Institute for Medical Knowledge Management, Marburg, Germany.",
+    "Department of Anaesthesiology and Intensive Care, University of Leipzig Medical Center, Leipzig, Germany.",
+    "Cochrane Metabolic and Endocrine Disorders Group, Institute of General Practice, Medical Faculty of the Heinrich-Heine-University Düsseldorf, Düsseldorf, Germany.",
+    "Department of Anaesthesia and Intensive care, Universitätsklinikum Leipzig, 04103 Leipzig, Germany.",
+    "Cochrane Haematology, Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn Cologne Duesseldorf, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany.",
+    "Department of Infectious Diseases and Respiratory Medicine, Charité - Universitätsmedizin Berlin, corporate member of Freie Universität Berlin and Humboldt-Universität zu Berlin, Berlin, Germany.",
+    "Cochrane Cancer, Department I of Internal Medicine, Center for Integrated Oncology Aachen Bonn Cologne Duesseldorf, Faculty of Medicine and University Hospital Cologne, University of Cologne, Cologne, Germany.",
+    "Department of Anaesthesiology and Intensive Care, University of Leipzig Medical Center, Leipzig, Germany."
+  ]
+}

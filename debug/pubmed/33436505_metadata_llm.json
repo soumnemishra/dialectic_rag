@@ -1,0 +1,14 @@
+{
+  "study_design": "meta_analysis",
+  "sample_size": 18,
+  "population": null,
+  "intervention": null,
+  "comparator": null,
+  "outcomes": null,
+  "effect_direction": null,
+  "confidence": null,
+  "year": null,
+  "has_p_value": false,
+  "has_CI": true,
+  "preregistration_id": null
+}

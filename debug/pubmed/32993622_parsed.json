@@ -1,0 +1,38 @@
+{
+  "pmid": "32993622",
+  "title": "Repurposing existing drugs for COVID-19: an endocrinology perspective.",
+  "abstract": "BACKGROUND: Coronavirus Disease 2019 (COVID-19) is a multi-systemic infection caused by the novel Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), that has become a pandemic. Although its prevailing symptoms include anosmia, ageusia, dry couch, fever, shortness of brief, arthralgia, myalgia, and fatigue, regional and methodological assessments vary, leading to heterogeneous clinical descriptions of COVID-19. Aging, uncontrolled diabetes, hypertension, obesity, and exposure to androgens have been correlated with worse prognosis in COVID-19. Abnormalities in the renin-angiotensin-aldosterone system (RAAS), angiotensin-converting enzyme-2 (ACE2) and the androgen-driven transmembrane serine protease 2 (TMPRSS2) have been elicited as key modulators of SARS-CoV-2. MAIN TEXT: While safe and effective therapies for COVID-19 lack, the current moment of pandemic urges for therapeutic options. Existing drugs should be preferred over novel ones for clinical testing due to four inherent characteristics: 1. Well-established long-term safety profile, known risks and contraindications; 2. More accurate predictions of clinical effects; 3. Familiarity of clinical management; and 4. Affordable costs for public health systems. In the context of the key modulators of SARS-CoV-2 infectivity, endocrine targets have become central as candidates for COVID-19. The only endocrine or endocrine-related drug class with already existing emerging evidence for COVID-19 is the glucocorticoids, particularly for the use of dexamethasone for severely affected patients. Other drugs that are more likely to present clinical effects despite the lack of specific evidence for COVID-19 include anti-androgens (spironolactone, eplerenone, finasteride and dutasteride), statins, N-acetyl cysteine (NAC), ACE inhibitors (ACEi), angiotensin receptor blockers (ARB), and direct TMPRSS-2 inhibitors (nafamostat and camostat). Several other candidates show less consistent plausibility. In common, except for dexamethasone, all candidates have no evidence for COVID-19, and clinical trials are needed. CONCLUSION: While dexamethasone may reduce mortality in severely ill patients with COVID-19, in the absence of evidence of any specific drug for mild-to-moderate COVID-19, researchers should consider testing existing drugs due to their favorable safety, familiarity, and cost profile. However, except for dexamethasone in severe COVID-19, drug treatments for COVID-19 patients must be restricted to clinical research studies until efficacy has been extensively proven, with favorable outcomes in terms of reduction in hospitalization, mechanical ventilation, and death.",
+  "year": 2020,
+  "journal": "BMC endocrine disorders",
+  "authors": [
+    "Flavio A Cadegiani"
+  ],
+  "doi": "10.1186/s12902-020-00626-0",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Anti-Inflammatory Agents",
+    "Betacoronavirus",
+    "COVID-19",
+    "Coronavirus Infections",
+    "Dexamethasone",
+    "Drug Repositioning",
+    "Endocrine System",
+    "Humans",
+    "Pandemics",
+    "Pneumonia, Viral",
+    "Prognosis",
+    "SARS-CoV-2"
+  ],
+  "keywords": [
+    "ACE2",
+    "COVID-19",
+    "Pandemic",
+    "SARS-CoV-2",
+    "TMPRSS2"
+  ],
+  "affiliations": [
+    "Adrenal and Hypertension Unit, Division of Endocrinology and Metabolism, Department of Medicine, Escola Paulista de Medicina, Universidade Federal de São Paulo (EPM/UNIFESP), Rua Pedro de Toledo 781 - 13th floor, São Paulo, SP, 04039-032, Brazil. flavio.cadegiani@unifesp.br."
+  ]
+}

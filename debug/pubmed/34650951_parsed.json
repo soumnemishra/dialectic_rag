@@ -1,0 +1,44 @@
+{
+  "pmid": "34650951",
+  "title": "Efficacy of COVID-19 Treatments: A Bayesian Network Meta-Analysis of Randomized Controlled Trials.",
+  "abstract": "Background: We provided a comprehensive evaluation of efficacy of available treatments for coronavirus disease 2019 (COVID-19). Methods: We searched for candidate COVID-19 studies in WHO COVID-19 Global Research Database up to August 19, 2021. Randomized controlled trials for suspected or confirmed COVID-19 patients published on peer-reviewed journals were included, regardless of demographic characteristics. Outcome measures included mortality, mechanical ventilation, hospital discharge and viral clearance. Bayesian network meta-analysis with fixed effects was conducted to estimate the effect sizes using posterior means and 95% equal-tailed credible intervals (CrIs). Odds ratio (OR) was used as the summary measure for treatment effect. Bayesian hierarchical models were used to estimate effect sizes of treatments grouped by the treatment classifications. Results: We identified 222 eligible studies with a total of 102,950 patients. Compared with the standard of care, imatinib, intravenous immunoglobulin and tocilizumab led to lower risk of death; baricitinib plus remdesivir, colchicine, dexamethasone, recombinant human granulocyte colony stimulating factor and tocilizumab indicated lower occurrence of mechanical ventilation; tofacitinib, sarilumab, remdesivir, tocilizumab and baricitinib plus remdesivir increased the hospital discharge rate; convalescent plasma, ivermectin, ivermectin plus doxycycline, hydroxychloroquine, nitazoxanide and proxalutamide resulted in better viral clearance. From the treatment class level, we found that the use of antineoplastic agents was associated with fewer mortality cases, immunostimulants could reduce the risk of mechanical ventilation and immunosuppressants led to higher discharge rates. Conclusions: This network meta-analysis identified superiority of several COVID-19 treatments over the standard of care in terms of mortality, mechanical ventilation, hospital discharge and viral clearance. Tocilizumab showed its superiority compared with SOC on preventing severe outcomes such as death and mechanical ventilation as well as increasing the discharge rate, which might be an appropriate treatment for patients with severe or mild/moderate illness. We also found the clinical efficacy of antineoplastic agents, immunostimulants and immunosuppressants with respect to the endpoints of mortality, mechanical ventilation and discharge, which provides valuable information for the discovery of potential COVID-19 treatments.",
+  "year": 2021,
+  "journal": "Frontiers in public health",
+  "authors": [
+    "Chenyang Zhang",
+    "Huaqing Jin",
+    "Yi Feng Wen",
+    "Guosheng Yin"
+  ],
+  "doi": "10.3389/fpubh.2021.729559",
+  "publication_types": [
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review",
+    "Journal Article",
+    "Network Meta-Analysis"
+  ],
+  "mesh_terms": [
+    "Bayes Theorem",
+    "COVID-19",
+    "Humans",
+    "Immunization, Passive",
+    "Randomized Controlled Trials as Topic",
+    "SARS-CoV-2",
+    "COVID-19 Serotherapy"
+  ],
+  "keywords": [
+    "COVID-19",
+    "discharge",
+    "mechanical ventilation",
+    "mortality",
+    "network meta-analysis",
+    "viral clearance"
+  ],
+  "affiliations": [
+    "Department of Statistics and Actuarial Science, University of Hong Kong, Hong Kong SAR, China.",
+    "Department of Statistics and Actuarial Science, University of Hong Kong, Hong Kong SAR, China.",
+    "Key Laboratory of Shaanxi Province for Craniofacial Precision Medicine Research, College of Stomatology, Xi'an Jiaotong University, Xi'an, China.",
+    "Department of Statistics and Actuarial Science, University of Hong Kong, Hong Kong SAR, China.",
+    "Department of Biostatistics, MD Anderson Cancer Center, Houston, TX, United States."
+  ]
+}

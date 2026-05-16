@@ -1,0 +1,53 @@
+{
+  "pmid": "39105097",
+  "title": "Drug effectiveness for COVID-19 inpatients inferred from Japanese medical claim data using propensity score matching.",
+  "abstract": "BACKGROUND: Earlier studies and clinical trials of Coronavirus 2019 (COVID-19) showed that drugs such as antiviral drugs, antibody cocktails, and steroids and anti-inflammatory drugs can prevent severe outcomes and death. METHODS: Observational data in Japan assess drug effectiveness against COVID-19. We applied the average treatment effect model, particularly propensity scoring, which can treat the choice of administered drug as if administration were randomly assigned to inpatients. Data of the Medical Information Analysis Databank, operated by National Hospital Organization in Japan, were used. The outcome was defined as mortality. Subjects were all inpatients, inpatients with oxygen administration, and inpatients using respiratory ventilation, classified by three age classes: all ages, 65 years old or older, and younger than 65 years old. Information about demographic characteristics, underlying disease, administered drug, the proportions of Alpha, Beta and Omicron variant strains, and vaccine coverage were used as explanatory variables for logistic regression. RESULTS: Estimated results indicated that only one antibody cocktail (sotrovimab, casirivimab and imdevimab) was associated with raising the probability of survival consistently and significantly. By contrast, other drugs, an antiviral drug (remdesivir), a steroid (dexamethasone), and an anti-inflammatory drug (baricitinib and tocilizumab) were related to reduce the probability of survival. However, propensity score matching method might engender biased results because of a lack of data such as detailed information related to intervention and potential confounders. Therefore, the effectiveness of some drugs might not be evaluated properly in this study. CONCLUSIONS: Results indicate high likelihood that antibody cocktails were consistently associated with high probability of survival, although low likelihood was found for other drugs for older patients with mild to severe severity and all age patients with moderate severity. Further study is necessary in light of the lack of available data.",
+  "year": 2023,
+  "journal": "F1000Research",
+  "authors": [
+    "Shingo Mitsushima",
+    "Hiromasa Horiguchi",
+    "Kiyosu Taniguchi"
+  ],
+  "doi": "10.12688/f1000research.131102.2",
+  "publication_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Japan",
+    "Aged",
+    "Propensity Score",
+    "Male",
+    "COVID-19 Drug Treatment",
+    "Female",
+    "Antiviral Agents",
+    "Middle Aged",
+    "COVID-19",
+    "SARS-CoV-2",
+    "Inpatients",
+    "Aged, 80 and over",
+    "Treatment Outcome",
+    "Adult",
+    "Alanine",
+    "Dexamethasone",
+    "Adenosine Monophosphate",
+    "East Asian People"
+  ],
+  "keywords": [
+    "COVID-19",
+    "antibody cocktail",
+    "antiviral drug",
+    "mortality",
+    "mutated strain",
+    "steroid and anti-inflammatory drug",
+    "underlying diseases"
+  ],
+  "affiliations": [
+    "Center for Field Epidemic Intelligence, Research and Professional Development, National Institute of Infectious Diseases, Shinjuku-ku, Tokyo, 1620052, Japan.",
+    "Department of Clinical Data Management and Research, Clinical Research Center, National Hospital Organization, Meguro-ku, Tokyo, 1528621, Japan.",
+    "Research Director, The Tokyo Foundation for Policy Research, Minato-ku, Tokyo, 1066234, Japan.",
+    "General Director, National Hospital Organization Mie National Hospital, Tsu, Mie, 5140125, Japan."
+  ]
+}

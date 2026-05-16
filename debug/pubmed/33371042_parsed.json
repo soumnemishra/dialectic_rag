@@ -1,0 +1,48 @@
+{
+  "pmid": "33371042",
+  "title": "Efficacy and safety of mesenchymal stem cells for the treatment of patients infected with COVID-19: a systematic review and meta-analysis protocol.",
+  "abstract": "INTRODUCTION: To date, no specific antivirus drugs or vaccines have been available to prevent or treat the COVID-19 pandemic. Mesenchymal stem cell (MSC) therapy may be a promising therapeutic approach that reduces the high mortality in critical cases. This protocol is proposed for a systematic review and meta-analysis that aims to evaluate the efficacy and safety of MSC therapy on patients with COVID-19. METHODS AND ANALYSIS: Ten databases including PubMed, EMBASE, Cochrane Library, CINAHL, Web of Science, Chinese National Knowledge Infrastructure (CNKI), Chinese Scientific Journals Database (VIP), Wanfang database, China Biomedical Literature Database (CBM) and Chinese Biomedical Literature Service System (SinoMed) will be searched from inception to 1 December 2020. All published randomised controlled trials, clinical controlled trials and case series that meet the prespecified eligibility criteria will be included. The primary outcomes include mortality, incidence and severity of adverse events, respiratory improvement, days from ventilator, duration of fever, progression rate from mild or moderate to severe, improvement of such serious symptoms as difficulty breathing or shortness of breath, chest pain or pressure, and loss of speech or movement, biomarkers of laboratory examination and changes in CT. The secondary outcomes include dexamethasone doses and quality of life. Two reviewers will independently perform study selection, data extraction and assessment of bias risk. Data synthesis will be conducted using RevMan software (V.5.3.5). If necessary, subgroup and sensitivity analysis will be performed. Grading of Recommendations Assessment, Development and Evaluation system will be used to assess the strength of evidence. ETHICS AND DISSEMINATION: Ethical approval is not necessary since no individual patient or privacy data have been collected. The results of this review will be disseminated in a peer-reviewed journal or an academic conference presentation. PROSPERO REGISTRATION NUMBER: CRD42020190079.",
+  "year": 2020,
+  "journal": "BMJ open",
+  "authors": [
+    "Yunhui Chen",
+    "Qing Zhang",
+    "Wei Peng",
+    "Dan Liu",
+    "Yanyan You",
+    "Xinglong Liu",
+    "Songqi Tang",
+    "Tiane Zhang"
+  ],
+  "doi": "10.1136/bmjopen-2020-042085",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "COVID-19",
+    "Humans",
+    "Mesenchymal Stem Cell Transplantation",
+    "Meta-Analysis as Topic",
+    "Research Design",
+    "SARS-CoV-2",
+    "Systematic Reviews as Topic",
+    "Treatment Outcome"
+  ],
+  "keywords": [
+    "cell biology",
+    "immunology",
+    "infectious diseases",
+    "public health"
+  ],
+  "affiliations": [
+    "Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+    "Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+    "Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+    "West China Hospital, Sichuan University, Chengdu, China.",
+    "West China Hospital, Sichuan University, Chengdu, China.",
+    "Chengdu University of Traditional Chinese Medicine, Chengdu, China.",
+    "Hainan Medical University, Haikou, China tangsongqi@foxmail.com zhte2003@cdutcm.edu.cn.",
+    "Chengdu University of Traditional Chinese Medicine, Chengdu, China tangsongqi@foxmail.com zhte2003@cdutcm.edu.cn."
+  ]
+}

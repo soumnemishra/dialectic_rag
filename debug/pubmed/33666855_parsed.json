@@ -1,0 +1,38 @@
+{
+  "pmid": "33666855",
+  "title": "Biomarkers of Cardiac Stress and Cytokine Release Syndrome in COVID-19: A Review.",
+  "abstract": "PURPOSE OF REVIEW: The severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) resulted in the coronavirus 2019 (COVID-19) global pandemic. While primarily a respiratory virus, SARS-CoV-2 can cause myocardial injury. The pattern of injury, referred to as acute COVID-19 cardiovascular syndrome (ACovCS), is defined by cardiac troponin leak in the absence of obstructive coronary artery disease. Although the etiology of the injury is unknown, many speculate that a cytokine release syndrome (CRS) may be an important factor. We aim to review recent data concerning markers of cardiac injury in ACovCS and its relation to the CRS. RECENT FINDINGS: Cardiac injury was common in patients hospitalized for COVID-19, with both cardiac troponin and B-type natriuretic peptide (BNP) being elevated in this population. Biomarkers were correlated with illness severity and increased mortality. Cytokines such as IL-6 were more often elevated in patients with ACovCS. Myocarditis evident on cardiac MR following COVID-19 may be associated with cardiac troponin levels. The impact of dexamethasone and remdesivir, two therapies shown to have clinical benefit in COVID-19, on myocardial injury is unknown. Biomarkers of cardiac stress and injury in COVID-19 may be used to stratify risk in the future. Currently, there is no evidence that inhibition of cytokine release will reduce myocardial injury in patients with COVID-19.",
+  "year": 2021,
+  "journal": "Current heart failure reports",
+  "authors": [
+    "Jonathan S Gordon",
+    "Mark H Drazner"
+  ],
+  "doi": "10.1007/s11897-021-00505-2",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Biomarkers",
+    "COVID-19",
+    "Cardiomyopathies",
+    "Cytokine Release Syndrome",
+    "Humans",
+    "Natriuretic Peptide, Brain",
+    "SARS-CoV-2",
+    "Troponin"
+  ],
+  "keywords": [
+    "BNP",
+    "COVID-19",
+    "cardiac biomarkers",
+    "coronavirus",
+    "cytokine release syndrome",
+    "troponin"
+  ],
+  "affiliations": [
+    "Department of Internal Medicine and Division of Cardiology, University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd, Dallas, TX, 75390-9254, USA.",
+    "Department of Internal Medicine and Division of Cardiology, University of Texas Southwestern Medical Center, 5323 Harry Hines Blvd, Dallas, TX, 75390-9254, USA. Mark.drazner@UTsouthwestern.edu."
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "pmid": "24609605",
+  "title": "Better reporting of interventions: template for intervention description and replication (TIDieR) checklist and guide.",
+  "abstract": "Without a complete published description of interventions, clinicians and patients cannot reliably implement interventions that are shown to be useful, and other researchers cannot replicate or build on research findings. The quality of description of interventions in publications, however, is remarkably poor. To improve the completeness of reporting, and ultimately the replicability, of interventions, an international group of experts and stakeholders developed the Template for Intervention Description and Replication (TIDieR) checklist and guide. The process involved a literature review for relevant checklists and research, a Delphi survey of an international panel of experts to guide item selection, and a face to face panel meeting. The resultant 12 item TIDieR checklist (brief name, why, what (materials), what (procedure), who provided, how, where, when and how much, tailoring, modifications, how well (planned), how well (actual)) is an extension of the CONSORT 2010 statement (item 5) and the SPIRIT 2013 statement (item 11). While the emphasis of the checklist is on trials, the guidance is intended to apply across all evaluative study designs. This paper presents the TIDieR checklist and guide, with an explanation and elaboration for each item, and examples of good reporting. The TIDieR checklist and guide should improve the reporting of interventions and make it easier for authors to structure accounts of their interventions, reviewers and editors to assess the descriptions, and readers to use the information.",
+  "year": 2014,
+  "journal": "BMJ (Clinical research ed.)",
+  "authors": [
+    "Tammy C Hoffmann",
+    "Paul P Glasziou",
+    "Isabelle Boutron",
+    "Ruairidh Milne",
+    "Rafael Perera",
+    "David Moher",
+    "Douglas G Altman",
+    "Virginia Barbour",
+    "Helen Macdonald",
+    "Marie Johnston",
+    "Sarah E Lamb",
+    "Mary Dixon-Woods",
+    "Peter McCulloch",
+    "Jeremy C Wyatt",
+    "An-Wen Chan",
+    "Susan Michie"
+  ],
+  "doi": "10.1136/bmj.g1687",
+  "publication_types": [
+    "Consensus Statement",
+    "Guideline",
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't"
+  ],
+  "mesh_terms": [
+    "Biomedical Research",
+    "Checklist",
+    "Clinical Trials as Topic",
+    "Delphi Technique",
+    "Humans",
+    "Program Evaluation",
+    "Reproducibility of Results",
+    "Research Design",
+    "Research Report"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Centre for Research in Evidence Based Practice, Faculty of Health Sciences and Medicine, Bond University, Queensland, Australia, 4229."
+  ]
+}

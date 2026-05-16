@@ -1,0 +1,46 @@
+{
+  "pmid": "25988638",
+  "title": "Outcomes for extremely premature infants.",
+  "abstract": "Premature birth is a significant cause of infant and child morbidity and mortality. In the United States, the premature birth rate, which had steadily increased during the 1990s and early 2000s, has decreased annually for 7 years and is now approximately 11.39%. Human viability, defined as gestational age at which the chance of survival is 50%, is currently approximately 23 to 24 weeks in developed countries. Infant girls, on average, have better outcomes than infant boys. A relatively uncomplicated course in the intensive care nursery for an extremely premature infant results in a discharge date close to the prenatal estimated date of confinement. Despite technological advances and efforts of child health experts during the last generation, the extremely premature infant (less than 28 weeks gestation) and extremely low birth weight infant (<1000 g) remain at high risk for death and disability with 30% to 50% mortality and, in survivors, at least 20% to 50% risk of morbidity. The introduction of continuous positive airway pressure, mechanical ventilation, and exogenous surfactant increased survival and spurred the development of neonatal intensive care in the 1970s through the early 1990s. Routine administration of antenatal steroids during premature labor improved neonatal mortality and morbidity in the late 1990s. The recognition that chronic postnatal administration of steroids to infants should be avoided may have improved outcomes in the early 2000s. Evidence from recent trials attempting to define the appropriate target for oxygen saturation in preterm infants suggests arterial oxygen saturation between 91% and 95% (compared with 85%-89%) avoids excess mortality; however, final analyses of data from these trials have not been published, so definitive recommendations are still pending. The development of neonatal neurocritical intensive care units may improve neurocognitive outcomes in this high-risk group. Long-term follow-up to detect and address developmental, learning, behavioral, and social problems is critical for children born at these early gestational ages.The striking similarities in response to extreme prematurity in the lung and brain imply that agents and techniques that benefit one organ are likely to also benefit the other. Finally, because therapy and supportive care continue to change, the outcomes of extremely low birth weight infants are ever evolving. Efforts to minimize injury, preserve growth, and identify interventions focused on antioxidant and anti-inflammatory pathways are now being evaluated. Thus, treating and preventing long-term deficits must be developed in the context of a \"moving target.\"",
+  "year": 2015,
+  "journal": "Anesthesia and analgesia",
+  "authors": [
+    "Hannah C Glass",
+    "Andrew T Costarino",
+    "Stephen A Stayer",
+    "Claire M Brett",
+    "Franklyn Cladis",
+    "Peter J Davis"
+  ],
+  "doi": "10.1213/ANE.0000000000000705",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Child Development",
+    "Female",
+    "Gestational Age",
+    "Hospital Mortality",
+    "Humans",
+    "Infant",
+    "Infant Mortality",
+    "Infant, Extremely Premature",
+    "Infant, Newborn",
+    "Intensive Care Units, Neonatal",
+    "Intensive Care, Neonatal",
+    "Male",
+    "Patient Discharge",
+    "Perinatal Mortality",
+    "Risk Factors",
+    "Sex Factors",
+    "Time Factors",
+    "Treatment Outcome"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "From the *Department of Neurology and Pediatrics, UCSF Benioff Children's Hospital, San Francisco, California; †Jefferson Medical College, Thomas Jefferson University, Philadelphia, Pennsylvania; ‡Department of Pediatric Anesthesiology, The Alfred I. duPont Hospital for Children, Wilmington, Delaware; §Baylor College of Medicine, Texas Children's Hospital, Houston, Texas; ∥Department of Anesthesiology and Perioperative Care, University of California, San Francisco, San Francisco, California; and ¶Children's Hospital of Pittsburgh of UPMC, University of Pittsburgh School of Medicine, Pittsburgh, Pennsylvania."
+  ]
+}

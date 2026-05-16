@@ -1,0 +1,65 @@
+{
+  "pmid": "40573079",
+  "title": "ALBACOVIDIOL Study: Effect of Calcifediol Treatment on Mortality in Patients Hospitalized for COVID-19: A Retrospective Analysis.",
+  "abstract": "Background: Immunomodulatory treatments targeting excessive host immune responses favorably shifting the course of COVID-19. High doses of calcifediol may reduce the mortality of this infection. Objective: To evaluate how a high dose of calcifediol modifies the risk of death in patients hospitalized with COVID-19 during the first outbreaks. Design: A retrospective, observational study to evaluate the relationship between treatment with calcifediol and the risk of death in patients hospitalized with COVID-19 at the \"Complejo Hospitalario Universitario de Albacete\" (CHUA), Spain, during the months of January to March 2021. Patients were treated with corticosteroids, and some patients also received baricitinib and/or high doses of calcifediol, according to CHUA's therapeutic protocol 2021 for COVID-19. The primary outcome measure was mortality according to calcifediol treatment. Results: A total of 230 patients were included. 25(OH)D levels were measured on admission in 148 patients, showing a high prevalence of vitamin D deficiency [median 25(OH)D: 17.5 ng/mL]. Thirty-four (23%) had severe deficiency (25(OH)D ≤ 10 ng/mL). In the 119 patients (51.7%) who received in-hospital treatment with a high dose of calcifediol, the mortality rate was 12.6% (15 cases, 95% confidence interval [CI], 7.8-19.8%), while in 111 patients who did not receive treatment with calcifediol, the death rate was 23.4% (26 cases, 95% CI: 16.5-32.1%; p = 0.039). The odds ratio (OR) in treated vs. untreated patients was 0.47 (95% CI: 0.23-0.95). Among the patients admitted with severe deficiency, 16 received treatment with calcifediol, with a mortality rate of 0.0% (0 cases, 95% CI: 0.0-19.4%), while in the 18 not treated with calcifediol, a death rate of 38.9% was observed (7 cases, 95% CI: 20.3-61.4%; p = 0.008). The mortality rate was lower in patients treated with the combination of calcifediol and corticosteroids vs. those treated with corticosteroids alone (p = 0.038) and vs. those treated with corticosteroids and baricitinib (p = 0.033). Conclusions: In the ALBACOVIDIOL study, calcifediol treatment was associated with a lower observed mortality rate in hospitalized patients with COVID-19 treated with corticosteroids (with or without baricitinib), especially in those with severe vitamin D deficiency. Causality cannot be inferred due to the retrospective study design. (Public database: ClinicalTrials.gov, NCT05819918).",
+  "year": 2025,
+  "journal": "Nutrients",
+  "authors": [
+    "José Antonio Blázquez-Cabrera",
+    "Javier Torres-Hernández",
+    "Roger Bouillon",
+    "Antonio Casado-Díaz",
+    "José Manuel Quesada-Gomez",
+    "Laura Navarro-Casado"
+  ],
+  "doi": "10.3390/nu17121968",
+  "publication_types": [
+    "Journal Article",
+    "Observational Study"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "Retrospective Studies",
+    "Male",
+    "Female",
+    "COVID-19",
+    "COVID-19 Drug Treatment",
+    "Middle Aged",
+    "Aged",
+    "Calcifediol",
+    "Spain",
+    "Hospitalization",
+    "Vitamin D Deficiency",
+    "SARS-CoV-2",
+    "Purines",
+    "Hospital Mortality",
+    "Aged, 80 and over",
+    "Adrenal Cortex Hormones",
+    "Sulfonamides",
+    "Azetidines",
+    "Pyrazoles"
+  ],
+  "keywords": [
+    "COVID-19",
+    "SARS-CoV-2",
+    "VDR",
+    "baricitinib",
+    "calcifediol",
+    "calcitriol",
+    "corticoids",
+    "dexamethasone",
+    "prednisone",
+    "respiratory distress syndrome (ARDS)"
+  ],
+  "affiliations": [
+    "Internal Medicine Department, Complejo Hospitalario Universitario de Albacete, 02008 Albacete, Spain.",
+    "Clinical Biochemistry Department, Complejo Hospitalario Universitario de Albacete, 02008 Albacete, Spain.",
+    "Clinical and Experimental Endocrinology, Department of Chronic Diseases and Metabolism, KU Leuven, Herestraat, 3000 Leuven, Belgium.",
+    "Unidad de Gestión Clínica de Endocrinología y Nutrición-GC17, Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC), Hospital Universitario Reina Sofía, 14004 Córdoba, Spain.",
+    "CIBER de Fragilidad y Envejecimiento Saludable (CIBERFES), 14004 Córdoba, Spain.",
+    "Unidad de Gestión Clínica de Endocrinología y Nutrición-GC17, Instituto Maimónides de Investigación Biomédica de Córdoba (IMIBIC), Hospital Universitario Reina Sofía, 14004 Córdoba, Spain.",
+    "CIBER de Fragilidad y Envejecimiento Saludable (CIBERFES), 14004 Córdoba, Spain.",
+    "Departamento de Enfermería, Farmacología y Fisioterapia, Universidad de Córdoba, 14004 Córdoba, Spain.",
+    "Clinical Biochemistry Department, Complejo Hospitalario Universitario de Albacete, 02008 Albacete, Spain."
+  ]
+}

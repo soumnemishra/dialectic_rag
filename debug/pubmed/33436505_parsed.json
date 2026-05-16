@@ -1,0 +1,62 @@
+{
+  "pmid": "33436505",
+  "title": "Adverse pregnancy and neonatal outcomes associated with Neisseria gonorrhoeae: systematic review and meta-analysis.",
+  "abstract": "OBJECTIVE: To examine associations between Neisseria gonorrhoeae (NG) infection during pregnancy and the risk of preterm birth, spontaneous abortion, premature rupture of membranes, perinatal mortality, low birth weight and ophthalmia neonatorum. DATA SOURCES: We searched Medline, EMBASE, the Cochrane Library and Cumulative Index to Nursing and Allied Health Literature for studies published between 1948 and 14 January 2020. METHODS: Studies were included if they reported testing for NG during pregnancy and compared pregnancy, perinatal and/or neonatal outcomes between women with and without NG. Two reviewers independently assessed papers for inclusion and extracted data. Risk of bias was assessed using established checklists for each study design. Summary ORs with 95% CIs were generated using random effects models for both crude and, where available, adjusted associations. RESULTS: We identified 2593 records and included 30 in meta-analyses. Women with NG were more likely to experience preterm birth (OR 1.55, 95% CI 1.21 to 1.99, n=18 studies); premature rupture of membranes (OR 1.41, 95% CI 1.02 to 1.92, n=9); perinatal mortality (OR 2.16, 95% CI 1.35 to 3.46, n=9); low birth weight (OR 1.66, 95% CI 1.12 to 2.48, n=8) and ophthalmia neonatorum (OR 4.21, 95% CI 1.36 to 13.04, n=6). Summary adjusted ORs were, for preterm birth 1.90 (95% CI 1.14 to 3.19, n=5) and for low birth weight 1.48 (95% CI 0.79 to 2.77, n=4). In studies with a multivariable analysis, age was the variable most commonly adjusted for. NG was more strongly associated with preterm birth in low-income and middle-income countries (OR 2.21, 95% CI 1.40 to 3.48, n=7) than in high-income countries (OR 1.38, 95% CI 1.04 to 1.83, n=11). CONCLUSIONS: NG is associated with a number of adverse pregnancy and newborn outcomes. Further research should be done to determine the role of NG in different perinatal mortality outcomes because interventions that reduce mortality will have the greatest impact on reducing the burden of disease in low-income and middle-income countries. PROSPERO REGISTRATION NUMBER: CRD42016050962.",
+  "year": 2021,
+  "journal": "Sexually transmitted infections",
+  "authors": [
+    "Lisa M Vallely",
+    "Dianne Egli-Gany",
+    "Handan Wand",
+    "William S Pomat",
+    "Caroline S E Homer",
+    "Rebecca Guy",
+    "Bronwyn Silver",
+    "Alice R Rumbold",
+    "John M Kaldor",
+    "Andrew J Vallely",
+    "Nicola Low"
+  ],
+  "doi": "10.1136/sextrans-2020-054653",
+  "publication_types": [
+    "Journal Article",
+    "Meta-Analysis",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Abortion, Spontaneous",
+    "Female",
+    "Premature Rupture of Fetal Membranes",
+    "Gonorrhea",
+    "Humans",
+    "Infant, Low Birth Weight",
+    "Infant, Newborn",
+    "Neisseria gonorrhoeae",
+    "Ophthalmia Neonatorum",
+    "Perinatal Mortality",
+    "Pregnancy",
+    "Pregnancy Complications, Infectious"
+  ],
+  "keywords": [
+    "Neisseria gonorrhoeae",
+    "meta-analysis",
+    "pregnancy",
+    "premature birth",
+    "systematic review"
+  ],
+  "affiliations": [
+    "Public Health Interventions Research Group, Kirby Institute, UNSW Sydney, Sydney, New South Wales, Australia lvallely@kirby.unsw.edu.au.",
+    "Institute of Social and Preventive Medicine (ISPM), University of Bern, Bern, Switzerland.",
+    "Biostatistics and Databases program, Kirby Institute, UNSW Sydney, Sydney, New South Wales, Australia.",
+    "Papua New Guinea Institute of Medical Research, Goroka, Papua New Guinea.",
+    "Maternal, Child and Adolescent Health Program, Burnet Institute, Melbourne, Victoria, Australia.",
+    "Surveillance and Evaluation Research, Kirby Institute, UNSW Sydney, Sydney, New South Wales, Australia.",
+    "Public Health Division, Central Australian Aboriginal Congress, Alice Springs, Northern Territory, Australia.",
+    "Robinson Research Institute, University of Adelaide, Adelaide, South Australia, Australia.",
+    "Public Health Interventions Research Group, Kirby Institute, UNSW Sydney, Sydney, New South Wales, Australia.",
+    "Public Health Interventions Research Group, Kirby Institute, UNSW Sydney, Sydney, New South Wales, Australia.",
+    "Sexual and Reproductive Health Unit, Papua New Guinea Institute of Medical Research, Goroka, Papua New Guinea.",
+    "Institute of Social and Preventive Medicine (ISPM), University of Bern, Bern, Switzerland."
+  ]
+}

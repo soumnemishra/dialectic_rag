@@ -1,0 +1,42 @@
+{
+  "pmid": "33328048",
+  "title": "Reporting guidelines for clinical trial reports for interventions involving artificial intelligence: the CONSORT-AI extension.",
+  "abstract": "The CONSORT 2010 statement provides minimum guidelines for reporting randomised trials. Its widespread use has been instrumental in ensuring transparency in the evaluation of new interventions. More recently, there has been a growing recognition that interventions involving artificial intelligence (AI) need to undergo rigorous, prospective evaluation to demonstrate impact on health outcomes. The CONSORT-AI (Consolidated Standards of Reporting Trials-Artificial Intelligence) extension is a new reporting guideline for clinical trials evaluating interventions with an AI component. It was developed in parallel with its companion statement for clinical trial protocols: SPIRIT-AI (Standard Protocol Items: Recommendations for Interventional Trials-Artificial Intelligence). Both guidelines were developed through a staged consensus process involving literature review and expert consultation to generate 29 candidate items, which were assessed by an international multi-stakeholder group in a two-stage Delphi survey (103 stakeholders), agreed upon in a two-day consensus meeting (31 stakeholders), and refined through a checklist pilot (34 participants). The CONSORT-AI extension includes 14 new items that were considered sufficiently important for AI interventions that they should be routinely reported in addition to the core CONSORT 2010 items. CONSORT-AI recommends that investigators provide clear descriptions of the AI intervention, including instructions and skills required for use, the setting in which the AI intervention is integrated, the handling of inputs and outputs of the AI intervention, the human-AI interaction and provision of an analysis of error cases. CONSORT-AI will help promote transparency and completeness in reporting clinical trials for AI interventions. It will assist editors and peer reviewers, as well as the general readership, to understand, interpret, and critically appraise the quality of clinical trial design and risk of bias in the reported outcomes.",
+  "year": 2020,
+  "journal": "The Lancet. Digital health",
+  "authors": [
+    "Xiaoxuan Liu",
+    "Samantha Cruz Rivera",
+    "David Moher",
+    "Melanie J Calvert",
+    "Alastair K Denniston"
+  ],
+  "doi": "10.1016/S2589-7500(20)30218-1",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, N.I.H., Extramural",
+    "Research Support, Non-U.S. Gov't",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Artificial Intelligence",
+    "Checklist",
+    "Clinical Trials as Topic",
+    "Consensus",
+    "Delphi Technique",
+    "Disclosure",
+    "Guidelines as Topic",
+    "Humans",
+    "Publishing",
+    "Research Design",
+    "Research Report"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Academic Unit of Ophthalmology, Institute of Inflammation and Ageing, College of Medical and Dental Sciences, University of Birmingham, Birmingham, UK; Birmingham Health Partners Centre for Regulatory Science and Innovation, University of Birmingham, Birmingham, UK; Department of Ophthalmology, University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK; Moorfields Eye Hospital NHS Foundation Trust, London, UK; Health Data Research UK, London, UK.",
+    "Centre for Patient Reported Outcome Research, Institute of Applied Health Research, University of Birmingham, Birmingham, UK; Birmingham Health Partners Centre for Regulatory Science and Innovation, University of Birmingham, Birmingham, UK.",
+    "Centre for Journalology, Clinical Epidemiology Program, Ottawa Hospital Research Institute, Ottawa, ON, Canada; School of Epidemiology and Public Health, University of Ottawa, Ottawa, ON, Canada.",
+    "Centre for Patient Reported Outcome Research, Institute of Applied Health Research, University of Birmingham, Birmingham, UK; Birmingham Health Partners Centre for Regulatory Science and Innovation, University of Birmingham, Birmingham, UK; Health Data Research UK, London, UK; National National Institute of Health Research Surgical Reconstruction and Microbiology Centre, and National Institute of Health Research Birmingham Biomedical Research Centre, University of Birmingham and University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK; National Institute of Health Research Applied Research Collaborative West Midlands, Birmingham, UK.",
+    "Academic Unit of Ophthalmology, Institute of Inflammation and Ageing, College of Medical and Dental Sciences, University of Birmingham, Birmingham, UK; Centre for Patient Reported Outcome Research, Institute of Applied Health Research, University of Birmingham, Birmingham, UK; Birmingham Health Partners Centre for Regulatory Science and Innovation, University of Birmingham, Birmingham, UK; Department of Ophthalmology, University Hospitals Birmingham NHS Foundation Trust, Birmingham, UK; National Institute of Health Research Biomedical Research Centre for Ophthalmology, Moorfields Eye Hospital London NHS Foundation Trust and University College London, Institute of Ophthalmology, London, UK; Health Data Research UK, London, UK. Electronic address: a.denniston@bham.ac.uk."
+  ]
+}

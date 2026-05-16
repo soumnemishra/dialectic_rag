@@ -1,0 +1,73 @@
+{
+  "pmid": "34226219",
+  "title": "Randomised, controlled, open label, multicentre clinical trial to explore safety and efficacy of hyperbaric oxygen for preventing ICU admission, morbidity and mortality in adult patients with COVID-19.",
+  "abstract": "INTRODUCTION: COVID-19 may cause severe pneumonitis and trigger a massive inflammatory response that requires ventilatory support. The intensive care unit (ICU)-mortality has been reported to be as high as 62%. Dexamethasone is the only of all anti-inflammatory drugs that have been tested to date that has shown a positive effect on mortality. We aim to explore if treatment with hyperbaric oxygen (HBO) is safe and effective for patients with severe COVID-19. Our hypothesis is that HBO can prevent ICU admission, morbidity and mortality by attenuating the inflammatory response. The primary objective is to evaluate if HBO reduces the number of ICU admissions compared with best practice treatment for COVID-19, main secondary objectives are to evaluate if HBO reduces the load on ICU resources, morbidity and mortality and to evaluate if HBO mitigates the inflammatory reaction in COVID-19. METHODS AND ANALYSIS: A randomised, controlled, phase II, open label, multicentre trial. 200 subjects with severe COVID-19 and at least two risk factors for mortality will be included. Baseline clinical data and blood samples will be collected before randomisation and repeated daily for 7 days, at days 14 and 30. Subjects will be randomised with a computer-based system to HBO, maximum five times during the first 7 days plus best practice treatment or only best practice treatment. The primary endpoint, ICU admission, is defined by criteria for selection for ICU. We will evaluate if HBO mitigates the inflammatory reaction in COVID-19 using molecular analyses. All parameters are recorded in an electronic case report form. An independent Data Safety Monitoring Board will review the safety parameters. ETHICS AND DISSEMINATION: The trial is approved by The National Institutional Review Board in Sweden (2020-01705) and the Swedish Medical Product Agency (5.1-2020-36673). Positive, negative and any inconclusive results will be published in peer-reviewed scientific journals with open access. TRIAL REGISTRATION: NCT04327505. EudraCT number: 2020-001349-37.",
+  "year": 2021,
+  "journal": "BMJ open",
+  "authors": [
+    "Anders Kjellberg",
+    "Johan Douglas",
+    "Michael T Pawlik",
+    "Michael Kraus",
+    "Nicklas Oscarsson",
+    "Xiaowei Zheng",
+    "Peter Bergman",
+    "Oskar Frånberg",
+    "Jan H Kowalski",
+    "Sven Paul Nyren",
+    "Mårten Silvanius",
+    "Magnus Skold",
+    "Sergiu-Bogdan Catrina",
+    "Kenny A Rodriguez-Wallberg",
+    "Peter Lindholm"
+  ],
+  "doi": "10.1136/bmjopen-2020-046738",
+  "publication_types": [
+    "Journal Article",
+    "Multicenter Study",
+    "Randomized Controlled Trial"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "COVID-19",
+    "Humans",
+    "Hyperbaric Oxygenation",
+    "Intensive Care Units",
+    "Morbidity",
+    "Pharmaceutical Preparations",
+    "SARS-CoV-2",
+    "Sweden",
+    "Treatment Outcome"
+  ],
+  "keywords": [
+    "COVID-19",
+    "immunology",
+    "infectious diseases",
+    "intensive & critical care",
+    "thoracic medicine"
+  ],
+  "affiliations": [
+    "Department of Physiology and Pharmacology, Karolinska Institutet, Stockholm, Sweden anders.kjellberg@ki.se.",
+    "Perioperative Medicine and Intensive Care, Karolinska University Hospital, Stockholm, Sweden.",
+    "Department of Anaesthesia and Intensive Care, Blekinge Hospital Karlskrona, Karlskrona, Sweden.",
+    "Department of Anaesthesiology and Intensive Care Medicine, Catholic Charities Hospital, St. Josef, Regensburg, Germany.",
+    "Department of Anaesthesiology and Intensive Care Medicine, Bergmannsheil und Kinderklinik Buer GmbH, Gelsenkirchen, Germany.",
+    "Department of Anesthesiology and Intensive Care, University of Gothenburg Sahlgrenska Academy, Goteborg, Sweden.",
+    "Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm, Sweden.",
+    "Department of Laboratory Medicine, Division of Clinical Microbiology, Karolinska Institute, Stockholm, Sweden.",
+    "Department of Mathematics and Natural Science, Blekinge Institute of Technology, Karlskrona, Sweden.",
+    "JK Biostatistics AB, Stockholm, Sweden.",
+    "Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm, Sweden.",
+    "Department of Radiology Solna, Karolinska University Hospital, Stockholm, Sweden.",
+    "Department of Mathematics and Natural Sciences, TIMN, Blekinge Institute of Technology, Karlskrona, Sweden.",
+    "SwAF Diving and Naval Medicine Centre, Swedish Armed Forces, Karlskrona, Sweden.",
+    "Department of Medicine Solna, Karolinska Institutet, Stockholm, Sweden.",
+    "Department of Respiratory Medicine and Allergy, Karolinska University Hospital, Stockholm, Sweden.",
+    "Department of Molecular Medicine and Surgery, Karolinska Institutet, Stockholm, Sweden.",
+    "Center for Diabetes, Academic Specialist Center, Stockholm, Sweden.",
+    "Department of Reproductive Medicine, Division of Gynecology and Reproduction, Karolinska Universitetssjukhuset, Stockholm, Sweden.",
+    "Department of Oncology-Pathology, Karolinska Institutet, Stockholm, Sweden.",
+    "Department of Physiology and Pharmacology, Karolinska Institutet, Stockholm, Sweden.",
+    "Department of Emergency Medicine, UCSD, La Jolla, California, USA."
+  ]
+}

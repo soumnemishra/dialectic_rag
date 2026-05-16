@@ -1,0 +1,45 @@
+{
+  "pmid": "33822023",
+  "title": "Racial and Ethnic Differences and Clinical Outcomes of Patients With Coronavirus Disease 2019 (COVID-19) Presenting to the Emergency Department.",
+  "abstract": "BACKGROUND: Since the introduction of remdesivir and dexamethasone for severe COVID-19 treatment, few large multi-hospital-system US studies have described clinical characteristics and outcomes of minority COVID-19 patients who present to the emergency department (ED). METHODS: This cohort study from the Cerner Real World Database (87 US health systems) from 1 December 2019 to 30 September 2020 included PCR-confirmed COVID-19 patients who self-identified as non-Hispanic Black (Black), Hispanic White (Hispanic), or non-Hispanic White (White). The main outcome was hospitalization among ED patients. Secondary outcomes included mechanical ventilation, intensive care unit care, and in-hospital mortality. Descriptive statistics and Poisson regression compared sociodemographics, comorbidities, receipt of remdesivir or dexamethasone, and outcomes by racial/ethnic groups and geographic region. RESULTS: 94 683 COVID-19 patients presented to the ED. Blacks comprised 26.7% and Hispanics 33.6%. Nearly half (45.1%) of ED patients presented to hospitals in the South. 31.4% (n = 29 687) were hospitalized. Lower proportions of Blacks were prescribed dexamethasone (29.4%; n = 7426) compared with Hispanics (40.9%; n = 13 021) and Whites (37.5%; n = 14 088). Hospitalization risks, compared with Whites, were similar in Blacks (RR: .94; 95% CI: .82-1.08; P = .4) and Hispanics (.99; .81-1.21; P = .91), but risk of in-hospital mortality was higher in Blacks (1.18; 1.06-1.31; P = .002) and Hispanics (1.28; 1.13-1.44; P < .001). CONCLUSIONS: Minority patients were overrepresented among COVID-19 ED patients, and while their risks of hospitalization were similar to Whites, in-hospital mortality risk was higher. Interventions targeting upstream social determinants of health are needed to reduce racial/ethnic disparities in COVID-19.",
+  "year": 2022,
+  "journal": "Clinical infectious diseases : an official publication of the Infectious Diseases Society of America",
+  "authors": [
+    "Zanthia Wiley",
+    "Katie Ross-Driscoll",
+    "Zhensheng Wang",
+    "Laken Smothers",
+    "Aneesh K Mehta",
+    "Rachel E Patzer"
+  ],
+  "doi": "10.1093/cid/ciab290",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Cohort Studies",
+    "Emergency Service, Hospital",
+    "Humans",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "disparities",
+    "emergency department",
+    "ethnicity",
+    "race"
+  ],
+  "affiliations": [
+    "Division of Infectious Diseases, Department of Medicine, Emory University School of Medicine, Atlanta, Georgia, USA.",
+    "Health Services Research Center, Emory University School of Medicine, Atlanta, Georgia, USA.",
+    "Department of Epidemiology, Rollins School of Public Health, Atlanta, Georgia, USA.",
+    "Health Services Research Center, Emory University School of Medicine, Atlanta, Georgia, USA.",
+    "Department of Epidemiology, Rollins School of Public Health, Atlanta, Georgia, USA.",
+    "Health Services Research Center, Emory University School of Medicine, Atlanta, Georgia, USA.",
+    "Department of Epidemiology, Rollins School of Public Health, Atlanta, Georgia, USA.",
+    "Division of Infectious Diseases, Department of Medicine, Emory University School of Medicine, Atlanta, Georgia, USA.",
+    "Health Services Research Center, Emory University School of Medicine, Atlanta, Georgia, USA.",
+    "Department of Epidemiology, Rollins School of Public Health, Atlanta, Georgia, USA."
+  ]
+}

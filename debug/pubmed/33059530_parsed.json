@@ -1,0 +1,46 @@
+{
+  "pmid": "33059530",
+  "title": "Clinical management of Lupus patients during the COVID-19 pandemic.",
+  "abstract": "Severe acute respiratory syndrome coronavirus (SARS-CoV-2), the virus causing Coronavirus disease 2019 (COVID-19), has had a huge impact on health services with a high mortality associated with complications including pneumonia and acute respiratory distress syndrome. Historical evidence suggests that Lupus patients have a higher incidence of several viral infections. This is likely due to a combination of immune dysfunction, immunosuppressive therapy and excess co-morbidities. In this context there has been concern that Lupus patients may be at a higher risk of developing COVID-19 and suffering a severe disease course. As a result, many Lupus patients have been advised to 'shield' by isolating from social contact in the hope that this will reduce the likelihood of infection. Early clinical data does not appear to show that the incidence of COVID-19 is higher in Lupus patients. Reassuringly, the clinical course of COVID-19 in Lupus does not generally seem to be more severe than in the general population. There has been huge interest in repurposing existing drugs as potential treatments, including several used to treat Lupus. Of these, corticosteroids and hydroxychloroquine are the most well researched so far. The current evidence suggests that the corticosteroid dexamethasone improves outcome for the sickest COVID-19 patients requiring respiratory support. Initial reports suggested that hydroxychloroquine could have a positive impact on the course of COVID-19, however larger prospective studies have not supported this. Janus kinase inhibitors, currently being investigated for efficacy in lupus, have been shown to have anti-viral effects in vitro and inhibiting the JAK-STAT pathway may dampen down the host hyper-inflammatory response. Several trials are ongoing to assess the outcome of the use of JAK inhibitors in COVID-19 positive patients. For most patients continuing with their existing therapies to prevent a lupus flare or adverse events associated with sudden corticosteroid withdrawal is important whilst an Individualised risk assessment remains vital.",
+  "year": 2020,
+  "journal": "Lupus",
+  "authors": [
+    "Alice Mason",
+    "Emily Rose",
+    "Christopher J Edwards"
+  ],
+  "doi": "10.1177/0961203320961848",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Antirheumatic Agents",
+    "Betacoronavirus",
+    "COVID-19",
+    "Comorbidity",
+    "Coronavirus Infections",
+    "Drug Repositioning",
+    "Humans",
+    "Incidence",
+    "Lupus Erythematosus, Systemic",
+    "Pandemics",
+    "Patient Care Management",
+    "Pneumonia, Viral",
+    "Risk Assessment",
+    "SARS-CoV-2",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [
+    "COVID-19",
+    "Lupus",
+    "SARS-CoV-2",
+    "SLE"
+  ],
+  "affiliations": [
+    "Rheumatology Department, University Hospital Southampton NHS Foundation Trust, Southampton, UK.",
+    "Rheumatology Department, University Hospital Southampton NHS Foundation Trust, Southampton, UK.",
+    "Rheumatology Department, University Hospital Southampton NHS Foundation Trust, Southampton, UK.",
+    "MSK Research Unit, NIHR Clinical Research Facility, University Hospital Southampton NHS Foundation Trust, Southampton, UK."
+  ]
+}

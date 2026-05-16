@@ -1,0 +1,71 @@
+{
+  "pmid": "32799933",
+  "title": "Efficacy of dexamethasone treatment for patients with the acute respiratory distress syndrome caused by COVID-19: study protocol for a randomized controlled superiority trial.",
+  "abstract": "BACKGROUND: There are no specific generally accepted therapies for the coronavirus disease 2019 (COVID-19). The full spectrum of COVID-19 ranges from asymptomatic disease to mild respiratory tract illness to severe pneumonia, acute respiratory distress syndrome (ARDS), multisystem organ failure, and death. The efficacy of corticosteroids in viral ARDS remains unknown. We postulated that adjunctive treatment of established ARDS caused by COVID-19 with intravenous dexamethasone might change the pulmonary and systemic inflammatory response and thereby reduce morbidity, leading to a decrease in duration of mechanical ventilation and in mortality. METHODS/DESIGN: This is a multicenter, randomized, controlled, parallel, open-label, superiority trial testing dexamethasone in 200 mechanically ventilated adult patients with established moderate-to-severe ARDS caused by confirmed SARS-CoV-2 infection. Established ARDS is defined as maintaining a PaO2/FiO2 ≤ 200 mmHg on PEEP ≥ 10 cmH2O and FiO2 ≥ 0.5 after 12 ± 3 h of routine intensive care. Eligible patients will be randomly assigned to receive either dexamethasone plus standard intensive care or standard intensive care alone. Patients in the dexamethasone group will receive an intravenous dose of 20 mg once daily from day 1 to day 5, followed by 10 mg once daily from day 6 to day 10. The primary outcome is 60-day mortality. The secondary outcome is the number of ventilator-free days, defined as days alive and free from mechanical ventilation at day 28 after randomization. All analyses will be done according to the intention-to-treat principle. DISCUSSION: This study will assess the role of dexamethasone in patients with established moderate-to-severe ARDS caused by SARS-CoV-2. TRIAL REGISTRATION: ClinicalTrials.gov NCT04325061 . Registered on 25 March 2020 as DEXA-COVID19.",
+  "year": 2020,
+  "journal": "Trials",
+  "authors": [
+    "Jesús Villar",
+    "José M Añón",
+    "Carlos Ferrando",
+    "Gerardo Aguilar",
+    "Tomás Muñoz",
+    "José Ferreres",
+    "Alfonso Ambrós",
+    "César Aldecoa",
+    "Fernando Suárez-Sipmann",
+    "Kevin E Thorpe",
+    "Peter Jüni",
+    "Arthur S Slutsky"
+  ],
+  "doi": "10.1186/s13063-020-04643-1",
+  "publication_types": [
+    "Clinical Trial Protocol",
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Adult",
+    "Humans",
+    "COVID-19",
+    "COVID-19 Drug Treatment",
+    "Dexamethasone",
+    "Outcome Assessment, Health Care",
+    "Randomized Controlled Trials as Topic",
+    "Respiratory Distress Syndrome",
+    "Sample Size",
+    "SARS-CoV-2",
+    "Multicenter Studies as Topic",
+    "Equivalence Trials as Topic"
+  ],
+  "keywords": [
+    "Acute respiratory distress syndrome",
+    "Acute respiratory failure",
+    "COVID-19",
+    "Coronavirus disease 19",
+    "Corticosteroids",
+    "Dexamethasone",
+    "Lung protective ventilation"
+  ],
+  "affiliations": [
+    "CIBER de Enfermedades Respiratorias, Instituto de Salud Carlos III, Madrid, Spain. jesus.villar54@gmail.com.",
+    "Multidisciplinary Organ Dysfunction Evaluation Research Network, Research Unit, Hospital Universitario Dr. Negrin, Barranco de la Ballena s/n, 4th floor - south wing, 35019, Las Palmas de Gran Canaria, Spain. jesus.villar54@gmail.com.",
+    "Keenan Research Center for Biomedical Science at the Li Ka Shing Knowledge Institute, St Michael's Hospital, Toronto, Canada. jesus.villar54@gmail.com.",
+    "CIBER de Enfermedades Respiratorias, Instituto de Salud Carlos III, Madrid, Spain.",
+    "Intensive Care Unit, Hospital Universitario La Paz, IdIPaz, Madrid, Spain.",
+    "CIBER de Enfermedades Respiratorias, Instituto de Salud Carlos III, Madrid, Spain.",
+    "Department of Anesthesia and Critical Care, Hospital Clinic, Barcelona, Spain.",
+    "Department of Anesthesia, Hospital Clínico Universitario, Valencia, Spain.",
+    "Intensive Care Unit, Hospital Universitario de Cruces, Barakaldo, Vizcaya, Spain.",
+    "Intensive Care Unit, Hospital Clínico Universitario, Valencia, Spain.",
+    "Intensive Care Unit, Hospital General Universitario de Ciudad Real, Ciudad Real, Spain.",
+    "Department of Anesthesia, Hospital Universitario Río Hortega, Valladolid, Spain.",
+    "CIBER de Enfermedades Respiratorias, Instituto de Salud Carlos III, Madrid, Spain.",
+    "Intensive Care Unit, Hospital Universitario La Princesa, Madrid, Spain.",
+    "Applied Health Research Center, Li Ka Shing Knowledge Institute, Toronto, Canada.",
+    "Dalla Lana School of Public Health, University of Toronto, Toronto, Canada.",
+    "Applied Health Research Center, Li Ka Shing Knowledge Institute, Toronto, Canada.",
+    "Department of Medicine and Institute of Health Policy, Management and Evaluation, University of Toronto, Toronto, Canada.",
+    "Keenan Research Center for Biomedical Science at the Li Ka Shing Knowledge Institute, St Michael's Hospital, Toronto, Canada.",
+    "Department of Medicine, University of Toronto, Toronto, Canada."
+  ]
+}

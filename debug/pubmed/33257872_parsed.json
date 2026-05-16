@@ -1,0 +1,39 @@
+{
+  "pmid": "33257872",
+  "title": "The COVID-19 pandemic: consequences for nephrology.",
+  "abstract": "The consequences of the COVID-19 pandemic have been devastating; however, evidence suggests that patients with, or at risk of, kidney disease are disproportionally affected. Patients on dialysis and kidney transplant recipients are at higher risk of adverse outcomes from COVID-19, whereas, conversely, patients with severe COVID-19 are at increased risk of acute kidney injury, with short-term and possibly long-term consequences for nephrological care. Underlying chronic kidney disease (CKD) is a risk factor for severe disease and mortality in patients with COVID-19; COVID-19-related mortality is higher in dialysis and transplant recipients than in the general population–. Acute kidney injury (AKI) is an important complication of severe COVID-19; critically ill patients in the intensive care unit — particularly those on mechanical ventilation — are more likely than patients with milder disease to require dialysis, which is associated with higher mortality–. Most patients who survive COVID-19-associated AKI regain kidney function but up to 30% may remain on dialysis at discharge–. Mitigation strategies to reduce exposure to the SARS-CoV-2 virus are vital to protect high-risk CKD populations; whether COVID-19 will increase the prevalence of CKD in the long term and potentially increase the demand for maintenance dialysis is unclear and requires further investigation.",
+  "year": 2021,
+  "journal": "Nature reviews. Nephrology",
+  "authors": [
+    "Annette Bruchfeld"
+  ],
+  "doi": "10.1038/s41581-020-00381-4",
+  "publication_types": [
+    "Journal Article",
+    "Review"
+  ],
+  "mesh_terms": [
+    "Acute Kidney Injury",
+    "Adenosine Monophosphate",
+    "Alanine",
+    "Antiviral Agents",
+    "COVID-19",
+    "Dexamethasone",
+    "Glucocorticoids",
+    "Humans",
+    "Kidney Failure, Chronic",
+    "Kidney Transplantation",
+    "Nephrology",
+    "Renal Dialysis",
+    "Renal Insufficiency, Chronic",
+    "Risk Factors",
+    "SARS-CoV-2",
+    "Severity of Illness Index",
+    "COVID-19 Drug Treatment"
+  ],
+  "keywords": [],
+  "affiliations": [
+    "Department of Health, Medicine and Caring Sciences, Linköping University, Linköping, Sweden. annette.bruchfeld@liu.se.",
+    "Department of Renal Medicine, Karolinska University Hospital and CLINTEC Karolinska Institutet, Stockholm, Sweden. annette.bruchfeld@liu.se."
+  ]
+}

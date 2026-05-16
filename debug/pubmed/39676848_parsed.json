@@ -1,0 +1,56 @@
+{
+  "pmid": "39676848",
+  "title": "A Retrospective Data Audit of Outcome of Moderate and Severe Covid-19 Patients Who Had Received MP and Dex: A Single Center Study.",
+  "abstract": "PURPOSE: To evaluate the necessity of the application of glucocorticoid (GC) in moderate COVID-19 patients, and which is the optimal choice between methylprednisolone (MP) and dexamethasone (DEX) in the clinical use of GC in different types of COVID-19 patients. PATIENTS AND METHODS: The study included patients with COVID-19 in Shanxi, China, from December 18, 2022, to March 1, 2023. The main clinical outcomes were 30-day mortality, disease exacerbations, and hospitalization days. Secondary outcomes included the demand for non-invasive ventilator-assisted ventilation (NIPPV)/invasive mechanical ventilation (IMV), the need for GC regimen escalation in follow-up treatment, duration of GC treatment, and complications including hyperglycemia and fungal infection. RESULTS: In moderate patients (N = 351), the rate of exacerbation and the need for GC regimen escalation in follow-up treatment was highest in the no-use GC group (P = 0.025, P = 0.01), the rate of fungal infections was highest in the DEX group (P = 0.038), and MP 40 mg/day or DEX 5 mg/day reduced exacerbations with consistent effects. In severe patients (N = 371), the two GC regimens do not affect their 30-day mortality and exacerbation rate, but the number of hospital days was significantly lower in the MP group compared with the DEX group (P < 0.001). CONCLUSION: GC use is beneficial in mitigating exacerbations in moderate patients and in patients with moderate COVID-19. In severe patients, MP reduces the number of hospitalization days compared with DEX and may be a superior choice.",
+  "year": 2024,
+  "journal": "Infection and drug resistance",
+  "authors": [
+    "Yupeng Li",
+    "Chuanchuan Dong",
+    "Yanqing Xing",
+    "Xinkai Ma",
+    "Zhen Ma",
+    "Lulu Zhang",
+    "Xianglin Du",
+    "Liting Feng",
+    "Rujie Huo",
+    "Qian Nan Wu",
+    "Peiqi Li",
+    "Fei Hu",
+    "Dai Liu",
+    "Yanting Dong",
+    "Erjing Cheng",
+    "Xinrui Tian",
+    "Xinli Tian"
+  ],
+  "doi": "10.2147/IDR.S418788",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [],
+  "keywords": [
+    "COVID-19",
+    "Dexamethasone",
+    "Glucocorticoid",
+    "Methylprednisolone"
+  ],
+  "affiliations": [
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "The Second Hospital of Shanxi Medical University, Taiyuan, People's Republic of China.",
+    "Chinese PLA General Hospital, Beijing, People's Republic of China."
+  ]
+}

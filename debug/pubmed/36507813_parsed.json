@@ -1,0 +1,34 @@
+{
+  "pmid": "36507813",
+  "title": "A practical update on the management of patients with COVID-19.",
+  "abstract": "While vaccines against COVID-19 are being rolled out, an ongoing need remains for therapies to treat patients who have symptomatic COVID-19 before vaccination or in whom breakthrough infection develops. Dexamethasone and interleukin-6 inhibitors have been the mainstay of treatment for severe to critical COVID-19 requiring hospitalisation. However, in the previous few months, several therapies have been approved in the UK for hospitalised and non-hospitalised patients with COVID-19. In particular, the development of neutralising monoclonal antibodies and novel antivirals represents a welcome expansion in the armamentarium against COVID-19, not only therapeutically to reduce mortality but also because they can be used in mild or moderate disease to prevent hospitalisation. This update is based on guidance from NHS England as well as the World Health Organization, and provides practical support and guidance to all clinicians involved or interested in the management of COVID-19 patients, whether based in community, outpatient or inpatient settings.",
+  "year": 2022,
+  "journal": "Clinical medicine (London, England)",
+  "authors": [
+    "Meera Mehta",
+    "Alessio Navarra",
+    "Rahul Mogal"
+  ],
+  "doi": "10.7861/clinmed.2022-0080",
+  "publication_types": [
+    "Journal Article"
+  ],
+  "mesh_terms": [
+    "Humans",
+    "COVID-19",
+    "SARS-CoV-2",
+    "COVID-19 Vaccines",
+    "Antiviral Agents",
+    "Antibodies, Monoclonal"
+  ],
+  "keywords": [
+    "COVID-19",
+    "monoclonal antibodies",
+    "treatments"
+  ],
+  "affiliations": [
+    "Watford General Hospital, Watford, UK meera.mehta2@nhs.net.",
+    "Watford General Hospital, Watford, UK.",
+    "Watford General Hospital, Watford, UK."
+  ]
+}

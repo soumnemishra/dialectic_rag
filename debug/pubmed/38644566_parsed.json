@@ -1,0 +1,43 @@
+{
+  "pmid": "38644566",
+  "title": "Impact of pharmaceutical care for asthma patients on health-related outcomes: An umbrella review.",
+  "abstract": "Recent systematic reviews suggest that pharmacists' interventions in asthma patients have a positive impact on health-related outcomes. Nevertheless, the association is not well established, and the role of clinical pharmacists is poorly represented. The aim of this overview of systematic reviews is to identify published systematic reviews assessing the impact of pharmacists' interventions on health-related outcomes measured in asthma patients. PubMed, Embase, Scopus, and Cochrane Library were searched from inception to December 2022. Systematic reviews of all study designs and settings were included. Methodological quality was assessed using AMSTAR 2. Two investigators performed study selection, quality assessment and data collection independently. Nine systematic reviews met the inclusion criteria. Methodological quality was rated as high in one, low in two, and critically low in six. Reviews included 51 primary studies reporting mainly quality of life, asthma control, lung capacity, and therapeutic adherence. Only four studies were carried out in a hospital setting and only two reviews stated the inclusion of severe asthma patients. The quality of the systematic reviews was generally low, and this was the major limitation of this overview of systematic reviews. However, solid evidence supports that pharmaceutical care improves health-related outcomes in asthma patients.",
+  "year": 2024,
+  "journal": "Pharmacology research & perspectives",
+  "authors": [
+    "Olalla Montero Pérez",
+    "Fernando Salazar González",
+    "Ernesto Sánchez Gómez",
+    "Concepción Pérez Guerrero"
+  ],
+  "doi": "10.1002/prp2.1195",
+  "publication_types": [
+    "Journal Article",
+    "Research Support, Non-U.S. Gov't",
+    "Systematic Review"
+  ],
+  "mesh_terms": [
+    "Asthma",
+    "Humans",
+    "Quality of Life",
+    "Pharmacists",
+    "Pharmaceutical Services",
+    "Professional Role",
+    "Anti-Asthmatic Agents",
+    "Systematic Reviews as Topic",
+    "Drug Monitoring"
+  ],
+  "keywords": [
+    "asthma",
+    "clinical pharmacist",
+    "outcome assessment, health care",
+    "pharmaceutical care",
+    "systematic review"
+  ],
+  "affiliations": [
+    "Servicio de Farmacia, Institut Catalá d'Oncología, Avinguda de la Gran Via de L'Hospitalet de Llobregat, Barcelona, Spain.",
+    "Servicio de Farmacia, Hospital Universitario Mutua de Terrassa, Barcelona, Spain.",
+    "Unidad de Gestión Clínica Farmacia, Hospital Juan Ramón Jiménez, Huelva, Spain.",
+    "Departamento de Farmacología, Facultad de Farmacia, Universidad de Sevilla, Sevilla, Spain."
+  ]
+}
